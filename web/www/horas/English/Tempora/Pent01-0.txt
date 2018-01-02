@@ -12,50 +12,11 @@ Psalm5 Vespera3=113
 Prima=53
 
 [Ant Vespera]
-Glory be to thee, O equal Trinity * one Deity, from before all ages, so now and for evermore.;;109
-Praise and endless glory be * to God the Father, the Son, and the Holy Paraclete, for ever and ever.;;110
-Let the glory of praise * be heard from the mouth of all to the Father, and to the begotten Son; let it equally resound with perpetual praise to the Holy Spirit.;;111
-Praise be to God the Father, * and to his co-equal Son, and to thee, O Holy Ghost: with perpetual delight may it resound from our lips for ever.;;112
-From whom are all things, * through whom are all things, and in whom are all things: to him be glory for evermore.;;116
-
-[Capitulum Vespera]
-!Rom 11:33
-v. O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways!
-$Deo gratias
-
-[Hymnus Vespera]
-v. As fades the glowing orb of day,
-To thee, great source of light, we pray;
-Blest Three in One, to every heart
-thy beams of life and love impart.
-_
-At early dawn, at close of day,
-To thee our vows we humbly pay;
-May we, mid joys that never end,
-With thy bright saints in homage bend.
-_
-To God the Father, and the Son,
-And Holy Spirit, Three in One,
-Be endless glory, as before
-The world began, so evermore.
-Amen.
-
-[HymnusM Vespera]
-v. O Trinity of blessed Light,
-O Unity of sovereign might,
-as now the fiery sun departs,
-shed Thou Thy beams within our hearts.
-_
-To Thee our morning song of praise,
-to Thee our evening prayer we raise;
-Thee may our glory evermore
-in lowly reverence adore.
-_
-All laud to God the Father be;
-all praise, Eternal Son, to Thee;
-all glory, as is ever meet,
-to God the Holy Paraclete. 
-Amen.
+Glory be to thee, O equal Trinity * one Deity, from before all ages, so now and for evermore.
+Praise and endless glory be * to God the Father, the Son, and the Holy Paraclete, for ever and ever.
+Let the glory of praise * be heard from the mouth of all to the Father, and to the begotten Son; let it equally resound with perpetual praise to the Holy Spirit.
+Praise be to God the Father, * and to his co-equal Son, and to thee, O Holy Ghost: with perpetual delight may it resound from our lips for ever.
+From whom are all things, * through whom are all things, and in whom are all things: to him be glory for evermore.
 
 [Versum 1]
 V. Bless we the Father, and the Son, and the Holy Ghost.
@@ -69,7 +30,7 @@ Almighty and everlasting God, you have given thy servants in the confession of t
 $Per Dominum
 
 [OratioW]
-O God, the Strength of all them that put their trust in thee,  mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.
+O God, the Strength of all them that put their trust in thee, mercifully accept our prayers, and because through the weakness of our mortal nature we can do no good thing without thee, grant us the help of thy grace, that in keeping of thy commandments we may please thee, both in will and deed.
 $Per Dominum
 
 [Commemoratio 1]
@@ -135,7 +96,7 @@ V. Above it stood the Seraphim each one had six wings.
 R. And His train filled the temple.
 
 [Lectio2]
-Isa 6:5-8
+!Isa 6:5-8
 5 And I said: Woe is me, because I have held my peace; because I am a man of unclean lips, and I dwell in the midst of a people that hath unclean lips, and I have seen with my eyes the King the Lord of hosts.
 6 And one of the seraphims flew to me, and in his hand was a live coal, which he had taken with the tongs off the altar.
 7 And he touched my mouth, and said: Behold this hath touched thy lips, and thy iniquities shall be taken away, and thy sin shall be cleansed.
@@ -198,7 +159,7 @@ From the Holy Gospel according to St. Matthew
 !Matt 28:18-20
 At that time, Jesus said unto His disciples: All power is given unto Me in heaven and in earth. Go ye, therefore, and teach all nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost. And so on.
 _
-Homily by St Gregory of Nazianzus, Patriarch of Constantinople.
+Homily by St. Gregory of Nazianzus, Patriarch of Constantinople.
 !Treatise on the Faith.
 There is no Catholic but knoweth that the Father is a Very Father, the Son a Very Son, and the Holy Ghost a Very Holy Ghost, even as the Lord Himself saith unto His Apostles: "Go ye and baptize all nations in the Name of the Father, and of the Son, and of the Holy Ghost." This is that Perfect Trinity Who is but One being, and of Whom therefore we testify that His Substance is one. For we make no division in God, as divisions are made in bodies, but we testify, that, according to the power of the Divine Nature, Which standeth not in matter, the Persons named have a real existence, and that God is One.
 
@@ -231,16 +192,7 @@ There are two works of mercy which free us, and which the Lord Himself hath brie
 &teDeum
 
 [Ant Laudes]
-Glory be to thee, O equal Trinity * one Deity, from before all ages, so now and for evermore.
-Praise and endless glory be * to God the Father, the Son, and the Holy Paraclete, for ever and ever.
-Let the glory of praise * be heard from the mouth of all to the Father, and to the begotten Son; let it equally resound with perpetual praise to the Holy Spirit.
-Praise be to God the Father, * and to his co-equal Son, and to thee, O Holy Ghost: with perpetual delight may it resound from our lips for ever.
-From whom are all things, * through whom are all things, and in whom are all things: to him be glory for evermore.
-
-[Capitulum Laudes]
-!Rom 11:33
-v. O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways!
-$Deo gratias
+@:Ant Vespera
 
 [Hymnus Laudes]
 v. O thou, who dost all nature sway,
@@ -250,7 +202,7 @@ To thy eternal majesty.
 _
 The star that heralds in the dawn
 Is slowly fading in the skies;
-The darkness melts; O thou true light,
+The darkness melts; O thou true light,
 Upon our darkened souls arise.
 _
 To God the Father glory be,
@@ -259,12 +211,8 @@ And Holy Ghost co-equally,
 While everlasting ages run.
 Amen.
 
-[Versum 2]
-V. Bless we the Father, and the Son, and the Holy Ghost.
-R. Let us praise and exalt Him above all for ever.
-
 [Ant 2]
-Blessed be the Holy One * the Maker and Lord of all things Blessed be the Holy and Undivided Trinity, now and always, and unto unending ages of ages.
+Blessed be the Holy One * the Maker and Lord of all things. Blessed be the Holy and Undivided Trinity, now and always, and unto unending ages of ages.
 
 [Commemoratio 2]
 !Commemoration of the First Sunday after Pentecost
@@ -280,11 +228,6 @@ $Per Dominum
 [Lectio Prima]
 !1 John 5:7
 v. And there are three who give testimony in heaven, the Father, the Word, and the Holy Ghost. And these three are one.
-
-[Capitulum Tertia]
-!Rom 11:33
-v. O the depth of the riches of the wisdom and of the knowledge of God! How incomprehensible are his judgments, and how unsearchable his ways!
-$Deo gratias
 
 [Responsory Tertia]
 R.br. Bless we the Father, and the Son, * and the Holy Ghost.
@@ -312,11 +255,6 @@ R.Blessed art Thou, O Lord, * in the firmament of heaven.
 _
 V. By the Word of the Lord were the heavens made.
 R. And all the host of them by the Breath of His mouth.
-
-[Capitulum Nona]
-!1 John 5:7
-v. And there are three who give testimony in heaven, the Father, the Word, and the Holy Ghost. And these three are one.
-$Deo gratias
 
 [Responsory Nona]
 R.br. By the Word of the Lord * were the heavens made.

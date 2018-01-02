@@ -9,44 +9,26 @@ vide C3;
 9 lectiones
 
 [Oratio]
-Infirmitatem nostram respice, omnipotens Deus: et quia pondus propriae actionis~
-gravat, beatorum Martyrum tuorum Fabiani et Sebastiani intercessio gloriosa nos~
-protegat.
-$Per Dominum
+@Commune/C2::s/beáti N\. Mártyris tui atque Pontíficis/beatórum Mártyrum tuórum Fabiáni et Sebastiáni/
 
 [Lectio4]
-Fabianus Romanus a Maximino usque ad Decium regens Ecclesiam, septem diaconis~
-regiones divisit, qui pauperum curam haberent. Totidem subdiaconos creavit, qui~
-res gestas Martyrum a septem notariis scriptas colligerent. Idem statuit, ut~
-quotannis feria quinta in Cena Domini, vetere combusto, chrisma renovaretur.~
-Denique decimo tertio Kalendas Februarii in persecutione Decii martyrio~
-coronatus, in cemeterio Callisti via Appia sepelitur, cum sedisset annos~
-quindecim, dies quatuor. Hic fecit ordinationes quinque mense Decembri, quibus~
-creavit presbyteros viginti duos, diaconos septem, episcopos per diversa loca~
-undecim.
+Fabianus Romanus, a Maximino usque ad Decium regens Ecclésiam, septem diáconis regiónes divísit, qui páuperum curam haberent. Tótidem subdiaconos creávit, qui res gestas Mártyrum a septem notariis scriptas collígerent. Idem státuit, ut quotannis feria quinta in Cœna Dómini, vetere combusto, chrisma renovarétur. Dénique décimo tertio Kalendas Februarii in persecutióne Decii martyrio coronátus, in cœmeterio Callísti via Appia sepelítur, cum sedísset annos quíndecim, dies quatuor. Hic fecit ordinatiónes quinque mense Decembri, quibus creávit presbyteros viginti duos, diaconos septem, episcopos per diversa loca úndecim.
 
 [Lectio5]
-Sebastianus ex patre Narbonensi, matre Mediolanensi natus, ob generis~
-nobilitatem et virtutem Diocletiano carus fuit; dux primae cohortis, Christianos,~
-quorum fidem clam colebat, opera et facultatibus adjuvabat; et qui ex eis~
-tormentorum vim reformidare videbantur, cohortatione sic confirmabat, ut pro~
-Jesu Christo multi se ultro tortoribus offerrent. In illis fuere Marcus et~
-Marcellianus fratres, qui Romae in custodia erant apud Nicostratum: cujus uxor~
-Zoe vocem, quam amiserat, Sebastiani oratione recuperavit. Quibus Diocletiano~
-delatis, Sebastianum accersit, et vehementius objurgatum omnibus artificiis a~
-Christi fide conatur avertere. Sed cum nihil nec pollicendo, nec terrendo~
-proficeret, ad palum alligatum sagittis configi jubet.
+Sebastianus ex patre Narbonénsi, matre Mediolanénsi natus, ob generis nobilitátem et virtútem Diocletiáno carus fuit. Dux primæ cohortis, Christiános, quorum fidem clam colebat, ópera et facultátibus adjuvábat; et qui ex eis tormentórum vim reformidare videbántur, cohortatióne sic confírmabat, ut pro Jesu Christo multi se ultro tortóribus offerrent. In illis fuére Marcus et Marcellianus fratres, qui Romæ in custódia erant apud Nicóstratum: cujus uxor Zoë vocem, quam amiserat, Sebastiáni oratióne recuperávit. Quibus Diocletiáno delatis, Sebastianum accersit, et vehementius objurgátum ómnibus artificiis a Christi fide conátur avértere. Sed cum nihil nec pollicendo, nec terréndo proficeret, ad palum alligátum sagittis confígi jubet.
 
 [Lectio6]
-Quem omnium opinione mortuum noctu sancta mulier Irene sepeliendi gratia jussit~
-auferri: sed vivum repertum domi suae curavit. Itaque paulo post confirmata~
-valetudine, Diocletiano obviam factus, ejus impietatem liberius accusavit. Cujus~
-aspectu cum ille primum obstupuisset quod mortuum crederet; rei novitate, et~
-acri Sebastiani reprehensione excandescens, eum tamdiu virgis caedi imperavit,~
-donec animam Deo redderet. Ejus corpus in cloacam dejectum Lucina a Sebastiano~
-in somnis admonita, ubi esset, et quo loco humari vellet, ad Catacumbas~
-sepelivit, ubi sancti Sebastiani nomine celebris ecclesia est aedificata.
+Quem ómnium opinióne mortuum noctu sancta mulier Iréne sepeliéndi grátia jussit auferri; sed vivum repertum domi suæ curávit. Itaque paulo post confirmáta valetúdine, Diocletiáno obviam factus, ejus impietátem liberius accusávit. Cujus aspectu cum ille primum obstupuísset, quod mortuum crederet; rei novitate et acri Sebastiáni reprehensióne excandéscens, eum tamdiu virgis cædi imperávit, donec ánimam Deo redderet. Ejus corpus in cloácam dejectum Lucina, a Sebastiáno in somnis admonita ubi esset et quo loco humari vellet, ad Catacumbas sepelívit, ubi sancti Sebastiáni nómine celebris ecclésia est ædificata.
 
 [Lectio94]
-Fabi�nus Rom�nus, a Maxim�no usque ad D�cium regens Eccl�siam, septem di�conis regi�nes div�sit, qui p�uperum curam hab�rent.  T�tidem subdi�conos cre�vit, qui res gestas M�rtyrum a septem not�riis scriptas coll�gerent.  Idem st�tuit, ut quot�nnis f�ria quinta in C�na D�mini v�tere comb�sto, Chrisma renovar�tur.  D�nique d�cimo t�rtio Kal�ndas Febru�rii martyrio coron�tus, in c�met�rio Call�sti via Appia sepel�tur.  Sebasti�nus, ob g�neris nobilit�tem et virt�tem Diocleti�no carus, dux prim� coh�rtis, Christi�nos, quorum fidem clam col�bat, �pera et facult�tibus adjuv�bat, et in Christi confessi�ne confirm�bat.  Quibus Diocleti�no del�tis, Sebasti�num �mnibus artif�ciis a Christi fide con�tur av�rtere.  Sed cum nihil nec pollic�ndo, nec terr�ndo prof�ceret, ad palum allig�tum sag�ttis conf�gi jubet.  Verum Dei servus, �mnium opini�ne m�rtuus, judic�tus, cum paulo post, sanus  Diocleti�no �bviam factus, ejus impiet�tem lib�rius accus�ret, jussu tyr�nni t�mdiu virgis c�sus est, donec sp�ritum r�dderet.
+Fabiánus Románus, a Maximíno usque ad Décium regens Ecclésiam, septem diáconis regiónes divísit, qui páuperum curam habérent. Tótidem subdiáconos creávit, qui res gestas Mártyrum a septem notáriis scriptas collígerent. Idem státuit, ut quotánnis féria quinta in Cœna Dómini vétere combústo, Chrisma renovarétur. Dénique décimo tértio Kaléndas Februárii martyrio coronátus, in cœmetério Callísti via Appia sepelítur. Sebastiánus, ob géneris nobilitátem et virtútem Diocletiáno carus, dux primæ cohórtis, Christiános, quorum fidem clam colébat, ópera et facultátibus adjuvábat, et in Christi confessióne confirmábat. Quibus Diocletiáno delátis, Sebastiánum ómnibus artifíciis a Christi fide conátur avértere. Sed cum nihil nec pollicéndo, nec terréndo profíceret, ad palum alligátum sagíttis confígi jubet. Verum Dei servus, ómnium opinióne mórtuus, judicátus, cum paulo post, sanus Diocletiáno óbviam factus, ejus impietátem libérius accusáret, jussu tyránni támdiu virgis cæsus est, donec spíritum rédderet.
 &teDeum
+
+[Lectio7]
+@Commune/C3:Lectio71
+
+[Lectio8]
+@Commune/C3:Lectio81
+
+[Lectio9]
+@Commune/C3:Lectio91

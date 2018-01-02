@@ -1,38 +1,38 @@
 [Rank]
-Feria VI infra Hebdomadam Sexagesimae;;Feria;;1
+Feria VI infra Hebdomadam Sexagesimæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
 
 [Lectio1]
-De libro Genesis
+De libro Génesis
 !Gen 10:1-6
-1 Hae sunt generationes filiorum No�, Sem, Cham et Japheth: natique sunt eis filii post diluvium.
-2 Filii Japheth: Gomer, et Magog, et Madai, et Javan, et Thubal, et Mosoch, et Thiras.
-3 Porro filii Gomer: Ascenez et Riphath et Thogorma.
-4 Filii autem Javan: Elisa et Tharsis, Cetthim et Dodanim.
-5 Ab his divisae sunt insulae gentium in regionibus suis, unusquisque secundum linguam suam et familias suas in nationibus suis.
-6 Filii autem Cham: Chus, et Mesraim, et Phuth, et Chanaan.
+1 Hæ sunt generatiónes filiórum Noë, Sem, Cham et Iapheth: natíque sunt eis fílii post dilúvium.
+Gn 10 2 Fílii Iapheth: Gomer, et Magog, et Mádai, et Iavan, et Thubal, et Mosoch, et Thiras.
+Gn 10 3 Porro fílii Gomer: Ascenez et Riphath et Thogórma.
+Gn 10 4 Fílii autem Iavan: Elísa et Tharsis, Cetthim et Dodánim.
+Gn 10 5 Ab his divísæ sunt ínsulæ géntium in regiónibus suis, unusquísque secúndum linguam suam et famílias suas in natiónibus suis.
+Gn 10 6 Fílii autem Cham: Chus, et Mesráim et Phuth, et Chánaan.
 
 [Responsory1]
 @Tempora/Quadp2-0:Responsory4
 
 [Lectio2]
 !Gen 11:1-4
-1 Erat autem terra labii unius, et sermonum eorumdem.
-2 Cumque proficiscerentur de oriente, invenerunt campum in terra Senaar, et habitaverunt in eo.
-3 Dixitque alter ad proximum suum: Venite, faciamus lateres, et coquamus eos igni. Habueruntque lateres pro saxis, et bitumen pro caemento:
-4 et dixerunt: Venite, faciamus nobis civitatem et turrim, cujus culmen pertingat ad caelum: et celebremus nomen nostrum antequam dividamur in universas terras.
+1 Erat autem terra lábii uníus, et sermónum eorúmdem.
+2 Cumque proficisceréntur de oriénte, invenérunt campum in terra Sénnaar, et habitavérunt in eo.
+3 Dixítque alter ad próximum suum: Veníte, faciámus láteres, et coquámus eos igni. Habuerúntque láteres pro saxis, et bitúmen pro cæménto:
+4 et dixérunt: Veníte, faciámus nobis civitátem et turrim, cuius culmen pertíngat ad cælum: et celebrémus nomen nostrum ántequam dividámur in univérsas terras.
 
 [Responsory2]
 @Tempora/Quadp2-0:Responsory5
 
 [Lectio3]
 !Gen 11:5-8
-5 Descendit autem Dominus ut videret civitatem et turrim, quam aedificabant filii Adam,
-6 et dixit: Ecce, unus est populus, et unum labium omnibus: c�peruntque hoc facere, nec desistent a cogitationibus suis, donec eas opere compleant.
-7 Venite igitur, descendamus, et confundamus ibi linguam eorum, ut non audiat unusquisque vocem proximi sui.
-8 Atque ita divisit eos Dominus ex illo loco in universas terras, et cessaverunt aedificare civitatem.
+5 Descéndit autem Dóminus ut vidéret civitátem et turrim, quam ædificábant fílii Adam,
+6 et dixit: Ecce, unus est pópulus, et unum lábium ómnibus: cœperúntque hoc fácere, nec desístent a cogitatiónibus suis, donec eas ópere cómpleant.
+7 Veníte ígitur, descendámus, et confundámus ibi linguam eórum, ut non áudiat unusquísque vocem próximi sui.
+8 Atque ita divísit eos Dóminus ex illo loco in univérsas terras, et cessavérunt ædificáre civitátem.
 
 [Responsory3]
 @Tempora/Quadp2-0:Responsory6

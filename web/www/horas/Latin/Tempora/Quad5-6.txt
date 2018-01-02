@@ -4,44 +4,44 @@ Sabbato infra Hebdomadam Passionis;;Feria major;;2
 [Rule]
 
 [Lectio1]
-Lectio sancti Evangelii secundum Joannem.
+Léctio sancti Evangélii secúndum Joánnem.
 !Joannes 12:10-36
-In illo tempore: Cogitaverunt principes sacerdotum ut et Lazarum interficerent: quia multi propter illum abibant ex Judaeis, et credebant in Jesum. Et reliqua.
+In illo témpore: Cogitavérunt príncipes sacerdotum ut et Lázarum interfícerent: quia multi propter illum abibant ex Judæis, et credébant in Jesum. Et réliqua.
 _
-Homilia sancti Augustini Episcopi.
-!Tractatus 50 in Joannem, in fine.
-Viso Lazaro resuscitato, quia tantum miraculum Domini tanta erat evidentia diffamatum, tanta manifestatione declaratum, ut non possent vel occultare quod factum est, vel negare: quid invenerunt, videte. Cogitaverunt autem principes sacerdotum ut et Lazarum interficerent. O stulta cogitatio et caeca saevitia! Dominus Christus, qui suscitare potuit mortuum, non posset occisum! Quando Lazaro inferebatis necem, numquid auferebatis Domino potestatem? Si aliud vobis videtur mortuus, aliud occisus: ecce Dominus utrumque fecit, et Lazarum mortuum, et seipsum suscitavit occisum.
+Homilía sancti Augustíni Epíscopi
+!Tractatus 50 in Joánnem, in fine
+Viso Lázaro resuscitato, quia tantum miraculum Dómini tanta erat evidéntia diffamátum, tanta manifestatióne declarátum, ut non possent vel occúltare quod factum est, vel negare: quid invenérunt, vidéte. Cogitavérunt autem príncipes sacerdotum ut et Lázarum interfícerent. O stulta cogitátio, et cæca sævitia! Dóminus Christus, qui suscitare pótuit mortuum, non posset occisum! Quando Lázaro inferebátis necem, numquid auferebátis Dómino potestátem? Si aliud vobis vidétur mórtuus, aliud occisus: ecce Dóminus utrumque fecit, et Lázarum mortuum, et seípsum suscitávit occisum.
 
 [Responsory1]
 @Tempora/Quad5-0:Responsory7
 
 [Lectio2]
-In crastinum autem turba multa, quae venerat ad diem festum, cum audissent quia venit Jesus Hierosolymam: acceperunt ramos palmarum, et processerunt obviam ei, et clamabant: Hosanna, benedictus qui venit in nomine Domini, Rex Isra�l. Rami palmarum laudes sunt, significantes victoriam: quia erat Dominus mortem moriendo superaturus, et trophaeo crucis de diabolo mortis principe triumphaturus. Vox autem obsecrantis est, Hosanna, sicut nonnulli dicunt, qui Hebraeam linguam noverunt, magis affectum indicans, quam rem aliquam significans, sicut sunt in lingua Latina, quas interiectiones vocant: velut cum dolentes dicimus, heu; vel cum delectamur, vah dicimus.
+In crástinum autem turba multa, quæ vénerat ad diem festum, cum audissent quia venit Jesus Jerosolymam: accepérunt ramos palmárum, et processérunt obviam ei, et clamábant: Hosanna, benedíctus qui venit in nómine Dómini, Rex Israël. Rami palmárum laudes sunt, significántes victoriam: quia erat Dóminus mortem moriéndo superatúrus, et trophæo crucis de diabolo mortis príncipe triumphatúrus. Vox autem obsecrántis est Hosanna, sicut nonnulli dicunt, qui Hebræam linguam novérunt, magis afféctum índicans, quam rem aliquam signíficans, sicut sunt in lingua Latina, quas interjectiónes vocant: velut cum doléntes dicimus, heu; vel cum delectamur, vah dícimus.
 
 [Responsory2]
 @Tempora/Quad5-0:Responsory8
 
 [Lectio3]
-Has ei laudes turba dicebat: Hosanna, benedictus, qui venit in nomine Domini, Rex Isra�l. Quam crucem mentis invidentia principum Judaeorum perpeti potuerat, quando Regem suum Christum tanta multitudo clamabat? Sed quid fuit Domino Regem esse Isra�l? Quid magnum fuit Regi saeculorum, Regem fieri hominum? Non enim Rex Isra�l Christus ad exigendum tributum, vel exercitum ferro armandum, hostesque visibiliter debellandos: sed Rex Isra�l, quod mentes regat, quod in aeternum consulat, quod in regnum caelorum credentes sperantes, amantesque perducat.
+Has ei laudes turba dicebat: Hosanna, benedíctus, qui venit in nómine Dómini, Rex Israël. Quam crucem mentis invidéntia príncipum Judæórum pérpeti potúerat, quando Regem suum Christum tanta multitúdo clamabat? Sed quid fuit Dómino Regem esse Israël? Quid magnum fuit Regi sæculórum, Regem fíeri hóminum? Non enim Rex Israël Christus ad éxigéndum tribútum, vel exércitum ferro armándum, hostesque visibíliter debellándos: sed Rex Israël, quod mentes regat, quod in ætérnum cónsulat, quod in regnum cælórum credéntes, sperántes, amantésque perducat.
 
 [Responsory3]
 @Tempora/Quad5-0:Responsory9
 
 [Ant 2]
-Clarifica me, Pater, * apud temetipsum claritate, quam habui priusquam mundus fieret.
+Clarífica me, Pater, * apud temetípsum claritáte, quam hábui priúsquam mundus fíeret.
 
 [Oratio 2]
-Proficiat, quaesumus, Domine, plebs tibi dicata piae devotionis affectu: ut sacris actionibus erudita, quanto majestati tuae fit gratior, tanto donis potioribus augeatur.
+Profíciat, quǽsumus, Dómine, plebs tibi dicáta, piæ devotiónis afféctu: ut sacris actiónibus erudíta, quanto majestáti tuæ fit grátior, tanto donis potióribus augeátur.
 $Per Dominum
 
 [Capitulum Vespera]
 !Phil 2:5-7
-v. Fratres: Hoc enim sentite in vobis, quod et in Christo Jesu: qui cum in forma Dei esset, non rapinam arbitratus est esse se aequalem Deo: sed semetipsum exinanivit, formam servi accipiens, in similitudinem hominum factus, et habitu inventus ut homo.
+v. Fratres: Hoc enim sentíte in vobis, quod et in Christo Jesu: qui, cum in forma Dei esset, non rapinam arbitrátus est esse se æqualem Deo: sed semetípsum exinanívit, formam servi accípiens, in similitúdinem hóminum factus, et habitu invéntus ut homo.
 $Deo gratias
 
 [Ant 3]
-Pater juste, * mundus te non cognovit: ego autem novi te, quia tu me misisti.
+Pater juste, * mundus te non cognóvit: ego autem novi te, quia tu me misísti.
 
 [Oratio 3]
-Omnipotens sempiterne Deus, qui humano generi, ad imitandum humilitatis exemplum, Salvatorem nostrum carnem sumere, et crucem subire fecisti: concede propitius: ut et patientiae ipsius habere documenta, et resurrectionis consortia mereamur.
+Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere, et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta, et resurrectiónis consórtia mereámur.
 $Per eumdem

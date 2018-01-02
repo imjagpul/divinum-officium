@@ -166,7 +166,7 @@ O śmierci, * śmiercią twą będę, o piekło, śmiertelnym ciosem twym będę
 Będą go opłakiwali * jako jednorodzonego: albowiem Pan niewinny jest zabity.
 (sed rubrica Tridentina) Będą go opłakiwali * jako jednorodzonego: albowiem Pan niewinny jest zabity.;;42
 Uważajcie * wszystkie narody i patrzcie na boleść moją.
-Od wrót piekielnych wybaw Panie duszę moją.;;222
+Od wrót piekielnych * wybaw Panie duszę moją.;;222
 O wy wszyscy * którzy idziecie przez drogę, obaczcie a przypatrzcie się, jeśli jest boleść jako boleść moja.
 
 [Versum 2]
@@ -178,6 +178,3 @@ Niewiasty * siedziały i płakały przy grobie, opłakując Pana.
 
 [Oratio 2]
 @Tempora/Quad6-4:Oratio:s/aż do śmierci/aż do śmierci, a śmierci krzyżowej. Dlatego Bóg wywyższył go i darował mu Imię, które jest nad wszelakie imię/
-
-[Oratio Matutinum]
-@Tempora/Quad6-4

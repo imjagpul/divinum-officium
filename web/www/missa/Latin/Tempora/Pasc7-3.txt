@@ -34,7 +34,7 @@ $Qui tecum eiusdem
 [LectioL1]
 Léctio Actuum Apostolórum.
 !Act 2:14-21.
-In diébus illis: Stans Petrus cum úndecim, levávit vocem suam, et locútus est eis: Viri Judaei, et qui habitátis Jerúsalem univérsi, hoc vobis notum sit, et áuribus percípite verba mea. Non enim, sicut vos æstimátis, hi ébrii sunt, cum sit hora diéi tértia: sed hoc est, quod dictum est per Prophétam Joël: Et erit in novíssimis diébus - dicit Dóminus - effúndam de Spíritu meo super omnem carnem, et prophetábunt fílii vestri et fíliæ vestræ, et júvenes vestri visiónes vidébunt, et senióres vestri sómnia somniábunt. Et quidem super servos meos et super ancíllas meas in diébus illis effúndam de Spíritu meo, et prophetábunt: et dabo prodígia in coelo sursum et signa in terra deórsum, sánguinem et ignem et vapórem fumi. Sol convertátur in ténebras et luna in sánguinem, antequam véniat dies Dómini magnus et maniféstus. Et erit: omnis, quicúmque invocáverit nomen Dómini, salvus erit. Allelúja
+In diébus illis: Stans Petrus cum úndecim, levávit vocem suam, et locútus est eis: Viri Judaei, et qui habitátis Jerúsalem univérsi, hoc vobis notum sit, et áuribus percípite verba mea. Non enim, sicut vos æstimátis, hi ébrii sunt, cum sit hora diéi tértia: sed hoc est, quod dictum est per Prophétam Joël: Et erit in novíssimis diébus - dicit Dóminus - effúndam de Spíritu meo super omnem carnem, et prophetábunt fílii vestri et fíliæ vestræ, et júvenes vestri visiónes vidébunt, et senióres vestri sómnia somniábunt. Et quidem super servos meos et super ancíllas meas in diébus illis effúndam de Spíritu meo, et prophetábunt: et dabo prodígia in coelo sursum et signa in terra deórsum, sánguinem et ignem et vapórem fumi. Sol convertátur in ténebras et luna in sánguinem, antequam véniat dies Dómini magnus et maniféstus. Et erit: omnis, quicúmque invocáverit nomen Dómini, salvus erit. Allelúja.
 $Deo gratias
 
 [GradualeL1]
@@ -43,7 +43,7 @@ Alleluia.
 Verbo Dómini coeli firmáti sunt, et Spíritu oris ejus omnis virtus eórum. 
 
 [OratioL1]
-Præsta, quaesumus, omnípotens et miséricors Deus: ut Spíritus Sanctus advéniens,~
+Præsta, quǽsumus, omnípotens et miséricors Deus: ut Spíritus Sanctus advéniens,~
 templum nos glóriæ suæ dignánter inhabitándo perfíciat.
 $Per Dominum eiusdem
 
@@ -71,7 +71,7 @@ hic vidit Patrem. Amen, amen, dico vobis: qui credit in me, habet vitam ætérna
 Ego sum panis vitæ. Patres vestri manducavérunt manna in desérto, et mórtui~
 sunt. Hic est panis de coelo descéndens:~
 ut, si quis ex ipso manducáverit, non moriátur. Ego sum panis vivus, qui de~
-coelo descéndi. Si quis manducáverit ex hoc sane, vivet in ætérnum: et palis,~
+coelo descéndi. Si quis manducáverit ex hoc pane, vivet in ætérnum: et panis,~
 quem ego dabo, caro mea est pro mundi vita.
 
 [Offertorium]
@@ -80,7 +80,7 @@ Meditábor in mandátis tuis, quæ diléxi valde: et levábo manus meas ad mand�
 tua, quæ diléxi, allelúja.
 
 [Secreta]
-Accipe, quaesumus, Dómine, munus oblátum: et dignánter operáre; ut, quod~
+Accipe, quǽsumus, Dómine, munus oblátum: et dignánter operáre; ut, quod~
 mystériis ágimus, piis efféctibus celebrámus.
 $Per Dominum.
 
@@ -89,6 +89,6 @@ $Per Dominum.
 Pacem relínquo vobis, allelúja: pacem meam do vobis, allelúja, allelúja.
 
 [Postcommunio]
-Suméntes, Dómine, coeléstia sacraménta, quaesumus cleméntiam tuam: ut quod~
+Suméntes, Dómine, coeléstia sacraménta, quǽsumus cleméntiam tuam: ut quod~
 temporáliter gérimus ætérnis gáudiis consequámur
 $Per Dominum.

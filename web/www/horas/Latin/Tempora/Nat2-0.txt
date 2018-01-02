@@ -9,317 +9,313 @@ Psalm5 Vespera=115
 Doxology=Nat
 
 [Ant Vespera]
-Omnis * qui invocaverit nomen Domini, salvus erit.
-Sanctum et terribile * nomen ejus, initium sapientiae timor Domini.
-Ego autem * in Domino gaudebo, et exsultabo in Deo Jesu meo.
-A solis ortu * usque ad occasum laudabile nomen Domini.
-Sacrificabo * hostiam laudis, et nomen Domini invocabo.
+Omnis * qui invocáverit nomen Dómini, salvus erit.
+Sanctum et terríbile * nomen ejus, initium sapiéntiæ timor Dómini.
+Ego autem * in Dómino gaudébo, et exsultábo in Deo Jesu meo.
+A solis ortu * usque ad occásum laudábile nomen Dómini.
+Sacrificábo * hóstiam laudis, et nomen Dómini invocábo.
 
 [Capitulum Vespera]
 !Phil 2:8-10
-v. Fratres: Christus humiliavit semetipsum, factus obediens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltavit illum, et donavit illi nomen, quod est super omne nomen: ut in nomine Jesu omne genu flectatur.
+v. Fratres: Christus humiliávit semetípsum, factus obédiens usque ad mortem, mortem autem crucis. Propter quod et Deus exaltávit illum, et donávit illi nomen, quod est super omne nomen, ut in nómine Jesu omne genu flectátur.
 $Deo gratias
 
 [Hymnus Vespera]
-v. Jesu dulcis memoria,
-Dans vera cordis gaudia:
-Sed super mel, et omnia,
-Ejus dulcis praesentia.
+v. Jesu, dulcis memória,
+Dans vera cordis gáudia:
+Sed super mel, et ómnia,
+Ejus dulcis præséntia.
 _
-Nil canitur suavius,
-Nil auditur jucundius,
-Nil cogitatur dulcius,
-Quam Jesus Dei Filius.
+Nil cánitur suávius,
+Nil audítur jucúndius,
+Nil cogitátur dúlcius,
+Quam Jesus Dei Fílius.
 _
-Jesu spes poenitentibus,
-Quam pius es petentibus!
-Quam bonus te quaerentibus!
-Sed quid invenientibus?
+Jesu, spes pœniténtibus,
+Quam pius es peténtibus!
+Quam bonus te quæréntibus!
+Sed quid inveniéntibus?
 _
-Nec lingua valet dicere,
-Nec littera exprimere:
-Expertus potest credere,
-Quid sit Jesum diligere.
+Nec lingua valet dícere,
+Nec líttera exprimere:
+Expértus potest crédere,
+Quid sit Jesum dilígere.
 _
-Sis, Jesu, nostrum gaudium,
-Qui es futurus praemium:
-Sit nostra in te gloria,
-Per cuncta semper saecula.
+Sis, Jesu, nostrum gáudium,
+Qui es futúrus prǽmium:
+Sit nostra in te glória,
+Per cuncta semper sǽcula.
 Amen.
 
 [Versum 1]
-V. Sit nomen Domini benedictum, alleluia.
-R. Ex hoc nunc, et usque in saeculum, alleluia.
+V. Sit nomen Dómini benedíctum, allelúja.
+R. Ex hoc nunc et usque in sǽculum, allelúja.
 
 [Ant 1]
-Fecit * mihi magna qui potens est, et sanctum nomen ejus, alleluia.
+Fecit * mihi magna qui potens est, et sanctum nomen ejus, allelúja.
 
 [Oratio]
-Deus, qui unigenitum Filium tuum constituisti humani generis Salvatorem, et Jesum vocari jussisti: concede propitius; ut, cujus sanctum nomen veneramur in terris, ejus quoque aspectu perfruamur in caelis.
+Deus, qui unigénitum Fílium tuum constituísti humáni géneris Salvatórem, et Jesum vocári jussísti: concéde propítius; ut, cujus sanctum nomen venerámur in terris, ejus quoque aspéctu perfruámur in cælis. 
 $Per eumdem
 
 [Invit]
-Admirabile nomen Jesu, quod est super omne nomen, * Venite adoremus.
+Admirábile nomen Jesu, quod est super omne nomen, * Veníte, adorémus.
 
 [Hymnus Matutinum]
-v. Jesu Rex admirabilis,
-Et triumphator nobilis,
-Dulcedo ineffabilis,
-Totus desiderabilis.
+v. Jesu, Rex admirábilis,
+Et triumphátor nobilis,
+Dulcédo ineffábilis,
+Totus desiderábilis.
 _
-Quando cor nostrum visitas,
-Tunc lucet ei veritas,
-Mundi vilescit vanitas,
-Et intus fervet caritas.
+Quando cor nostrum vísitas,
+Tunc lucet ei véritas,
+Mundi viléscit vánitas,
+Et intus fervet cáritas.
 _
-Jesu dulcedo cordium,
-Fons vivus, lumen mentium,
-Excedens omne gaudium,
-Et omne desiderium.
+Jesu, dulcédo córdium,
+Fons vivus, lumen méntium,
+Excédens omne gáudium,
+Et omne desidérium.
 _
-Jesum omnes agnoscite,
-Amorem ejus poscite:
-Jesum ardenter quaerite,
-Quaerendo inardescite.
+Jesum omnes agnóscite,
+Amórem ejus póscite:
+Jesum ardenter quǽrite,
+Quæréndo inardéscite.
 _
 Te nostra, Jesu, vox sonet,
-Nostri te mores exprimant,
-Te corda nostra diligant,
-Et nunc, et in perpetuum.
+Nostri te mores exprímant,
+Te corda nostra díligant,
+Et nunc, et in perpétuum.
 Amen.
 
 [Ant Matutinum]
-Domine, Dominus noster, * quam admirabile est nomen tuum in universa terra.;;8
-In nomine Jesu * omne genu flectatur caelestium, terrestrium, et infernorum.;;18
-Confitemini * Domino, et invocate nomen ejus: mementote, quoniam excelsum est nomen ejus.;;23
-V. Propter nomen tuum, Domine, propitiaberis peccato meo.
+Dómine, Dóminus noster, * quam admirábile est nomen tuum in univérsa terra!;;8
+In nómine Jesu * omne genu flectátur cæléstium, terréstrium, et infernórum.;;18
+Confitémini * Dómino, et invocáte nomen ejus: mementóte, quóniam excélsum est nomen ejus.;;23
+V. Propter nomen tuum, Dómine, propitiáberis peccáto meo.
 R. Multum est enim.
-Memores erunt * nominis tui, Domine, in omni generatione et generationem.;;44
-Magnificate * Dominum mecum, et exaltemus nomen ejus in idipsum.;;45
-Omnes gentes, * quascumque fecisti, venient, et adorabunt coram te, Domine, et glorificabunt nomen tuum.;;86
-V. Propter gloriam nominis tui, Domine, libera nos.
-R. Et propitius esto peccatis nostris propter nomen tuum.
-Cantate Domino, * et benedicite nomini ejus: annuntiate de die in diem salutare ejus.;;95
-Secundum nomen tuum * Deus, sic et laus tua in fines terrae: justitia plena est dextera tua.;;96
-Cantate Deo, * psalmum dicite nomini ejus: iter facite ei, qui ascendit super occasum, Dominus nomen illi.;;97
-V. Afferte Domino gloriam et honorem.
-R. Afferte Domino gloriam nomini ejus.
+Mémores erunt * nóminis tui, Dómine, in omni generatióne et generatiónem.;;44
+Magnificáte * Dóminum mecum, et exaltémus nomen ejus in idípsum.;;45
+Omnes gentes, * quascúmque fecísti, vénient, et adorábunt coram te, Dómine, et glorificábunt nomen tuum.;;86
+V. Propter glóriam nóminis tui, Dómine, líbera nos.
+R. Et propítius esto peccátis nostris propter nomen tuum.
+Cantáte Dómino * et benedícite nómini ejus: annuntiáte de die in diem salutáre ejus.;;95
+Secúndum nomen tuum, * Deus, sic et laus tua in fines terræ: justítia plena est déxtera tua.;;96
+Cantáte Deo, * psalmum dícite nómini ejus: iter fácite ei, qui ascéndit super occásum, Dóminus nomen illi.;;97
+V. Afférte Dómino glóriam et honórem.
+R. Afférte Dómino glóriam nómini ejus.
 
 [Lectio1]
-De Actibus Apostolorum
-!Act. 3:1-8
-1 Petrus autem et Joannes ascendebant in templum ad horam orationis nonam.
-2 Et quidam vir, qui erat claudus ex utero matris suae, bajulabatur: quem ponebant quotidie ad portam templi, quae dicitur Speciosa, ut peteret eleemosynam ab intro�untibus in templum.
-3 Is cum vidisset Petrum et Joannem incipientes introire in templum, rogabat ut eleemosynam acciperet.
-4 Intuens autem in eum Petrus cum Joanne, dixit: Respice in nos.
-5 At ille intendebat in eos, sperans se aliquid accepturum ab eis.
-6 Petrus autem dixit: Argentum et aurum non est mihi: quod autem habeo, hoc tibi do: in nomine Jesu Christi Nazareni surge, et ambula.
-7 Et apprehensa manu ejus dextera, allevavit eum, et protinus consolidatae sunt bases ejus et plantae.
-8 Et exsiliens stetit, et ambulabat: et intravit cum illis in templum ambulans, et exsiliens, et laudans Deum.
+De Actibus Apostolórum
+!Act 3:1-8
+1 Petrus autem et Joánnes ascendébant in templum ad horam oratiónis nonam.
+2 Et quidam vir, qui erat claudus ex útero matris suæ, bajulabátur; quem ponébant quotídie ad portam templi, quæ dícitur Speciósa, ut péteret eleemosynam ab introëúntibus in templum.
+3 Is, cum vidísset Petrum et Joánnem incipiéntes introíre in templum, rogábat ut eleemósynam accíperet.
+4 Intuens autem in eum Petrus cum Joánne, dixit: Réspice in nos.
+5 At ille intendébat in eos, sperans se áliquid acceptúrum ab eis.
+6 Petrus autem dixit: Argéntum et aurum non est mihi: quod autem habeo, hoc tibi do: In nómine Jesu Christi Nazaréni surge, et ámbula.
+7 Et, apprehensa manu ejus déxtera, allevávit eum, et prótinus consolidátæ sunt bases ejus, et plantæ.
+8 Et exsiliens stetit, et ambulábat; et intrávit cum illis in templum ámbulans, et exsiliens, et laudans Deum.
 
 [Responsory1]
-R. Ecce concipies, et paries filium, et vocabis nomen ejus Jesum:
-* Ipse enim salvum faciet populum suum a peccatis eorum.
-V. Vocatum est nomen ejus Jesus, quod vocatum est ab Angelo, priusquam in utero conciperetur.
-R. Ipse enim salvum faciet populum suum a peccatis eorum.
+R. Ecce concípies, et paries fílium, et vocábis nomen ejus Jesum: 
+* Ipse enim salvum fáciet pópulum suum a peccátis eórum.
+V. Vocátum est nomen ejus Jesus, quod vocátum est ab Angelo, priúsquam in útero conciperétur.
+R. Ipse enim salvum fáciet pópulum suum a peccátis eórum.
 
 [Lectio2]
-!Act. 3:9-16
-9 Et vidit omnis populus eum ambulantem et laudantem Deum.
-10 Cognoscebant autem illum, quod ipse erat qui ad eleemosynam sedebat ad Speciosam portam templi: et impleti sunt stupore et extasi in eo quod contigerat illi.
-11 Cum teneret autem Petrum et Joannem, cucurrit omnis populus ad eos ad porticum quae appellatur Salomonis, stupentes.
-12 Videns autem Petrus, respondit ad populum: Viri Isra�litae, quid miramini in hoc, aut nos quid intuemini, quasi nostra virtute aut potestate fecerimus hunc ambulare?
-13 Deus Abraham, et Deus Isaac, et Deus Jacob, Deus patrum nostrorum glorificavit filium suum Jesum, quem vos quidem tradidistis, et negastis ante faciem Pilati, judicante illo dimitti.
-14 Vos autem sanctum et justum negastis, et petistis virum homicidam donari vobis:
-15 auctorem vero vitae interfecistis, quem Deus suscitavit a mortuis, cujus nos testes sumus.
-16 Et in fide nominis ejus, hunc quem vos vidistis et nostis, confirmavit nomen ejus: et fides, quae per eum est, dedit integram sanitatem istam in conspectu omnium vestrum.
+!Act 3:9-16
+9 Et vidit omnis pópulus eum ambulántem, et laudántem Deum.
+10 Cognoscébant autem illum, quod ipse erat, qui ad eleemósynam sedébat ad Speciósam portam templi; et impléti sunt stupóre et éxtasi in eo, quod contígerat illi.
+11 Cum tenéret autem Petrum et Joánnem, cucúrrit omnis pópulus ad eos ad porticum, quæ appellátur Salomónis, stupéntes.
+12 Videns autem Petrus, respóndit ad pópulum: Viri Israëlítæ, quid mirámini in hoc, aut nos quid intuémini, quasi nostra virtúte aut potestate fecérimus hunc ambuláre?
+13 Deus Abraham, et Deus Isaac, et Deus Jacob, Deus patrum nostrórum glorificávit Fílium suum Jesum, quem vos quidem tradidístis et negastis ante fáciem Pilati, judicánte illo dimitti.
+14 Vos autem sanctum et justum negastis, et petístis virum homicidam donari vobis:
+15 Auctórem vero vitæ interfecístis, quem Deus suscitávit a mórtuis, cujus nos testes sumus.
+16 Et in fide nóminis ejus, hunc, quem vos vidístis et nostis, confirmávit nomen ejus: et fides, quæ per eum est, dedit íntegram sanitátem istam in conspéctu ómnium vestrum.
 
 [Responsory2]
-R. Benedictum est nomen tuum, Deus patrum nostrorum, qui cum iratus fueris, misericordiae recordaberis,
-* Et in tempore tribulationis peccata dimittis.
-V. Et benedictum nomen majestatis tuae in aeternum, qui facis mirabilia solus.
-R. Et in tempore tribulationis peccata dimittis.
+R. Benedíctum est nomen tuum, Deus patrum nostrórum, qui cum irátus fuéris, misericórdiæ recordáberis, 
+* Et in témpore tribulatiónis peccáta dimíttis.
+V. Et benedíctum nomen majestátis tuæ in ætérnum, qui facis mirabília solus.
+R. Et in témpore tribulatiónis peccáta dimíttis.
 
 [Lectio3]
-!Act. 4:5-12
-5 Factum est autem in crastinum, ut congregarentur principes eorum, et seniores, et scribae, in Jerusalem:
-6 et Annas princeps sacerdotum, et Caiphas, et Joannes, et Alexander, et quotquot erant de genere sacerdotali.
-7 Et statuentes eos in medio, interrogabant: In qua virtute, aut in quo nomine fecistis hoc vos?
-8 Tunc repletus Spiritu Sancto Petrus, dixit ad eos: Principes populi, et seniores, audite:
-9 si nos hodie dijudicamur in benefacto hominis infirmi, in quo iste salvus factus est,
-10 notum sit omnibus vobis, et omni plebi Isra�l, quia in nomine Domini nostri Jesu Christi Nazareni, quem vos crucifixistis, quem Deus suscitavit a mortuis, in hoc iste adstat coram vobis sanus.
-11 Hic est lapis qui reprobatus est a vobis aedificantibus, qui factus est in caput anguli:
-12 et non est in alio aliquo salus. Nec enim aliud nomen est sub caelo datum hominibus, in quo oporteat nos salvos fieri.
+!Act 4:5-12
+5 Factum est autem in crástinum, ut congregaréntur príncipes eórum, et senióres, et scribæ, in Jerúsalem:
+6 et Annas princeps sacerdótum, et Caíphas, et Joánnes, et Alexánder, et quotquot erant de génere sacerdotáli.
+7 Et statuéntes eos in médio, interrogábant: In qua virtúte, aut in quo nómine fecístis hoc vos?
+8 Tunc replétus Spíritu Sancto Petrus, dixit ad eos: Príncipes pópuli, et senióres, audíte:
+9 si nos hódie diiudicámur in benefácto hóminis infírmi, in quo iste salvus factus est,
+10 notum sit ómnibus vobis, et omni plebi Israël, quia in nómine Dómini nostri Jesu Christi Nazaréni, quem vos crucifixístis, quem Deus suscitávit a mórtuis, in hoc iste adstat coram vobis sanus.
+11 Hic est lapis qui reprobátus est a vobis ædificántibus, qui factus est in caput ánguli:
+12 et non est in álio áliquo salus. Nec enim aliud nomen est sub cælo datum homínibus, in quo opórteat nos salvos fíeri.
 
 [Responsory3]
-R. Laudabo nomen tuum assidue
-* Et collaudabo illud in confessione.
-V. Laetabor et exsultabo in te: psallam nomini tuo, Altissime.
-R. Et collaudabo illud in confessione.
+R. Laudábo nomen tuum assídue, 
+* Et collaudábo illud in confessióne.
+V. Lætábor et exsultábo in te: psallam nómini tuo, Altíssime.
+R. Et collaudábo illud in confessióne.
 &Gloria
-R. Et collaudabo illud in confessione.
+R. Et collaudabo illud in confessióne.
 
 [Lectio4]
-Sermo sancti Bernardi Abbatis.
-!Sermo 15. super Cantica, circa medium.
-Non otiose Spiritus Sanctus nomen sponsi oleo comparat, cum ita doceat sponsam ad sponsum clamare: Oleum effusum nomen tuum. Oleum enim lucet, pascit, et ungit. Fovet ignem, nutrit carnem, lenit dolorem: lux, cibus, medicina. Vide idem nunc et de sponsi nomine: Lucet praedicatum, pascit recogitatum, invocatum lenit, et ungit. Et percurramus singula. Unde putas in toto orbe tanta et tam subita fidei lux, nisi de praedicato nomine Jesu? Nonne in hujus nominis luce Deus nos vocavit in admirabile lumen suum, quibus illuminatis, et in lumine isto videntibus lumen, dicat merito Paulus: Fuistis aliquando tenebrae, nunc autem lux in Domino?
+Sermo sancti Bernárdi Abbátis
+!Sermo 15 super Cantica, circa medium
+Non otióse Spíritus Sanctus nomen Sponsi óleo cómparat, cum ita dóceat sponsam ad Sponsum clamáre: Oleum effúsum nomen tuum. Oleum enim lucet, pascit et ungit. Fovet ignem, nutrit carnem, lenit dolórem: lux, cibus, medicína. Vide idem nunc et de Sponsi nómine: Lucet prædicátum, pascit recogitátum, invocátum lenit et ungit. Et percurrámus síngula. Unde putas in toto orbe tanta et tam súbita fidei lux, nisi de prædicáto nómine Jesu? Nonne in hujus nóminis luce Deus nos vocávit in admirábile lumen suum; quibus illúminatis, et in lúmine isto vidéntibus lumen, dicat mérito Paulus: Fuístis aliquándo ténebræ, nunc autem lux in Dómino?
 
 [Responsory4]
-R. Sperent in te, qui noverunt nomen tuum:
-* Quoniam non dereliquisti quaerentes te, Domine.
-V. Exsurge, Domine, adjuva nos, et libera nos propter nomen tuum.
-R. Quoniam non dereliquisti quaerentes te, Domine.
+R. Sperent in te, qui novérunt nomen tuum: 
+* Quóniam non dereliquísti quæréntes te, Dómine.
+V. Exsúrge, Dómine, ádjuva nos, et líbera nos propter nomen tuum.
+R. Quóniam non dereliquísti quæréntes te, Dómine.
 
 [Lectio5]
-Hoc denique nomen coram regibus, et Gentibus, et filiis Isra�l portare jussus est idem Apostolus; et portabat nomen tamquam lumen, et illuminabat patriam, et clamabat ubique: Nox praecessit, dies autem appropinquavit. Abjiciamus ergo opera tenebrarum, et induamur arma lucis, sicut in die honeste ambulemus. Et monstrabat omnibus lucernam super candelabrum, annuntians in omni loco Jesum, et hunc crucifixum. Quomodo lux ista resplenduit ac perstrinxit cunctorum intuentium oculos, quando de ore Petri, tamquam fulgur egrediens, claudi unius corporales plantas solidavit et bases, multosque spiritualiter caecos illuminavit. Numquid non ignem sparsit, cum ait: In nomine Jesu Christi Nazareni surge, et ambula?
+Hoc dénique nomen coram régibus, et géntibus, et fíliis Israël portáre jussus est idem Apóstolus; et portábat nomen tamquam lumen, et illuminábat pátriam, et clamábat ubíque: Nox præcéssit, dies autem appropinquávit. Abiciámus ergo ópera tenebrárum, et induámur arma lucis, sicut in die honeste ambulémus. Et monstrábat ómnibus lucérnam super candelábrum, annúntians in omni loco Jesum, et hunc crucifixum. Quómodo lux ista resplénduit ac perstrínxit cunctórum intuéntium óculos, quando de ore Petri, tamquam fulgur egrédiens, claudi uníus corporáles plantas solidávit et bases, multósque spirituáliter cæcos illuminávit? Numquid non ignem sparsit, cum ait: In nómine Jesu Christi Nazaréni surge et ambula?
 
 [Responsory5]
-R. Confiteamur nomini tuo magno
-* Quoniam terribile et sanctum est.
-V. Hi in curribus, et hi in equis, nos autem in nomine Domini Dei nostri invocabimus.
-R. Quoniam terribile et sanctum est.
+R. Confiteámur nómini tuo magno, 
+* Quóniam terríbile et sanctum est.
+V. Hi in cúrribus, et hi in equis, nos autem in nómine Dómini, Dei nostri, invocábimus.
+R. Quóniam terríbile et sanctum est.
 
 [Lectio6]
-Nec tantum lux est nomen Jesu, sed est et cibus. An non toties confortaris, quoties recordaris? Quid aeque mentem cogitantis impinguat? Quid ita exercitatos reparat sensus, virtutes roborat, vegetat mores bonos atque honestos, castas fovet affectiones? Aridus est omnis animae cibus, si non oleo isto infunditur; insipidus est, si non hoc sale conditur. Si scribas, non sapit mihi, nisi legero ibi Jesum. Si disputes, aut conferas, non sapit mihi nisi sonuerit ibi Jesus. Jesus mel in ore, in aure melos, in corde jubilus. Sed est et medicina. Tristatur aliquis nostrum? Veniat in cor ejus Jesus, et inde saliat in os. Et ecce ad exortum nominis lumen, nubilum omne diffugit, redit serenum. Labitur quis in crimen? currit insuper ad laqueum mortis desperando? Nonne, si invocet nomen vitae, confestim respirabit ad vitam?
+Nec tantum lux est nomen Jesu, sed est et cibus. An non tóties confortáris, quóties recordáris? Quid æque méntem cogitántis impínguat? Quid ita exercitátos réparat sensus, virtútes róborat, végetat mores bonos atque honéstos, castas fovet affectiónes? Aridus est omnis ánimæ cibus, si non óleo isto infúnditur; insípidus est, si non hoc sale condítur. Si scribas, non sapit mihi, nisi légero ibi Jesum. Si dísputes aut cónferas, non sapit mihi, nisi sonúerit ibi Jesus. Jesus mel in ore, in aure melos, in corde júbilus. Sed est et medicína. Tristátur áliquis nostrum? Véniat in cor ejus Jesus, et inde sáliat in os. Et ecce ad exórtum nóminis lumen, núbilum omne díffugit, redit serénum. Lábitur quis in crimen? currit ínsuper ad láqueum mortis desperándo? Nonne, si ínvocet nomen vitæ, conféstim respirábit ad vitam?
 
 [Responsory6]
-R. Laetentur omnes, qui sperant in te, Domine, in aeternum exsultabunt, et habitabis in eis, et gloriabuntur in te omnes
-* Qui diligunt nomen tuum.
-V. Domine, in lumine vultus tui ambulabunt, et in nomine tuo exsultabunt tota die.
-R. Qui diligunt nomen tuum.
+R. Læténtur omnes, qui sperant in te, Dómine, in ætérnum exsultábunt, et habitábis in eis, et gloriabúntur in te omnes, 
+* Qui díligunt nomen tuum.
+V. Dómine, in lúmine vultus tui ambulábunt, et in nómine tuo exsultábunt tota die.
+R. Qui díligunt nomen tuum.
 &Gloria
-R. Qui diligunt nomen tuum.
+R. Qui díligunt nomen tuum.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Lucam.
+Léctio sancti Evangélii secúndum Lucam
 !Luc 2:21
-In illo tempore: Postquam consummati sunt dies octo ut circumcideretur puer, vocatum est nomen ejus Jesus. Et reliqua.
+In illo témpore: Postquam consummáti sunt dies octo, ut circumciderétur Puer: vocátum est nomen ejus Jesus. Et réliqua.
 _
-Homilia sancti Bernardi Abbatis.
-!Sermo 1 de Circumcisione.
-Magnum et mirabile sacramentum! Circumciditur puer, et vocatur Jesus. Quid sibi vult ista connexio? Circumcisio nempe magis salvandi, quam Salvatoris esse videtur: et Salvatorem circumcidere potius decet, quam circumcidi. Sed agnosce mediatorem Dei et hominum, qui ab ipso nativitatis suae exordio divinis humana sociat, ima summis. Nascitur ex muliere, sed cui foecunditatis fructus sic accedat, ut non decidat flos virginitatis. Pannis involvitur: sed panni ipsi angelicis laudibus honorantur. Absconditur in praesepio: sed proditur radiante stella de caelo. Sic et circumcisio veritatem susceptae probat humanitatis: et nomen, quod est super omne nomen, gloriam indicat majestatis. Circumciditur tamquam verus Abrahae filius: Jesus vocatur tamquam verus Filius Dei.
+Homilía sancti Bernárdi Abbátis
+!Sermo 1 de Circumcisione
+Magnum et mirábile sacraméntum! Circumcíditur Puer, et vocátur Jesus. Quid sibi vult ista connéxio? Circumcísio nempe magis salvándi, quam Salvatóris esse vidétur; et Salvatórem circumcídere potius decet, quam circumcídi. Sed agnósce mediatórem Dei et hóminum, qui ab ipso nativitátis suæ exórdio divínis humána sóciat, ima summis. Náscitur ex mulíere, sed cui fecunditátis fructus sic accédat, ut non décidat flos virginitátis. Pannis invólvitur; sed panni ipsi angélicis láudibus honorántur. Abscónditur in præsépio; sed próditur radiánte stella de cælo. Sic et circumcísio veritátem suscéptæ probat humanitátis; et nomen, quod est super omne nomen, glóriam índicat majestátis. Circumcíditur tamquam verus Abrahæ fílius; Jesus vocátur tamquam verus Fílius Dei.
 
 [Responsory7]
-R. Tribulationem et dolorem inveni:
-* Et nomen Domini invocavi.
-V. Turris fortissima nomen Domini, in ipso speravi, et adjutus sum.
-R. Et nomen Domini invocavi.
+R. Tribulatiónem et dolórem invéni: 
+* Et nomen Dómini invocávi.
+V. Turris fortíssima nomen Dómini, in ipso sperávi, et adjútus sum.
+R. Et nomen Dómini invocávi.
 
 [Lectio8]
-Neque enim ad instar priorum meus iste Jesus nomen vacuum aut inane portat. Non est in eo magni nominis umbra, sed veritas. Caelitus siquidem inditum nomen Evangelista testatur, quod vocatum est ab Angelo, priusquam in utero conciperetur. Et attende verbi profunditatem: Postquam natus est Jesus, Jesus vocatur ab hominibus, qui vocatus est ab Angelo, priusquam in utero conciperetur. Idem quippe et Angeli Salvator, et hominis: sed hominis ab incarnatione, Angeli ab initio creaturae. Vocatum est, ait, nomen ejus Jesus, quod vocatum est ab Angelo. In ore ergo duorum vel trium testium stat omne verbum: et ipsum, quod in Propheta abbreviatum, manifestius in Evangelio legitur caro factum.
+Neque enim ad ínstar priórum meus iste Jesus nomen vácuum aut ináne portat: non est in eo magni nóminis umbra, sed véritas. Cælitus síquidem índitum nomen Evangelísta testátur, quod vocátum est ab Angelo, priúsquam in útero conciperétur. Et atténde verbi profunditátem: Postquam natus est Jesus, Jesus vocátur ab homínibus, qui vocátus est ab Angelo, priúsquam in útero conciperétur. Idem quippe et Angeli Salvátor et hóminis; sed hóminis ab incarnatióne, Angeli ab inítio creatúræ. Vocátum est, ait, nomen ejus Jesus, quod vocátum est ab Angelo. In ore ergo duórum vel trium téstium stat omne verbum; et ipsum, quod in Prophéta abbreviátum, maniféstius in Evangélio légitur caro factum.
 
 [Responsory8]
-R. Exspectabo nomen tuum, Domine,
-* Quoniam bonum est in conspectu sanctorum tuorum.
-V. Ut confiteamur nomini sancto tuo et gloriemur in laude tua.
-R. Quoniam bonum est in conspectu sanctorum tuorum.
+R. Exspectábo nomen tuum, Dómine, 
+* Quóniam bonum est in conspéctu sanctórum tuórum.
+V. Ut confiteámur nómini sancto tuo, et gloriémur in laude tua.
+R. Quóniam bonum est in conspéctu sanctórum tuórum.
 &Gloria
-R. Quoniam bonum est in conspectu sanctorum tuorum.
+R. Quóniam bonum est in conspéctu sanctórum tuórum.
 
 [Lectio9]
-Merito sane, dum circumciditur puer, qui natus est nobis, Salvator vocatur: quod videlicet ex hoc jam coeperit operari salutem nostram, immaculatum illum pro nobis sanguinem fundens. Neque enim jam quaerere est Christianis, cur voluerit Dominus Christus circumcidi. Propter hoc siquidem circumcisus est, propter quod natus, propter quod passus. Nihil horum propter se, sed omnia propter electos. Nec in peccato genitus, nec a peccato circumcisus, nec mortuus est pro peccato suo: magis autem propter delicta nostra. Quod vocatum est, inquit, ab Angelo, priusquam in utero conciperetur. Vocatum plane, non impositum. Nempe hoc ei nomen est ab aeterno. A natura propria habet, ut sit Salvator: innatum est ei nomen hoc, non inditum ab humana, vel angelica creatura.
+!Sermo 2 de Circumcisione
+Mérito sane, dum circumcíditur puer, qui natus est nobis, Salvátor vocátur; quod vidélicet ex hoc jam cœ́perit operári salútem nostram, immaculátum illum pro nobis sánguinem fundens. Neque enim jam quǽrere est Christiánis, cur volúerit Dóminus Christus circumcídi. Propter hoc síquidem circumcísus est, propter quod natus, propter quod passus. Nihil horum propter se, sed ómnia propter eléctos. Nec in peccáto génitus, nec a peccáto circumcísus, nec mórtuus est pro peccáto suo; magis autem propter delícta nostra. Quod vocátum est, inquit, ab Angelo, priúsquam in útero conciperétur. Vocátum plane, non impósitum: nempe hoc ei nomen est ab ætérno. A natúra propria habet, ut sit Salvátor: innátum est ei nomen hoc, non índitum ab humana vel angélica creatúra.
 &teDeum
 
 [Ant Laudes]
-Oleum effusum * nomen tuum, ideo adolescentulae dilexerunt te.
-Scitote, * quia Dominus ipse est Deus, cujus nomen in aeternum.
-Sitivit * anima mea ad nomen sanctum tuum, Domine.
-Benedictum * nomen gloriae tuae sanctum, et laudabile, et superexaltatum in saecula.
-Juvenes et virgines, * senes cum junioribus laudate nomen Domini, quia exaltatum est nomen ejus solius.
+Oleum effúsum * nomen tuum, ídeo adolescéntulæ dilexérunt te.
+Scitóte, * quia Dóminus ipse est Deus, cujus nomen in ætérnum.
+Sitívit * anima mea ad nomen sanctum tuum, Dómine.
+Benedíctum * nomen glóriæ tuæ sanctum, et laudábile, et superexaltátum in sǽcula.
+Júvenes et vírgines, * senes cum junióribus laudáte nomen Dómini, quia exaltátum est nomen ejus solíus.
 
 [Capitulum Laudes]
 @:Capitulum Vespera
 
 [Hymnus Laudes]
-v. Jesu decus angelicum,
-In aure dulce canticum,
-In ore mel mirificum,
-In corde nectar caelicum.
+v. Jesu decus angélicum,
+In aure dulce cánticum,
+In ore mel miríficum,
+In corde nectar cǽlicum.
 _
-Qui te gustant, esuriunt;
-Qui bibunt, adhuc sitiunt;
-Desiderare nesciunt,
-Nisi Jesum, quem diligunt.
+Qui te gustant, esúriunt;
+Qui bibunt, adhuc sítiunt;
+Desideráre nésciunt,
+Nisi Jesum, quem díligunt.
 _
-O Jesu mi dulcissime,
-Spes suspirantis animae!
-Te quaerunt piae lacrimae,
-Te clamor mentis intimae.
+O Jesu mi dulcíssime,
+Spes suspirántis ánimæ!
+Te quærunt piæ lácrimæ,
+Te clamor mentis íntimæ.
 _
-Mane nobiscum, Domine,
-Et nos illustra lumine;
-Pulsa mentis caligine,
-Mundum reple dulcedine.
+Mane nobíscum, Dómine,
+Et nos illústra lúmine;
+Pulsa mentis calígine,
+Mundum reple dulcédine.
 _
-Jesu, flos Matris Virginis,
-Amor nostrae dulcedinis,
-Tibi laus, honor nominis,
-Regnum beatitudinis.
+Jesu, flos Matris Vírginis,
+Amor nostræ dulcédinis,
+Tibi laus, honor nóminis,
+Regnum beatitúdinis.
 Amen.
 
 [Versum 2]
-V. Adjutorium nostrum in nomine Domini.
-R. Qui fecit caelum et terram.
+V. Adjutórium nostrum in nomine Dómini.
+R. Qui fecit cælum et terram.
 
 [Ant 2]
-Dedit se * ut liberaret populum, et acquireret sibi nomen aeternum, alleluia.
-
-[Oratio]
-Deus, qui unigenitum Filium tuum constituisti humani generis Salvatorem, et Jesum vocari jussisti: concede propitius; ut cujus sanctum nomen veneramur in terris, ejus quoque aspectu perfruamur in caelis.
-$Per eumdem
+Dedit se, * ut liberáret pópulum, et acquíreret sibi nomen ætérnum, allelúja.
 
 [Lectio Prima]
 !Col 3:17
-v. Omne quodcumque facitis in verbo, aut in opere: omnia in nomine Domini Jesu Christi facite, gratias agentes Deo et Patri per ipsum.
+v. Omne quodcúmque fácitis in verbo, aut in opere: ómnia in nómine Dómini Jesu Christi fácite, grátias agéntes Deo et Patri per ipsum.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Responsory Tertia]
-R.br. Sit nomen Domini benedictum, * Alleluia, alleluia.
-R. Sit nomen Domini benedictum, * Alleluia, alleluia.
-V. Ex hoc nunc et usque in saeculum.
-R. Alleluia, alleluia.
+R.br. Sit nomen Dómini benedíctum, * Allelúja, allelúja.
+R. Sit nomen Domini benedíctum, * Allelúja, allelúja.
+V. Ex hoc nunc et usque in sǽculum.
+R. Allelúja, allelúja.
 &Gloria
-R. Sit nomen Domini benedictum, * Alleluia, alleluia.
+R. Sit nomen Dómini benedíctum, * Allelúja, allelúja.
 _
-V. Afferte Domino gloriam et honorem, alleluia.
-R. Afferte Domino gloriam nomini ejus, alleluia.
+V. Afférte Dómino glóriam et honórem, allelúja.
+R. Afférte Dómino glóriam nómini ejus, allelúja.
 
 [Capitulum Sexta]
 !Phil 2:10-11
-v. In nomine Jesu omne genu flectatur caelestium, terrestrium, et infernorum: et omnis lingua confiteatur, quia Dominus Jesus Christus in gloria est Dei Patris.
+v. In nómine Jesu omne genu flectátur cæléstium, terréstrium, et infernórum: et omnis lingua confiteátur, quia Dóminus Jesus Christus in glória est Dei Patris.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Afferte Domino gloriam et honorem, * Alleluia, alleluia.
-R. Afferte Domino gloriam et honorem, * Alleluia, alleluia.
-V. Afferte Domino gloriam nomini ejus.
-R. Alleluia, alleluia.
+R.br. Afférte Dómino glóriam et honórem, * Allelúja, allelúja.
+R. Afférte Dómino glóriam et honórem, * Allelúja, allelúja.
+V. Afférte Dómino glóriam nómini ejus.
+R. Allelúja, allelúja.
 &Gloria
-R. Afferte Domino gloriam et honorem, * Alleluia, alleluia.
+R. Afférte Dómino glóriam et honórem, * Allelúja, allelúja.
 _
-V. Magnificate Dominum mecum, alleluia.
-R. Et exaltemus nomen ejus in idipsum, alleluia.
+V. Magnificáte Dóminum mecum, allelúja.
+R. Et exaltémus nomen ejus in idípsum, allelúja.
 
 [Capitulum Nona]
-!Col 3:17
-v. Omne quodcumque facitis in verbo, aut in opere: omnia in nomine Domini Jesu Christi facite, gratias agentes Deo et Patri per ipsum.
+@:Lectio Prima
 $Deo gratias
 
 [Responsory Nona]
-R.br. Magnificate Dominum mecum, * Alleluia, alleluia.
-R. Magnificate Dominum mecum, * Alleluia, alleluia.
-V. Et exaltemus nomen ejus in idipsum.
-R. Alleluia, alleluia.
+R.br. Magnificáte Dóminum mecum, * Allelúja, allelúja.
+R. Magnificáte Dóminum mecum, * Allelúja, allelúja.
+V. Et exaltémus nomen ejus in idípsum.
+R. Allelúja, allelúja.
 &Gloria
-R. Magnificate Dominum mecum, * Alleluia, alleluia.
+R. Magnificáte Dóminum mecum, * Allelúja, allelúja.
 _
-V. Adjutorium nostrum in nomine Domini, alleluia.
-R. Qui fecit caelum et terram, alleluia.
+V. Adjutórium nostrum in nomine Dómini, allelúja.
+R. Qui fecit cælum et terram, allelúja.
 
 [Versum 3]
 @:Versum 1
 
 [Ant 3]
-Vocabis * nomen ejus Jesum: ipse enim salvum faciet populum suum a peccatis eorum, alleluia.
+Vocábis * nomen ejus Jesum; ipse enim salvum fáciet pópulum suum a peccátis eórum, allelúja.

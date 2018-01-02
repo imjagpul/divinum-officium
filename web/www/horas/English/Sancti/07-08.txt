@@ -38,10 +38,7 @@ pray, and hereafter to attain unto everlasting joy in thy Presence.
 $Per Dominum
 
 [Invit]
-For the holy works of blessed Elizabeth, * let us praise our God.
-
-[Hymnus Matutinum]
-@Sancti/07-08:Hymnus Vespera
+For the holy works of blessed Elizabeth, * Let us praise our God.
 
 [Lectio4]
 Elizabeth, daughter of Peter III., King of Aragon, was born in the year of~
@@ -78,7 +75,7 @@ all suffering, whether public or private.
 [Lectio6]
 King Denis died (on the 6th day of January, 1325,) and Elizabeth, who in her~
 maidenhood had been a pattern to virgins, and in her married life to wives, now,~
-in her loneliness, was an ensample to widows. Clad in the raiment of the nuns of~
+in her loneliness, was an example to widows. Clad in the raiment of the nuns of~
 St. Clare, she faithfully attended at the King's funeral, and soon after went to~
 Compostella, where she offered many precious gifts, of silk, and gold, and~
 silver, and precious stones, for the benefit of his soul. Thence she returned~
@@ -98,13 +95,6 @@ she hath always been spoken of as the Holy Queen Elizabeth. At length, in the ye
 of our salvation 1625, which was that of the Jubilee, Urban VIII, all~
 Christendom gathered together and approving, formally enrolled her name among~
 those of the Saints.
-
-[Capitulum Laudes]
-!Prov 31:10-11
-v. Who shall find a valiant woman? far and from the uttermost coasts is the~
-price of her. The heart of her husband trusteth in her, and he shall have no need~
-of spoils.
-$Deo gratias
 
 [Hymnus Laudes]
 v. Riches and regal throne, for Christ's dear sake,
@@ -130,13 +120,6 @@ R. Be thou, O Lord, propitious to thy people.
 [Ant 2]
 Thou art the exaltation of Jerusalem, * thou art the great glory of Israel, thou~
 art the great rejoicing of thy nation.
-
-[Capitulum Vespera 3]
-!Prov 31:10-11
-v. Who shall find a valiant woman? far and from the uttermost coasts is the~
-price of her. The heart of her husband trusteth in her, and he shall have no need~
-of spoils.
-$Deo gratias
 
 [Versum 3] (rubrica divino aut rubrica 1955 aut rubrica 1960)
 V. Pray for us, blessed Elizabeth.

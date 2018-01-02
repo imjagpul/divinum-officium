@@ -41,7 +41,7 @@ _
 * All laud to God the Father be,
 All praise, eternal Son, to thee;
 All glory as is ever meet,
-To God, the holy Paraclete. Amen.
+To God, the holy Paraclete.
 Amen. 
 
 [Versum 1]
@@ -170,7 +170,7 @@ R. Go forward, fare prosperously, and reign.
 [Lectio4]
 From the Sermons of St. Ambrose, Bishop of Milan. 
 !Book. I. on Virgins 
-This day is a maiden's Birthday. The love of virginity provoketh us to say somewhat touching maidenhood, lest, if we pass thereby, we should seem to cast a slur on that which was her chief strength. Virginity is not to be praised because it is a grace which is poured forth in Martyrs, but because it is a grace which maketh Martyrs. But what understanding of man can rightly grasp this excellency which riseth above the laws of nature herself? What natural voice can pourtray a thing which is supernaturally noble? It is a reflection on earth of a glory whose home is in heaven. And it is but that which we may justly look for, when we see her who hath her Husband in heaven, live a life whose model is the life of heaven.
+This day is a maiden's Birthday. The love of virginity provoketh us to say somewhat touching maidenhood, lest, if we pass thereby, we should seem to cast a slur on that which was her chief strength. Virginity is not to be praised because it is a grace which is poured forth in Martyrs, but because it is a grace which maketh Martyrs. But what understanding of man can rightly grasp this excellency which riseth above the laws of nature herself? What natural voice can portray a thing which is supernaturally noble? It is a reflection on earth of a glory whose home is in heaven. And it is but that which we may justly look for, when we see her who hath her Husband in heaven, live a life whose model is the life of heaven.
 
 [Responsory4]
 R. Because of truth, and meekness, and righteousness;
@@ -236,14 +236,6 @@ This, is one which hath not known the sinful bed, * she shall have fruit in the 
 Come, O my chosen one, * and I will establish My throne in thee.
 She is beautiful * among the daughters of Jerusalem.
 
-[Capitulum Laudes]
-!2 Cor 10:17-18
-v. Brothers: But he that glorieth, let him glory in the Lord. For not he who commendeth himself, is approved, but he, whom God commendeth.
-$Deo gratias
-
-[Hymnus Laudes]
-@Commune/C6:Hymnus Vespera
-
 [Versum 2]
 V. Grace is poured into thy lips.
 R. Therefore God hath blessed thee for ever.
@@ -252,17 +244,12 @@ R. Therefore God hath blessed thee for ever.
 The kingdom of heaven is like unto a merchantman * seeking goodly pearls, who, when he had found one pearl of great price, went and sold all that he had, and bought it.
 
 [Oratio]
-O God, Who, amidst the wondrous work of thy divine power, dost make even weak women to be more than conquerors in the uplifting of their testimony, mercifully grant unto all us which do keep the birthday of thy blessed handmaiden and witness N. grace to follow her steps to thee-ward.
+O God, Who among the other miracles of thy power have bestowed the victory of martyrdom even upon the weaker sex, graciously grant that we who commemorate the anniversary of the death of blessed N., thy Virgin and Martyr, may come to thee by the path of her example.
 $Per Dominum
 
 [Lectio Prima]
 !Wis 4:1
 v. O how beautiful is the chaste generation with glory: for the memory thereof is immortal: because it is known both with God and with men.
-
-[Capitulum Tertia]
-!2 Cor 10:17-18
-v. Brothers: But he that glorieth, let him glory in the Lord. For not he who commendeth himself, is approved, but he, whom God commendeth.
-$Deo gratias
 
 [Responsory Tertia]
 R.br. In thy comeliness * and in thy beauty.
@@ -296,11 +283,6 @@ R. He hath made her to dwell in His tabernacle.
 v. O Lord, my God thou hast exalted my dwelling place upon the earth and I have prayed for death to pass away. I called upon the Lord, the father of my Lord, that he would not leave me in the day of my trouble, and in the time of the proud without help.
 $Deo gratias
 
-[Capitulum Nona]
-!Wis 4:1
-v. O how beautiful is the chaste generation with glory: for the memory thereof is immortal: because it is known both with God and with men.
-$Deo gratias
-
 [Responsory Nona]
 R.br. God hath chosen her, * and fore-chosen her.
 R. God hath chosen her, * and fore-chosen her.
@@ -311,13 +293,6 @@ R. God hath chosen her, * and fore-chosen her.
 _
 V. Grace is poured into thy lips.
 R. Therefore God hath blessed thee for ever.
-
-[Versum 3]
-V. Grace is poured into thy lips.
-R. Therefore God hath blessed thee for ever.
-
-[Ant 3]
-Come, Bride of Christ, and take the everlasting crown * which the Lord hath prepared for thee.
 
 [Lectio11]
 Lesson from the book of Ecclesiasticus

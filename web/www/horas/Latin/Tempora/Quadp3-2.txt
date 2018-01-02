@@ -1,40 +1,40 @@
 [Rank]
-Feria III infra Hebdomadam Quinquagesimae;;Feria;;1
+Feria III infra Hebdomadam Quinquagesimæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
 
 [Lectio1]
-De libro Genesis
+De libro Génesis
 !Gen 14:8-12
-8 Et egressi sunt rex Sodomorum, et rex Gomorrhae, rexque Adamae, et rex Seboim, necnon et rex Balae, quae est Segor: et direxerunt aciem contra eos in valle Silvestri:
-9 scilicet adversus Chodorlahomor regem Elamitarum, et Thadal regem Gentium, et Amraphel regem Sennaar, et Arioch regem Ponti: quatuor reges adversus quinque.
-10 Vallis autem Silvestris habebat puteos multos bituminis. Itaque rex Sodomorum, et Gomorrhae, terga verterunt, cecideruntque ibi: et qui remanserant, fugerunt ad montem.
-11 Tulerunt autem omnem substantiam Sodomorum et Gomorrhae, et universa quae ad cibum pertinent, et abierunt:
-12 necnon et Lot, et substantiam ejus, filium fratris Abram, qui habitabat in Sodomis.
+8 Et egréssi sunt rex Sodomórum, et rex Gomórrhæ, rexque Adamæ, et rex Séboim, necnon et rex Balæ, quæ est Segor: et direxérunt áciem contra eos in valle Silvéstri:
+9 scílicet advérsus Chodorláhomor regem Elamitárum, et Thadal regem Géntium, et Amraphel regem Sénnaar, et Arioch regem Ponti: quátuor reges advérsus quinque.
+10 Vallis autem Silvéstris habébat púteos multos bitúminis. Itaque rex Sodomórum, et Gomórrhæ, terga vertérunt, ceciderúntque ibi: et qui remánserant, fugérunt ad montem.
+11 Tulérunt autem omnem substántiam Sodomórum et Gomórrhæ, et univérsa quæ ad cibum pértinent, et abiérunt:
+12 necnon et Lot, et substántiam eius, fílium fratris Abram, qui habitábat in Sódomis.
 
 [Responsory1]
 @Tempora/Quadp3-0:Responsory4
 
 [Lectio2]
 !Gen 14:13-16
-13 Et ecce unus, qui evaserat, nuntiavit Abram Hebraeo, qui habitabat in convalle Mambre Amorrhaei, fratris Escol, et fratris Aner: hi enim pepigerant f�dus cum Abram.
-14 Quod cum audisset Abram, captum videlicet Lot fratrem suum, numeravit expeditos vernaculos suos trecentos decem et octo: et persecutus est usque Dan.
-15 Et divisis sociis, irruit super eos nocte: percussitque eos, et persecutus est eos usque Hoba, quae est ad laevam Damasci.
-16 Reduxitque omnem substantiam, et Lot fratrem suum cum substantia illius, mulieres quoque et populum.
+13 Et ecce unus, qui eváserat, nuntiávit Abram Hebrǽo, qui habitábat in conválle Mambre Amorrhǽi, fratris Escol, et fratris Aner: hi enim pepígerant fœdus cum Abram.
+14 Quod cum audísset Abram, captum vidélicet Lot fratrem suum, numerávit expedítos vernáculos suos trecéntos decem et octo: et persecútus est usque Dan.
+15 Et divísis sóciis, írruit super eos nocte: percussítque eos, et persecútus est eos usque Hoba, quæ est ad lævam Damásci.
+16 Reduxítque omnem substántiam, et Lot fratrem suum cum substántia illíus, mulíeres quoque et pópulum.
 
 [Responsory2]
 @Tempora/Quadp3-0:Responsory5
 
 [Lectio3]
 !Gen 14:17-20
-17 Egressus est autem rex Sodomorum in occursum ejus postquam reversus est a caede Chodorlahomor, et regum qui cum eo erant in valle Save, quae est vallis regis.
-18 At vero Melchisedech rex Salem, proferens panem et vinum, erat enim sacerdos Dei altissimi,
-19 benedixit ei, et ait: Benedictus Abram Deo excelso, qui creavit caelum et terram:
-20 et benedictus Deus excelsus, quo protegente, hostes in manibus tuis sunt. Et dedit ei decimas ex omnibus.
+17 Egréssus est autem rex Sodomórum in occúrsum eius postquam revérsus est a cæde Chodorláhomor, et regum qui cum eo erant in valle Save, quæ est vallis regis.
+18 At vero Melchísedech rex Salem, próferens panem et vinum, erat enim sacérdos Dei altíssimi,
+19 benedíxit ei, et ait: Benedíctus Abram Deo excélso, qui creávit cælum et terram:
+20 et benedíctus Deus excélsus, quo protegénte, hostes in mánibus tuis sunt. Et dedit ei décimas ex ómnibus.
 
 [Responsory3]
 @Tempora/Quadp3-0:Responsory6
 
 [Ant 3]
-Miserere mei, * Fili David. Quid vis ut faciam tibi? Domine, ut videam.
+Miserére mei, * Fili David. Quid vis ut fáciam tibi? Dómine, ut vídeam.

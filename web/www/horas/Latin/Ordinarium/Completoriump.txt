@@ -78,13 +78,13 @@ V. Miserére nostri, Dómine.
 R. Miserére nostri.
 V. Fiat misericórdia tua, Dómine, super nos. 
 R. Quemádmodum sperávimus in te.
-V. Dómine exáudi oratiónem meam.
+V. Dómine, exáudi oratiónem meam.
 R. Et clamor meus ad te véniat
 
 #Oratio
 &Dominus_vobiscum1
-v. Orémus. 	
-r. Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea lónge repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper.
+$Oremus 	
+Vísita, quǽsumus, Dómine, habitatiónem istam, et omnes insídias inimíci ab ea lónge repélle: Ángeli tui sancti hábitent in ea, qui nos in pace custódiant; et benedíctio tua sit super nos semper.
 $Per Dominum
 
 #Conclusio

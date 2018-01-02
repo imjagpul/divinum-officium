@@ -5,34 +5,34 @@ Feria II infra Hebdomadam III post Epiphaniam;;Feria;;1
 Oratio Dominica
 
 [Lectio1]
-De epistola ad Galatas
+De epístola ad Galátas
 !Gal 3:1-6
-1 O insensati Galatae, quis vos fascinavit non obedire veritati, ante quorum oculos Jesus Christus praescriptus est, in vobis crucifixus?
-2 Hoc solum a vobis volo discere: ex operibus legis Spiritum accepistis, an ex auditu fidei?
-3 sic stulti estis, ut cum Spiritu c�peritis, nunc carne consummemini?
+1 O insensáti Gálatæ, quis vos fascinávit non obedíre veritáti, ante quorum óculos Jesus Christus præscríptus est, in vobis crucifíxus?
+2 Hoc solum a vobis volo díscere: ex opéribus legis Spíritum accepístis, an ex audítu fídei?
+3 sic stulti estis, ut cum Spíritu cœpéritis, nunc carne consummémini?
 4 tanta passi estis sine causa? si tamen sine causa.
-5 Qui ergo tribuit vobis Spiritum, et operatur virtutes in vobis: ex operibus legis, an ex auditu fidei?
-6 Sicut scriptum est: Abraham credidit Deo, et reputatum est illi ad justitiam:
+5 Qui ergo tríbuit vobis Spíritum, et operátur virtútes in vobis: ex opéribus legis, an ex audítu fídei ?
+6 Sicut scriptum est: Abraham crédidit Deo, et reputátum est illi ad iustítiam:
 
 [Responsory1]
 @Tempora/Epi2-1:Responsory1
 
 [Lectio2]
 !Gal 3:7-10
-7 cognoscite ergo quia qui ex fide sunt, ii sunt filii Abrahae.
-8 Providens autem Scriptura quia ex fide justificat gentes Deus, praenuntiavit Abrahae: Quia benedicentur in te omnes gentes.
-9 Igitur qui ex fide sunt, benedicentur cum fideli Abraham.
-10 Quicumque enim ex operibus legis sunt, sub maledicto sunt. Scriptum est enim: Maledictus omnis qui non permanserit in omnibus quae scripta sunt in libro legis ut faciat ea.
+7 Cognóscite ergo quia qui ex fide sunt, ii sunt fílii Abrahæ.
+8 Próvidens autem Scriptúra quia ex fide iustíficat gentes Deus, prænuntiávit Abrahæ: Quia benedicéntur in te omnes gentes.
+9 Igitur qui ex fide sunt, benedicéntur cum fidéli Abraham.
+10 Quicúmque enim ex opéribus legis sunt, sub maledícto sunt. Scriptum est enim: Maledíctus omnis qui non permánserit in ómnibus quæ scripta sunt in libro legis ut fáciat ea.
 
 [Responsory2]
 @Tempora/Epi2-1:Responsory2
 
 [Lectio3]
 !Gal 3:11-14
-11 Quoniam autem in lege nemo justificatur apud Deum, manifestum est: quia justus ex fide vivit.
-12 Lex autem non est ex fide, sed: Qui fecerit ea, vivet in illis.
-13 Christus nos redemit de maledicto legis, factus pro nobis maledictum: quia scriptum est: Maledictus omnis qui pendet in ligno:
-14 ut in gentibus benedictio Abrahae fieret in Christo Jesu, ut pollicitationem Spiritus accipiamus per fidem.
+11 Quóniam autem in lege nemo iustificátur apud Deum, maniféstum est: quia iustus ex fide vivit.
+12 Lex autem non est ex fide, sed: Qui fécerit ea, vivet in illis.
+13 Christus nos redémit de maledícto legis, factus pro nobis maledíctum: quia scriptum est: Maledíctus omnis qui pendet in ligno:
+14 ut in géntibus benedíctio Abrahæ fíeret in Christo Iesu, ut pollicitatiónem Spíritus accipiámus per fidem.
 
 [Responsory3]
 @Tempora/Epi2-1:Responsory3

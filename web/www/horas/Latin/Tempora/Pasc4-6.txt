@@ -1,5 +1,5 @@
 [Rank]
-Sabbato infra Hebdomadam IV post Octavam Paschae;;Feria;;1
+Sabbato infra Hebdomadam IV post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -7,49 +7,38 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De Epistola beati Jacobi Apostoli.
+De Epístola beáti Jacóbi Apostóli
 !Jas 5:1-6
-1 Agite nunc divites, plorate ululantes in miseriis vestris, quae advenient vobis.
-2 Divitiae vestrae putrefactae sunt, et vestimenta vestra a tineis comesta sunt.
-3 Aurum et argentum vestrum aeruginavit: et aerugo eorum in testimonium vobis erit, et manducabit carnes vestras sicut ignis. Thesaurizastis vobis iram in novissimis diebus.
-4 Ecce merces operariorum, qui messuerunt regiones vestras, quae fraudata est a vobis, clamat: et clamor eorum in aures Domini Sabaoth introivit.
-5 Epulati estis super terram, et in luxuriis enutristis corda vestra in die occisionis.
-6 Addixistis, et occidistis justum, et non restitit vobis.
+1 Agite nunc dívites, ploráte ululántes in misériis vestris, quæ advénient vobis.
+2 Divítiæ vestræ putrefáctæ sunt, et vestiménta vestra a tíneis comésta sunt.
+3 Aurum et argéntum vestrum æruginávit: et ærúgo eórum in testimónium vobis erit, et manducábit carnes vestras sicut ignis. Thesaurizástis vobis iram in novíssimis diébus.
+4 Ecce merces operariórum, qui messuérunt regiónes vestras, quæ fraudáta est a vobis, clamat: et clamor eórum in aures Dómini sábbaoth introívit.
+5 Epuláti estis super terram, et in luxúriis enutrístis corda vestra in die occisiónis.
+6 Addixístis, et occidístis iustum, et non resístit vobis.
 
 [Responsory1]
-R. Deus canticum novum cantabo tibi, alleluia:
-* In psalterio decem chordarum psallam tibi, alleluia, alleluia.
-V. Deus meus es tu, et confitebor tibi: Deus meus es tu, et exaltabo te.
-R. In psalterio decem chordarum psallam tibi, alleluia, alleluia.
+@Tempora/Pasc4-0:Responsory7
 
 [Lectio2]
 !Jas 5:7-11
-7 Patientes igitur estote, fratres, usque ad adventum Domini. Ecce agricola exspectat pretiosum fructum terrae, patienter ferens donec accipiat temporaneum et serotinum.
-8 Patientes igitur estote et vos, et confirmate corda vestra: quoniam adventus Domini appropinquavit.
-9 Nolite ingemiscere, fratres, in alterutrum, ut non judicemini. Ecce judex ante januam assistit.
-10 Exemplum accipite, fratres, exitus mali, laboris, et patientiae, prophetas qui locuti sunt in nomine Domini.
-11 Ecce beatificamus eos qui sustinuerunt. Sufferentiam Job audistis, et finem Domini vidistis, quoniam misericors Dominus est, et miserator.
+7 Patiéntes ígitur estóte, fratres, usque ad advéntum Dómini. Ecce agrícola exspéctat pretiósum fructum terræ, patiénter ferens donec accípiat temporáneum et serótinum.
+8 Patiéntes ígitur estóte et vos, et confirmáte corda vestra: quóniam advéntus Dómini appropinquávit.
+9 Nolíte ingemíscere, fratres, in altérutrum, ut non iudicémini. Ecce iudex ante iánuam assístit.
+10 Exémplum accípite, fratres, éxitus mali, labóris, et patiéntiæ, prophétas qui locúti sunt in nómine Dómini.
+11 Ecce beatificámus eos qui sustinuérunt. Sufferéntiam Iob audístis, et finem Dómini vidístis, quóniam miséricors Dóminus est, et miserátor.
 
 [Responsory2]
-R. Bonum est confiteri Domino, alleluia:
-* Et psallere, alleluia.
-V. In decachordo psalterio, cum cantico et cithara.
-R. Et psallere, alleluia.
+@Tempora/Pasc4-0:Responsory8
 &Gloria
-R. Et psallere, alleluia.
+R. Et psállere, allelúja.
 
 [Lectio3]
 !Jas 5:12-16
-12 Ante omnia autem, fratres mei, nolite jurare, neque per caelum, neque per terram, neque aliud quodcumque juramentum. Sit autem sermo vester: Est, est: Non, non: ut non sub judicio decidatis.
-13 Tristatur aliquis vestrum? oret. �quo animo est? psallat.
-14 Infirmatur quis in vobis? inducat presbyteros Ecclesiae, et orent super eum, ungentes eum oleo in nomine Domini:
-15 et oratio fidei salvabit infirmum, et alleviabit eum Dominus: et si in peccatis sit, remittentur ei.
-16 Confitemini ergo alterutrum peccata vestra, et orate pro invicem ut salvemini: multum enim valet deprecatio justi assidua.
+12 Ante ómnia autem, fratres mei, nolíte iuráre, neque per cælum, neque per terram, neque aliud quodcúmque iuraméntum. Sit autem sermo vester: Est, est: Non, non: ut non sub iudício decidátis.
+13 Tristátur áliquis vestrum? oret. Æquo ánimo est? psallat.
+14 Infirmátur quis in vobis? indúcat presbýteros ecclésiæ, et orent super eum, ungéntes eum óleo in nómine Dómini:
+15 et orátio fídei salvábit infírmum, et alleviábit eum Dóminus: et si in peccátis sit, remitténtur ei.
+16 Confitémini ergo altérutrum peccáta vestra, et oráte pro ínvicem ut salvémini: multum enim valet deprecátio iusti assídua.
 
 [Responsory3]
-R. Cantate Domino, alleluia:
-* Psalmum dicite ei, alleluia.
-V. Afferte Domino gloriam et honorem, afferte Domino gloriam nomini ejus.
-R. Psalmum dicite ei, alleluia.
-&Gloria
-R. Psalmum dicite ei, alleluia.
+@Tempora/Pasc4-1:Responsory2

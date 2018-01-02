@@ -1,8 +1,8 @@
 [Rank]
-Dominica IV Adventus;;Semiduplex;;5.6
+IV Niedziela Adwentu;;Semiduplex;;5.6
 
 [Rank1960]
-Dominica IV Adventus;;Semiduplex;;6
+IV Niedziela Adwentu;;Semiduplex;;6
 
 [Rule]
 9 lectiones
@@ -25,7 +25,7 @@ Wzbudź, prosimy Cię, Panie, potęgę Twoją i przybądź; wspomóż nas mocą 
 $Qui vivis
 
 [Lectio1]
-De Isaia Propheta
+Z Proroka Izajasza
 !Iz 35:1-7
 1 Rozraduje się pusta i bezdróżna, i rozweseli się pustynia i zakwitnie jako lilia.
 2 Rodząc rodzić będzie, i rozraduje się, weseląc się i chwaląc: chwała Libanu dana jest jéj, ozdoba Karmela i Saron: oni ujrzą chwałę Pańską i ozdobę Boga naszego.
@@ -65,19 +65,6 @@ V. Przybył dla nas jako Poprzednik, stawszy się Najwyższym Kapłanem na wieki
 R. Jego wiek nie ma końca. 
 &Gloria
 R. Jego wiek nie ma końca. 
-
-[Ant Laudes]
-@:Ant Vespera
-
-[Capitulum Laudes]
-!1Kor 4:1-2
-v. Bracia, tak niechaj człowiek o	nas rozumie, jako o sługach Chrystusowych i szafarzach tajemnic Bożych. To już szukają między szafarzami, aby który znaleziony był wiernym.
-$Deo gratias
-
-[Capitulum Tertia]
-!1Kor 4:1-2
-v. Bracia, tak niechaj człowiek o	nas rozumie, jako o sługach Chrystusowych i szafarzach tajemnic Bożych. To już szukają między szafarzami, aby który znaleziony był wiernym.
-$Deo gratias
 
 [Capitulum Sexta]
 !1Kor 4:3

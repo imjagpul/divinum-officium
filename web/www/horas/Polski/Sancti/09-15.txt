@@ -69,9 +69,6 @@ R. Któraś po Krzyżem Jezusa stała.
 [Ant 1]
 Nie patrzajcie na mię, * żem jest śmiada; bo mię opaliło słońce: synowie matki mojéj walczyli przeciwko mnie.
 
-[Doxology]
-@Tempora/Quad5-5
-
 [Hymnus Vespera]
 v. Niechaj całe niebiosa okryją się mrokiem,
 Zgrozą przejęte słońce nie skon dnia przyspieszy,
@@ -127,7 +124,7 @@ R. Ex vulneribus Christi.
 [Lectio1]
 Z Jeremiasza Proroka
 !Lm 1:2; 1:20-21
-2 (Beth) Płacząc płakało w nocy, a łzy jego na czeluściach jego: niemasz, ktoby je cieszył ze wszech miłośników jego, wszyscy przyjaciele jego wzgardzili je i stali się mu nieprzyjaciółmi. [1]
+2 (Beth) Płacząc płakało w nocy, a łzy jego na czeluściach jego: niemasz, ktoby je cieszył ze wszech miłośników jego, wszyscy przyjaciele jego wzgardzili je i stali się mu nieprzyjaciółmi.
 20 (Resz) Obacz, Panie! żem uciśniona, wzruszył się brzuch mój, przewróciło się serce moje we mnie samym; bom gorzkości jest pełna: na dworze miecz zabija, a doma śmierć takaż jest.
 21 (Szyn) Usłyszeli, że ja wzdycham, a niemasz, ktoby mię pocieszył.
 
@@ -181,14 +178,8 @@ R. Aby doskonałe było przebłaganie i błogosławieństwo.
 Oto – powiada – Syn Twój! Oto Matka twoja! Na Krzyżu Chrystus sporządził testament, pomiędzy Matkę a ucznia rozdzielił obowiązki wynikające z miłości rodzinnej. Pan nasz ustanowił testament nie tylko publiczny, ale i prywatny; ten zaś Jego testament podpisał Jan, jako godny świadek tak wielkiego testatora. Dobry to testament, który nie pieniądze, lecz życie wieczne zapisuje; nie jest on spisany atramentem, lecz Duchem Boga żywego, który mówi: Język mój jest jak pióro prędko piszącego pisarza.
 &teDeum
 
-[Lectio93]
-@Sancti/09-15t:Lectio93
-
 [Ant Laudes]
 @:Ant Vespera:s/;;.*//g
-
-[Capitulum Laudes]
-@:Capitulum Vespera
 
 [Hymnus Laudes]
 v. Boże najwyższego miłosierdzia,
@@ -206,7 +197,11 @@ Pięciu ran Jezusowych,
 Niechaj i boleści Dziewicy staną się
 Dla wszystkich radościami wiecznemi.
 _
-@:Doxology
+@Tempora/Quad5-5:Doxology
+
+[Versum 2]
+V. Maryjo Dziewico, przez siłę wielu cierpień.
+R. Uczyń nas radującymi się w królestwie niebieskim.
 
 [Ant 2]
 Chodźcie, * a wstąpmy na górę Pańską, i zbaczcie, jeśli jest boleść, jako boleść moja.
@@ -222,23 +217,17 @@ $Oremus
 Wspomóż, Panie, lud Twój, abyśmy czcząc zasługi błogosławionego Nikomedesa, Męczennika Twego, za jego wstawiennictwem miłosierdzie Twoje otrzymali.
 $Per Dominum
 
-[Versum Prima]
-@Tempora/Quad5-5
-
 [Lectio Prima]
 !Lm 2:18
 v. Wypuść jako potok łzy we dnie i w nocy, nie dawaj odpoczynienia sobie, a niech się nie uspokaja źrenica oka twego.
 
-[Capitulum Tertia]
-@:Capitulum Laudes
-
 [Responsory Tertia]
-R.br. O wy wszyscy, * którzy idziecie przez drogę.
-R. O wy wszyscy, * którzy idziecie przez drogę.
+R.br. O wy wszyscy, * Którzy idziecie przez drogę.
+R. O wy wszyscy, * Którzy idziecie przez drogę.
 V. Obaczcie a przypatrzcie się, jeśli jest boleść, jako boleść moja.
 R. Którzy idziecie przez drogę.
 &Gloria
-R. O wy wszyscy, * którzy idziecie przez drogę.
+R. O wy wszyscy, * Którzy idziecie przez drogę.
 _
 V. Ustały od płaczu oczy moje.
 R. Strwożyły się wszystkie wnętrza moje.
@@ -249,19 +238,15 @@ v. Płacząc płakało w nocy, a łzy jego na czeluściach jego: niemasz, ktoby 
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Ustały * od płaczu oczy moje.
-R. Ustały * od płaczu oczy moje.
+R.br. Ustały * Od płaczu oczy moje.
+R. Ustały * Od płaczu oczy moje.
 V. Strwożyły się wszystkie wnętrza moje.
 R. Od płaczu oczy moje.
 &Gloria
-R. Ustały * od płaczu oczy moje.
+R. Ustały * Od płaczu oczy moje.
 _
 V. Snopek mirrhy jest mi mój miły.
 R. Między piersiami mojemi mieszkać będzie.
-
-[Capitulum Nona]
-@:Lectio Prima
-$Deo gratias
 
 [Responsory Nona]
 R.br. Snopek mirrhy * Jest mi mój miły.
@@ -274,9 +259,5 @@ _
 V. Dusza moja roztopiła się.
 R. Gdy mówił.
 
-[Versum 3]
-V. Królowo Męczenników, módl się za nami.
-R. Któraś po Krzyżem Jezusa stała.
-
 [Ant 3]
-Ścisnęła mię boleść: oblicze moje spuchło od płaczu, a powieki moje zaćmiły się.
+Ścisnęła mię boleść: * oblicze moje spuchło od płaczu, a powieki moje zaćmiły się.

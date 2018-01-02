@@ -20,15 +20,12 @@ By thy Cross' holy sign, * Jesus, guard this soul of mine from my ghostly enemy.
 v. For let this mind be in you, which was also in Christ Jesus: Who being in the form of God, thought it not robbery to be equal with God: But emptied himself, taking the form of a servant, being made in the likeness of men, and in habit found as a man
 $Deo gratias.
 
-[Hymnus Vespera]
-@Psalterium/Major Special:Hymnus Quad5 Vespera
-
 [Versum 1]
 V. This sign of the Cross shall be in heaven. (Alleluia.)
 R. When the Lord cometh to judgment. (Alleluia.)
 
 [Ant 1]
-O Cross, * surpassing all the stars in splendour, exceeding dear to all Christian people and world-renowned, holiest of earth's treaures: which only wast counted worthy to hold aloft the Price of our Redemption: sweet is thy wood and sweet thine iron, but sweetest of all the Burden that hung on thee!  O that all who come this day to celebrate thy praises may find in thee salvation. (Alleluia, Alleluia.)
+O Cross, * surpassing all the stars in splendour, exceeding dear to all Christian people and world-renowned, holiest of earth's treaures: which only wast counted worthy to hold aloft the Price of our Redemption: sweet is thy wood and sweet thine iron, but sweetest of all the Burden that hung on thee! O that all who come this day to celebrate thy praises may find in thee salvation. (Alleluia, Alleluia.)
 
 [Oratio]
 O God, Who didst cause that the Cross of our salvation should in most honourable wise be found again, and Who didst manifest thereby the marvellous efficacy of thy sufferings, mercifully grant that by the Ransom which Thou didst pay upon that tree of life we may finally attain unto life eternal.
@@ -36,9 +33,6 @@ $Qui vivis
 
 [Invit]
 Christ crucified is our King. * O come, let us worship Him. (Alleluia.)
-
-[Hymnus Matutinum]
-@Psalterium/Matutinum Special:Hymnus Quad5
 
 [Ant Matutinum]
 All the earth this day * is making glad memorial of the finding of the Cross, whose light is streaming over every land and people. Alleluia.;;1
@@ -58,7 +52,7 @@ V. Let all the earth worship thee, and sing unto thee. Alleluia.
 R. Let them sing praises to thy Name, O Lord. Alleluia.
 
 [Lectio1]
-Lesson from the letter of St Paul the Apostle to the Galatians
+Lesson from the letter of St. Paul the Apostle to the Galatians
 !Gal 3:10-14
 10 For as many as are of the works of the law, are under a curse. For it is written: Cursed is every one, that abideth not in all things, which are written in the book of the law to do them.
 11 But that in the law no man is justified with God, it is manifest: because the just man liveth by faith.
@@ -142,7 +136,7 @@ From the Holy Gospel according to John
 !John 3:1-15
 At that time There was a man of the Pharisees named Nicodemus, a ruler of the Jews. The same came to Jesus by night, and said unto Him Rabbi, we know that Thou art a Teacher come from God. And so on.
 _
-Homily by St Austin, Bishop of Hippo
+Homily by St. Augustine, Bishop of Hippo
 !11th Tract on John.
 Nicodemus was one of them which believed in the Name of Jesus, when they saw the signs and wonders which He did. So hath John given us to understand a few words before our text: "Now when He was in Jerusalem at the Passover, in the feast-day, many believed in His Name" And wherefore did they believe in His Name John telleth us immediately: "When they saw the miracles which He did." And now, what saith he touching Nicodemus? "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews. The same came to Jesus by night, and said unto Him Rabbi, we know that Thou art a Teacher come from God." Nicodemus therefore believed in His Name. And why did he believe He saith " For no man can do these miracles that Thou doest, except God be with him."
 
@@ -164,24 +158,9 @@ R. That whosoever believeth in Him should not perish, but have everlasting life.
 R. That whosoever believeth in Him should not perish, but have everlasting life. (Alleluia.)
 
 [Lectio93]
-!Commemoratio of Pope Alexander
-Alexander was a Roman, who ruled the Church during the reign of the Emperor Hadrian. He turned to Christ a great number of the Roman nobility. He ordained that nothing but bread and wine should be offered at the mystery, but that some water should be mingled with the wine, in memory of the Blood and Water Which flowed from the Side of Jesus Christ. He added to the Canon of the Mass the words " Who, the night before He suffered." He also ordained that blessed water mingled with salt, should be kept always in Churches, and should be used in private rooms to scare away devils. He sat in the throne of Peter ten years, five months, and twenty days. He hath great renown on account of the holiness of his life, and the usefulness of his institutions. He was crowned with martyrdom, (in the year 119,) together with the Priests Eventius and Theodulus, and was buried beside the Nomentan Way, at the third mile-stone from the city, in the same place where he had been beheaded. During his Popedom he held divers Advent ordinations, and at them ordained six Priests, two Deacons, and five Bishops for divers places. The bodies of these three Martyrs, Alexander, Eventius, and Theodulus, were afterwards brought into the city, and buried in the Church of St Sabina. On this day likewise, (about the year 367,) occurred the blessed death of Juvenal, the holy Bishop of Narni, who by the holiness of his life and teaching, became the father in Christ of so many of the dwellers in that city. He fell asleep very peacefully, with great fame for miracles, and was there honourably buried.
+!Commemoration of Pope Alexander
+Alexander was a Roman, who ruled the Church during the reign of the Emperor Hadrian. He turned to Christ a great number of the Roman nobility. He ordained that nothing but bread and wine should be offered at the mystery, but that some water should be mingled with the wine, in memory of the Blood and Water Which flowed from the Side of Jesus Christ. He added to the Canon of the Mass the words " Who, the night before He suffered." He also ordained that blessed water mingled with salt, should be kept always in Churches, and should be used in private rooms to scare away devils. He sat in the throne of Peter ten years, five months, and twenty days. He hath great renown on account of the holiness of his life, and the usefulness of his institutions. He was crowned with martyrdom, (in the year 119,) together with the Priests Eventius and Theodulus, and was buried beside the Nomentan Way, at the third mile-stone from the city, in the same place where he had been beheaded. During his Popedom he held divers Advent ordinations, and at them ordained six Priests, two Deacons, and five Bishops for divers places. The bodies of these three Martyrs, Alexander, Eventius, and Theodulus, were afterwards brought into the city, and buried in the Church of St. Sabina. On this day likewise, (about the year 367,) occurred the blessed death of Juvenal, the holy Bishop of Narni, who by the holiness of his life and teaching, became the father in Christ of so many of the dwellers in that city. He fell asleep very peacefully, with great fame for miracles, and was there honourably buried.
 &teDeum
-
-[Ant Laudes]
-O what a work of love was that * when Life and death died together upon the Tree. (Alleluia.)
-Save us, * O Christ the Saviour, save us through the might of thy Cross Thou Who didst save Peter when he was ready to sink in the sea, have mercy upon us. (Alleluia.)
-Behold, the Cross of the Lord! * fly, ye ranks of the adversary! The Lion of the tribe of Judah, the Root of David, hath prevailed. Alleluia.
-But us it behoveth to glory * in the Cross of our Lord Jesus Christ. (Alleluia.)
-By thy Cross' holy sign, * Jesus, guard this soul of mine from my ghostly enemy. (Alleluia.)
-
-[Capitulum Laudes]
-!Phil 2:5-7
-v. For let this mind be in you, which was also in Christ Jesus: Who being in the form of God, thought it not robbery to be equal with God: But emptied himself, taking the form of a servant, being made in the likeness of men, and in habit found as a man
-$Deo gratias.
-
-[Hymnus Laudes]
-@Psalterium/Major Special:Hymnus Quad5 Laudes
 
 [Versum 2]
 V. We adore thee, O Christ, and we bless thee. (Alleluia.)
@@ -206,18 +185,13 @@ $Per Dominum.
 !Phil 2:8-9
 v. He humbled himself, becoming obedient unto death, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names
 
-[Capitulum Tertia]
-!Phil 2:5-7.
-v. Brothers: For let this mind be in you, which was also in Christ Jesus,  who being in the form of God, thought it not robbery to be equal with God, but emptied himself, taking the form of a servant, being made in the likeness of men, and in habit found as a man. 
-$Deo gratias
-
 [Responsory Tertia]
-R.br. This sign of the Cross shall be in heaven. Alleluia, Alleluia.
-R. This sign of the Cross shall be in heaven. Alleluia, Alleluia.
+R.br. This sign of the Cross shall be in heaven. * Alleluia, Alleluia.
+R. This sign of the Cross shall be in heaven. * Alleluia, Alleluia.
 V. When the Lord cometh to judgment.
 R. Alleluia, Alleluia.
 &Gloria
-R. This sign of the Cross shall be in heaven. Alleluia, Alleluia.
+R. This sign of the Cross shall be in heaven. * Alleluia, Alleluia.
 _
 V. We adore thee, O Christ, and we bless thee. Alleluia.
 R. Because that through thy Cross Thou hast redeemed the world. (Alleluia.)
@@ -228,31 +202,26 @@ v. But God forbid that I should glory, save in the Cross of our Lord Jesus Chris
 $Deo gratias
 
 [Responsory Sexta]
-R.br. We adore thee, O Christ, and we bless thee. Alleluia, alleluia.
-R. We adore thee, O Christ, and we bless thee. Alleluia, alleluia.
+R.br. We adore thee, O Christ, and we bless thee. * Alleluia, alleluia.
+R. We adore thee, O Christ, and we bless thee. * Alleluia, alleluia.
 V. Because that through thy cross thou hast redeemed the world.
 R. Alleluia, alleluia.
 &Gloria
-R. We adore thee, O Christ, and we bless thee. Alleluia, Alleluia.
+R. We adore thee, O Christ, and we bless thee. * Alleluia, Alleluia.
 _
 V. Let all the earth worship thee, and sing unto thee. Alleluia.
 R. Let them sing praises to thy Name, O Lord. Alleluia.
 
-[Capitulum Nona]
-!Phil 2:8-9
-v. He humbled himself, becoming obedient unto death, even to the death of the cross. For which cause God also hath exalted him, and hath given him a name which is above all names
-$Deo gratias
-
 [Responsory Nona]
-R.br. Let all the earth worship thee, and sing unto thee. Alleluia, Alleluia.
-R. Let all the earth worship thee, and sing unto thee. Alleluia, alleluia.
+R.br. Let all the earth worship thee, and sing unto thee. * Alleluia, Alleluia.
+R. Let all the earth worship thee, and sing unto thee. * Alleluia, alleluia.
 V. Let them sing praises to thy Name, O Lord.
 R. Alleluia, Alleluia.
 &Gloria
-R. Let all the earth worship thee, and sing unto thee. Alleluia, Alleluia.
+R. Let all the earth worship thee, and sing unto thee. * Alleluia, Alleluia.
 _
 V. This sign of the Cross shall be in heaven. Alleluia.
 R. When the Lord cometh to judgement. Alleluia.
 
 [Ant 3]
-Jesus, our triumphant Head, * on the cross' ransom dread the hands of power and mercy spread that broke the prison of the dead. Alleluia.
+Jesus, our triumphant Head, * on the cross' ransom dread, the hands of power and mercy spread, that broke the prison of the dead. Alleluia.

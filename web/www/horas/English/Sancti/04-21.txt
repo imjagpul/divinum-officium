@@ -12,10 +12,7 @@ vide C4a;
 9 lectiones
 
 [Oratio]
-O God, who didst give blessed Anselm to be thy people minister in eternal~
-salvation grant we pray, that that we who have him for teacher of life here on~
-earth, may also deserve now that he is in heaven, to have him for an advocate
-$Per Dominum.
+@Commune/C4:Oratio2:s/N\./Anselm/
 
 [Lectio4]
 Anselm was born of noble and Catholic parents, named Gundulph and Hermenberga,~
@@ -25,7 +22,7 @@ life, gave no indistinct foreshadowing of the holiness and learning to which he~
 afterwards attained. The heat of youth drew him for a while into the snares of~
 the world, but he soon returned to his first courses, and, forsaking his country~
 and his goods, betook himself (in 1060.) to the monastery of Bee, under the rule~
-of St Benedict. There he made his profession as a monk, and under the rigid~
+of St. Benedict. There he made his profession as a monk, and under the rigid~
 discipline of Herluin, the Abbot, and the learned instruction of the profound~
 Lanfranc, with great zeal of spirit and eager obedience to the Rule, he made~
 such progress in learning and godliness, that he shone before all others as an~

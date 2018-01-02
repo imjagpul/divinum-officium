@@ -7,10 +7,6 @@ III Niedziela Wielkiego Postu;;I classis Semiduplex;;6
 [Ant 1]
 Rzekł ojciec * do sług swoich: Rychło przynieście pierwszą szatę, a obleczcie go; i dajcie pierścień na rękę jego, a buty na nogi jego.
 
-[Oratio]
-Prosimy Cię, Panie, wszechmogący Boże, wejrzyj na śluby pokornych i wyciągnij na obronę naszą prawicę majestatu Twego.
-$Per Dominum
-
 [Lectio1]
 Z Księgi Rodzaju
 !Rdz 37:2-10
@@ -96,7 +92,7 @@ R. Bo kradzieżą wzięto mię, a tu mię do tego dołu niewinnie wsadzono.
 
 [Lectio7]
 Czytanie Ewangelii świętej według Łukasza
-!Łk 11, 14-28
+!Łk 11:14-28
 Onego czasu: Wyrzucał Jezus czarta, a ten był niemy. A gdy wyrzucił czarta, przemówił niemy i zdumiały się rzesze. I tak dalej.
 _
 Homilia świętego Bedy Czcigodnego, Kapłana
@@ -127,8 +123,15 @@ R. Pogrążony w niezmiernym bólu błagam Króla niebios, aby dał mi ich ponow
 Uczyń dobrze, * w dobréj woli twojéj, Panie, aby się zbudowały mury Jeruzalem.
 Pan * pomocnikiem moim: nie będę się bał, coby mi uczynił człowiek.
 Przylgnęła dusza moja * do ciebie Boże mój.
-Vim virtutis suae * oblitus est ignis: ut pueri tui liberarentur illaesi
-Słońce i miesiącu * chwalcie Boha, bo wywyższyło się imię jego samego.
+Ogień zapomniał * mocy swojej: by dzieci twoje były wyzwolone od niego.
+Słońce i miesiącu * chwalcie Boga, bo wywyższyło się imię jego samego.
+
+[Ant Laudes] (rubrica 1570 aut rubrica 1910)
+Uczyń dobrze, * w dobréj woli twojéj, Panie, aby się zbudowały mury Jeruzalem.
+Pan * pomocnikiem moim: nie będę się bał, coby mi uczynił człowiek.
+Boże, zmiłuj się nad nami, * i pobłogosławi nam.
+Ogień zapomniał * mocy swojej: by dzieci twoje były wyzwolone od niego.
+Słońce i miesiącu * chwalcie Boga, bo wywyższyło się imię jego samego.
 
 [Capitulum Laudes]
 !Ef 5:1-2
@@ -143,9 +146,6 @@ Gdy wyrzucił Jezus * czarta, przemówił niemy: i dziwowały się rzesze.
 
 [Ant Tertia]
 Jeźli palcem Bożym * wyrzucam czarty, zaisteć na was przyszło królestwo Boże.
-
-[Capitulum Tertia]
-@:Capitulum Laudes
 
 [Ant Sexta]
 Kto nie zgromadza zemną, * rozprasza, a kto nie jest zemną, przeciwko mnie jest.
@@ -162,9 +162,6 @@ Gdy duch nieczysty * wynidzie od człowieka, chodzi po miejscach bezwodnych, szu
 !Ef 5:8-9
 v. Albowiemeście byli niekiedy ciemnością; lecz teraz światłością w Panu. Jako synowie światłości chodźcie. Bo owoc światłości jest w wszelakiéj dobrotliwości i sprawiedliwości i prawdzie.
 $Deo gratias
-
-[Capitulum Vespera]
-@:Capitulum Laudes
 
 [Ant 3]
 Podnosząc. głos * niektóra niewiasta z rzeszy rzekła: Błogosławiony żywot, który Cig nosił i piersi, któreś ssał. A Jezus rzekł jej: I owszem, błogosławieni, którzy słuchają słowa Bożego i strzegą go.

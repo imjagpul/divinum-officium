@@ -37,7 +37,7 @@ our $missa = 1;
 our $NewMass = 0;
 our $officium = 'missa.pl';
 our $version = 'Rubrics 1960';
-@versions = ('Trident 1570', 'Trident 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1960-1967', '1960 Newcalendar');
+@versions = ('Trident 1570', 'Trident 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1965-1967', '1960 Newcalendar');
 
 #***common variables arrays and hashes
 #filled  getweek()
@@ -226,7 +226,7 @@ PrintTag
   print << "PrintTag";
 <P ALIGN=CENTER>
 <TABLE BORDER=0 HEIGHT=$height><TR>
-<TD><IMG SRC="$htmlurl/missa.gif" HEIGHT=$height></TD>
+<TD><IMG SRC="$htmlurl/missa.jpg" HEIGHT=$height></TD>
 </TR></TABLE>
 <BR>
 </P>
@@ -266,7 +266,7 @@ my $sel13 = ($testmode =~ /Saint/i) ? 'SELECTED' : '';
 
   print << "PrintTag";
 &nbsp;&nbsp;&nbsp;
-<SELECT NAME=testmode SIZE=4 onclick="parchange();">
+<SELECT NAME=testmode SIZE=4 onchange="parchange();">
 <OPTION $sel10 VALUE='regular'>regular
 <OPTION $sel11 VALUE='Seasonal'>Seasonal
 <OPTION $sel12 VALUE='Season'>Season
@@ -278,7 +278,7 @@ my $sel10 = (!$testmode || $testmode =~ /regular/i) ? 'SELECTED' : '';
 my $sel11 = ($testmode =~ /Seasonal/i) ? 'SELECTED' : '';
   print << "PrintTag";
 &nbsp;&nbsp;&nbsp;
-<SELECT NAME=testmode SIZE=2 onclick="parchange();">
+<SELECT NAME=testmode SIZE=2 onchange="parchange();">
 <OPTION $sel10 VALUE='regular'>regular
 <OPTION $sel11 VALUE='Seasonal'>Seasonal
 </SELECT>
@@ -297,7 +297,7 @@ $sel[0] = '';
 for ($i = 1; $i < @votive; $i++) {$sel[$i] = ($votive =~ $votive[$i]) ? 'SELECTED' : '';} 
 $osize = (@votive > $vsize) ? $vsize : @votive;
 
-$addvotive =  "&nbsp;&nbsp;&nbsp;\n<SELECT NAME=votive SIZE=$osize onclick=\"parchange()\">\n";
+$addvotive =  "&nbsp;&nbsp;&nbsp;\n<SELECT NAME=votive SIZE=$osize onchange=\"parchange()\">\n";
 for ($i = 0; $i < @votive; $i++) {$addvotive .= "<OPTION $sel[$i] VALUE=\"$votive[$i]\">$votive[$i]\n";} 
 $addvotive .= "</SELECT>\n"; 
 
@@ -310,7 +310,7 @@ my $lang_count = @languages;
 
   print << "PrintTag";
 &nbsp;&nbsp;&nbsp;
-<SELECT NAME=lang2 SIZE="$lang_count" onclick="parchange()">
+<SELECT NAME=lang2 SIZE="$lang_count" onchange="parchange()">
 PrintTag
 foreach my $lang (@languages)
 {

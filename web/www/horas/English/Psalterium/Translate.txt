@@ -174,3 +174,27 @@ After
 
 [Commemoratio]
 Commemoration
+
+[Antiphona]
+Antiphon
+
+[Antiphonae]
+Antiphons
+
+[et Psalmi]
+and psalms
+
+[Psalmi, antiphonae]
+Psalms, antiphons
+
+[Psalmi et antiphonae]
+Psalms and antiphons
+
+[Psalmi Dominica, antiphonae]
+Psalms for Sunday, antiphons
+
+[Evangelist]
+Matt|Mark|Luke|John
+
+[Antiphona finalis BMV]
+Final Antiphon of the Blessed Virgin Mary

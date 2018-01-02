@@ -54,6 +54,7 @@ our $vespera; #1 | 3 index for ant, versum, oratio
 our $cvespera; #for commemoratio
 our $commemorated; #name of the commemorated for vigils
 our $comrank = 0; #rank of the commemorated office
+our $litaniaflag = 0;
 
 #filled by precedence()
 our %winner; #the hash of the winner 
@@ -372,7 +373,7 @@ PrintTag
   print "</SELECT>\n";
 
 if ($savesetup > 1) {
-my $sel10 = (!$testmode || $testmode =~ /regular/i) ? 'SELECTED' : '';
+my $sel10 = (!$testmode || $testmode =~ /Regular/i) ? 'SELECTED' : '';
 my $sel11 = ($testmode =~ /Seasonal/i) ? 'SELECTED' : '';
 my $sel12 = ($testmode =~ /^Season$/i) ? 'SELECTED' : '';
 my $sel13 = ($testmode =~ /Saint/i) ? 'SELECTED' : '';
@@ -381,7 +382,7 @@ my $sel14 = ($testmode =~ /Common/i) ? 'SELECTED' : '';
   print << "PrintTag";
 &nbsp;&nbsp;&nbsp;
 <SELECT NAME=testmode SIZE=4 onchange="parchange();">
-<OPTION $sel10 VALUE='regular'>regular
+<OPTION $sel10 VALUE='Regular'>Regular
 <OPTION $sel11 VALUE='Seasonal'>Seasonal
 <OPTION $sel12 VALUE='Season'>Season
 <OPTION $sel13 VALUE='Saint'>Saint
@@ -389,12 +390,12 @@ my $sel14 = ($testmode =~ /Common/i) ? 'SELECTED' : '';
 </SELECT>
 PrintTag
 } else {
-my $sel10 = (!$testmode || $testmode =~ /regular/i) ? 'SELECTED' : '';
+my $sel10 = (!$testmode || $testmode =~ /Regular/i) ? 'SELECTED' : '';
 my $sel11 = ($testmode =~ /Seasonal/i) ? 'SELECTED' : '';
   print << "PrintTag";
 &nbsp;&nbsp;&nbsp;
 <SELECT NAME=testmode SIZE=2 onchange="parchange();">
-<OPTION $sel10 VALUE='regular'>regular
+<OPTION $sel10 VALUE='Regular'>Regular
 <OPTION $sel11 VALUE='Seasonal'>Seasonal
 </SELECT>
 PrintTag
@@ -451,17 +452,15 @@ $addlocal<BR>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 <A HREF=# onclick="pset('parameters')">Options</A>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<A HREF="$htmlurl/Help/versions.html" TARGET="_NEW">Versions</A>
+<A HREF="../../www/horas/Help/versions.html" TARGET="_BLANK">Versions</A>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<A HREF="$htmlurl/Help/credits.html" TARGET="_NEW">Credits</A>
+<A HREF="../../www/horas/Help/credits.html" TARGET="_BLANK">Credits</A>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<A HREF="$htmlurl/Help/new.html" TARGET="_NEW">What's new</A>
+<A HREF="../../www/horas/Help/download.html" TARGET="_BLANK">Download</A>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<A HREF="$htmlurl/Help/download.html" TARGET="_NEW">Download</A>
+<A HREF="../../www/horas/Help/rubrics.html" TARGET="_BLANK">Rubrics</A>
 &nbsp;&nbsp;&nbsp;&nbsp; 
-<A HREF="$htmlurl/Help/rubrics.html" TARGET="_NEW">Rubrics</A>
-&nbsp;&nbsp;&nbsp;&nbsp; 
-<A HREF="$htmlurl/Help/Ahelp.html" TARGET="_NEW">Help</A>
+<A HREF="../../www/horas/Help/help.html" TARGET="_BLANK">Help</A>
 </FONT>
 </P>
 PrintTag
@@ -520,7 +519,7 @@ sub headline {
 <P ALIGN=CENTER><FONT COLOR=$daycolor>$headline<BR></FONT>
 $comment<BR><BR>
 <FONT COLOR=MAROON SIZE=+1><B><I>$head</I></B></FONT>
-&nbsp;<FONT COLOR=RED SIZE=+1>$version<P>
+&nbsp;<FONT COLOR=RED SIZE=+1>$version</FONT></P>
 <P ALIGN=CENTER><A HREF=# onclick="callmissa();">Sancta Missa</A>
 &nbsp;&nbsp;&nbsp;
 <INPUT TYPE=TEXT NAME=date VALUE="$date1" SIZE=10>
@@ -618,7 +617,7 @@ function linkit(name,ind,lang) {
   document.forms[0].expandnum.value=ind;  
   if (ind == 0) {   
      document.forms[0].action = 'popup.pl';
-     document.forms[0].target = '_NEW';
+     document.forms[0].target = '_BLANK';
   } else {
      var c = document.forms[0].command.value;
      if (!c.match('pray')) document.forms[0].command.value = "pray" + c;

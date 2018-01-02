@@ -1,5 +1,5 @@
 [Rank]
-Feria Sexta infra Hebdomadam IV post Octavam Paschae;;Feria;;1
+Feria Sexta infra Hebdomadam IV post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -7,57 +7,46 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De Epistola beati Jacobi Apostoli.
+De Epístola beáti Jacóbi Apostóli
 !Jas 4:1-4
-1 Unde bella et lites in vobis? Nonne hinc: ex concupiscentiis vestris, quae militant in membris vestris?
-2 Concupiscitis, et non habetis: occiditis, et zelatis: et non potestis adipisci: litigatis, et belligeratis, et non habetis, propter quod non postulatis.
-3 Petitis, et non accipitis: eo quod male petatis: ut in concupiscentiis vestris insumatis.
-4 Adulteri, nescitis quia amicitia hujus mundi inimica est Dei? Quicumque ergo voluerit amicus esse saeculi hujus, inimicus Dei constituitur.
+1 Unde bella et lites in vobis? nonne hinc: ex concupiscéntiis vestris, quæ mílitant in membris vestris?
+2 concupíscitis, et non habétis: occíditis, et zelátis: et non potéstis adipísci: litigátis, et belligerátis, et non habétis, propter quod non postulátis.
+3 Pétitis, et non accípitis: eo quod male petátis: ut in concupiscéntiis vestris insumátis.
+4 Adúlteri, nescítis quia amicítia huius mundi inimíca est Dei? quicúmque ergo volúerit amícus esse sǽculi huius, inimícus Dei constitúitur.
 
 [Responsory1]
-R. In ecclesiis benedicite Deo, alleluia,
-* Domino de fontibus Isra�l, alleluia, alleluia.
-V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
-R. Domino de fontibus Isra�l, alleluia, alleluia.
+@Tempora/Pasc4-0:Responsory4
 
 [Lectio2]
 !Jas 4:5-10
-5 An putatis quia inaniter Scriptura dicat: Ad invidiam concupiscit spiritus qui habitat in vobis?
-6 Majorem autem dat gratiam. Propter quod dicit: Deus superbis resistit, humilibus autem dat gratiam.
-7 Subditi ergo estote Deo, resistite autem diabolo, et fugiet a vobis.
-8 Appropinquate Deo, et appropinquabit vobis. Emundate manus, peccatores: et purificate corda, duplices animo.
-9 Miseri estote, et lugete, et plorate: risus vester in luctum convertatur, et gaudium in m�rorem.
-10 Humiliamini in conspectu Domini, et exaltabit vos.
+5 An putátis quia inániter Scriptúra dicat: Ad invídiam concupíscit spíritus qui hábitat in vobis?
+6 maiórem autem dat grátiam. Propter quod dicit: Deus supérbis resístit, humílibus autem dat grátiam.
+7 Súbditi ergo estóte Deo, resístite autem diábolo, et fúgiet a vobis.
+8 Appropinquáte Deo, et appropinquábit vobis. Emundáte manus, peccatóres: et purificáte corda, dúplices ánimo.
+9 Míseri estóte, et lugéte, et ploráte: risus vester in luctum convertátur, et gáudium in mœrórem.
+10 Humiliámini in conspéctu Dómini, et exaltábit vos.
 
 [Responsory2]
-R. In toto corde meo, alleluia, exquisivi te, alleluia:
-* Ne repellas me a mandatis tuis, alleluia, alleluia.
-V. Benedictus es tu, Domine, doce me justificationes tuas.
-R. Ne repellas me a mandatis tuis, alleluia, alleluia.
+@Tempora/Pasc4-0:Responsory5
 &Gloria
-R. Ne repellas me a mandatis tuis, alleluia, alleluia.
+R. Ne repéllas me a mandátis tuis, allelúja, allelúja.
 
 [Lectio3]
 !Jas 4:11-15
-11 Nolite detrahere alterutrum fratres. Qui detrahit fratri, aut qui judicat fratrem suum, detrahit legi, et judicat legem. Si autem judicas legem, non es factor legis, sed judex.
-12 Unus est legislator et judex, qui potest perdere et liberare.
-13 Tu autem quis es, qui judicas proximum? Ecce nunc qui dicitis: Hodie, aut crastino ibimus in illam civitatem, et faciemus ibi quidem annum, et mercabimur, et lucrum faciemus:
-14 qui ignoratis quid erit in crastino.
-15 Quae est enim vita vestra? Vapor est ad modicum parens, et deinceps exterminabitur; pro eo ut dicatis: Si Dominus voluerit, et: Si vixerimus, faciemus hoc, aut illud.
+11 Nolíte detráhere altérutrum fratres. Qui détrahit fratri, aut qui iúdicat fratrem suum, détrahit legi, et iúdicat legem. Si autem iúdicas legem, non es factor legis, sed iudex.
+12 Unus est legislátor et iudex, qui potest pérdere et liberáre.
+13 Tu autem quis es, qui iúdicas próximum? Ecce nunc qui dícitis: Hódie, aut crástino íbimus in illam civitátem, et faciémus ibi quidem annum, et mercábimur, et lucrum faciémus:
+14 qui ignorátis quid erit in crástino.
+15 Quæ est enim vita vestra? vapor est ad módicum parens, et deínceps exterminábitur; pro eo ut dicátis: Si Dóminus volúerit. Et: Si vixérimus, faciémus hoc, aut illud.
 
 [Responsory3]
-R. Hymnum cantate nobis, alleluia:
-* Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
-V. Illic interrogaverunt nos, qui captivos duxerunt nos, verba cantionum.
-R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
-&Gloria
-R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
+@Tempora/Pasc4-0:Responsory6
 
 [Ant 2]
-Isti sunt sermones, * quos dicebam vobis, cum essem vobiscum, alleluia, alleluia.
+Isti sunt sermónes, * quos dicébam vobis, cum essem vobíscum, allelúja, allelúja.
 
 [Ant 3]
-Vado ad eum * qui misit me: et nemo ex vobis interrogat me: Quo vadis? alleluia, alleluia.
+@Tempora/Pasc4-0:Ant 2
 
 [Ant 3] (rubrica 1960)
-Vado ad eum * qui misit me: sed quia haec locutus sum vobis, tristitia implevit cor vestrum, alleluia.
+@Tempora/Pasc4-0:Ant 3

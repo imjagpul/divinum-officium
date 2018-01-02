@@ -1,11 +1,11 @@
 [Rank]
-Sanctissimi Rosarii Beatae Mariae Virginis;;Duplex 2 classis;;5.1;;ex C11
+Sanctissimi Rosarii Beatæ Mariæ Virginis;;Duplex 2 classis;;5.1;;ex C11
 
 [Rank1960]
-Sanctissimi Rosarii Beatae Mariae Virginis;;Duplex 2 classis;;5;;ex C11
+Beatæ Mariæ Virginis a Rosario;;Duplex 2 classis;;5;;ex C11
 
 [RankNewcal]
-Sanctissimi Rosarii Beatae Mariae Virginis;;Duplex;;3;;ex C11
+Sanctissimi Rosarii Beatæ Mariæ Virginis;;Duplex;;3;;ex C11
 
 [Rule]
 ex C11;
@@ -16,62 +16,58 @@ Doxology=Nat
 CPapaC=Marcum;
 
 [Ant Vespera]
-Quae est ista, * speciosa sicut columba, quasi rosa plantata super rivos aquarum?;;109
-Virgo potens, * sicut turris David; mille clypei pendent ex ea, omnis armatura fortium.;;112
-Ave Maria, * gratia plena, Dominus tecum, benedicta tu in mulieribus.;;121
-Benedixit te Dominus * in virtute sua, quia per te ad nihilum redegit inimicos nostros.;;126
-Viderunt eam * filiae Sion vernantem in floribus rosarum, et beatissimam praedicaverunt.;;147
+Quæ est ista, * speciósa sicut colúmba, quasi rosa plantáta super rivos aquárum?;;109
+Virgo potens, * sicut turris David: mille clípei pendent ex ea, omnis armatúra fórtium.;;112
+Ave, Maria, * grátia plena; Dóminus tecum: benedícta tu in muliéribus.;;121
+Benedíxit te Dóminus * in virtúte sua, quia per te ad níhilum redégit inimícos nostros.;;126
+Vidérunt eam * fíliæ Sion vernántem in flóribus rosárum, et beatíssimam prædicavérunt.;;147
 
 [Capitulum Vespera]
-!Sir 24:25;39:17
-v. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis: ego quasi rosa plantata super rivos aquarum fructificavi.
+!Sir 24:25; 39:17
+v. In me grátia omnis viæ et veritátis, in me omnis spes vitæ et virtútis. Ego, quasi rosa plantáta super rivos aquárum, fructificávi.
 $Deo gratias
 
 [Hymnus Vespera]
-v. Caelestis aulae nuntius,
-Arcana pandens Numinis,
-Plenam salutat gratia
-Dei Parentem Virginem.
+v. Cæléstis aulæ Núntius,
+Arcána pandens Núminis,
+Plenam salútat grátia
+Dei Paréntem Vírginem.
 _
-Virgo propinquam sanguine
-Matrem Joannis visitat,
-Qui clausus alvo gestiens
-Adesse Christum nuntiat.
+Virgo propínquam sánguine
+Matrem Joánnis vísitat,
+Qui, clausus alvo, géstiens
+Adésse Christum núntiat.
 _
-Verbum, quod ante saecula
-E mente Patris prodiit,
-E Matris alvo Virginis
-Mortalis Infans nascitur.
+Verbum, quod ante sǽcula
+E mente Patris pródiit,
+E Matris alvo Vírginis,
+Mortális Infans, náscitur.
 _
-Templo puellus sistitur,
-Legique paret Legifer
-Hic se Redemptor paupere
-Pretio redemptus immolat.
+Templo puéllus sístitur,
+Legíque paret Légifer,
+Hic se Redémptor páupere
+Prétio redémptus ímmolat.
 _
-Quem jam dolebat perditum,
-Mox laeta Mater invenit
-Ignota doctis mentibus
-Edisserentem Filium.
+Quem jam dolébat pérditum,
+Mox læta Mater ínvenit
+Ignóta doctis méntibus
+Edisseréntem Fílium.
 _
-Jesu, tibi sit gloria,
-Qui natus es de Virgine,
-Cum Patre et almo Spiritu
-In sempiterna saecula.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Versum 1]
-V. Regina sacratissimi Rosarii, ora pro nobis.
-R. Ut digni efficiamur promissionibus Christi.
+V. Regína sacratíssimi Rosárii, ora pro nobis.
+R. Ut digni efficiámur promissiónibus Christi.
 
 [Ant 1]
-Beata es * Virgo Maria, Dei Genitrix, quae credidisti Domino; perfecta sunt in te quae dicta sunt tibi, intercede pro nobis ad Dominum Deum nostrum.
+Beáta es, * Virgo Maria, Dei Génetrix, quæ credidísti Dómino; perfécta sunt in te quæ dicta sunt tibi, intercéde pro nobis ad Dóminum, Deum nostrum.
 
 [Oratio]
-Deus, cujus Unigenitus per vitam, mortem et resurrectionem suam nobis salutis aeternae praemia comparavit: concede quaesumus: ut haec mysteria sanctissimo beatae Mariae Virginis Rosario recolentes, et imitemur quod continent, et quod promittunt, assequamur.
+Deus, cujus Unigénitus per vitam, mortem et resurrectiónem suam nobis salútis ætérnæ prǽmia comparávit: concéde, quǽsumus; ut hæc mystéria sanctíssimo beátæ Maríæ Vírginis Rosário recoléntes, et imitémur quod cóntinent, et quod promíttunt, assequámur.
 $Per eumdem
 
 [Commemoratio 2]
-!Commemoratio S. Marci Papae
+!Commemoratio S. Marci Papæ
 @Commune/C4:Oratio proper Gregem
 _
 $Oremus
@@ -81,309 +77,290 @@ _
 !Commemoratio Ss. Martyrum Sergii, Bacchi, Marcelli et Apuleji
 @Commune/C3:Oratio proper
 $Oremus
-Sanctorum Martyrum tuorum nos Domine, Sergii, Bacchi, Marcelli et Apuleji beata
-merita prosequantur: et tuo semper faciant amore ferventes.
+Sanctórum Mártyrum tuórum nos, Dómine, Sergii, Bacchi, Marcelli et Apuleji beáta merita prosequántur: et tuo semper fáciant amore fervéntes. 
 $Per Dominum
 
 [Invit]
-Solemnitatem Rosarii Virginis Mariae celebremus: * Christum ejus Filium adoremus Dominum.
+Solemnitátem Rosárii Vírginis Maríæ celebrémus: * Christum ejus Fílium adorémus Dóminum.
 
 [Hymnus Matutinum]
-v. In monte olivis consito
-Redemptor orans, procidit,
-Moeret, pavescit, deficit,
-Sudore manans sanguinis.
+v. In monte olivis cónsito
+Redémptor orans prócidit,
+Mæret, pavéscit, déficit,
+Sudóre manans sánguinis.
 _
-A proditore traditus
-Raptatur in poenas Deus,
-Durisque vinctus nexibus
-Flagris cruentis caeditur.
+A proditóre tráditus
+Raptátur in pœnas Deus,
+Durísque vinctus néxibus,
+Flagris cruéntis cǽditur.
 _
-Intexta acutis sentibus,
-Corona contumeliae,
-Squallenti amictum purpura,
-Regem coronat gloriae.
+Intéxta acútis séntibus,
+Coróna contuméliæ,
+Squalénti amíctum púrpura,
+Regem corónat glóriæ.
 _
-Molis crucem ter arduae,
-Sudans, anhelans concidens,
-Ad montis usque verticem
-Gestare vi compellitur.
+Molis crucem ter árduæ,
+Sudans, anhélans, cóncidens,
+Ad montis usque vérticem
+Gestáre vi compéllitur.
 _
-Confixus atro stipite
-Inter scelestos innocens,
-Orando pro tortoribus,
-Exsanguis efflat spiritum.
+Confíxus atro stípite
+Inter sceléstos ínnocens,
+Orándo pro tortóribus,
+Exsánguis efflat spíritum.
 _
-Jesu, tibi sit gloria,
-Qui natus es de Virgine,
-Cum Patre et almo Spiritu
-In sempiterna saecula.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Ant Matutinum]
-Angelus Gabriel * nuntiavit Mariae et concepit de Spiritu Sancto.;;8
-Intravit Maria * in domum Zachariae, et salutavit Elisabeth.;;18
-Peperit Filium suum * primogenitum, et reclinavit eum in praesepio.;;23
-V. Sancta Dei Genitrix semper Virgo Maria.
-R. Intercede pro nobis ad Dominum Deum nostrum.
-Cum inducerent * Jesum parentes ejus, ut sisterent eum Domino, Simeon accepit eum in ulnas suas, et benedixit Deum.;;44
-Requirentes Jesum * parentes ejus, invenerunt illum post triduum in medio doctorum.;;45
-Coepit contristari, * et factus est sudor ejus in horto, sicut guttae sanguinis.;;86
-V. Post partum Virgo inviolata permansisti.
-R. Dei Genitrix, intercede pro nobis.
-Apprehendit * Pilatus Jesum, et flagellavit.;;95
-Milites plectentes coronam * de spinis, imposuerunt super caput ejus.;;96
-Crucis imperium * super humerum ejus: regnavit a ligno Deus.;;97
-V. Speciosa facta es et suavis.
-R. In deliciis tuis, sancta Dei Genitrix.
+Angelus Gábriel * nuntiávit Maríæ: et concépit de Spíritu Sancto.;;8
+Intrávit Maria * in domum Zacharíæ, et salutávit Elísabeth.;;18
+Péperit Fílium suum * primogénitum, et reclinávit eum in præsépio.;;23
+V. Sancta Dei Génetrix, semper Virgo Maria.
+R. Intercéde pro nobis ad Dóminum, Deum nostrum.
+Cum indúcerent * Jesum paréntes ejus, ut sísterent eum Dómino, Simeon accépit eum in ulnas suas, et benedíxit Deum.;;44
+Requiréntes Jesum * paréntes ejus, invenérunt illum post tríduum in médio doctórum.;;45
+Cœpit contristári, * et factus est sudor ejus in horto sicut guttæ sánguinis.;;86
+V. Post partum, Virgo, invioláta permansísti.
+R. Dei Génetrix, intercéde pro nobis.
+Apprehéndit * Pilátus Jesum, et flagellávit.;;95
+Mílites plecténtes corónam * de spinis, imposuérunt super caput ejus.;;96
+Crucis impérium * super húmerum ejus: regnávit a ligno Deus.;;97
+V. Speciósa facta es et suávis.
+R. In delíciis tuis, sancta Dei Génetrix.
 
 [Lectio1]
-De Libro Ecclesiastici.
+De Libro Ecclesiástici
 !Sir 24:11-16
-11 In omnibus requiem quaesivi, et in hereditate Domini morabor.
-12 Tunc praecepit, et dixit mihi Creator omnium: et qui creavit me, requievit in tabernaculo meo.
-13 Et dixit mihi: In Jacob inhabita, et in Isra�l hereditare, et in electis meis mitte radices.
-14 Ab initio et ante saecula creata sum, et usque ad futurum saeculum non desinam: et in habitatione sancta coram ipso ministravi.
-15 Et sic in Sion firmata sum, et in civitate sanctificata similiter requievi, et in Jerusalem potestas mea.
-16 Et radicavi in populo honorificato, et in parte Dei mei hereditas illius, et in plenitudine sanctorum detentio mea.
+11 In ómnibus réquiem quæsívi, et in hereditáte Dómini morábor. 
+12 Tunc præcépit, et dixit mihi Creator ómnium: et, qui creávit me, requiévit in tabernáculo meo, 
+13 et dixit mihi: In Jacob inhábita, et in Israël hereditáre, et in eléctis meis mitte radíces. 
+14 Ab inítio et ante sǽcula creáta sum, et usque ad futúrum sǽculum non désinam, et in habitatióne sancta coram ipso ministrávi. 
+15 Et sic in Sion firmáta sum, et in civitáte sanctificáta simíliter requiévi, et in Jerúsalem potéstas mea. 
+16 Et radicávi in pópulo honorificáto, et in parte Dei mei heréditas illíus, et in plenitúdine sanctórum deténtio mea.
 
 [Responsory1]
-R. Sumite psalterium jucundum in insigni die solemnitatis vestrae
-* Et exsultate Virgini adjutrici nostrae.
-V. Cantate ei canticum novum: annuntiate inter gentes gloriam ejus.
-R. Et exsultate Virgini adjutrici nostrae.
+R. Súmite psaltérium jucúndum in insígni die solemnitátis vestræ: 
+* Et exsultáte Virgini adjutríci nostræ.
+V. Cantáte ei cánticum novum: annuntiáte inter gentes glóriam ejus.
+R. Et exsultáte Virgini adjutríci nostræ.
 
 [Lectio2]
 !Sir 24:17-22
-17 Quasi cedrus exaltata sum in Libano, et quasi cypressus in monte Sion:
-18 quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho:
-19 quasi oliva speciosa in campis, et quasi platanus exaltata sum juxta aquam in plateis.
-20 Sicut cinnamomum et balsamum aromatizans odorem dedi; quasi myrrha electa dedi suavitatem odoris:
-21 et quasi storax, et galbanus, et ungula, et gutta, et quasi Libanus non incisus vaporavi habitationem meam, et quasi balsamum non mistum odor meus.
-22 Ego quasi terebinthus extendi ramos meos, et rami mei honoris et gratiae.
+17 Quasi cedrus exaltáta sum in Líbano, et quasi cypréssus in monte Sion:
+18 quasi palma exaltáta sum in Cades, et quasi plantátio rosæ in Jericho:
+19 quasi olíva speciósa in campis, et quasi plátanus exaltáta sum juxta aquam in platéis.
+20 Sicut cinnamómum et bálsamum aromatízans odórem dedi: quasi myrrha elécta, dedi suavitátem odóris; 
+21 et quasi storax, et gálbanus, et úngula, et gutta, et quasi Líbanus non incísus vaporávi habitatiónem meam, et quasi bálsamum non mixtum odor meus. 
+22 Ego quasi terebínthus exténdi ramos meos, et rami mei honóris et grátiæ.
 
 [Responsory2]
-R. Vidi speciosam ascendentem desuper rivos aquarum cujus inaestimabilis odor erat nimis:
-* Et sicut dies verni circumdabant eam flores rosarum et lilia convallium.
-V. Astitit Regina a dextris tuis in vestitu deaurato circumdata varietate.
-R. Et sicut dies verni circumdabant eam flores rosarum et lilia convallium.
+R. Vidi speciósam ascendéntem désuper rivos aquárum; cujus inæstimábilis odor erat nimis; 
+* Et sicut dies verni circumdábant eam flores rosárum et lília convállium.
+V. Astitit Regína a dextris tuis in vestítu deauráto, circúmdata varietáte.
+R. Et sicut dies verni circumdábant eam flores rosárum et lília convallium.
 
 [Lectio3]
 !Sir 24:24-31
-24 Ego mater pulchrae dilectionis, et timoris, et agnitionis, et sanctae spei.
-25 In me gratia omnis viae et veritatis: in me omnis spes vitae et virtutis.
-26 Transite ad me, omnes qui concupiscitis me, et a generationibus meis implemini:
-27 spiritus enim meus super mel dulcis, et hereditas mea super mel et favum.
-28 Memoria mea in generatione saeculorum.
-29 Qui edunt me, adhuc esurient, et qui bibunt me, adhuc sitient.
-30 Qui audit me non confundetur, et qui operantur in me non peccabunt:
-31 qui elucidant me, vitam aeternam habebunt.
+24 Ego mater pulchræ dilectiónis, et timóris, et agnitiónis, et sanctæ spei. 
+25 In me grátia omnis viæ et veritátis, in me omnis spes vitæ et virtútis. 
+26 Transíte ad me, omnes qui concupíscitis me, et a generatiónibus meis implémini; 
+27 spíritus enim meus super mel dulcis, et heréditas mea super mel et favum. 
+28 Memória mea in generatiónes sæculórum. 
+29 Qui edunt me, adhuc esúrient, et qui bíbunt me, adhuc sítient. 
+30 Qui audit me non confundétur, et qui operántur in me non peccábunt. 
+31 Qui elúcidant me, vitam æternam habébunt.
 
 [Responsory3]
-R. Quae est ista quae processit sicut sol, et formosa tamquam Jerusalem? Viderunt eam filiae Sion et beatam dixerunt:
-* Et reginae laudaverunt eam.
-V. Et sicut dies verni circumdabant eam flores rosarum et lilia convallium.
-R. Et reginae laudaverunt eam.
+R. Quæ est ista quæ procéssit sicut sol, et formósa tamquam Jerúsalem? Vidérunt eam fíliæ Sion, et beátam dixérunt, 
+* Et regínæ laudavérunt eam.
+V. Et sicut dies verni circúmdabant eam flores rosárum et lília convállium.
+R. Et regínæ laudavérunt eam.
 &Gloria
-R. Et reginae laudaverunt eam.
+R. Et regínæ laudavérunt eam.
 
 [Lectio4]
-Cum Albigensium haeresis per Tolosatium regionem impies grassaretur atque altius in dies radices ageret, sanctus Dominicus, qui nuper Praedicatorum ordinis fundamenta jecerat, ad eam convellendam totus incubuit. Id ut praestaret validius, auxilium beatae Virginis, cujus dignitas illis erroribus impudentissime petebatur, cuique datum est cunctas haereses interimere in universo mundo, enixis precibus imploravit. A qua (ut memoriae proditum est) cum monitus esset ut Rosarium populis praedicaret, velut singulare adversus haereses ac vitia praesidium; mirum est, quanto mentis fervore et quam felici successu injunctum sibi munus sit exsecutus. Est autem Rosarium certa precandi formula, qua quindecim angelicarum salutationum decades, oratione dominica interjecta distinguimus, et ad earum singulas totidem nostrae reparationis mysteria pia meditatione recolimus. Ex eo ergo tempore pius hic orandi modus mirabiliter per sanctum Dominicum promulgari augerique coepit; quem eiusdem institutorem auctoremque fuisse Summi Pontifices apostolicis litteris passim affirmarunt.
+Cum Albigénsium hǽresis per Tolosátium regiónem ímpie grassarétur, atque altius in dies radíces ágeret, sanctus Domínicus, qui nuper Prædicatórum órdinis fundaménta jécerat, ad eam convelléndam totus incúbuit. Id ut præstáret valídius, auxílium beátæ Vírginis, cujus dígnitas illis erróribus impudentíssime petebátur, cuíque datum est cunctas hǽreses interímere in univérso mundo, eníxis précibus implorávit. A qua (ut memóriæ próditum est) cum mónitus esset ut Rosárium pópulis prædicáret, velut singuláre advérsus hǽreses ac vítia præsídium; mirum est quanto mentis fervóre et quam felíci succéssu injunctum sibi munus sit exsecútus. Est autem Rosárium certa precándi fórmula, qua quíndecim angelicárum salutatiónum décades, oratióne Domínica interjécta, distínguimus, et ad eárum síngulas tótidem nostræ reparatiónis mystéria, pia meditatióne recólimus. Ex eo ergo témpore pius hic orándi modus mirabíliter per sanctum Domínicum promulgári augeríque cœpit. Quem ejúsdem institutórem auctorémque fuísse, summi Pontífices apostólicis lítteris passim affirmárunt.
 
 [Responsory4]
-R. Tu gloria Jerusalem, tu laetitia Isra�l, tu honorificentia populi nostri fecisti viriliter:
-* Quia cunctas haereses sola interemisti.
-V. Pulchra es et decora, terribilis ut castrorum acies ordinata.
-R. Quia cunctas haereses sola interemisti.
+R. Tu glória Jerúsalem, tu lætítia Israël, tu honorificéntia pópuli nostri, fecísti viríliter: 
+* Quia cunctas hǽreses sola interemísti.
+V. Pulchra es et decóra, terríbilis ut castrórum ácies ordináta.
+R. Quia cunctas hǽreses sola interemisti.
 
 [Lectio5]
-Innumerabiles porro fructus ex hac tam salutari institutione in christianam rempublicam dimanarunt, inter quos victoria illa merito numeratur, quam sanctissimus Pontifex Pius quintus, et ab eo inflammati christiani principes apud Echinadas insulas de Turcarum tyranno potentissimo reportarunt. Nam cum illa ipsa die ea victoria relata sit, qua die sanctissimi Rosarii sodalitates per universum orbem consuetas supplicationes peragerent, statutasque preces de more funderent, iis precibus haud immerito refertur accepta. Quod quidem cum etiam Gregorius tertius decimus testatus esset, ut pro tam singulari beneficio beatae Virgini sub appellatione Rosarii perennes gratiae ubique terrarum haberentur, in ecclesiis omnibus, in quibus altare Rosarii foret, prima quaque Octobris Dominica Officium ritu duplici majori perpetuo celebrandum indixit: aliaeque Pontifices Rosarium recitantibus eiusdemque Rosarii sodalitatibus indulgentias pene innumeras concessere.
+Innumerábiles porro fructus ex hac tam salutári institutióne in christiánam rempúblicam dimanárunt. Inter quos victória illa mérito numerátur, quam sanctíssimus Póntifex Pius quintus et ab eo inflammáti christiáni príncipes apud Echínadas ínsulas de Turcárum tyránno potentíssimo reportárunt. Nam, cum illa ipsa die ea victória reláta sit, qua die sacratíssimi Rosárii sodalitátes per univérsum orbem consuétas supplicatiónes perágerent statutásque preces de more fúnderent, iis précibus haud immérito refértur accépta. Quod quidem cum étiam Gregórius tértius décimus testátus esset; ut pro tam singulári benefício beátæ Vírgini sub appellatióne Rosárii perénnes grátiæ ubíque terrárum haberéntur, in ecclésiis ómnibus, in quibus altáre Rosárii foret, Offícium, ritu dúplici majóri, perpétuo de eo celebrándum indíxit; aliíque Pontífices Rosárium recitántibus ejusdémque Rosárii sodalitátibus indulgéntias pene innúmeras concessére.
 
 [Responsory5]
-R. Dextera tua magnificata est in fortitudine, dextera tua confregit inimicos.
-* Submersi sunt in aquis vehementibus, et operuit eos mare.
-V. Benedixit te Dominus in virtute sua, quia per te ad nihilum redegit inimicos nostros.
-R. Submersi sunt in aquis vehementibus, et operuit eos mare.
+R. Déxtera tua magnificáta est in fortitúdine, déxtera tua confrégit inimícos: 
+* Submérsi sunt in aquis veheméntibus, et opéruit eos mare.
+V. Benedíxit te Dóminus in virtúte sua, quia per te ad níhilum redégit inimícos nostros.
+R. Submérsi sunt in aquis veheméntibus, et opéruit eos mare.
 
 [Lectio6]
-Clemens vero undecimus animo reputans insignem pariter victoriam anno millesimo septingentesimo decimo sexto in Hungariae regno a Carolo sexto in imperatorem Romanorum electo de innumeris Turcarum copiis relatam, eo die contigisse quo festum Dedicationis sanctae Mariae ad Nives celebraretur atque eodem ferme tempore, quo sanctissimi Rosarii confratres publicam solemniumque supplicationem in alma Urbe ingenti populi concursu magnaque religione peragentes, fervidas ad Deum preces pro Turcarum depressione funderent, ac potentem opem Deiparae Virginis in auxilium Christianorum humiliter implorarent: eam ob rem, victoriam illam, nec non liberatam paulo post eorumdem Turcarum obsidione Corcyrensem insulam eiusdem beatae Virginis patrocinio pie censuit adscribendam. Quamobrem ut hujus quoque tam insignis beneficii perennis semper et memoria exstaret et gratia, sanctissimi Rosarii festum eadem die eodemque ritu celebrandum ad Ecclesiam universam extendit. Haec omnia Benedictus decimus tertius in Breviario Romano apponi jussit. Leo autem tertius decimus in turbulentissimis Ecclesiae temporibus, diuque prementium malorum saeva tempestate, cunctos in Orbe fideles, iteratis Apostolicis litteris ad Marialis Rosarii, praesertim per Octobrem mensem, frequentiam vehementer incendit, aucto quoque annui festi solemnitatis ritu, additaque Litaniis Lauretanis Reginae sacratissimi Rosarii invocatione, et officio de eadem solemnitate proprio Ecclesiae universae concesso. Sanctissimam ergo Dei Genitricem cultu hoc eidem gratissimo jugiter veneremur ut quae toties Christi fidelibus, Rosarii precibus exorata, terrenos hostes profligare dedit ac perdere, infernos pariter superare concedat.
+Clemens vero undécimus, ánimo réputans insígnem páriter victóriam, anno millésimo septingentésimo décimo sexto in Hungáriæ regno a Cárolo sexto in imperatórem Romanórum elécto de innúmeris Turcárum cópiis relátam, eo die contigísse quo festum Dedicatiónis sanctæ Maríæ ad Nives celebrarétur, atque eódem ferme témpore quo sacratíssimi Rosarii confrátres públicam solemnémque supplicatiónem in alma Urbe, ingénti pópuli concúrsu magnáque religióne, peragéntes, férvidas ad Deum preces pro Turcárum depressióne fúnderent ac poténtem opem Deíparæ Vírginis in auxílium Christianórum humíliter implorárent; eam ob rem, victóriam illam, nec non liberátam paulo post eorúmdem Turcárum obsidióne Corcyrénsem ínsulam, ejúsdem beátæ Vírginis patrocínio pie cénsuit adscribéndam. Quam ob rem ut hujus quoque tam insígnis beneficii perennis semper et memória exstaret et grátia, sacratíssimi Rosárii festum eódem ritu celebrándum ad Ecclésiam univérsam exténdit. Hæc ómnia Benedíctus décimus tertius in Breviário Románo appóni jussit. Leo autem tértius décimus in turbulentíssimis Ecclésiæ tempóribus, diúque preméntium malórum sæva tempestáte, cunctos in orbe fidéles, iterátis apostólicis lítteris ad Mariális Rosárii, præsértim per octóbrem mensem, frequéntiam veheménter incéndit, aucto quoque ánnui festi solemnitátis ritu, additáque litaníis Lauretánis Regínæ sacratíssimi Rosárii invocatióne, et Offício de eádem solemnitáte próprio Ecclésiæ univérsæ concésso. Sanctíssimam ergo Dei Genetrícem cultu hoc eídem gratíssimo júgiter venerémur; ut, quæ tóties Christi fidélibus, Rosárii précibus exoráta, terrénos hostes profligáre dedit ac pérdere, inférnos páriter superáre concédat.
 
 [Responsory6]
-R. Signum magnum apparuit in caelo: mulier amicta sole, et luna sub pedibus ejus:
-* Et in capite ejus corona stellarum duodecim.
-V. Dabitur capiti tuo augmentum gratiarum, et corona inclyta proteget te.
-R. Et in capite ejus corona stellarum duodecim.
+R. Signum magnum appáruit in cælo: Mulier amícta sole, et luna sub pédibus ejus, 
+* Et in cápite ejus coróna stellárum duódecim.
+V. Dábitur capiti tuo augméntum gratiárum et coróna ínclita próteget te.
+R. Et in cápite ejus coróna stellárum duódecim.
 &Gloria
-R. Et in capite ejus corona stellarum duodecim.
+R. Et in cápite ejus coróna stellárum duódecim.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Lucam.
+Léctio sancti Evangélii secúndum Lucam
 !Luc 1:26-38
-In illo tempore: Missus est Angelus Gabriel a Deo in civitatem Galilaeae, cui nomen Nazareth, ad Virginem desponsatam viro, cui nomen erat Joseph, de domo David, et nomen Virginis Maria. Et reliqua.
+In illo témpore: Missus est Angelus Gábriel a Deo in civitátem Galilǽæ, cui nomen Názareth, ad Vírginem desponsátam viro, cui nomen erat Joseph, de domo David, et nomen Vírginis María. Et réliqua.
 _
-Homilia sancti Bernardi Abbatis.
-!Sermo de S. Maria.
-Ad commendationem gratiae suae et ad destructionem humanae sapientiae, Deus de femina, sed Virgine dignatus est carnem assumere, ut similem simili redderet, contrarium contrario curaret, pestiferam spinam evelleret, peccati chirographum potentissime deleret. Eva spina fuit, Maria rosa exstitit. Eva spina vulnerando, Maria rosa omnium affectus mulcendo. Eva spina infigens omnibus mortem, Maria rosa reddens salutiferam omnibus sortem. Maria rosa fuit candida per virginitatem, rubicunda per caritatem. Candida carne, rubicunda mente, candida virtutem sectando, rubicunda vitia calcando. Candida affectum purificando, rubicunda carnem mortificando: candida Deum diligendo, rubicunda proximo compatiendo.
+Homilía sancti Bernárdi Abbátis
+!Sermo de S. Maria
+Ad commendatiónem grátiæ suæ et ad destructiónem humánæ sapiéntiæ, Deus de fémina sed vírgine dignátus est carnem assúmere, ut símilem símili rédderet, contrárium contrário curáret, pestíferam spinam evélleret, peccáti chirógraphum potentíssime deléret. Heva spina fuit; María rosa éxstitit. Heva spina, vulnerándo; María rosa, ómnium afféctus mulcéndo. Heva spina, infígens ómnibus mortem; María rosa, reddens salutíferam ómnibus sortem. María rosa fuit cándida per virginitátem, rubicúnda per caritátem; cándida carne, rubicúnda mente; cándida virtútem sectando, rubicúnda vítia calcando; cándida afféctum purificándo, rubicúnda carnem mortificándo; cándida Deum diligéndo, rubicúnda próximo compatiéndo.
 
 [Responsory7]
-R. Ego quasi vitis fructificavi suavitatem odoris,
-* Et flores mei fructus honoris et honestatis.
-V. Ego mater pulchrae dilectionis et timoris et agnitionis et sanctae spei.
-R. Et flores mei fructus honoris et honestatis.
+R. Ego quasi vitis fructificávi suavitátem odoris, 
+* Et flores mei fructus honóris et honestátis.
+V. Ego mater pulchræ dilectiónis, et timoris, et agnitiónis, et sanctæ spei.
+R. Et flores mei fructus honóris et honestátis.
 
 [Lectio8]
-!In serm. de Aquaeductu.
-Verbum caro factum est, et habitat jam in nobis. Habitat in membra nostra, habitat in cogitatione, quia usque ad ipsam descendit imaginationem. Quonam modo, inquis? Nimirum jacens in praesepio, in virginali gremio cubans, in monte praedicans, in oratione pernoctans, in cruce pendens, in morte pallens, liber inter mortuos et in inferno imperans, seu etiam tertia die resurgens et Apostolis loca clavorum, victoriae signa demonstrans, novissime coram eis caeli secreta conscendens. Quid horum non vere non pie non sancte cogitatur? Quidquid horum cogito, Deum cogito, et per omnia est Deus meus. Haec ego meditari dixi sapientiam, et prudentiam judicavi eructare memoriam suavitatis quoniam in hujuscemodi nucleis virga sacerdotalis copiosa produxit, quam in supernis hauriens, uberius nobis Maria refudit. In supernis plane et ultra Angelos, quae Verbum ex ipso Patris corde suscepit.
+!Sermo de Aquæductu
+Verbum caro factum est, et hábitat jam in nobis. Hábitat in memória nostra, hábitat in cogitatióne, quia usque ad ipsam descéndit imaginatiónem. Quonam modo, inquis? Nimírum jacens in præsépio, in virgináli grémio cubans, in monte prǽdicans, in oratióne pernóctans, in cruce pendens, in morte pallens, liber inter mórtuos et in inférno ímperans, seu étiam tértia die resúrgens, et Apóstolis loca clavórum, victóriæ signa, demónstrans, novíssime coram eis cæli secréta conscéndens. Quid horum non vere, non pie, non sancte cogitátur? Quidquid horum cógito, Deum cógito; et per ómnia est Deus meus. Hæc ego meditári dixi sapiéntiam, et prudéntiam judicávi erúctare memóriam suavitátis; quóniam in hujuscémodi núcleis virga sacerdotális copiósa prodúxit, quam, in supérnis háuriens, ubérius nobis María refúdit. In supérnis plane et ultra Angelos, quæ Verbum ex ipso Patris corde suscépit.
 
 [Responsory8]
-R. Surge, propera amica mea: jam enim hiems transiit, imber abiit et recessit:
-* Flores apparuerunt in terra nostra.
-V. Dominus dabit benignitatem, et terra nostra dabit fructum suum.
-R. Flores apparuerunt in terra nostra.
+R. Surge, própera, amíca mea; jam enim hiems tránsiit, imber ábiit et recéssit, 
+* Flores apparuérunt in terra nostra.
+V. Dóminus dabit benignitátem, et terra nostra dabit fructum suum.
+R. Flores apparuérunt in terra nostra.
 &Gloria
-R. Flores apparuerunt in terra nostra.
+R. Flores apparuérunt in terra nostra.
 
 [Lectio9]
 @Sancti/10-07t:Lectio93
 
 [Ant Laudes]
-Laetare * Virgo Mater; surrexit Christus de sepulcro.
-Ascendit Deus * in jubilatione, et Dominus in voce tubae.
-Spiritus Domini * replevit orbem terrarum.
-Assumpta est * Maria in caelum; gaudent Angeli; laudantes benedicunt Dominum, alleluia.
-Exaltata est * Virgo Maria super choros Angelorum, et in capite ejus corona stellarum duodecim.
+Lætáre, * Virgo Mater; surréxit Christus de sepúlcro.
+Ascéndit Deus * in jubilatióne, et Dóminus in voce tubæ.
+Spíritus Dómini * replévit orbem terrárum.
+Assúmpta est * María in cælum: gaudent Angeli, laudántes benedícunt Dóminum, allelúja.
+Exaltáta est * Virgo María super choros Angelórum, et in cápite ejus coróna stellárum duódecim.
 
 [Capitulum Laudes]
-!Sir 24:25; 39:17
-v. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis: ego quasi rosa plantata super rivos aquarum fructificavi.
-$Deo gratias
+@:Capitulum Vespera
 
 [Hymnus Laudes]
-v. Jam morte, victor, obruta
-Ab inferis Christus redit,
-Fractisque culpae vinculis,
-Caeli recludit limina.
+v. Jam morte, victor, óbruta,
+Ab ínferis Christus redit,
+Fractísque culpæ vínculis,
+Cæli reclúdit límina.
 _
-Visus satis mortalibus
-Ascendit ad caelestia,
-Dexteraeque Patris assidet
-Consors paternae gloriae.
+Visus satis mortálibus
+Ascéndit ad cæléstia,
+Dextrǽque Patris ássidet
+Consors patérnæ glóriæ.
 _
-Quem jam suis promiserat,
-Sanctum daturus Spiritum,
-Linguis amoris igneis
-Moestis alumnis impluit.
+Quem jam suis promíserat,
+Sanctum datúrus Spíritum,
+Linguis amóris ígneis
+Mæstis alúmnis ímpluit.
 _
-Soluta carnis pondere
-Ad astra Virgo tollitur,
-Excepta caeli jubilo,
-Et angelorum canticis.
+Solúta carnis póndere
+Ad astra Virgo tóllitur,
+Excepta cæli júbilo
+Et Angelórum cánticis.
 _
-Bis sena cingunt sidera
-Almae parentis verticem:
-Throno propinqua Filii
-Cunctis creatis imperat.
+Bis sena cingunt sídera
+Almæ paréntis vérticem:
+Throno propínqua Fílii
+Cunctis creátis ímperat.
 _
-Jesu, tibi sit gloria,
-Qui natus es de Virgine,
-Cum Patre et almo Spiritu
-In sempiterna saecula.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Versum 2]
-V. Elegit eam Deus et praeelegit eam.
-R. Et habitare eam fecit in tabernaculo suo.
+V. Elégit eam Deus, et præelégit eam.
+R. Et habitáre eam fecit in tabernáculo suo.
 
 [Ant 2]
-Solemnitatem hodiernam * sanctissimi Rosarii Genitricis Dei Mariae devote celebremus, ut ipsa pro nobis intercedat ad Dominum Jesum Christum.
+Solemnitátem hodiérnam * sacratíssimi Rosárii Genetrícis Dei Maríæ devóte celebrémus, ut ipsa pro nobis intercédat ad Dóminum Jesum Christum.
 
 [Lectio Prima]
 !Sir 24:17-18
-v. Quasi cedrus exaltata sum in Libano et quasi cypressus in monte Sion: quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho.
+v. Quasi cedrus exaltáta sum in Líbano, et quasi cypréssus in monte Sion: quasi palma exaltáta sum in Cades, et quasi plantátio rosæ in Jéricho.
 
 [Capitulum Tertia]
-!Sir 24:25; 39:17
-v. In me gratia omnis viae et veritatis, in me omnis spes vitae et virtutis: ego quasi rosa plantata super rivos aquarum fructificavi.
-$Deo gratias
+@:Capitulum Vespera
 
 [Responsory Tertia]
-R.br. Sancta Dei Genitrix, * Semper Virgo Maria.
-R. Sancta Dei Genitrix, * Semper Virgo Maria.
-V. Intercede pro nobis ad Dominum Deum nostrum.
-R. Semper Virgo Maria.
+R.br. Sancta Dei Génetrix, * Semper Virgo María.
+R. Sancta Dei Génetrix, * Semper Virgo María.
+V. Intercéde pro nobis ad Dóminum, Deum nostrum.
+R. Semper Virgo María.
 &Gloria
-R. Sancta Dei Genitrix, * Semper Virgo Maria.
+R. Sancta Dei Génetrix, * Semper Virgo María.
 _
-V. Post partum Virgo inviolata permansisti.
-R. Dei Genitrix, intercede pro nobis.
+V. Post partum, Virgo, invioláta permansísti.
+R. Dei Génetrix, intercéde pro nobis.
 
 [Capitulum Sexta]
 !Sir 39:19
-v. Florete flores quasi lilium, et date odorem, et frondete in gratiam; collaudate canticum, et benedicite Deum in operibus suis.
+v. Floréte flores quasi lílium et date odórem et frondéte in grátiam; collaudáte cánticum et benedícite Dóminum in opéribus suis.
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Post partum Virgo * Inviolata permansisti.
-R. Post partum Virgo * Inviolata permansisti.
-V. Dei Genitrix intercede pro nobis.
-R. Inviolata permansisti.
+R.br. Post partum, Virgo, * Invioláta permansísti.
+R. Post partum, Virgo, * Invioláta permansísti.
+V. Dei Génetrix, intercéde pro nobis.
+R. Invioláta permansísti.
 &Gloria
-R. Post partum Virgo * Inviolata permansisti.
+R. Post partum, Virgo, * Invioláta permansísti.
 _
-V. Speciosa facta es et suavis.
-R. In deliciis tuis, sancta Dei Genitrix.
+V. Speciósa facta es et suávis.
+R. In delíciis tuis, sancta Dei Génetrix.
 
 [Capitulum Nona]
-!Sir 24:17-18
-v. Quasi cedrus exaltata sum in Libano et quasi cypressus in monte Sion: quasi palma exaltata sum in Cades, et quasi plantatio rosae in Jericho
+@:Lectio Prima
 $Deo gratias
 
 [Responsory Nona]
-R.br. Speciosa facta es * Et suavis.
-R. Speciosa facta es * Et suavis.
-V. In deliciis tuis, sancta Dei Genitrix.
-R. Et suavis.
+R.br. Speciósa facta es * Et suávis.
+R. Speciósa facta es * Et suávis.
+V. In delíciis tuis, sancta Dei Génetrix.
+R. Et suávis.
 &Gloria
-R. Speciosa facta es * Et suavis.
+R. Speciósa facta es * Et suávis.
 _
-V. Elegit eam Deus et praeelegit eam.
-R. Et habitare eam fecit in tabernaculo suo.
+V. Elégit eam Deus, et præelégit eam.
+R. Et habitáre eam fecit in tabernáculo suo.
 
 [Hymnus Vespera 3]
-v. Te gestientem gaudiis,
-Te sauciam doloribus,
-Te jugi amictam gloria,
-O Virgo Mater, pangimus.
+v. Te gestiéntem gáudiis,
+Te sáuciam dolóribus,
+Te jugi amíctam glória,
+O Virgo Mater, pángimus.
 _
-Ave, redundans gaudio
-Dum concipis, dum visitas,
-Et edis, offers, invenis,
-Mater beata, Filium,
+Ave, redúndans gáudio
+Dum cóncipis, dum vísitas;
+Et edis, offers, ínvenis,
+Mater beáta, Fílium.
 _
-Ave, dolens, et intimo
-In corde agonem, verbera,
-Spinas, crucemque Filii
-Perpessa, princeps martyrum.
+Ave, dolens, et íntimo
+In corde agónem, vérbera,
+Spinas crucémque Fílii 
+Perpéssa, princeps mártyrum.
 _
-Ave, in triumphis Filii,
-In ignibus Paracliti,
-In regni honore et lumine,
-Regina fulgens gloria.
+Ave, in triúmphis Fílii,
+In ígnibus Parácliti,
+In regni honóre et lúmine,
+Regína fulgens glória.
 _
-Venite gentes, carpite
-Ex his rosas mysteriis,
-Et pulchri amoris inclytae
-Matri coronas nectite.
+Veníte, gentes, cárpite
+Ex his rosas mystériis,
+Et pulchri amóris ínclitæ
+Matri corónas néctite.
 _
-Jesu, tibi sit gloria,
-Qui natus es de Virgine,
-Cum Patre et almo Spiritu
-In sempiterna saecula.
-Amen.
+@Psalterium/Doxologies:Nat
 
 [Versum 3]
-V. Regina sacratissimi Rosarii, ora pro nobis.
-R. Ut digni efficiamur promissionibus Christi.
+@:Versum 1
 
 [Ant 3]
-Beata Mater * et intacta Virgo, gloriosa Regina mundi, sentiant omnes tuum juvamen, quicumque celebrant tuam sanctissimi Rosarii solemnitatem.
+Beáta Mater * et intácta Virgo, gloriósa Regína mundi, séntiant omnes tuum juvámen, quicúmque célebrant tuam sacratíssimi Rosárii solemnitátem.

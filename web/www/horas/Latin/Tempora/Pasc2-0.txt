@@ -7,131 +7,116 @@ Una Antiphona
 
 [Capitulum Vespera]
 !1 Pet 2:21-22
-v. Carissimi: Christus passus est pro nobis, vobis relinquens exemplum ut sequamini vestigia eius. Qui peccatum non fecit nec inventus est dolus in ore eius.
+v. Carissimi: Christus passus est pro nobis, vobis relínquens exémplum ut sequámini vestígia eius. Qui peccátum non fecit, nec invéntus est dolus in ore eius.
 $Deo gratias
 
-[Versum 1]
-@Tempora/Pasc1-0:Versum 1
-
 [Ant 1]
-Ego sum pastor ovium: * ego sum via, veritas, et vita: ego sum pastor bonus, et cognosco oves meas, et cognoscunt me meae, alleluia, alleluia.
+Ego sum pastor óvium: * ego sum via, véritas, et vita: ego sum pastor bonus, et cognósco oves meas, et cognóscunt me meæ, allelúja, allelúja.
 
 [Oratio]
-Deus, qui in Filii tui humilitate jacentem mundum erexisti: fidelibus tuis perpetuam concede laetitiam: ut quos perpetuae mortis eripuisti casibus, gaudiis facias perfrui sempiternis.
+Deus, qui in Filii tui humilitáte jacéntem mundum erexísti: fidélibus tuis perpétuam concéde lætítiam; ut, quos perpétuæ mortis eripuísti cásibus, gáudiis fácias pérfrui sempitérnis.
 $Per eumdem
 
 [Lectio1]
-De Actibus Apostolorum.
+De Actibus Apostolórum
 !Act. 13:13-20
-13 Cum a Papho navigassent Paulus et qui cum eo erant, venerunt Pergen Pamphyliae. Joannes autem discedens ab eis, reversus est Jerosolymam.
-14 Illi vero pertranseuntes Pergen, venerunt Antiochiam Pisidiae: et ingressi synagogam die sabbatorum, sederunt.
-15 Post lectionem autem legis et prophetarum, miserunt principes synagogae ad eos, dicentes: Viri fratres, si quis est in vobis sermo exhortationis ad plebem, dicite.
-16 Surgens autem Paulus, et manu silentium indicens, ait: Viri Isra�litae, et qui timetis Deum, audite:
-17 Deus plebis Isra�l elegit patres nostros, et plebem exaltavit cum essent incolae in terra �gypti, et in brachio excelso eduxit eos ex ea,
-18 et per quadraginta annorum tempus mores eorum sustinuit in deserto.
-19 Et destruens gentes septem in terra Chanaan, sorte distribuit eis terram eorum,
-20 quasi post quadringentos et quinquaginta annos: et post haec dedit judices, usque ad Samuel prophetam.
+13 Cum a Papho navigássent Paulus et qui cum eo erant, venérunt Pergen Pamphýliæ. Ioánnes autem discédens ab eis, revérsus est Ierosólymam.
+14 Illi vero pertranseúntes Pergen, venérunt Antiochíam Pisídiæ: et ingréssi synagógam die sabbatórum, sedérunt.
+15 Post lectiónem autem legis et prophetárum, misérunt príncipes synagógæ ad eos, dicéntes: Viri fratres, si quis est in vobis sermo exhortatiónis ad plebem, dícite.
+16 Surgens autem Paulus, et manu siléntium indícens, ait: Viri Israëlítæ, et qui timétis Deum, audíte:
+17 Deus plebis Israël elégit patres nostros, et plebem exaltávit cum essent íncolæ in terra Ægýpti, et in bráchio excélso edúxit eos ex ea,
+18 et per quadragínta annórum tempus mores eórum sustínuit in desérto.
+19 Et déstruens gentes septem in terra Chánaan, sorte distríbuit eis terram eórum,
+20 quasi post quadringéntos et quinquagínta annos: et post hæc dedit iúdices, usque ad Sámuel prophétam.
 
 [Responsory1]
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
 !Act. 13:21-25
-21 Et exinde postulaverunt regem: et dedit illis Deus Saul filium Cis, virum de tribu Benjamin, annis quadraginta:
-22 Et amoto illo, suscitavit illis David regem: cui testimonium perhibens, dixit: Inveni David filium Jesse, virum secundum cor meum, qui faciet omnes voluntates meas.
-23 Hujus Deus ex semine secundum promissionem eduxit Isra�l Salvatorem Jesum,
-24 praedicante Joanne ante faciem adventus ejus baptismum p�nitentiae omni populo Isra�l.
-25 Cum impleret autem Joannes cursum suum, dicebat: Quem me arbitramini esse, non sum ego: sed ecce venit post me, cujus non sum dignus calceamenta pedum solvere.
+21 Et exínde postulavérunt regem: et dedit illis Deus Saul fílium Cis, virum de tribu Béniamin, annis quadragínta:
+22 et amóto illo, suscitávit illis David regem: cui testimónium pérhibens, dixit: Invéni David fílium Iesse, virum secúndum cor meum, qui fáciet omnes voluntátes meas.
+23 Huius Deus ex sémine secúndum promissiónem edúxit Israël salvatórem Iesum,
+24 prædicánte Ioánne ante fáciem advéntus eius baptísmum pœniténtiæ omni pópulo Israël.
+25 Cum impléret autem Ioánnes cursum suum, dicébat: Quem me arbitrámini esse, non sum ego: sed ecce venit post me, cuius non sum dignus calceaménta pedum sólvere.
 
 [Responsory2]
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
 !Act. 13:26-33
-26 Viri fratres, filii generis Abraham, et qui in vobis timent Deum, vobis verbum salutis hujus missum est.
-27 Qui enim habitabant Jerusalem, et principes ejus hunc ignorantes, et voces prophetarum quae per omne sabbatum leguntur, judicantes impleverunt,
-28 et nullam causam mortis invenientes in eo, petierunt a Pilato ut interficerent eum.
-29 Cumque consummassent omnia quae de eo scripta erant, deponentes eum de ligno, posuerunt eum in monumento.
-30 Deus vero suscitavit eum a mortuis tertia die: qui visus est per dies multos his
-31 qui simul ascenderant cum eo de Galilaea in Jerusalem: qui usque nunc sunt testes ejus ad plebem.
-32 Et nos vobis annuntiamus eam, quae ad patres nostros repromissio facta est:
-33 quoniam hanc Deus adimplevit filiis nostris resuscitans Jesum, sicut et in Psalmo secundo scriptum est: Filius meus es tu, ego hodie genui te.
+26 Viri fratres, fílii géneris Abraham, et qui in vobis timent Deum, vobis verbum salútis huius missum est.
+27 Qui enim habitábant Ierúsalem, et príncipes eius hunc ignorántes, et voces prophetárum quæ per omne sábbatum legúntur, iudicántes implevérunt,
+28 et nullam causam mortis inveniéntes in eo, petiérunt a Piláto ut interfícerent eum.
+29 Cumque consummássent ómnia quæ de eo scripta erant, deponéntes eum de ligno, posuérunt eum in monuménto.
+30 Deus vero suscitávit eum a mórtuis tértia die: qui visus est per dies multos his
+31 qui simul ascénderant cum eo de Galilǽa in Ierúsalem: qui usque nunc sunt testes eius ad plebem.
+32 Et nos vobis annuntiámus eam, quæ ad patres nostros repromíssio facta est:
+33 quóniam hanc Deus adimplévit fíliis nostris resúscitans Iesum, sicut et in psalmo secúndo scriptum est: Fílius meus es tu, ego hódie génui te.
 
 [Responsory3]
 @Tempora/Pasc0-3:Responsory1
 
 [Lectio4]
-Sermo sancti Leonis Papae.
-!Serm. 1, de Ascensione Domini, post initium.
-Hi dies, dilectissimi, qui inter resurrectionem Domini ascensionemque fluxerunt, non otioso transiere decursu, sed magna in eis confirmata sacramenta, magna sunt revelata mysteria. In iis metus dirae mortis aufertur, et non solum animae, sed etiam carnis immortalitas declaratur. In iis per insufflationem Domini infunditur Apostolis omnibus Spiritus Sanctus: et beato Apostolo Petro supra ceteros, post regni claves, ovilis Dominici cura mandatur.
+Sermo sancti Leónis Papæ
+!Sermo 1 de Ascensione Domini, post initium
+Hi dies, dilectíssimi, qui inter resurrectiónem Dómini ascensionémque fluxérunt, non otióso transiere decursu, sed magna in eis confirmáta sacramenta, magna sunt reveláta mysteria. In iis metus diræ mortis aufertur, et non solum ánimæ, sed etiam carnis immortalitas declarátur. In iis per insufflatiónem Dómini infunditur Apóstolis ómnibus Spíritus Sanctus: et beato Apóstolo Petro supra ceteros, post regni claves, ovilis Dominici cura mandátur.
 
 [Responsory4]
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio5]
-In iis diebus, duobus discipulis tertius in via Dominus comes jungitur, et ad omnem nostrae ambiguitatis caliginem detergendam, paventium ac trepidantium tarditas increpatur. Flammam fidei illuminata corda concipiunt: et quae erant tepida, reserante Scripturas Domino efficiuntur ardentia. In fractione quoque panis, convescentium aperiuntur obtutus: multo felicius eorum oculis patefactis, quibus naturae suae manifestata est glorificatio, quam illorum generis nostri principum, quibus praevaricationis suae est ingesta confusio.
+In iis diébus, duobus discípulis tertius in via Dóminus comes júngitur, et ad omnem nostræ ambiguitátis calíginem detergéndam, pavéntium ac trepidántium tárditas increpátur. Flammam fidei illumináta corda concipiunt: et quæ erant tépida, reserante Scripturas Dómino, efficiúntur ardéntia. In fractióne quoque panis, convescéntium aperiúntur obtutus: multo felicius eórum óculis patefactis, quibus natúræ suæ manifestáta est glorificátio, quam illórum generis nostri príncipum, quibus prævaricatiónis suæ est ingesta confúsio.
 
 [Responsory5]
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio6]
-Inter haec autem, aliaque miracula, cum discipuli trepidis cogitationibus aestuarent, et apparuisset in medio eorum Dominus, dixissetque, Pax vobis: ne hoc remaneret in eorum opinionibus, quod volvebatur in cordibus (putabant enim se spiritum videre, non carnem) redarguit cogitationes a veritate discordes: ingerit dubitantium oculis manentia in manibus suis et pedibus crucis signa; et ut diligentius pertractetur, invitat. Quia ad sananda infidelium cordium vulnera, clavorum et lanceae erant servata vestigia: ut non dubia fide, sed constantissima scientia teneretur, eam naturam in Dei Patris consessuram throno, quae jacuerat in sepulcro.
+Inter hæc autem, aliáque mirácula, cum discípuli trépidis cogitatiónibus æstuárent, et apparuísset in médio eórum Dóminus, dixissétque, Pax vobis: ne hoc remanéret in eórum opiniónibus, quod volvebátur in córdibus (putábant enim se spíritum vidére, non carnem) redarguit cogitatiónes a veritáte discordes: íngerit dubitántium óculis manéntia in mánibus suis et pédibus crucis signa; et ut diligentius pertractétur, invítat. Quia ad sananda infidelium cordium vulnera, clavórum et lanceæ erant serváta vestígia: ut non dubia fide, sed constantíssima sciéntia tenerétur, eam natúram in Dei Patris consessúram throno, quæ jacúerat in sepúlcro.
 
 [Responsory6]
 @Tempora/Pasc0-5:Responsory2
 
 [Lectio7]
-Lectio sancti Evangelii secundum Joannem
+Léctio sancti Evangélii secúndum Joánnem
 !Joannes 10:11-16
-In illo tempore: Dixit Jesus pharisaeis: Ego sum pastor bonus. Bonus pastor animam suam dat pro ovibus suis. Et reliqua.
+In illo témpore: Dixit Jesus pharisǽis: Ego sum pastor bonus. Bonus pastor ánimam suam dat pro óvibus suis. Et réliqua.
 _
-Homilia sancti Gregorii Papae.
-!Homilia 14. in Evangelia.
-Audistis, fratres carissimi, ex lectione evangelica eruditionem vestram audistis et periculum nostrum. Ecce enim is, qui non ex accidenti dono, sed essentialiter bonus est, dicit: Ego sum pastor bonus. Atque eiusdem bonitatis formam, quam nos imitemur, adjungit, dicens: Bonus pastor animam suam ponit pro ovibus suis. Fecit quod monuit: ostendit quod jussit. Bonus pastor pro ovibus suis animam suam posuit, ut in sacramento nostro corpus suum et sanguinem verteret, et oves quas redemerat, carnis suae alimento satiaret.
+Homilía sancti Gregórii Papæ
+!Homilía 14 in Evangelia
+Audístis, fratres caríssimi, ex lectióne evangélica eruditiónem vestram: audístis et perículum nostrum. Ecce enim is, qui non ex accidénti dono, sed essentiáliter bonus est, dicit: Ego sum pastor bonus. Atque ejusdem bonitátis formam, quam nos imitémur, adjungit, dicens: Bonus pastor ánimam suam ponit pro óvibus suis. Fecit quod monuit: osténdit quod jussit. Bonus pastor pro óvibus suis ánimam suam pósuit, ut in sacraménto nostro corpus suum et sánguinem vérteret, et oves quas redémerat, carnis suæ aliménto satiáret.
 
 [Responsory7]
 @Tempora/Pasc0-6:Responsory1
 
 [Lectio8]
-Ostensa nobis est de contemptu mortis via, quam sequamur: apposita est forma, cui imprimamur. Primum nobis est, exteriora nostra misericorditer ovibus ejus impendere: postremum vero, si necesse sit, etiam mortem nostram pro eisdem ovibus ministrare. A primo autem hoc minimo pervenitur ad postremum majus. Sed cum incomparabiliter longe sit melior anima, qua vivimus, quam terrena substantia quam exterius possidemus: qui non dat pro ovibus substantiam suam, quando pro his daturus est animam suam?
+Osténsa nobis est de contemptu mortis via, quam sequámur: apposita est forma, cui imprimamur. Primum nobis est, exterióra nostra misericorditer ovibus ejus impéndere: postremum vero, si necesse sit, etiam mortem nostram pro eisdem ovibus ministrare. A primo autem hoc minimo pervenítur ad postremum majus. Sed cum incomparabíliter longe sit mélior anima, qua vívimus, quam terrena substantia, quam exterius possidémus: qui non dat pro ovibus substantiam suam, quando pro his datúrus est ánimam suam?
 
 [Responsory8]
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio9]
-Et sunt nonnulli, qui dum plus terrenam substantiam, quam oves diligunt, merito nomen pastoris perdunt: de quibus protinus subditur: Mercenarius autem, et qui non est pastor, cujus non sunt oves propriae, videt lupum venientem, et dimittit oves, et fugit. Non pastor, sed mercenarius vocatur, qui non pro amore intimo oves Dominicas, sed ad temporales mercedes pascit. Mercenarius quippe est, qui locum quidem pastoris tenet, sed lucra animarum non quaerit: terrenis commodis inhiat, honore praelationis gaudet, temporalibus lucris pascitur, impensa sibi ab hominibus reverentia laetatur.
+Et sunt nonnulli, qui dum plus terrenam substantiam quam oves díligunt, mérito nomen pastoris perdunt: de quibus prótinus súbditur: Mercenarius autem, et qui non est pastor, cujus non sunt oves propriæ, videt lupum veniéntem, et dimíttet oves, et fugit. Non pastor, sed mercenarius vocátur, qui non pro amore íntimo oves Dominicas, sed ad témporales mercedes pascit. Mercenarius quippe est, qui locum quidem pastoris tenet, sed lucra animárum non quærit: terrenis cómmodis ínhiat, honóre prælatiónis gaudet, témporálibus lucris páscitur, impensa sibi ab homínibus reveréntia lætátur.
 &teDeum
 
 [Capitulum Laudes]
-!1 Pet 2:21-22
-v. Car�ssimi: Christus passus est pro nobis, vobis rel�nquens ex�mplum, ut sequ�mini vest�gia ejus.  Qui pecc�tum non fecit, nec inv�ntus est dolus in ore ejus.
-$Deo gratias
-
-[Versum 2]
-@Tempora/Pasc1-0:Versum 2
+@:Capitulum Vespera
 
 [Ant 2]
 @:Ant 1
 
 [Capitulum Tertia]
-@:Capitulum Laudes
+@:Capitulum Vespera
 
 [Capitulum Sexta]
 !1 Pet 2:23-24
-v. Tradebat autem iudicanti se iniuste: qui peccata nostra ipse pertulit in corpore suo super lignum: ut peccatis mortui, iustitiae vivamus: cuius livore sanati sumus.
+v. Tradébat autem iudicánti se iniúste: qui peccáta nostra ipse pértulit in córpore suo super lignum: ut peccátis mórtui, iustítiæ vivámus: cuius livóre sanáti sumus.
 $Deo gratias
 
 [Capitulum Nona]
 !1 Pet 2:25
-v. Eratis enim sicut oves errantes, sed conversi estis nunc ad pastorem et episcopum animarum vestrarum.
+v. Erátis enim sicut oves errántes, sed convérsi estis nunc ad pastórem et epíscopum animárum vestrárum.
 $Deo gratias
 
-[Capitulum Vespera]
-@:Capitulum Laudes
-
-[Versum 3]
-V. Mane nobiscum Domine, alleluia.
-R. Quoniam advesperascit, alleluia.
-
 [Ant 3]
-Ego sum pastor bonus, * qui pasco oves meas, et pro ovibus meis pono animam meam, alleluia.
+Ego sum pastor bonus, * qui pasco oves meas, et pro óvibus meis pono ánimam meam, allelúja.

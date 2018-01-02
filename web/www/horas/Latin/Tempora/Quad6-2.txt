@@ -1,75 +1,75 @@
 [Rank]
-Feria Tertia Majoris Hebdomad�;;Feria privilegiata;;6
+Feria Tertia Majoris Hebdomadæ;;Feria privilegiata;;6
 
 [Rank] (rubrica 1955 aut rubrica 1960)
-Feria Tertia Hebdomad� Sanct�;;Feria privilegiata;;6
+Feria Tertia Hebdomadæ Sanctæ;;Feria privilegiata;;6
 
 [Rule]
 Antiphonas horas
 Feria
 
 [Lectio1]
-De Jeremia Propheta.
+De Jeremía Propheta
 !Jer 11:15-20
-15 Quid est, quod dilectus meus in domo mea fecit scelera multa? numquid carnes sanctae auferent a te malitias tuas, in quibus gloriata es?
-16 Olivam uberem, pulchram, fructiferam, speciosam, vocavit Dominus nomen tuum: ad vocem loquelae, grandis exarsit ignis in ea, et combusta sunt fruteta ejus.
-17 Et Dominus exercituum, qui plantavit te, locutus est super te malum, pro malis domus Isra�l, et domus Juda, quae fecerunt sibi ad irritandum me, libantes Baalim.
-18 Tu autem, Domine, demonstrasti mihi, et cognovi: tunc ostendisti mihi studia eorum.
-19 Et ego quasi agnus mansuetus, qui portatur ad victimam: et non cognovi quia cogitaverunt super me consilia, dicentes: Mittamus lignum in panem ejus, et eradamus eum de terra viventium, et nomen ejus non memoretur amplius.
-20 Tu autem, Domine Sabaoth, qui judicas juste, et probas renes et corda, videam ultionem tuam ex eis: tibi enim revelavi causam meam.
+15 Quid est quod diléctus meus in domo mea fecit scelera multa? Numquid carnes sanctæ auferent a te malítias tuas, in quibus gloriáta es? 
+16 Olívam úberem, pulchram, fructíferam, speciósam vocávit Dóminus nomen tuum: ad vocem loquélæ, grandis exársit ignis in ea, et combusta sunt frutéta ejus. 
+17 Et Dóminus exercituum, qui plantávit te, locútus est super te malum: pro malis domus Israël et domus Juda, quæ fecérunt sibi ad irritándum me, libántes Báalim. 
+18 Tu autem, Dómine, demonstrásti mihi, et cognóvi: tunc ostendísti mihi stúdia eórum.
+19 Et ego quasi agnus mansuetus, qui portátur ad víctimam: et non cognóvi quia cogitavérunt super me consília, dicéntes: Mittámus lignum in panem ejus, et eradámus eum de terra vivéntium, et nomen ejus non memorétur ámplius. 
+20 Tu autem, Dómine Sabaoth, qui júdicas juste, et probas renes et corda, vídeam ultiónem tuam ex eis: tibi enim revelavi causam meam.
 
 [Responsory1]
-R. Contumelias et terrores passus sum ab eis, qui erant pacifici mei, et custodientes latus meum, dicentes: Decipiamus eum, et praevaleamus illi: sed tu, Domine, mecum es tamquam bellator fortis.
-* Cadant in opprobrium sempiternum, ut videam vindictam in eis, quia tibi revelavi causam meam.
-V. Judica, Domine, causam animae meae, defensor vitae meae.
-R. Cadant in opprobrium sempiternum, ut videam vindictam in eis, quia tibi revelavi causam meam.
+R. Contumelias et terróres passus sum ab eis, qui erant pacífici mei, et custodiéntes latus meum, dicéntes: Decipiámus eum, et prævaleámus illi: sed tu, Dómine, mecum es tamquam bellator fortis. 
+* Cadant in oppróbrium sempitérnum, ut vídeam vindíctam in eis, quia tibi revelavi causam meam.
+V. Júdica, Dómine, causam ánimæ meæ, defensor vitæ meæ.
+R. Cadant in oppróbrium sempitérnum, ut vídeam vindíctam in eis, quia tibi revelavi causam meam.
 
 [Lectio2]
 !Jer 12:1-4
-1 Justus quidem tu es, Domine, si disputem tecum: verumtamen justa loquar ad te: Quare via impiorum prosperatur; bene est omnibus qui praevaricantur et inique agunt?
-2 Plantasti eos, et radicem miserunt: proficiunt, et faciunt fructum: prope es tu ori eorum, et longe a renibus eorum.
-3 Et tu, Domine, nosti me, vidisti me, et probasti cor meum tecum. Congrega eos quasi gregem ad victimam, et sanctifica eos in die occisionis.
-4 Usquequo lugebit terra, et herba omnis regionis siccabitur, propter malitiam habitantium in ea? Consumptum est animal, et volucre, quoniam dixerunt: Non videbit novissima nostra.
+1 Justus quidem tu es, Dómine, si díspútem tecum: verúmtamen justa loquar ad te: Quare via impiórum prosperátur: bene est ómnibus, qui prævaricántur, et iníque agunt?
+2 Plantásti eos, et radícem misérunt: profíciunt et faciunt fructum: prope es tu ori eórum, et longe a renibus eórum. 
+3 Et tu, Dómine, nosti me, vidísti me, et probásti cor meum tecum: cóngrega eos quasi gregem ad víctimam, et sanctifica eos in die occisiónis. 
+4 Usquequo lugébit terra, et herba omnis regiónis siccábitur propter malítiam habitántium in ea? Consumptum est animal et vólucre, quóniam dixérunt: Non vidébit novíssima nostra.
 
 [Responsory2]
-R. Deus Isra�l, propter te sustinui improperium, operuit reverentia faciem meam, extraneus factus sum fratribus meis, et hospes filiis matris meae:
-* Quoniam zelus domus tuae comedit me.
-V. Intende animae meae, et libera eam, propter inimicos meos eripe me.
-R. Quoniam zelus domus tuae comedit me.
+R. Deus Israël, propter te sustínui impropérium, opéruit reveréntia fáciem meam, extraneus factus sum frátribus meis, et hospes fíliis matris meæ: 
+* Quóniam zelus domus tuæ comédit me.
+V. Inténde ánimæ meæ, et líbera eam, propter inimícos meos éripe me.
+R. Quóniam zelus domus tuæ comédit me.
 
 [Lectio3]
 !Jer 12:7-11
-7 Reliqui domum meam; dimisi hereditatem meam: dedi dilectam animam meam in manu inimicorum ejus.
-8 Facta est mihi hereditas mea quasi leo in silva: dedit contra me vocem, ideo odivi eam.
-9 Numquid avis discolor hereditas mea mihi? numquid avis tincta per totum? Venite, congregamini, omnes bestiae terrae: properate ad devorandum.
-10 Pastores multi demoliti sunt vineam meam, conculcaverunt partem meam, dederunt portionem meam desiderabilem in desertum solitudinis.
-11 Posuerunt eam in dissipationem, luxitque super me: desolatione desolata est omnis terra, quia nullus est qui recogitet corde.
+7 Relíqui domum meam, dimísi hereditátem meam: dedi diléctam ánimam meam in manu inimicórum ejus. 
+8 Facta est mihi heréditas mea quasi leo in silva: dedit contra me vocem, ideo odívi eam. 
+9 Numquid avis díscolor heréditas mea mihi? numquid avis tincta per totum? Veníte, congregámini, omnes béstiæ terræ, properate ad devorándum. 
+10 Pastores multi demolíti sunt víneam meam, conculcavérunt partem meam: dedérunt portiónem meam desiderábilem in desértum solitúdinis. 
+11 Posuérunt eam in díssipatiónem, luxitque super me: desolatióne desoláta est omnis terra, quia nullus est qui recógitet corde.
 
 [Responsory3]
-R. Synagoga populorum circumdederunt me: et non reddidi retribuentibus mihi mala.
-* Consumetur, Domine, nequitia peccatorum, et diriges justum.
-V. Judica me, Domine, secundum justitiam meam, et secundum innocentiam meam super me.
-R. Consumetur, Domine, nequitia peccatorum, et diriges justum.
+R. Synagóga populórum circumdedérunt me: et non réddidi retribuéntibus mihi mala. 
+* Consumétur, Dómine, nequítia peccatórum, et díriges justum.
+V. Júdica me, Dómine, secúndum justítiam meam, et secúndum innocéntiam meam super me.
+R. Consumétur, Dómine, nequítia peccatórum, et díriges justum.
 &Gloria
-R. Synagoga populorum circumdederunt me: et non reddidi retribuentibus mihi mala. * Consumetur, Domine, nequitia peccatorum, et diriges justum.
+R. Synagóga populórum circumdedérunt me: et non réddidi retribuéntibus mihi mala. * Consumétur, Dómine, nequítia peccatórum, et díriges justum.
 
 [Ant Laudes]
-Vide, Domine, * et considera, quoniam tribulor: velociter exaudi me.
-Discerne causam meam, * Domine: ab homine iniquo et doloso eripe me.
-Dum tribularer, * clamavi ad Dominum de ventre inferi, et exaudivit me.
-Domine, vim patior, * responde pro me: quia nescio quid dicam inimicis meis.
-Dixerunt impii: * Opprimamus virum justum, quoniam contrarius est operibus nostris.
+Vide, Dómine, * et consídera, quóniam tríbulor: velóciter exáudi me.
+Discérne causam meam, * Dómine: ab hómine iníquo et dolóso éripe me.
+Dum tribulárer, * clamávi ad Dóminum de ventre ínferi, et exaudívit me.
+Dómine, vim patior, * respónde pro me: quia néscio quid dicam inimícis meis.
+Dixérunt ímpii: * Opprimámus virum justum, quóniam contrárius est opéribus nostris.
 
 [Ant 2]
-Ante diem festum * Paschae sciens Jesus quia venit hora ejus, cum dilexisset suos, in finem dilexit eos.
+Ante diem festum * Paschæ, sciens Jesus quia venit hora ejus, cum dilexísset suos, in finem diléxit eos.
 
 [Oratio 2]
-Omnipotens sempiterne Deus, da nobis ita Dominicae passionis sacramenta peragere: ut indulgentiam percipere mereamur.
+Omnípotens sempiterne Deus: da nobis ita Dominicæ passiónis sacraménta perágere; ut indulgéntiam percípere meréamur.
 $Per eumdem
 
 [Ant 3]
-Potestatem habeo * ponendi animam meam, et iterum sumendi eam.
+Potestátem habeo * ponéndi ánimam meam, et íterum suméndi eam.
 
 [Oratio 3]
-Tua nos misericordia, Deus, et ab omni subreptione vetustatis expurget: et capaces sanctae novitatis efficiat.
+Tua nos misericórdia, Deus, et ab omni subreptióne vetustátis expúrget: et capáces sanctæ novitátis effíciat.
 $Per Dominum.

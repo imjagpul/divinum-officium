@@ -1,65 +1,65 @@
 [Rank]
-Feria Secunda Majoris Hebdomad�;;Feria privilegiata;;6
+Feria Secunda Majoris Hebdomadæ;;Feria privilegiata;;6
 
 [Rank] (rubrica 1955 aut rubrica 1960)
-Feria Secunda Hebdomad� Sanct�;;Feria privilegiata;;6
+Feria Secunda Hebdomadæ Sanctæ;;Feria privilegiata;;6
 
 [Rule]
 Antiphonas horas
 Feria
 
 [Lectio1]
-Lectio sancti Evangelii secundum Joannem.
+Léctio sancti Evangélii secúndum Joánnem.
 !Joannes 12:1-9.
-Ante sex dies Paschae venit Jesus Bethaniam, ubi Lazarus fuerat mortuus, quem suscitavit Jesus. Et reliqua.
+Ante sex dies Paschæ venit Jesus Bethániam, ubi Lázarus fuerat mórtuus, quem suscitávit Jesus. Et réliqua.
 _
-Homilia sancti Augustini Episcopi.
-!Tractus 50. in Joann., post init.
-Ne putarent homines phantasma esse factum, quia mortuus resurrexit, Lazarus unus erat ex recumbentibus: vivebat, loquebatur, epulabatur, veritas ostendebatur, infidelitas Judaeorum confundebatur. Discumbebat ergo Jesus cum Lazaro, et ceteris: ministrabat Martha una ex sororibus Lazari. Maria vero, altera soror Lazari, accepit libram unguenti nardi pistici pretiosi, et unxit pedes Jesu, et extersit capillis suis pedes ejus, et domus impleta est ex odore unguenti. Factum audivimus: mysterium requiramus.
+Homilía sancti Augustíni Epíscopi
+!Tractus 50 in Joann., post initium
+Ne putarent hómines phantasma esse factum, quia mórtuus resurréxit, Lázarus unus erat ex recumbéntibus: vivebat, loquebátur, epulabátur, véritas osténdebátur, infidelitas Judæórum confundebátur. Discumbebat ergo Jesus cum Lázaro, et ceteris: ministrábat Martha, una ex soróribus Lázari. Maria vero, áltera soror Lázari, accépit libram unguénti nardi pístici pretiósi, et unxit pedes Jesu, et extersit capíllis suis pedes ejus, et domus impléta est ex odore unguenti. Factum audívimus: mystérium requirámus.
 
 [Responsory1]
-R. Viri impii dixerunt: Opprimamus virum justum injuste, et deglutiamus eum tamquam infernus vivum: auferamus memoriam illius de terra: et de spoliis ejus sortem mittamus inter nos: ipsi enim homicidae thesaurizaverunt sibi mala.
-* Insipientes et maligni oderunt sapientiam: et rei facti sunt in cogitationibus suis.
-V. Haec cogitaverunt, et erraverunt: et excaecavit illos malitia eorum.
-R. Insipientes et maligni oderunt sapientiam: et rei facti sunt in cogitationibus suis.
+R. Viri ímpii dixérunt: Opprimámus virum justum injúste, et deglutiámus eum tamquam infernus vivum: auferámus memóriam illíus de terra: et de spoliis ejus sortem mittámus inter nos: ipsi enim homicidæ thesaurizavérunt sibi mala. 
+* Insipiéntes et malígni odérunt sapiéntiam: et rei facti sunt in cogitatiónibus suis.
+V. Hæc cogitavérunt, et erravérunt: et excæcávit illos malítia eórum.
+R. Insipiéntes et malígni odérunt sapiéntiam: et rei facti sunt in cogitatiónibus suis.
 
 [Lectio2]
-Quaecumque anima fidelis vis esse, cum Maria unge pedes Domini pretioso unguento. Unguentum illud justitia fuit, ideo libra fuit: erat autem unguentum nardi pistici pretiosi. Quod ait, pistici, locum aliquem credere debemus unde hoc erat unguentum pretiosum: nec tamen hoc vacat, et sacramento optime consonat. Pistis Graece, fides Latine dicitur. Quaerebas operari justitiam. Justus ex fide vivit. Unge pedes Jesu bene vivendo: Dominica sectare vestigia. Capillis terge: si habes superflua, da pauperibus, et Domini pedes tersisti: capilli enim superflua corporis videntur. Habes quod agas de superfluis tuis: tibi superflua sunt, sed Domini pedibus necessaria sunt. Forte in terra Domini pedes indigent.
+Quæcúmque ánima fidélis vis esse, cum Maria unge pedes Dómini pretióso unguento. Unguéntum illud justítia fuit, ideo libra fuit: erat autem unguéntum nardi pístici pretiósi. Quod ait, pístici, locum aliquem credere debemus, unde hoc erat unguéntum pretiósum: nec tamen hoc vacat, et sacraménto optime cónsonat. Pístis Græce, fides Latine dícitur. Quærébas operari justítiam. Justus ex fide vivit. Unge pedes Jesu bene vivéndo: Dominica sectáre vestígia. Capillis terge: si habes superflua, da paupéribus, et Dómini pedes tersísti: capílli enim superflua corporis vidéntur. Habes quod agas de superfluis tuis: tibi superflua sunt, sed Dómini pédibus necessaria sunt. Forte in terra Dómini pedes índigent.
 
 [Responsory2]
-R. Opprobrium factus sum nimis inimicis meis: viderunt me, et moverunt capita sua:
-* Adjuva me, Domine, Deus meus.
-V. Locuti sunt adversum me lingua dolosa, et sermonibus odii circumdederunt me.
-R. Adjuva me, Domine, Deus meus.
+R. Oppróbrium factus sum nimis inimícis meis: vidérunt me, et movérunt cápita sua: 
+* Adjúva me, Dómine, Deus meus.
+V. Locúti sunt advérsum me lingua dolósa, et sermónibus odii circumdedérunt me.
+R. Adjúva me, Dómine, Deus meus.
 
 [Lectio3]
-De quibus enim, nisi de membris suis in fine dicturus est: Cum uni ex minimis meis fecistis, mihi fecistis? Superflua vestra impendistis: sed pedibus meis obsecuti estis. Domus autem impleta est odore: mundus impletus est fama bona: nam odor bonus, fama bona est. Qui male vivunt, et Christiani vocantur, injuriam Christo faciunt: de qualibus dictum est, quod per eos nomen Domini blasphematur. Si per tales nomen Dei blasphematur, per bonos nomen Domini laudatur. Audi Apostolum: Christi bonus odor sumus, inquit, in omni loco.
+De quibus enim, nisi de membris suis in fine dicturus est: Cum uni ex minimis meis fecístis, mihi fecístis? Superflua vestra impendístis: sed pédibus meis obsecúti estis. Domus autem impléta est odore: mundus impletus est fama bona: nam odor bonus, fama bona est. Qui male vivunt, et Christiáni vocántur, injúriam Christo faciunt: de quálibus dictum est, quod per eos nomen Dómini blasphemátur. Si per tales nomen Dei blasphemátur, per bonos nomen Dómini laudátur. Audi Apóstolum: Christi bonus odor sumus, inquit, in omni loco.
 
 [Responsory3]
-R. Insurrexerunt in me viri iniqui absque misericordia, quaesierunt me interficere: et non pepercerunt in faciem meam spuere, et lanceis suis vulneraverunt me: et concussa sunt omnia ossa mea:
-* Ego autem existimabam me tamquam mortuum super terram.
-V. Effuderunt furorem suum in me: fremuerunt contra me dentibus suis.
-R. Ego autem existimabam me tamquam mortuum super terram.
+R. Insurrexérunt in me viri iníqui absque misericórdia, quæsiérunt me interfícere: et non pepercérunt in fáciem meam spúere, et lanceis suis vulneravérunt me: et concussa sunt ómnia ossa mea: 
+* Ego autem existimábam me tamquam mortuum super terram.
+V. Effudérunt furórem suum in me: fremuérunt contra me déntibus suis.
+R. Ego autem existimábam me tamquam mortuum super terram.
 &Gloria
-R. Insurrexerunt in me viri iniqui absque misericordia, quaesierunt me interficere: et non pepercerunt in faciem meam spuere, et lanceis suis vulneraverunt me: et concussa sunt omnia ossa mea: * Ego autem existimabam me tamquam mortuum super terram.
+R. Insurrexérunt in me viri iníqui absque misericórdia, quæsiérunt me interfícere: et non pepercérunt in fáciem meam spúere, et lanceis suis vulneravérunt me: et concussa sunt ómnia ossa mea: * Ego autem existimábam me tamquam mortuum super terram.
 
 [Ant Laudes]
-Faciem meam * non averti ab increpantibus, et conspuentibus in me.
-Framea suscitare * adversus eos, qui dispergunt gregem meum.
-Appenderunt * mercedem meam triginta argenteis: quibus appretiatus sum ab eis.
-Inundaverunt aquae * super caput meum: dixi, Perii: invocabo nomen tuum, Domine Deus.
-Labia insurgentium, * et cogitationes eorum vide, Domine.
+Faciem meam * non avérti ab increpántibus, et conspuéntibus in me.
+Framea, suscitáre * advérsus eos, qui dispérgunt gregem meum.
+Appendérunt * mercedem meam trigínta argenteis: quibus appretiátus sum ab eis.
+Inundavérunt aquæ * super caput meum: dixi, Perii: invocábo nomen tuum, Dómine Deus.
+Labia insurgéntium, * et cogitatiónes eórum vide, Dómine.
 
 [Ant 2]
-Clarifica me, Pater, * apud temetipsum claritate, quam habui priusquam mundus fieret.
+Clarífica me, Pater, * apud temetípsum claritáte, quam hábui priúsquam mundus fiéret.
 
 [Oratio 2]
-Da, quaesumus, omnipotens Deus: ut qui in tot adversis ex nostra infirmitate deficimus; intercedente unigeniti Filii tui passione respiremus:
+Da, quǽsumus, omnípotens Deus: ut, qui in tot advérsis ex nostra infirmitáte defícimus; intercedénte unigéniti Fílii tui passióne respirémus:
 $Qui tecum
 
 [Ant 3]
-Non haberes * in me potestatem, nisi desuper tibi datum fuisset.
+Non habéres * in me potestátem, nisi désuper tibi datum fuísset.
 
 [Oratio 3]
-Adjuva nos, Deus, salutaris noster, et ad beneficia recolenda, quibus nos instaurare dignatus es, tribue venire gaudentes.
+Adjúva nos, Deus, salutáris noster: et ad benefícia recolenda, quibus nos instaurare dignátus es, tribue veníre gaudéntes.
 $Per Dominum

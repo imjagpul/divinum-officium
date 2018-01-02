@@ -1,8 +1,8 @@
 [Rank]
-Św. Rosae a Sancta Maria Limanae Dziewicy;;Duplex;;3;;vide C6
+Św. Róży z Limy Dziewicy;;Duplex;;3;;vide C6
 
 [RankNewcal]
-Św. Rosae a Sancta Maria Limanae Dziewicy;;Duplex optional;;2;;vide C6
+Św. Róży z Limy Dziewicy;;Duplex optional;;2;;vide C6
 
 [Rule]
 vide C6;
@@ -18,6 +18,3 @@ $Qui tecum
 $Oremus
 Błagamy pokornie Majestatu Twego, Panie, abyś uweselając nas ciągle wspomnieniem Świętych Twoich, za ich przyczyną zawsze strzec nas raczył.
 $Per Dominum
-
-[Hymnus Matutinum]
-@Commune/C6:Hymnus Matutinum 1

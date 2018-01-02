@@ -1,8 +1,8 @@
 [Rank]
-In Annuntiatione Beatæ Mariæ Virginis;;Duplex I classis;;6.5;;ex C11
+In Annuntiatione Beatae Mariae Virginis;;Duplex I classis;;6.5;;ex C11
 
 [Rank] (rubrica 1960)
-In Annuntiatione Beatæ Mariæ Virginis;;Duplex I classis;;6;;ex C11
+In Annuntiatione Beatae Mariae Virginis;;Duplex I classis;;6;;ex C11
 
 [Rule]
 ex C11;
@@ -16,7 +16,7 @@ Ant Matutinum 12 special
 The Angel Gabriel was sent * to a virgin espoused to a man whose name was Joseph; and the virgin's name was Mary. (Alleluia.);;109
 Hail, Mary, * full of grace, the Lord is with thee; blessed art thou among women. (Alleluia.);;112
 Fear not, Mary, * thou hast found grace with the Lord; behold, thou shalt conceive, and bring forth a Son. (Alleluia.);;121
-The Lord shall give unto Him the throne of His father David, and of His kingdom there shall be no end. (Alleluia.);;126
+The Lord shall give unto Him * the throne of His father David, and of His kingdom there shall be no end. (Alleluia.);;126
 Behold the handmaid of the Lord, * be it unto me according to thy word. (Alleluia.);;147
 
 [Capitulum Vespera]
@@ -38,7 +38,7 @@ shall overshadow thee. (Alleluia.)
 O God, Who didst will that thy word should, by the message of an Angel, take~
 flesh in the womb of the Blessed Virgin Mary, grant unto us, we beseech thee,~
 that all we who do believe her to be in very deed the Mother of God, may be~
-holpen by her prayers in thy sight.
+helped by her prayers in thy sight.
 $Per eumdem
 
 [Invit]
@@ -49,17 +49,7 @@ The Angel of the Lord * announced unto Mary, and she conceived of the Holy Spiri
 
 [Lectio1]
 Lesson from the book of Isaias
-!Isa 7:10-15
-10 And the Lord spoke again to Achaz, saying:
-11 Ask thee a sign of the Lord thy God either unto the depth of hell, or unto~
-the height above.
-12 And Achaz said: I will not ask, and I will not tempt the Lord.
-13 And he said: Hear ye therefore, O house of David: Is it a small thing for you~
-to be grievous to men, that you are grievous to my God also?
-14 Therefore the Lord himself shall give you a sign. Behold a virgin shall~
-conceive, and bear a son, and his name shall be called Emmanuel.
-15 He shall eat butter and honey, that he may know to refuse the evil, and to~
-choose the good.
+@Tempora/Adv1-6:Lectio3
 
 [Responsory1]
 R. The angel Gabriel was sent to Mary, a Virgin espoused to Joseph, to bring~
@@ -89,7 +79,7 @@ and with the breath of his lips he shall slay the wicked.
 reins.
 
 [Responsory2]
-R. Hail, Mary, full of grace; the Lord is with thee
+R. Hail, Mary, full of grace; the Lord is with thee;
 * The Holy Ghost shall come upon thee, and the power of the Highest shall~
 overshadow thee therefore also that Holy Thing Which shall be born of thee shall~
 be called the Son of God. (Alleluia.)
@@ -98,23 +88,6 @@ unto her,
 R. The Holy Ghost shall come upon thee, and the power of the Highest shall~
 overshadow thee; therefore also that Holy Thing Which shall be born of thee~
 shall be called the Son of God. (Alleluia.)
-
-[Lectio3]
-!Isa 35:1-7
-1 The land that was desolate and impassable shall be glad, and the wilderness~
-shall rejoice, and shall flourish like the lily.
-2 It shall bud forth and blossom, and shall rejoice with joy and praise: the~
-glory of Libanus is given to it: the beauty of Carmel, and Saron, they shall see~
-the glory of the Lord, and the beauty of our God.
-3 Strengthen ye the feeble hands, and confirm the weak knees.
-4 Say to the fainthearted: Take courage, and fear not: behold your God will~
-bring the revenge of recompense: God himself will come and will save you.
-5 Then shall the eyes of the blind be opened, and the ears of the deaf shall be~
-unstopped.
-6 Then shall the lame man leap as a hart, and the tongue of the dumb shall be~
-free: for waters are broken out in the desert, and streams in the wilderness.
-7 And that which was dry land, shall become a pool, and the thirsty land springs~
-of water. 
 
 [Responsory3]
 R. Receive, O Virgin Mary, receive the word of the Lord, which is sent thee by~
@@ -127,7 +100,7 @@ R. And thou shalt be called blessed among all women. (Alleluia.)
 R. And thou shalt be called blessed among all women. (Alleluia.)
 
 [Lectio4]
-From the Sermons of Pope St Leo (the Great.)
+From the Sermons of Pope St. Leo (the Great.)
 !2nd for Christmas.
 The Almighty and merciful God, Whose nature is goodness, Whose will is power,~
 and Whose work is mercy, did, at the very beginning of the world, as soon as the~
@@ -139,7 +112,7 @@ come in the flesh, that God and Man in one Person, Who, being born of a Virgin,~
 should, by His undefiled birth, damn the seducer of man.
 
 [Responsory4]
-R. Behold, the Virgin shall conceive, and bear a son, saith the Lord
+R. Behold, the Virgin shall conceive, and bear a son, saith the Lord;
 * And His name shall be called Wonderful, the Mighty God. (Alleluia.)
 V. He shall sit upon the throne of David, and upon his kingdom for ever.
 R. And His name shall be called Wonderful, the Mighty God. (Alleluia.)
@@ -193,7 +166,7 @@ At that time the angel Gabriel was sent from God into a city of Galilee, called~
 Nazareth, To a virgin espoused to a man whose name was Joseph, of the house of~
 David; and the virgin's name was Mary. And so on.
 _
-Homily by St Ambrose, Bishop (of Milan,)
+Homily by St. Ambrose, Bishop (of Milan.)
 !Bk. ii. on Luke.
 The mysteries of God are unsearchable, and it is especially declared by a~
 Prophet, that a man can hardly know His counsels. (Wisd. ix. 13.) Nevertheless,~
@@ -254,15 +227,8 @@ that she was mother of God caused in the heart of Mary only an act of humility.
 The Angel Gabriel was sent * to a virgin espoused to a man whose name was Joseph; and the virgin's name was Mary. (Alleluia.)
 Hail, Mary, * full of grace, the Lord is with thee; blessed art thou among women. (Alleluia.)
 Fear not, Mary, * thou hast found grace with the Lord; behold, thou shalt conceive, and bring forth a Son. (Alleluia.)
-The Lord shall give unto Him the throne of His father David, and of His kingdom there shall be no end. (Alleluia.)
+The Lord shall give unto Him * the throne of His father David, and of His kingdom there shall be no end. (Alleluia.)
 Behold the handmaid of the Lord, * be it unto me according to thy word. (Alleluia.)
-
-[Capitulum Laudes]
-!Isa 7:14-15
-v. Behold a virgin shall conceive, and bear a son, and his name shall be called~
-Emmanuel. He shall eat butter and honey, that he may know to refuse the evil, and~
-to choose the good.
-$Deo gratias
 
 [Versum 2]
 V. Hail, Mary, full of grace. (Alleluia.)
@@ -270,7 +236,7 @@ R. The Lord is with thee. (Alleluia.)
 
 [Ant 2]
 How shall this be, * thou Angel of God, seeing I know not a man? Hear, O Virgin~
-Mary the Holy Ghost shall come upon thee, and the power of the Highest shall~
+Mary: the Holy Ghost shall come upon thee, and the power of the Highest shall~
 overshadow thee. (Alleluia.)
 
 [Lectio Prima]
@@ -278,23 +244,10 @@ overshadow thee. (Alleluia.)
 v. And there shall come forth a rod out of the root of Jesse, and a flower shall~
 rise up out of his root. And the spirit of the Lord shall rest upon him.
 
-[Capitulum Tertia]
-!Isa 7:14-15
-v. Behold a virgin shall conceive, and bear a son, and his name shall be called~
-Emmanuel. He shall eat butter and honey, that he may know to refuse the evil, and~
-to choose the good.
-$Deo gratias
-
 [Capitulum Sexta]
 !Luke 1:32-33
 v. The Lord God shall give unto him the throne of David his father; and he shall~
 reign in the house of Jacob for ever. And of his kingdom there shall be no end.
-$Deo gratias
-
-[Capitulum Nona]
-!Isa 11:1-2
-v. And there shall come forth a rod out of the root of Jesse, and a flower shall~
-rise up out of his root. And the spirit of the Lord shall rest upon him.
 $Deo gratias
 
 [Ant 3]

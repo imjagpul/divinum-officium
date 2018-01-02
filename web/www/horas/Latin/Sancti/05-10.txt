@@ -1,34 +1,35 @@
 [Rank]
-S. Antonini Episcopi et Confessoris;;Duplex;;3;;vide C4
+S. Antonini Ep√≠scopi et Confessoris;;Duplex;;3;;vide C4
 
 [Rule]
 vide C4;mtv
 9 lectiones
 
 [Oratio]
-Sancti Antonini, Domine, Confessoris tui atque Pontificis meritis adjuvemur: ut, sicut te in illo mirabilem praedicamus, ita in nos misericordem fuisse gloriemur.
+Sancti Antonini, Domine, Confessoris tui atque Pontificis meritis adjuvemur: ut, sicut te in illo mirabilem pr√¶dicamus, ita in nos misericordem fuisse gloriemur.
 $Per Dominum
 
 [Commemoratio]
-!Commemoratio Ss. Gordiani et Epimachi Martyri.
+!Commemoratio Ss. Gordiani et Epimachi Martyrum
 @Commune/C3:Oratio proper
 $Oremus
-Da, quaesumus, omnipotens Deus: ut qui beatorum Martyrum tuorum Gordiani et Epimachi solemnia colimus, eorum apud te intercessionibus adjuvemur.
+Da, qu«Ωsumus, omn√≠potens Deus: ut, qui beat√≥rum M√°rtyrum tu√≥rum Gordi√°ni et~
+Ep√≠machi sol√©mnia c√≥limus, e√≥rum apud te intercessi√≥nibus adjuv√©mur.
 $Per Dominum
 
 [Lectio4]
-Antoninus, Florentiae honestis parentibus natus, ab ipsa jam pueritia egregium futurae sanctitatis specimen exhibuit. Annum agens sextum decimum, religionem Praedicatorum amplexus, coepit exinde maximis clarere virtutibus. Otio perpetuum bellum indixit. Post nocturnum brevem somnum primus matutinis precibus aderat; quibus persolutis, reliquum tempus noctis orationibus, aut certe lectioni, et scriptioni librorum tribuebat; et si quando importunior fessis membris somnus obreperet, ad parietem paululum declinato capite, ac tantisper discusso somno mox sacras vigilias avidius repetebat.
+Antoninus, Florenti√¶ honestis parentibus natus, ab ipsa jam pueritia egregium futur√¶ sanctitatis specimen exhibuit. Annum agens sextum decimum, religionem Pr√¶dicatorum amplexus, c≈ìpit exinde maximis clarere virtutibus. Otio perpetuum bellum indixit. Post nocturnum brevem somnum primus matutinis precibus aderat; quibus persolutis, reliquum tempus noctis orationibus, aut certe lectioni, et scriptioni librorum tribuebat; et si quando importunior fessis membris somnus obreperet, ad parietem paululum declinato capite, ac tantisper discusso somno mox sacras vigilias avidius repetebat.
 
 [Lectio5]
-Disciplinae regularis sui ipsius severissimus exactor, carnes, nisi in gravi aegritudine, numquam edit. Humi, aut in nudo tabulato cubabat. Cilicio semper usus, et interdum zona ferrea ad vivam cutem incinctus, virginitatem integerrime semper coluit. In explicandis consiliis tantae dexteritatis fuit, ut communi elogio Antoninus consiliorum diceretur. Adeo autem in eo humilitas enituit, ut etiam coenobiis, ac provinciis praefectus abjectissima monasterii officia demississime obiret. Ab Eugenio quarto Florentinus archiepiscopus renuntiatus, aegerrime tandem nec nisi apostolicis minis perterrefactus ut episcopatum acciperet, acquievit.
+Disciplin√¶ regularis sui ipsius severissimus exactor, carnes, nisi in gravi √¶gritudine, numquam edit. Humi, aut in nudo tabulato cubabat. Cilicio semper usus, et interdum zona ferrea ad vivam cutem incinctus, virginitatem integerrime semper coluit. In explicandis consiliis tant√¶ dexteritatis fuit, ut communi elogio Antoninus consiliorum diceretur. Adeo autem in eo humilitas enituit, ut etiam c≈ìnobiis, ac provinciis pr√¶fectus abjectissima monasterii officia demississime obiret. Ab Eugenio quarto Florentinus archiepiscopus renuntiatus, √¶gerrime tandem nec nisi apostolicis minis perterrefactus ut episcopatum acciperet, acquievit.
 
 [Lectio6]
-In eo munere vix dici potest, quantum prudentia, pietate, caritate, mansuetudine, et sacerdotali zelo excelluerit. Illud mirandum, tantum ingenio valuisse, ut omnes ferme scientias per se nullo adhibito praeceptore, absolutissime didicerit. Tandem post multos labores, multis etiam editis insignis doctrinae libris, sacra Eucharistia et Unctione percepta, complexus Crucifixi imaginem, mortem laetus aspexit sexto Nonas Maji, anno millesimo quadringentesimo quinquagesimo nono. Miraculis vivens et post mortem conspicuus, Sanctorum numero adscriptus est ab Hadriano sexto, anno Domini millesimo quingentesimo vigesimo tertio.
+In eo munere vix dici potest, quantum prudentia, pietate, caritate, mansuetudine, et sacerdotali zelo excelluerit. Illud mirandum, tantum ingenio valuisse, ut omnes ferme scientias per se nullo adhibito pr√¶ceptore, absolutissime didicerit. Tandem post multos labores, multis etiam editis insignis doctrin√¶ libris, sacra Eucharistia et Unctione percepta, complexus Crucifixi imaginem, mortem l√¶tus aspexit sexto Nonas Maji, anno millesimo quadringentesimo quinquagesimo nono. Miraculis vivens et post mortem conspicuus, Sanctorum numero adscriptus est ab Hadriano sexto, anno Domini millesimo quingentesimo vigesimo tertio.
 
 [Lectio93]
-Gordianus judex, cum ad eum Januarius presbyter, ut condemnaretur, sub Juliano Apostata ductus esset, ab eodem in christiana fide instructus, cum uxore et quinquaginta tribus aliis ex eadem familia Romae baptizatur. Quare praefectus, relegato Januario, Gordianum a Clementiano vicario includi jubet in carcerem: qui postea eumdem Gordianum vinctum catenis ad se accersitum, cum a fidei proposito deterrere non posset, plumbatis diu caesum, capite plecti imperat. Cujus corpus ante Apollinis templum canibus objectum, noctu a Christianis via Latina sepelitur in eadem crypta, in quam reliquiae beati Epimachi Martyris translatae fuerant ab Alexandria: ubi is diu propter Christi confessionem constrictus in carcere, postremo combustus, martyrio coronatus est.
+Gordianus judex, cum ad eum Januarius presbyter, ut condemnaretur, sub Juliano Apostata ductus esset, ab eodem in christiana fide instructus, cum uxore et quinquaginta tribus aliis ex eadem familia Rom√¶ baptizatur. Quare pr√¶fectus, relegato Januario, Gordianum a Clementiano vicario includi jubet in carcerem: qui postea eumdem Gordianum vinctum catenis ad se accersitum, cum a fidei proposito deterrere non posset, plumbatis diu c√¶sum, capite plecti imperat. Cujus corpus ante Apollinis templum canibus objectum, noctu a Christianis via Latina sepelitur in eadem crypta, in quam reliqui√¶ beati Epimachi Martyris translat√¶ fuerant ab Alexandria: ubi is diu propter Christi confessionem constrictus in carcere, postremo combustus, martyrio coronatus est.
 &teDeum
 
 [Lectio94]
-AntonÌnus, FlorÈntiÊ honÈstis parÈntibus natus, ab ipsa puerÌtia egrÈgium fut˙rÊ sanctit·tis spÈcimen exhÌbuit. Annum agens sextum dÈcimum, religiÛnem PrÊdicatÛrum amplÈxus, cúpit exÌnde m·ximis virt˙tibus clarÈre. Singul·ri fuit abstinÈntia, et virginit·tem integÈrrime semper cÛluit. In explic·ndis consÌliis tantÊ fuit dexterit·tis, ut AntonÌnus consiliÛrum dicerÈtur. Ab EugÈnio quarto FlorentÌnus archiepÌscopus renunti·tus, ÊgÈrrime tamen, nec nisi apostÛlicis minis perterref·ctus, ut episcop·tum accÌperet, acquiÈvit. In eo m˙nere prudÈntia, piet·te, carit·te, mansuet˙dine et sacerdot·li zelo excÈlluit. Omnes fere sciÈntias, nullo adhÌbito prÊceptÛre, absolutÌssimas dÌdicit, et multos insÌgnis doctrÌnÊ libros scripsit. Obiit in DÛmino sexto Nonas Maji, anno millÈsimo quadringentÈsimo quinquagÈsimo nono, et ab Hadri·no sexto in album SanctÛrum fuit rel·tus.
+Anton√≠nus, Flor√©nti√¶ hon√©stis par√©ntibus natus, ab ipsa puer√≠tia egr√©gium fut√∫r√¶ sanctit√°tis sp√©cimen exh√≠buit. Annum agens sextum d√©cimum, religi√≥nem Pr√¶dicat√≥rum ampl√©xus, c≈ìpit ex√≠nde m√°ximis virt√∫tibus clar√©re. Singul√°ri fuit abstin√©ntia, et virginit√°tem integ√©rrime semper c√≥luit. In explic√°ndis cons√≠liis tant√¶ fuit dexterit√°tis, ut Anton√≠nus consili√≥rum dicer√©tur. Ab Eug√©nio quarto Florent√≠nus archiep√≠scopus renunti√°tus, √¶g√©rrime tamen, nec nisi apost√≥licis minis perterref√°ctus, ut episcop√°tum acc√≠peret, acqui√©vit. In eo m√∫nere prud√©ntia, piet√°te, carit√°te, mansuet√∫dine et sacerdot√°li zelo exc√©lluit. Omnes fere sci√©ntias, nullo adh√≠bito pr√¶cept√≥re, absolut√≠ssimas d√≠dicit, et multos ins√≠gnis doctr√≠n√¶ libros scripsit. Obiit in D√≥mino sexto Nonas Maji, anno mill√©simo quadringent√©simo quinquag√©simo nono, et ab Hadri√°no sexto in album Sanct√≥rum fuit rel√°tus.
 &teDeum

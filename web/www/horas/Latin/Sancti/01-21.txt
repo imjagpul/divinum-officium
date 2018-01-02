@@ -11,163 +11,137 @@ v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confiteb
 $Deo gratias
 
 [Ant 1]
-Beata Agnes * in medio flammarum expansis manibus orabat: Te deprecor omnipotens, adorande, colende, Pater metuende, quia per sanctum Filium tuum evasi minas sacrilegi tyranni, et carnis spurcitias immaculato calle transivi: et ecce venio ad te, quem amavi, quem quaesivi, quem semper optavi.
+Beáta Agnes * in médio flammárum expansis mánibus orábat: Te déprecor, omnípotens, adorande, colende, Pater metuende, quia per sanctum Fílium tuum evasi minas sacrilegi tyranni, et carnis spurcítias immaculáto calle transívi: et ecce vénio ad te, quem amávi, quem quæsívi, quem semper optavi.
 
 [Oratio]
-Omnipotens sempiterne Deus, qui infirma mundi eligis, ut fortia quaeque confundas: concede propitius; ut, qui beatae Agnetis Virginis et Martyris tuae solemnia colimus, ejus apud te patrocinia sentiamus.
+Omnipotens sempitérne Deus, qui infírma mundi éligis, ut fórtia quæque confúndas: concéde propítius; ut, qui beátæ Agnétis Vírginis et Mártyris tuæ solémnia cólimus, eius apud te patrocínia sentiámus.
 $Per Dominum
 
 [Ant Matutinum]
-Discede a me * pabulum mortis, quia jam ab alio amatore praeventa sum.;;1
-Dexteram meam * et collum meum cinxit lapidibus pretiosis tradidit auribus meis inaestimabiles margaritas.;;2
-Posuit signum * in faciem meam, ut nullum praeter eum amatorem admittam.;;3
-V. Specie tua et pulchritudine tua.
-R. Intende, prospere procede, et regna.
-Induit me Dominus * cyclade auro texta, et immensis monilibus ornavit me.;;4
-Mel et lac * ex ejus ore suscepi, et sanguis ejus ornavit genas meas.;;5
-Ipsi soli servo fidem, * ipsi me tota devotione committo.;;8
-V. Adjuvabit eam Deus vultu suo.
-R. Deus in medio ejus, non commovebitur.
-Cujus pulchritudinem * sol et luna mirantur, ipsi soli servo fidem.;;14
-Christus circumdedit me * vernantibus atque coruscantibus gemmis pretiosis.;;44
-Ipsi sum desponsata, * cui Angeli serviunt, cujus pulchritudinem sol et luna mirantur.;;45
-V. Elegit eam Deus, et praeelegit eam,
-R. In tabernaculo suo habitare facit eam.
+Discéde a me, * pábulum mortis, quia jam ab álio amatóre prævénta sum.;;1
+Déxteram meam * et collum meum cinxit lapídibus pretiósis, trádidit áuribus meis inæstimábiles margarítas.;;2
+Pósuit signum * in fáciem meam, ut nullum præter eum amatórem admíttam.;;3
+V. Spécie tua et pulchritúdine tua.
+R. Inténde, próspere procéde, et regna.
+Induit me Dóminus, * cýclade auro texta, et imménsis monílibus ornávit me.;;4
+Mel et lac * ex ejus ore suscépi, et sanguis ejus ornávit genas meas.;;5
+Ipsi soli servo fidem, * ipsi me tota devotióne committo.;;8
+V. Adjuvábit eam Deus vultu suo.
+R. Deus in médio ejus, non commovébitur.
+Cujus pulchritúdinem * sol et luna mirántur, ipsi soli servo fidem.;;14
+Christus circúmdedit me * vernántibus atque coruscántibus gemmis pretiósis.;;44
+Ipsi sum desponsáta, * cui Angeli sérviunt, cujus pulchritúdinem sol et luna mirántur.;;45
+V. Elégit eam Deus, et præelégit eam.
+R. In tabernáculo suo habitáre facit eam.
 
 [Lectio1]
-De libro Ecclesiastici.
-!Sir 51:1-7
-1 Oratio Jesu filii Sirach. Confitebor tibi, Domine rex, et collaudabo te Deum salvatorem meum.
-2 Confitebor nomini tuo, quoniam adjutor et protector factus es mihi,
-3 et liberasti corpus meum a perditione: a laqueo linguae iniquae, et a labiis operantium mendacium: et in conspectu astantium factus es mihi adjutor.
-4 Et liberasti me, secundum multitudinem misericordiae nominis tui, a rugientibus praeparatis ad escam:
-5 de manibus quaerentium animam meam, et de portis tribulationum quae circumdederunt me;
-6 a pressura flammae quae circumdedit me, et in medio ignis non sum aestuatus;
-7 de altitudine ventris inferi, et a lingua coinquinata, et a verbo mendacii, a rege iniquo, et a lingua injusta.
+@Commune/C6:Lectio11
 
 [Responsory1]
-R. Diem festum sacratissimae Virginis celebremus, qualiter passa sit beata Agnes ad memoriam revocemus: tertiodecimo aetatis suae anno mortem perdidit, et vitam invenit:
-* Quia solum vitae dilexit auctorem.
-V. Infantia quidem computabatur in annis, sed erat senectus mentis immensa.
-R. Quia solum vitae dilexit auctorem.
+R. Diem festum sacratíssimæ Vírginis celebremus, quáliter passa sit beáta Agnes ad memóriam revocémus: tertiodecimo ætátis suæ anno mortem pérdidit, et vitam invénit: 
+* Quia solum vitæ diléxit auctórem.
+V. Infántia quidem computabátur in annis, sed erat senéctus mentis immensa.
+R. Quia solum vitæ diléxit auctórem.
 
 [Lectio2]
-!Sir 51:8-12
-8 Laudabit usque ad mortem anima mea Dominum,
-9 et vita mea appropinquans erat in inferno deorsum.
-10 Circumdederunt me undique, et non erat qui adjuvaret: respiciens eram ad adjutorium hominum, et non erat.
-11 Memoratus sum misericordiae tuae, Domine, et operationis tuae, quae a saeculo sunt:
-12 quoniam eruis sustinentes te, Domine, et liberas eos de manibus gentium.
+@Commune/C6:Lectio21
 
 [Responsory2]
-R. Dexteram meam et collum meum cinxit lapidibus pretiosis, tradidit auribus meis inaestimabiles margaritas:
-* Et circumdedit me vernantibus atque coruscantibus gemmis.
-V. Posuit signum in faciem meam, ut nullum praeter eum amatorem admittam.
-R. Et circumdedit me vernantibus atque coruscantibus gemmis.
+R. Déxteram meam et collum meum cinxit lapidibus pretiósis, trádidit áuribus meis inæstimábiles margaritas, 
+* Et circúmdedit me vernántibus atque coruscántibus gemmis.
+V. Pósuit signum in fáciem meam, ut nullum præter eum amatórem admittam.
+R. Et circúmdedit me vernántibus atque coruscántibus gemmis.
 
 [Lectio3]
-!Sir 51:13-17
-13 Exaltasti super terram habitationem meam, et pro morte defluente deprecatus sum.
-14 Invocavi Dominum patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum, sine adjutorio.
-15 Laudabo nomen tuum assidue, et collaudabo illud in confessione: et exaudita est oratio mea,
-16 et liberasti me de perditione, et eripuisti me de tempore iniquo.
-17 Propterea confitebor, et laudem dicam tibi, et benedicam nomini Domini.
+@Commune/C6:Lectio31
 
 [Responsory3]
-R. Amo Christum, in cujus thalamum introibo cujus mater virgo est, cujus pater feminam nescit, cujus mihi organa modulatis vocibus cantant:
-* Quem cum amavero, casta sum; cum tetigero, munda sum; cum accepero, virgo sum.
-V. Anulo fidei suae subarrhavit me, et immensis monilibus ornavit me.
-R. Quem cum amavero, casta sum; cum tetigero, munda sum; cum accepero, virgo sum.
+R. Amo Christum, in cujus thálamum introíbo, cujus mater virgo est, cujus pater feminam nescit, cujus mihi órgana modulátis vócibus cantant: 
+* Quem cum amávero, casta sum; cum tetígero, munda sum; cum accépero, virgo sum.
+V. Anulo fidei suæ subarrhávit me, et imménsis monílibus ornávit me.
+R. Quem cum amávero, casta sum; cum tetígero, munda sum; cum accépero, virgo sum.
 &Gloria
-R. Quem cum amavero, casta sum; cum tetigero, munda sum; cum accepero, virgo sum.
+R. Quem cum amávero, casta sum; cum tetígero, munda sum; cum accépero, virgo sum.
 
 [Lectio4]
-Ex libro S. Ambrosii Episcopi de Virginibus.
-!Lib. 1, post init.
-Hodie natalis est Virginis, integritatem sequamur. Natalis est Martyris, hostias immolemus. Natalis est sanctae Agnetis, mirentur viri, non desperent parvuli, stupeant nuptae, imitentur innuptae. Sed quid dignum ea loqui possumus, cujus ne nomen quidem vacuum laudis est? Devotio supra aetatem, virtus supra naturam: ut mihi videatur non hominis habuisse nomen, sed oraculum Martyris, quod indicavit quid esset futura. Nomen Virginis, titulus est pudoris. Appellabo Martyrem: praedicavi satis. Prolixa laudatio est, quae non quaeritur, sed tenetur. Nemo est laudabilior, quam qui ab omnibus laudari potest. Quot homines, tot praecones, qui Martyrem praedicant, dum loquuntur.
+Ex libro S. Ambrósii Epíscopi de Virgínibus.
+!Liber 1, post initium
+Hodie natális est Vírginis, integritátem sequamur. Natalis est Mártyris, hóstias immolemus. Natalis est sanctæ Agnetis, miréntur viri, non despérent párvuli, stupeant nuptæ, imiténtur innuptæ. Sed quid dignum ea loqui póssumus, cujus ne nomen quidem vacuum laudis est? Devotio supra ætátem, virtus supra natúram: ut mihi videátur non hóminis hábuisse nomen, sed oraculum Mártyris, quod indicávit, quid esset futura. Nomen Vírginis titulus est pudoris. Appellábo Mártyrem: prædicávi satis. Prolixa laudátio est, quæ non quæritur, sed tenétur. Nemo est laudabílior, quam qui ab ómnibus laudari potest. Quot hómines, tot præcones, qui Mártyrem prædicant, dum loquúntur.
 
 [Responsory4]
-R. Induit me Dominus vestimento salutis, et indumento laetitiae circumdedit me: 
-* Et tamquam sponsam decoravit me corona.
-V. Tradidit auribus meis inaestimabiles margaritas, circumdedit me vernantibus atque coruscantibus gemmis.
-R. Et tamquam sponsam decoravit me corona.
+R. Induit me Dóminus vestiménto salútis, et indumento lætítiæ circúmdedit me: 
+* Et tamquam sponsam decorávit me coróna.
+V. Tradidit áuribus meis inæstimábiles margaritas, circúmdedit me vernántibus atque coruscántibus gemmis.
+R. Et tamquam sponsam decorávit me coróna.
 
 [Lectio5]
-Haec tredecim annorum martyrium fecisse traditur. Quo detestabilior crudelitas, quae nec minusculae pepercit aetati: imo magna vis fidei, quae etiam ab illa testimonium invenit aetate. Fuitne in illo corpusculo vulneri locus? Et quae non habuit quo ferrum reciperet, habuit quo ferrum vinceret. Haec inter cruentas carnificum impavida manus, haec stridentium gravibus immobilis tractibus catenarum, nunc furentis mucroni militis totum offerre corpus, mori adhuc nescia, sed parata, vel si ad aras invita raperetur, tendere Christo inter ignes manus, atque in ipsis sacrilegis focis trophaeum Domini signare victoris: nunc ferratis colla manusque ambas inserere nexibus. Sed nullus tam tenuia membra poterat nexus includere. Novum martyrii genus. Nondum idonea pcenae, et jam matura victoriae: certare difficilis, facilis coronari: magisterium virtutis implevit, quae praejudicium vehebat aetatis.
+Hæc tredecim annórum martyrium fecisse traditur. Quo detestabílior crudelitas quæ nec minúsculæ pepércit ætáti; immo magna vis fidei, quæ etiam ab illa testimónium invénit ætate. Fuitne in illo corpúsculo vúlneri locus? Et quæ non hábuit quo ferrum reciperet, hábuit quo ferrum vinceret. Hæc inter cruentas carnificum impávida manus, hæc stridéntium gravibus immobilis tractibus catenárum, nunc furentis mucroni militis totum offerre corpus, mori adhuc nescia, sed parata, vel si ad aras invita raperétur, téndere Christo inter ignes manus, atque in ipsis sacrílegis focis trophæum Dómini signare victoris: nunc ferrátis colla manusque ambas insérere néxibus. Sed nullus tam tenúia membra poterat nexus includere. Novum martyrii genus! Nondum idonea pœnæ, et jam matúra victóriæ; certare difficilis, facilis coronári: magistérium virtútis implévit, quæ præjudícium vehebat ætátis.
 
 [Responsory5]
-R. Mel et lac ex ejus ore suscepi, 
-* Et sanguis ejus ornavit genas meas
-V. Ostendit mihi thesauros incomparabiles, quos mihi se daturum repromisit.
-R. Et sanguis ejus ornavit genas meas.
+R. Mel et lac ex ejus ore suscépi, 
+* Et sanguis ejus ornávit genas meas.
+V. Osténdit mihi thesáuros incomparábiles, quos mihi se datúrum repromisit.
+R. Et sanguis ejus ornávit genas meas.
 
 [Lectio6]
-Non sic ad thalamum nupta properaret, ut ad supplicii locum, laeta successu, gradu festina virgo processit. Flere omnes, ipsa sine fletu. Mirari plerique, quod tam facile vitae suae prodiga, quam nondum hauserat, jam quasi perfuncta donaret Stupere universi, quod jam divinitatis testis exsisteret, quae adhuc arbitra sui per aetatem esse non posset Quanto terrore egit carnifex ut timeretur, quantis blanditiis ut suaderet, quantorum vota, ut sibi ad nuptias proveniret? At illa: Et haec sponsi injuria est, inquit, exspectare placituram. Qui me sibi prior elegit, accipiet: quid percussor moraris? Pereat corpus, quod amari potest oculis, quibus nolo. Stetit, oravit, cervicem inflexit. Cerneres trepidare carnificem, quasi ipse addictus fuisset, tremere percussoris dexteram, pallere ora alieno timentis periculo, cum puella non timeret suo. Habetis igitur in una hostia duplex martyrium, pudoris et religionis. Et virgo permansit, et martyrium obtinuit.
+Non sic ad thálamum nupta properaret, ut ad supplicii locum, læta successu, gradu festina Virgo processit. Flere omnes, ipsa sine fletu. Mirari plerique, quod tam facile vitæ suæ pródiga, quam nondum hauserat, jam quasi perfuncta donaret. Stupére univérsi, quod jam divinitátis testis exsísteret, quæ adhuc árbitra sui per ætátem esse non posset. Quanto terróre egit carnifex ut timerétur, quántis blanditiis ut suadéret, quantórum vota, ut sibi ad nuptias proveníret! At illa: Et hæc Sponsi injuria est, inquit, exspectáre plácituram. Qui me sibi prior elégit, accípiet: quid, percussor, moraris? Pereat corpus, quod amari potest óculis, quibus nolo. Stetit, orávit, cervicem infléxit. Cérneres trepidare carnificem, quasi ipse addictus fuísset, trémere percussoris déxteram, pallére ora alieno timentis periculo, cum puella non timéret suo. Habetis ígitur in una hóstia duplex martyrium, pudoris et religiónis. Et virgo permansit, et martyrium obtinuit.
 
 [Responsory6]
-R. Jam corpus ejus corpori meo sociatum est, et sanguis ejus ornavit genas meas: 
+R. Jam corpus ejus corpori meo sociátum est, et sanguis ejus ornávit genas meas: 
 * Cujus mater virgo est, cujus pater feminam nescit.
-V. Ipsi sum desponsata, cui Angeli serviunt, cujus pulchritudinem sol et luna mirantur.
+V. Ipsi sum desponsata, cui Angeli serviunt, cujus pulchritúdinem sol et luna mirántur.
 R. Cujus mater virgo est, cujus pater feminam nescit.
 &Gloria
 R. Cujus mater virgo est, cujus pater feminam nescit.
 
 [Lectio94]
-Ex libro S. Ambrosii Episcopi de Virginibus.
-!Lib. 1, post init.
-H�die nat�lis est V�rginis, integrit�tem sequ�mur. Natalis est M�rtyris, h�stias immol�mus. Natalis est sanct� Agn�tis, mir�ntur viri, non desp�rent p�rvuli, st�peant nupt�, imit�ntur inn�pt�. Sed quid dignum ea loqui p�ssumus, cujus ne nomen quidem v�cuum laudis est? Dev�tio supra �t�tem, virtus supra nat�ram: ut mihi vide�tur non h�minis habu�sse nomen, sed or�culum M�rtyris, quod indic�vit, quid esset fut�ra. Nomen V�rginis t�tulus est pud�ris. Appell�bo M�rtyrem: pr�dic�vi satis. Prol�xa laud�tio est, qu� non qu�ritur, sed ten�tur. Nemo est laudab�lior, quam qui ab �mnibus laud�ri potest. Quot h�mines, tot pr�c�nes, qui M�rtyrem pr�dicant, dum loqu�ntur. H�c tr�decim ann�rum martyrium fec�sse tr�ditur. Quo destab�lior crud�litas qu� nec min�scul� pep�rcit �t�ti; immo magna vis f�dei, qu� �tiam ab illa testim�nium inv�nit �t�te.
+Ex libro S. Ambrósii Epíscopi de Virgínibus.
+!Liber 1, post initium
+Hódie natális est Vírginis, integritátem sequámur. Natalis est Mártyris, hóstias immolémus. Natalis est sanctæ Agnétis, miréntur viri, non despérent párvuli, stúpeant nuptæ, imiténtur innúptæ. Sed quid dignum ea loqui póssumus, cujus ne nomen quidem vácuum laudis est? Devótio supra ætátem, virtus supra natúram: ut mihi videátur non hóminis habuísse nomen, sed oráculum Mártyris, quod indicávit, quid esset futúra. Nomen Vírginis títulus est pudóris. Appellábo Mártyrem: prædicávi satis. Prolíxa laudátio est, quæ non quæritur, sed tenétur. Nemo est laudabílior, quam qui ab ómnibus laudári potest. Quot hómines, tot præcónes, qui Mártyrem prædicant, dum loquúntur. Hæc trédecim annórum martyrium fecísse tráditur. Quo destabílior crudélitas quæ nec minúsculæ pepércit ætáti; immo magna vis fídei, quæ étiam ab illa testimónium invénit ætáte.
 &teDeum
 
 [Responsory7]
-R. Ipsi sum desponsata, cui Angeli serviunt, cujus pulchritudinem sol et luna mirantur:
-* Ipsi soli servo fidem, ipsi me tota devotione committo.
-V. Dexteram meam et collum meum cinxit lapidibus pretiosis: tradidit auribus meis inaestimabiles margaritas.
-R. Ipsi soli servo fidem, ipsi me tota devotione committo.
+R. Ipsi sum desponsata, cui Angeli serviunt, cujus pulchritúdinem sol et luna mirántur: 
+* Ipsi soli servo fidem, ipsi me tota devotióne committo.
+V. Déxteram meam et collum meum cinxit lapidibus pretiósis, trádidit áuribus meis inæstimábiles margaritas.
+R. Ipsi soli servo fidem, ipsi me tota devotióne committo.
 
 [Responsory8]
-R. Omnipotens, adorande, colende, tremende, benedico te:
-* Quia per Filium tuum unigenitum evasi minas hominum impiorum, et spurcitias diaboli impolluto calle transivi.
-V. Te confiteor labiis, te corde, te totis visceribus concupisco.
-R. Quia per Filium tuum unigenitum evasi minas hominum impiorum, et spurcitias diaboli impolluto calle transivi.
+R. Omnípotens, adorande, colende, tremende, benedico te, 
+* Quia per Fílium tuum unigénitum evasi minas hóminum impiórum, et spurcítias diaboli impolluto calle transivi.
+V. Te confiteor lábiis te corde, te totis viscéribus concupisco.
+R. Quia per Fílium tuum unigénitum evasi minas hóminum impiórum, et spurcítias diaboli impolluto calle transivi.
 &Gloria
-R. Quia per Filium tuum unigenitum evasi minas hominum impiorum, et spurcitias diaboli impolluto calle transivi.
+R. Quia per Fílium tuum unigénitum evasi minas hóminum impiórum, et spurcítias diaboli impolluto calle transivi.
 
 [Ant Laudes]
-Ingressa Agnes * turpitudinis locum, Angelum Domini praeparatum invenit.
-Mecum enim habeo * custodem corporis mei, Angelum Domini.
-Annulo suo * subarrhavit me Dominus meus Jesus Christus, et tamquam sponsam decoravit me corona.
-Benedico te * Pater Domini mei Jesu Christi, quia per Filium tuum ignis exstinctus est a latere meo.
-Congaudete mecum, * et congratulamini, quia cum his omnibus lucidas sedes accepi.
+@:Ant Vespera 3:s/;;.*//g
 
 [Capitulum Laudes]
-!Sir 51:1-3
-v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
-$Deo gratias
+@:Capitulum Vespera
 
 [Ant 2]
-Ecce quod concupivi * jam video: quod speravi, jam teneo: ipsi sum juncta in caelis, quem in terris posita, tota devotione dilexi.
+Ecce, quod concupívi, * jam video: quod sperávi jam teneo: ipsi sum juncta in cælis, quem in terris posita, tota devotióne diléxi.
 
 [Capitulum Tertia]
-!Sir 51:1-3
-v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
-$Deo gratias
+@:Capitulum Laudes
 
 [Capitulum Sexta]
 !Sir 51:4-5
-v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus, paratis ad escam, de manibus quaerentium animam meam, et de portis tribulationis quae circumdederunt me.
+v. Liberásti me secúndum multitúdinem misericórdiæ nóminis tui a rugiéntibus, præparátis ad escam, de mánibus quæréntium ánimam meam, et de multis tribulatiónibus quæ circumdedérunt me.
 $Deo gratias
 
 [Capitulum Nona]
 !Sir 51:8; 51:12
-v. Laud�bit usque ad mortem �nima mea D�minum, qu�niam �ruis sustin�ntes te, et l�beras eos de manu ang�sti�, D�mine, Deus noster.
+v. Laudábit usque ad mortem ánima mea Dóminum, quóniam eruis sustinéntes te, et liberas eos de manu angustiæ, Dómine, Deus noster.
 $Deo gratias
 
 [Ant Vespera 3]
-Ingressa Agnes * turpitudinis locum, Angelum Domini praeparatum invenit.;;109
-Mecum enim habeo * custodem corporis mei, Angelum Domini.;;110
-Annulo suo * subarrhavit me Dominus meus Jesus Christus, et tamquam sponsam decoravit me corona.;;111
-Benedico te * Pater Domini mei Jesu Christi, quia per Filium tuum ignis exstinctus est a latere meo.;;112
-Congaudete mecum, * et congratulamini, quia cum his omnibus lucidas sedes accepi.;;147
+Ingréssa Agnes * turpitúdinis locum, Angelum Dómini præparátum invénit.;;109
+Mecum enim hábeo * custódem córporis mei, Angelum Dómini.;;110
+Anulo suo * subarrhávit me Dóminus meus Jesus Christus, et tamquam sponsam decorávit me coróna.;;111
+Benedíco te, * Pater Dómini mei Jesu Christi, quia per Fílium tuum ignis exstínctus est a látere meo.;;112
+Congaudéte mecum * et congratulámini, quia cum his ómnibus lúcidas sedes accépi.;;147
 
 [Ant 3]
-Stans beata Agnes * in medio flammae, expansis manibus orabat ad Dominum: Omnipotens, adorande, colende, tremende, benedico te, et glorifico nomen tuum in aeternum.
+Stans beáta Agnes * in médio flammæ, expánsis mánibus orábat ad Dóminum: Omnípotens, adoránde, colénde, treménde, benedíco te, et glorífico nomen tuum in ætérnum.

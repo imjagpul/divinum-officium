@@ -1,41 +1,41 @@
 [Rank]
-Feria IV infra Hebdomadam Sexagesimae;;Feria;;1
+Feria IV infra Hebdomadam Sexagesimæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
 
 [Lectio1]
-De libro Genesis
+De libro Génesis
 !Gen 8:15-19
-15 Locutus est autem Deus ad No�, dicens:
-16 Egredere de arca, tu et uxor tua, filii tui et uxores filiorum tuorum tecum.
-17 Cuncta animantia, quae sunt apud te, ex omni carne, tam in volatilibus quam in bestiis et universis reptilibus, quae reptant super terram, educ tecum, et ingredimini super terram: crescite et multiplicamini super eam.
-18 Egressus est ergo No�, et filii ejus: uxor illius, et uxores filiorum ejus cum eo.
-19 Sed et omnia animantia, jumenta, et reptilia quae reptant super terram, secundum genus suum, egressa sunt de arca.
+15 Locútus est autem Deus ad Noë, dicens:
+Gn 8 16 Egrédere de arca, tu et uxor tua, fílii tui et uxóres filiórum tuórum tecum.
+Gn 8 17 Cuncta animántia, quæ sunt apud te, ex omni carne, tam in volatílibus quam in béstiis et univérsis reptílibus, quæ reptant super terram, educ tecum, et ingredímini super terram: créscite et multiplicámini super eam.
+Gn 8 18 Egréssus est ergo Noë, et fílii eius: uxor illíus, et uxóres filiórum eius cum eo.
+Gn 8 19 Sed et ómnia animántia, iuménta, et reptília quæ reptant super terram, secúndum genus suum, egréssa sunt de arca.
 
 [Responsory1]
 @Tempora/Quadp2-0:Responsory7
 
 [Lectio2]
 !Gen 8:20-22
-20 �dificavit autem No� altare Domino: et tollens de cunctis pecoribus et volucribus mundis, obtulit holocausta super altare.
-21 Odoratusque est Dominus odorem suavitatis, et ait: Nequaquam ultra maledicam terrae propter homines: sensus enim et cogitatio humani cordis in malum prona sunt ab adolescentia sua: non igitur ultra percutiam omnem animam viventem sicut feci.
-22 Cunctis diebus terrae, sementis et messis, frigus et aestus, aestas et hiems, nox et dies non requiescent.
+20 Ædificávit autem Noë altáre Dómino: et tollens de cunctis pecóribus et volúcribus mundis, óbtulit holocáusta super altáre.
+Gn 8 21 Odoratúsque est Dóminus odórem suavitátis, et ait: Nequáquam ultra maledícam terræ propter hómines: sensus enim et cogitátio humáni cordis in malum prona sunt ab adolescéntia sua: non ígitur ultra percútiam omnem ánimam vivéntem sicut feci.
+Gn 8 22 Cunctis diébus terræ, seméntis et messis, frigus et æstus, æstas et hiems, nox et dies non requiéscent.
 
 [Responsory2]
 @Tempora/Quadp2-0:Responsory8
 
 [Lectio3]
 !Gen 9:1-6
-1 Benedixitque Deus No� et filiis ejus. Et dixit ad eos: Crescite, et multiplicamini, et replete terram.
-2 Et terror vester ac tremor sit super cuncta animalia terrae, et super omnes volucres caeli, cum universis quae moventur super terram: omnes pisces maris manui vestrae traditi sunt.
-3 Et omne, quod movetur et vivit, erit vobis in cibum: quasi olera virentia tradidi vobis omnia.
-4 Excepto, quod carnem cum sanguine non comedetis.
-5 Sanguinem enim animarum vestrarum requiram de manu cunctarum bestiarum: et de manu hominis, de manu viri, et fratris ejus requiram animam hominis.
-6 Quicumque effuderit humanum sanguinem, fundetur sanguis illius: ad imaginem quippe Dei factus est homo.
+1 Benedixítque Deus Noë et fíliis eius. Et dixit ad eos: Créscite, et multiplicámini, et repléte terram.
+Gn 9 2 Et terror vester ac tremor sit super cuncta animália terræ, et super omnes vólucres cæli, cum univérsis quæ movéntur super terram: omnes pisces maris mánui vestræ tráditi sunt.
+Gn 9 3 Et omne, quod movétur et vivit, erit vobis in cibum: quasi ólera viréntia trádidi vobis ómnia.
+Gn 9 4 Excépto, quod carnem cum sánguine non comedétis.
+Gn 9 5 Sánguinem enim animárum vestrárum requíram de manu cunctárum bestiárum: et de manu hóminis, de manu viri, et fratris eius requíram ánimam hóminis.
+Gn 9 6 Quicúmque effúderit humánum sánguinem, fundétur sanguis illíus: ad imáginem quippe Dei factus est homo.
 
 [Responsory3]
 @Tempora/Quadp2-1:Responsory1
 
 [Ant 3]
-Quod autem cecidit * in terram bonam, hi sunt, qui in corde bono et optimo fructum afferunt in patientia.
+Quod autem cécidit * in terram bonam, hi sunt, qui in corde bono et óptimo fructum afférunt in patiéntia.

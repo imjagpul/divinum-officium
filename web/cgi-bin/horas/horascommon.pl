@@ -904,7 +904,7 @@ sub gettoday {
 # get date, rank, winner, preloads hashes
 sub precedence {	  
                 
-  $winner = $commemoratio = $commune = $striptura = $commemoratio1 = '';
+  $winner = $commemoratio = $commune = $scriptura = $commemoratio1 = '';
   %winner = %commemoratio = %commune = %scriptura = {};
   
   #get date
@@ -1109,7 +1109,7 @@ sub precedence {
             my $key;
             foreach $key (%s)
             {
-            if ($key =~ /(Rank|Name|Rule|Lectio|Benedictio|Ant Matutinum)/i) {next;}
+            if ($key =~ /(Rank|Name|Rule|Lectio|Benedictio|Ant Matutinum|Commemoratio)/i) {next;}
             $winner{$key} = $s{$key};
             $winner2{$key} = $s2{$key};
             }
@@ -1707,6 +1707,8 @@ sub papal_antiphon_dum_esset($)
             (?:dicitur|dicuntur)(?:\s+semper)?
           |
             (?:hoc\s+versus\s+)?omittitur
+          |
+            (?:hæc\s+versus\s+)?omittuntur
           |
             (?:haec\s+versus\s+)?omittuntur
         )

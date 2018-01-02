@@ -1,95 +1,95 @@
 [Rank]
-S. Augustini Episcopi Confessoris;;Duplex;;3;;vide C4
+S. August√≠ni Ep√≠scopi Confessoris;;Duplex;;3;;vide C4
 
 [RankNewcal]
-S. Augustini Episcopi Confessoris;;Duplex optional;;2;;vide C4
+S. August√≠ni Ep√≠scopi Confessoris;;Duplex optional;;2;;vide C4
 
 [Rule]
 vide C4;mtv
 9 lectiones
 
 [Oratio]
-Deus, qui Anglorum gentes, praedicatione et miraculis beati Augustini~
-Confessoris tui atque Pontificis, verae fidei luce illustrare dignatus es:~
-concede; ut, ipso interveniente, errantium corda ad veritatis tuae redeant~
-unitatem, et nos in tua simus voluntate concordes.
+Deus, qui Angl√≥rum gentes, pr√¶dicati√≥ne et mir√°culis be√°ti August√≠ni Confess√≥ris~
+tui atque Pont√≠ficis, ver√¶ f√≠dei luce illustr√°re dign√°tus es: conc√©de; ut, ipso~
+interveni√©nte, err√°ntium corda ad verit√°tis tu√¶ r√©deant unit√°tem, et nos in tua~
+simus volunt√°te conc√≥rdes.
 $Per Dominum
 
 [Lectio4]
-Augustinus Romae in Lateranensi coenobio monachus, a Gregorio Magno cum secus~
+Augustinus Rom√¶ in Lateranensi c≈ìnobio monachus, a Gregorio Magno cum secus~
 monachis fere quadraginta in Angliam missus est anno quingentesimo nonagesimo~
 septimo, ut gentes illas ad Christum converteret. Erat eo tempore rex~
-Ethelbertus in Cantio potentissimus, qui audita adventus Augustini causa, eum~
+Ethelbertus in Cantio potentissimus, qui audita adventus August√≠ni causa, eum~
 cum sociis Cantuariam, sui regni metropolim, invitavit; ibique manendi et~
-Christum praedicandi facultatem eidem liberaliter concessit. Quare sanctus vir~
+Christum pr√¶dicandi facultatem eidem liberaliter concessit. Quare sanctus vir~
 prope Cantuariam oratorium exstruxit, ubi ipse aliquamdiu consedit, atque~
-apostolicam vivendi rationem cum suis aemulatus est.
+apostolicam vivendi rationem cum suis √¶mulatus est.
 
 [Lectio5]
-Coelestis doctrina praedicatione plurimis firmata miraculis, ac vitai exemplo~
+C√¶lestis doctrina pr√¶dicatione plurimis firmata miraculis, ac vitai exemplo~
 sic insulanos illos demulsit, ut eorum plerosque ad christianam fidem perduxerit,~
 ac demum regem ipsum, quem cum innumero suorum comitatu sacro fonte lustravit,~
-summa cum laetitia Berthae regiae uxoris, quae christiana erat. Olim in Natali~
+summa cum l√¶titia Berth√¶ regi√¶ uxoris, qu√¶ christiana erat. Olim in Natali~
 Domini, cum decem millibus et amplius baptismum in alveo fluminis Eboraci~
-contulisset, quotquot ex iis morbo aliquo affecti erant, cum animae salute,~
-corporis quoque sanitatem recepisse memoriae proditum est. Jussu Gregorii~
-ordinatus episcopus, sedem Cantuariae instituit in ecclesia Salvatoris a se~
+contulisset, quotquot ex iis morbo aliquo affecti erant, cum anim√¶ salute,~
+corporis quoque sanitatem recepisse memori√¶ proditum est. Jussu Gregorii~
+ordinatus episcopus, sedem Cantuari√¶ instituit in ecclesia Salvatoris a se~
 erecta, in qua monachos operis sui subsidiarios collocavit; et sancti Petri~
 monasterium, quod postea et a suo nomine dictum est, in suburbanis construxit.~
-Idem Gregorius usum pallii cum facultate ecclesiasticae hierarchiae in Anglia~
+Idem Gregorius usum pallii cum facultate ecclesiastic√¶ hierarchi√¶ in Anglia~
 instituendas ei concessit, quo novam etiam operariorum manum misit, nempe~
 Mellitum, Justum, Paulinum, et Rufinianum.
 
 [Lectio6]
-Dispositis ejus ecclesiae rebus, synodum habuit Augustinus cum episcopis atque~
-doctoribus veterum Britonum, qui in Paschae celebratione aliusque ritibus ab~
-Ecclesia Romana jamdudum dissidebant. Sed cum eos neque Apostolicae Sedis~
+Dispositis ejus ecclesi√¶ rebus, synodum habuit Augustinus cum episcopis atque~
+doctoribus veterum Britonum, qui in Pasch√¶ celebratione aliusque ritibus ab~
+Ecclesia Romana jamdudum dissidebant. Sed cum eos neque Apostolic√¶ Sedis~
 auctoritate, neque miraculis movere posset ut dissidio cessarent, prophetico~
-spiritu eis excidium praenuntiavit. Denique maximis pro Christo exantlutis~
-laboribus, miraculis clarus, cum Mellitum Londinensi ecclesiae praefecisset,~
-Justum Roffensi, suae Laurentium, in caelum migravit septimo Kalendas Junias,~
+spiritu eis excidium pr√¶nuntiavit. Denique maximis pro Christo exantlutis~
+laboribus, miraculis clarus, cum Mellitum Londinensi ecclesi√¶ pr√¶fecisset,~
+Justum Roffensi, su√¶ Laurentium, in c√¶lum migravit septimo Kalendas Junias,~
 Ethelberto regnante, ac sepultus est in monasterio sancti Petri, quod exinde~
 Cantuariensium Antistitum et aliquot regum conditorium fuit. Ejus cultum~
-ferventi studio prosecutae sunt Anglorum gentes, ac Leo decimus tertius~
+ferventi studio prosecut√¶ sunt Anglorum gentes, ac Leo decimus tertius~
 Pontifex Maximus ejus Oificium et Missam ad universam extendit Ecclesiam.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Lucam.
+L√©ctio sancti Evang√©lii sec√∫ndum Lucam.
 !Luc 10:1-9
-In illo tempore: Designavit Dominus et alios septuaginta duos: et misit illos~
+In illo t√©mpore: Designavit Dominus et alios septuaginta duos: et misit illos~
 binos ante faciem suam, in omnem civitatem et locum, quo erat ipse venturus. Et~
 reliqua.
 _
-Homilia sancti Gregorii Papae.
+Homilia sancti Gregorii Pap√¶.
 !Homilia 17. in Evang.
 Dominus et Salvator noster, fratres carissimi, aliquando nos sermonibus,~
-aliquando vero operibus admonet. Ipsa etenim facta ejus praecepta sunt: quia dum~
+aliquando vero operibus admonet. Ipsa etenim facta ejus pr√¶cepta sunt: quia dum~
 aliquid tacitus facit, quid agere debeamus innotescit. Ecce enim binos in~
-praedicationem discipulos mittit: quia duo sunt praecepta caritatis, Dei~
+pr√¶dicationem discipulos mittit: quia duo sunt pr√¶cepta caritatis, Dei~
 videlicet amor, et proximi: et minus quam inter duos caritas haberi non potest.~
 Nemo enim proprie ad semetipsum habere caritatem dicitur: sed dilectio in~
 alterum tendit, ut caritas esse possit.
 
 [Lectio8]
-Ecce enim binos ad praedicandum discipulos Dominus mittit: quatenus hoc nobis~
-tacitus innuat, quia qui caritatem erga alterum non habet, praedicationis~
+Ecce enim binos ad pr√¶dicandum discipulos Dominus mittit: quatenus hoc nobis~
+tacitus innuat, quia qui caritatem erga alterum non habet, pr√¶dicationis~
 officium suscipere nullatenus debet. Bene autem dicitur, quia misit eos ante~
-faciem suam in omnem civitatem et locum, quo erat ipse venturus. Praedicatores~
-enim suos Dominus sequitur: quia praedicatio praevenit, et tunc ad mentis~
-nostrae habitaculum Dominus venit, quando verba exhortationis praecurrunt: atque~
+faciem suam in omnem civitatem et locum, quo erat ipse venturus. Pr√¶dicatores~
+enim suos Dominus sequitur: quia pr√¶dicatio pr√¶venit, et tunc ad mentis~
+nostr√¶ habitaculum Dominus venit, quando verba exhortationis pr√¶currunt: atque~
 per hoc veritas in mente suscipitur.
 
 [Lectio9]
-Hinc namque eisdem praedicatoribus Isaias dicit: Parate viam Domini, rectas~
+Hinc namque eisdem pr√¶dicatoribus Isaias dicit: Parate viam Domini, rectas~
 facite semitas Dei nostri. Hinc filiis Psalmista ait: Iter facite ei, qui~
 ascendit super occasum. Super occasum namque Dominus ascendit: quia unde in~
 passione occubuit, inde majorem suam gloriam resurgendo manifestavit. Super~
 occasum videlicet ascendit; quia mortem quam pertulit, resurgendo calcavit. Ei~
 ergo qui ascendit super occasum, iter facimus, cum nos ejus gloriam vestris~
-mentibus praedicamus, ut eas et ipse post veniens, per amoris sui praesentiam~
+mentibus pr√¶dicamus, ut eas et ipse post veniens, per amoris sui pr√¶sentiam~
 illustret.
 &teDeum
 
 [Lectio94]
-AugustÌnus, RomÊ in LateranÈnsi cúnÛbio mÛnachus, a GregÛrio Magno cum sÛciis mÛnachis fere quadragÌnta in Angliam missus est, anno quingentÈsimo nonagÈsimo sÈptimo. A rege EthelbÈrto Cantu·riam, ejus regni metrÛpolim, invit·tus cum sÛciis, prope eam oratÛrium exstr˙xit. CÊlÈstis doctrÌnÊ prÊdicatiÛne plerÛsque insul·nos ac regem ipsum ad christi·nam fidem perd˙xit, summa cum lÊtÌtia BerthÊ, rÈgiÊ uxÛris, quÊ Christi·na erat. Jussu GregÛrii ordin·tus epÌscopus, Sedem CantuariÈnsem instÌtuit, et ab eÛdem PontÌfice usum p·llii cum facult·te hierarchÌÊ in Anglia instituÈndÊ obtÌnuit. M·ximis demum pro Christo exantl·tis labÛribus, cum MellÌtum LondinÈnsi ecclÈsiÊ prÊfecÌsset, Justum RoffÈnsi, suÊ LaurÈntium, in cÊlum migr·vit sÈptimo KalÈndas J˙nias, et sep˙ltus est in monastÈrio sancti Petri, quod exÌnde CantuariÈnsium antÌstitum et ·liquot regum conditÛrium fuit.
+August√≠nus, Rom√¶ in Lateran√©nsi c≈ìn√≥bio m√≥nachus, a Greg√≥rio Magno cum s√≥ciis m√≥nachis fere quadrag√≠nta in Angliam missus est, anno quingent√©simo nonag√©simo s√©ptimo. A rege Ethelb√©rto Cantu√°riam, ejus regni metr√≥polim, invit√°tus cum s√≥ciis, prope eam orat√≥rium exstr√∫xit. C√¶l√©stis doctr√≠n√¶ pr√¶dicati√≥ne pler√≥sque insul√°nos ac regem ipsum ad christi√°nam fidem perd√∫xit, summa cum l√¶t√≠tia Berth√¶, r√©gi√¶ ux√≥ris, qu√¶ Christi√°na erat. Jussu Greg√≥rii ordin√°tus ep√≠scopus, Sedem Cantuari√©nsem inst√≠tuit, et ab e√≥dem Pont√≠fice usum p√°llii cum facult√°te hierarch√≠√¶ in Anglia institu√©nd√¶ obt√≠nuit. M√°ximis demum pro Christo exantl√°tis lab√≥ribus, cum Mell√≠tum Londin√©nsi eccl√©si√¶ pr√¶fec√≠sset, Justum Roff√©nsi, su√¶ Laur√©ntium, in c√¶lum migr√°vit s√©ptimo Kal√©ndas J√∫nias, et sep√∫ltus est in monast√©rio sancti Petri, quod ex√≠nde Cantuari√©nsium ant√≠stitum et √°liquot regum condit√≥rium fuit.
 &teDeum

@@ -1,67 +1,61 @@
 [Rank]
-Feria Sexta infra Hebdomadam III post Octavam Paschae;;Feria;;1
+Feria Sexta infra Hebdomadam III post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De libro Apocalypsis beati Joannis Apostoli.
+De libro Apocalýpsis beáti Joánnis Apóstoli
 !Apo 19:1-5
-1 Post haec audivi quasi vocem turbarum multarum in caelo dicentium: Alleluia: Salus, et gloria, et virtus Deo nostro est:
-2 quia vera et justa judicia sunt ejus, qui judicavit de meretrice magna, quae corrupit terram in prostitutione sua, et vindicavit sanguinem servorum suorum de manibus ejus.
-3 Et iterum dixerunt: Alleluia. Et fumus ejus ascendit in saecula saeculorum.
-4 Et ceciderunt seniores viginti quatuor, et quatuor animalia, et adoraverunt Deum sedentem super thronum, dicentes: Amen: Alleluia.
-5 Et vox de throno exivit, dicens: Laudem dicite Deo nostro omnes servi ejus: et qui timetis eum pusilli et magni.
+1 Post hæc audívi quasi vocem turbárum multárum in cælo dicéntium: Allelúja: salus, et glória, et virtus Deo nostro est:
+2 quia vera et iusta iudícia sunt eius, qui iudicávit de meretríce magna, quæ corrúpit terram in prostitutióne sua, et vindicávit sánguinem servórum suórum de mánibus eius.
+3 Et íterum dixérunt: Allelúja. Et fumus eius ascéndit in sǽcula sæculórum.
+4 Et cecidérunt senióres vigínti quátuor, et quátuor animália, et adoravérunt Deum sedéntem super thronum, dicéntes: Amen: allelúja.
+5 Et vox de throno exívit, dicens: Laudem dícite Deo nostro omnes servi eius: et qui timétis eum pusílli et magni.
 
 [Responsory1]
-R. Locutus est ad me unus ex septem Angelis, dicens: Veni, ostendam tibi novam nuptam, sponsam Agni:
-* Et vidi Jerusalem descendentem de caelo, ornatam monilibus suis, alleluia, alleluia, alleluia.
-V. Et sustulit me in spiritu in montem magnum et altum.
-R. Et vidi Jerusalem descendentem de caelo, ornatam monilibus suis, alleluia, alleluia, alleluia.
+R. Locútus est ad me unus ex septem Angelis, dicens: Veni, osténdam tibi novam nuptam, sponsam Agni: 
+* Et vidi Jerúsalem descendéntem de cælo, ornatam monílibus suis, allelúja, allelúja, allelúja.
+V. Et sústulit me in spíritu in montem magnum et altum.
+R. Et vidi Jerúsalem descendéntem de cælo, ornatam monílibus suis, allelúja, allelúja, allelúja.
 
 [Lectio2]
 !Apo 19:6-10
-6 Et audivi quasi vocem turbae magnae, et sicut vocem aquarum multarum, et sicut vocem tonitruorum magnorum, dicentium: Alleluia: quoniam regnavit Dominus Deus noster omnipotens.
-7 Gaudeamus, et exsultemus: et demus gloriam ei: quia venerunt nuptiae Agni, et uxor ejus praeparavit se.
-8 Et datum est illi ut cooperiat se byssino splendenti et candido. Byssinum enim justificationes sunt sanctorum.
-9 Et dixit mihi: Scribe: Beati qui ad c�nam nuptiarum Agni vocati sunt. Et dixit mihi: Haec verba Dei vera sunt.
-10 Et cecidi ante pedes ejus, ut adorarem eum. Et dicit mihi: Vide ne feceris: conservus tuus sum, et fratrum tuorum habentium testimonium Jesu. Deum adora. Testimonium enim Jesu est spiritus prophetiae.
+6 Et audívi quasi vocem turbæ magnæ, et sicut vocem aquárum multárum, et sicut vocem tonitruórum magnórum, dicéntium: Allelúia: quóniam regnávit Dóminus Deus noster omnípotens.
+7 Gaudeámus, et exsultémus: et demus glóriam ei: quia venérunt núptiæ Agni, et uxor eius præparávit se.
+8 Et datum est illi ut coopériat se býssino splendénti et cándido. Býssinum enim iustificatiónes sunt sanctórum.
+9 Et dixit mihi: Scribe: Beáti qui ad cœnam nuptiárum Agni vocáti sunt; et dixit mihi: Hæc verba Dei vera sunt.
+10 Et cécidi ante pedes eius, ut adorárem eum. Et dicit mihi: Vide ne féceris: consérvus tuus sum, et fratrum tuórum habéntium testimónium Iesu. Deum adóra. Testimónium enim Iesu est spíritus prophetíæ.
 
 [Responsory2]
-R. Audivi vocem in caelo Angelorum multorum dicentium:
-* Timete Dominum, et date claritatem illi, et adorate eum qui fecit caelum et terram, mare et fontes aquarum, alleluia, alleluia.
-V. Vidi Angelum Dei fortem, volantem per medium caeli, voce magna clamantem et dicentem.
-R. Timete Dominum, et date claritatem illi, et adorate eum qui fecit caelum et terram, mare et fontes aquarum, alleluia, alleluia.
+R. Audívi vocem in cælo Angelórum multórum dicéntium: 
+* Timéte Dóminum, et date claritátem illi, et adoráte eum, qui fecit cælum et terram, mare et fontes aquárum, allelúja, allelúja.
+V. Vidi Angelum Dei fortem, volántem per médium cæli, voce magna clamántem et dicéntem.
+R. Timéte Dóminum, et date claritátem illi, et adoráte eum, qui fecit cælum et terram, mare et fontes aquárum, allelúja, allelúja.
 &Gloria
-R. Timete Dominum, et date claritatem illi, et adorate eum qui fecit caelum et terram, mare et fontes aquarum, alleluia, alleluia.
+R. Timéte Dóminum, et date claritátem illi, et adoráte eum, qui fecit cælum et terram, mare et fontes aquárum, allelúja, allelúja.
 
 [Lectio3]
 !Apo 19:11-16
-11 Et vidi caelum apertum, et ecce equus albus, et qui sedebat super eum, vocabatur Fidelis, et Verax, et cum justitia judicat et pugnat.
-12 Oculi autem ejus sicut flamma ignis, et in capite ejus diademata multa, habens nomen scriptum, quod nemo novit nisi ipse.
-13 Et vestitus erat veste aspersa sanguine: et vocatur nomen ejus: Verbum Dei.
-14 Et exercitus qui sunt in caelo, sequebantur eum in equis albis, vestiti byssino albo et mundo.
-15 Et de ore ejus procedit gladius ex utraque parte acutus, ut in ipso percutiat Gentes. Et ipse reget eas in virga ferrea: et ipse calcat torcular vini furoris irae Dei omnipotentis.
-16 Et habet in vestimento et in femore suo scriptum: Rex regum et Dominus dominantium.
+11 Et vidi cælum apértum, et ecce equus albus, et qui sedébat super eum, vocabátur Fidélis, et Verax, et cum iustítia iúdicat et pugnat.
+12 Oculi autem eius sicut flamma ignis, et in cápite eius diadémata multa, habens nomen scriptum, quod nemo novit nisi ipse.
+13 Et vestítus erat veste aspérsa sánguine: et vocátur nomen eius: Verbum Dei.
+14 Et exércitus qui sunt in cælo, sequebántur eum in equis albis, vestíti býssino albo et mundo.
+15 Et de ore eius procédit gládius ex utráque parte acútus, ut in ipso percútiat gentes. Et ipse reget eas in virga férrea: et ipse calcat tórcular vini furóris iræ Dei omnipoténtis.
+16 Et habet in vestiménto et in fémore suo scriptum: Rex regum et Dóminus dominántium.
 
 [Responsory3]
-R. Veniens a Libano quam pulchra facta est, alleluia:
-* Et odor vestimentorum ejus super omnia aromata, alleluia, alleluia.
-V. Favus distillans labia ejus, mel et lac sub lingua ejus.
-R. Et odor vestimentorum ejus super omnia aromata, alleluia, alleluia.
-&Gloria
-R. Et odor vestimentorum ejus super omnia aromata, alleluia, alleluia.
+@Tempora/Pasc3-2:Responsory3
 
 [Ant 2]
-Cognoverunt * Dominum Jesum, alleluia, in fractione panis, alleluia.
+Cognovérunt * Dóminum Jesum, allelúja, in fractióne panis, allelúja.
 
 [Oratio 2]
-Deus, qui errantibus, ut in viam possint redire justitiae, veritatis tuae lumen ostendis: da cunctis qui christiana professione censentur, et illa respuere, quae huic inimica sunt nomini, et ea quae sunt apta, sectari.
-$Per Dominum
+@Tempora/Pasc3-0:Oratio
 
 [Ant 3]
-Modicum * et non videbitis me, dicit Dominus: iterum modicum, et videbitis' me, quia vado ad Patrem, alleluia, alleluia.
+@Tempora/Pasc3-0:Ant 1
 
 [Ant 3] (rubrica 1960)
-Amen dico votis, * quia plorabitis et flebitis vos: mundus autem gaudebit, vos vero contristabimini, sed tristitia vestra convertetur in gaudium, alleluia.
+Amen dico vobis, * quia plorábitis et flébitis vos: mundus autem gaudébit, vos vero contristabímini, sed tristítia vestra convertétur in gáudium, allelúja.

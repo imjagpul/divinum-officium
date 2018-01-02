@@ -1,185 +1,165 @@
 [Rank]
-S. Agathae Virginis et Martyris;;Duplex;;3;;vide C6b
+S. Agathæ Virginis et Martyris;;Duplex;;3;;vide C6b
 
 [Rank1570]
-S. Agathae Virginis et Martyris;;Semiduplex;;2;;vide C6b
+S. Agathæ Virginis et Martyris;;Semiduplex;;2;;vide C6b
 
 [Rule]
 vide C6b;
 9 lectiones
+Psalmi Dominica
 Psalm5 Vespera=116
 Psalm5 Vespera3=147
 
 [Ant Vespera]
-Quis es tu, * qui venisti ad me curare vulnera mea? Ego sum Apostolus Christi: nihil in me dubites filia.
-Medicinam carnalem * corpori meo numquam exhibui, sed habeo Dominum Jesum Christum, qui solo sermone restaurat universa.
-Gratias tibi ago, * Domine Jesu Christe, quia memor es mei, et misisti ad me Apostolum tuum curare vulnera mea.
-Benedico te * Pater Domini mei Jesu Christi: quia per Apostolum tuum mamillam meam meo pectori restituisti.
-Qui me dignatus est * ab omni plaga curare, et mamillam meam meo pectori restituere, ipsum invoco Deum vivum.
+Quis es tu, * qui venísti ad me curáre vúlnera mea? Ego sum Apóstolus Christi: nihil in me dúbites, filia.
+Medicínam carnálem * córpori meo nunquam exhíbui, sed habeo Dóminum Jesum Christum, qui solo sermóne restáurat univérsa.
+Grátias tibi ago, * Dómine Jesu Christe, quia memor es mei, et misísti ad me Apóstolum tuum curáre vúlnera mea.
+Benedíco te, * Pater Dómini mei Jesu Christi, quia per Apóstolum tuum mamíllam meam meo péctori restituísti.
+Qui me dignátus est * ab omni plaga curáre, et mamíllam meam meo péctori restítuere, ipsum ínvoco Deum vivum.
 
 [Capitulum Vespera]
-!Sir 51:1-3
-v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
-$Deo gratias
+@Sancti/01-21:Capitulum Vespera
 
 [Ant 1]
-Stans beata Agatha * in medio carceris, expansis manibus orabat ad Dominum: Domine Jesu Christe, magister bone, gratias tibi ago, qui me fecisti vincere tormenta carnificum: jube me Domine ad tuam immarcescibilem gloriam feliciter pervenire.
+Stans beáta Agatha * in médio carceris, expansis mánibus orábat ad Dóminum: Dómine Jesu Christe, magister bone, grátias tibi ago, qui me fecísti vincere torménta carnificum: jube me, Dómine, ad tuam immarcescibilem glóriam feliciter perveníre.
 
 [Ant Matutinum]
-Ingenua sum * et ex spectabili genere, ut omnis parentela mea testatur.;;1
-Summa ingenuitas * ista est in qua servitus Christi comprobatur.;;2
-Ancilla Christi sum, * ideo me ostendo servilem habere personam.;;3
-V. Specie tua et pulchritudine tua.
-R. Intende, prospere procede, et regna.
-Agatha sancta dixit: * Si feras mihi promittis, audito Christi nomine mansuescunt.;;4
-Si ignem adhibeas, * rorem mihi salvificum de caelo Angeli ministrabunt.;;5
-Agatha * laetissime et glorianter ibat ad carcerem, quasi ad epulas invitata: et agonem suum Domino precibus commendabat.;;8
-V. Adjuvabit eum Deus vultu suo.
-R. Deus in medio ejus, non commovebitur.
-Nisi diligenter * perfeceris corpus meum a carnificibus attrectari, non potest anima mea in paradisum Domini cum palma intrare martyrii.;;10
-Vidisti, Domine, * agonem meum, quomodo pugnavi in stadio: sed quia nolui obedire mandatis principum, jussa sum in mamilla torqueri.;;14
-Propter fidem castitatis * jussa sum suspendi in equuleo: adjuva me, Domine Deus meus, in tortura mamillarum mearum.;;15
-V. Elegit eam Deus, et praeelegit eam.
-R. In tabernaculo suo habitare facit eam.
+Ingénua sum, * et ex spectábili génere, ut omnis parentéla mea testátur.;;1
+Summa ingenúitas * ista est, in qua sérvitus Christi comprobátur.;;2
+Ancílla Christi sum, * ídeo me osténdo servílem habére persónam.;;3
+V. Spécie tua et pulchritúdine tua.
+R. Inténde, próspere procéde, et regna.
+Agatha sancta * dixit: Si feras mihi promíttis, audíto Christi nómine mansuéscunt.;;4
+Si ignem adhíbeas, * rórem mihi salvíficum de cælo Angeli ministrábunt.;;5
+Agatha * lætíssime et gloriánter ibat ad cárcerem, quasi ad épulas invitáta; et agónem suum Dómino précibus commendábat.;;8
+V. Adjuvábit eam Deus vultu suo.
+R. Deus in médio ejus, non commovébitur.
+Nisi diligénter * perféceris corpus meum a carnifícibus attrectári, non potest ánima mea in paradísum Dómini cum palma intráre martýrii.;;10
+Vidísti, Dómine, * agónem meum, quómodo pugnávi in stádio; sed, quia nólui obedíre mandátis príncipum, jussa sum in mamílla torquéri.;;14
+Propter fidem castitátis * jussa sum suspéndi in equúleo: ádjuva me, Dómine, Deus meus, in tortura mamillárum meárum.;;15
+V. Elégit eam Deus, et præelégit eam.
+R. In tabernáculo suo habitáre facit eam.
 
 [Lectio1]
-De libro Ecclesiastici.
-!Sir 51:1-7
-1 Oratio Jesu filii Sirach. Confitebor tibi, Domine, rex, et collaudabo te Deum salvatorem meum.
-2 Confitebor nomini tuo, quoniam adjutor et protector factus es mihi,
-3 et liberasti corpus meum a perditione: a laqueo linguae iniquae, et a labiis operantium mendacium: et in conspectu astantium factus es mihi adjutor.
-4 Et liberasti me, secundum multitudinem misericordiae nominis tui, a rugientibus praeparatis ad escam:
-5 de manibus quaerentium animam meam, et de portis tribulationum quae circumdederunt me;
-6 a pressura flammae quae circumdedit me, et in medio ignis non sum aestuatus;
-7 de altitudine ventris inferi, et a lingua coinquinata, et a verbo mendacii, a rege iniquo, et a lingua injusta.
+@Commune/C6:Lectio11
 
 [Responsory1]
-R. Dum torqueretur beata Agatha in mamilla graviter, dixit ad judicem:
-* Impie, crudelis, et dire tyranne, non es confusus amputare in femina, quod ipse in matre suxisti?
-V. Ego enim habeo mamillas integras intus in anima mea, quas ab infantia Domino consecravi.
-R. Impie, crudelis, et dire tyranne, non es confusus amputare in femina, quod ipse in matre suxisti?
+R. Dum torquerétur beáta Agatha in mamílla gráviter, dixit ad júdicem: 
+* Impie, crudélis et dire tyránne, non es confúsus amputáre in fémina, quod ipse in matre suxísti?
+V. Ego enim habeo mamillas íntegras intus in ánima mea, quas ab infántia Dómino consecrávi.
+R. Impie, crudélis et dire tyránne, non es confúsus amputáre in fémina, quod ipse in matre suxísti?
 
 [Lectio2]
-!Sir 51:8-12
-8 Laudabit usque ad mortem anima mea Dominum,
-9 et vita mea appropinquans erat in inferno deorsum.
-10 Circumdederunt me undique, et non erat qui adjuvaret: respiciens eram ad adjutorium hominum, et non erat.
-11 Memoratus sum misericordiae tuae, Domine, et operationis tuae, quae a saeculo sunt:
-12 quoniam eruis sustinentes te, Domine, et liberas eos de manibus gentium.
+@Commune/C6:Lectio21
 
 [Responsory2]
-R. Agatha laetissime et glorianter ibat ad carcerem,
-* Quasi ad epulas invitata: et agonem suum Domino precibus commendabat.
-V. Nobilissimis orta natalibus, ab ignobili gaudens trahebatur ad carcerem.
-R. Quasi ad epulas invitata: et agonem suum Domino precibus commendabat.
+R. Agatha lætíssime et glorianter ibat ad carcerem, 
+* Quasi ad épulas invitáta; et agónem suum Dómino precibus commendábat.
+V. Nobilíssimis orta natálibus, ab ignobili gaudens trahebátur ad carcerem.
+R. Quasi ad épulas invitáta; et agónem suum Dómino precibus commendabat.
 
 [Lectio3]
-!Sir 51:13-17
-13 Exaltasti super terram habitationem meam, et pro morte defluente deprecatus sum.
-14 Invocavi Dominum patrem Domini mei, ut non derelinquat me in die tribulationis meae, et in tempore superborum, sine adjutorio.
-15 Laudabo nomen tuum assidue, et collaudabo illud in confessione: et exaudita est oratio mea,
-16 et liberasti me de perditione, et eripuisti me de tempore iniquo.
-17 Propterea confitebor, et laudem dicam tibi, et benedicam nomini Domini.
+@Commune/C6:Lectio31
 
 [Responsory3]
-R. Quis es tu, qui venisti ad me curare vulnera mea? ego sum Apostolus Christi: nihil in me dubites filia: ipse me misit ad te,
-* Quem dilexisti mente, et puro corde.
-V. Nam et ego Apostolus ejus sum, et in nomine ejus scias te esse curandam.
-R. Quem dilexisti mente, et puro corde.
+R. Quis es tu, qui venísti ad me curáre vúlnera mea? Ego sum Apóstolus Christi: nihil in me dúbites, fília: ipse me misit ad te, 
+* Quem dilexísti mente et puro corde.
+V. Nam et ego Apóstolus ejus sum, et in nómine ejus scias te esse curándam.
+R. Quem dilexísti mente et puro corde.
 &Gloria
-R. Quem dilexisti mente, et puro corde.
+R. Quem dilexísti mente et puro corde.
 
 [Lectio4]
-Agatha virgo, in Sicilia nobilibus parentibus nata, quam Panormitani et Catanenses civem suam esse dicunt, in persecutione Decii imperatoris Catanae gloriosi martyrii coronam consecuta est. Nam cum pari pulchritudinis et castitatis laude commendaretur, Quintianus Siciliae praetor ejus amore captus est. Sed cum, tentata modis omnibus ejus pudicitia, Agatham in suam sententiam perducere non posset, christianae superstitionis nomine comprehensam, Aphrodisiae cuidam mulieri depravandam tradit. Quae Aphrodisiae consuetudine cum de constantia colendae christianae fidei, et servandae virginitatis removeri non posset: nuntiat illa Quintiano, se in Agatha operam perdere. Quare ille ad se virginem adduci jubet: et, Nonne, inquit, te pudet nobili genere natam, humilem et servilem Christianorum vitam agere? Cui Agatha: Multo praestantior est christiana humilitas et servitus, regum opibus ac superbia.
+Agatha virgo, in Sicília nobílibus paréntibus nata, quam Panormitani et Catanenses civem suam esse dicunt, in persecutióne Decii imperatóris Cátanæ gloriosi martyrii corónam consecuta est. Nam cum pari pulchritúdinis et castitátis laude commendarétur, Quintianus Sicíliæ prætor ejus amore captus est. Sed cum, tentáta modis ómnibus ejus pudicitia, Agatham in suam senténtiam perducere non posset, christianæ superstitiónis nómine comprehensam, Aphrodísiæ consuetúdine cum de constántia colendæ christianæ fidei et servandæ virginitátis removeri non posset, núntiat illa Quintiáno se in Agatha operam pérdere. Quare ille ad se Vírginem adduci jubet; et, Nonne, inquit, te pudet nobili genere natam, húmilem et servilem Christianórum vitam ágere? Cui Agatha: Multo præstantior est christiana humilitas et servitus, regum opibus ac supérbia.
 
 [Responsory4]
-R. Ego autem adjuta a Domino, perseverabo in confessione ejus, qui me salvam fecit,
-* Et consolatus est me.
-V. Gratias tibi ago, Domine Jesu Christe, qui misisti ad me Apostolum tuum curare vulnera mea.
-R. Et consolatus est me.
+R. Ego autem adjuta a Dómino, perseverábo in confessióne ejus, qui me salvam fecit, 
+* Et consolátus est me.
+V. Gratias tibi ago, Dómine Jesu Christe, qui misísti ad me Apostolum tuum curare vulnera mea.
+R. Et consolátus est me.
 
 [Lectio5]
-Quamobrem iratus praetor hanc ei optionem dat, velitne potius venerari deos, an vim tormentorum subire. At illa constans in fide, primum colaphis caesa mittitur in carcerem: unde postridie educta, cum in sententia permaneret, admotis candentibus laminis in equuleo torquetur: tum ei mamilla abscinditur. Quo in vulnere Quintianum appellans virgo, Crudelis, inquit, tyranne, non te pudet amputare in femina, quod ipse in matre suxisti? Mox conjecta in vincula, sequenti nocte a sene quodam, qui se Christi Apostolum esse dicebat, sanata est. Rursum evocata a praetore, et in Christi confessione perseverans, in acutis testulis, et candentibus carbonibus ei subjectis volutatur.
+Quam ob rem irátus prætor hanc ei optiónem dat, velítne potius venerari deos, an vim tormentórum subire. At illa constans in fide, primum cólaphis cæsa mittitur in carcerem; unde postridie educta, cum in senténtia permanéret, admotis candéntibus láminis in equuleo torquétur. Tum ei mamilla abscinditur; quo in vulnere Quintianum appellans Virgo, Crudelis, inquit, tyranne, non te pudet amputare in femina, quod ipse in matre suxísti? Mox conjecta in vincula, sequénti nocte a sene quodam, qui se Christi Apostolum esse dicebat, sanáta est. Rursum evocáta a prætore, et in Christi confessióne perseverans, in acutis testulis et candéntibus carbónibus ei subjectis volutátur.
 
 [Responsory5]
-R. Ipse me curavit, qui per Apostolum Petrum in custodia me confortavit, pro eo quod jussa sum suspendi in equuleo.
-* Propter fidem castitatis adjuva me Domine Deus meus, in tortura mamillarum mearum.
-V. Ipse me dignatus est ab omni plaga curare, et mamillam meam meo pectori restituere.
-R. Propter fidem castitatis adjuva me Domine Deus meus, in tortura mamillarum mearum.
+R. Ipse me curávit, qui per Apostolum Petrum in custódia me confortávit, pro eo quod jussa sum suspéndi in equuleo. 
+* Propter fidem castitátis ádjuva me, Dómine, Deus meus, in tortúra mamillárum meárum.
+V. Ipse me dignátus est ab omni plaga curare, et mamillam meam meo péctori restitúere.
+R. Propter fidem castitátis ádjuva me, Dómine, Deus meus, in tortúra mamillárum mearum.
 
 [Lectio6]
-Quo tempore ingenti terraemotu urbs tota contremuit, ac duo parietes corruentes, Silvinum et Falconium intimos praetoris familiares oppresserunt. Quare vehementer commota civitate, veritus populi tumultum Quintianus, Agatham semi mortuam clam reduci imperat in carcerem. Quae sic Deum precata: Domine, qui me custodisti ab infantia, qui abstulisti a me amorem saeculi, qui me carnificum tormentis superiorem praestitisti, accipe animam meam. Ea in oratione migravit in caelum, Nonis Februarii; cujus corpus a Christianis sepelitur.
+Quo témpore, ingénti terræmotu urbs tota contrémuit, ac duo paríetes, corruéntes, Silvinum et Falcónium íntimos prætoris familiares oppressérunt. Quare veheménter commóta civitáte, veritus pópuli tumultum Quintianus, Agatham semimortuam clam redúci imperat in carcerem. Quæ sic Deum precáta: Dómine, qui me custodísti ab infantia, qui abstulísti a me amórem sæculi, qui me carnificum tormentis superiórem præstitísti, accipe ánimam meam. Ea in oratióne migrávit in cælum, Nonis Februarii: cujus corpus a Christiánis sepelítur.
 
 [Responsory6]
-R. Vidisti Domine, et spectasti agonem meum, quomodo pugnavi in stadio: sed quia nolui obedire mandatis principum
-* Jussa sum in mamilla torqueri.
-V. Propter veritatem, et mansuetudinem, et justitiam.
-R. Jussa sum in mamilla torqueri.
+R. Vidísti, Dómine, et spectásti agónem meum, quómodo pugnávi in stadio; sed, quia nólui obedire mandatis príncipum, 
+* Jussa sum in mamílla torquéri.
+V. Propter veritátem, et mansuetúdinem, et justítiam.
+R. Jussa sum in mamílla torquéri.
 &Gloria
-R. Jussa sum in mamilla torqueri.
+R. Jussa sum in mamílla torquéri.
 
 [Lectio94]
-Agatha, in Sic�lia nob�libus par�ntibus nata, in persecuti�ne D�cii imperat�ris, C�tan� glori�sum martyrium fecit. Nam cum Quinti�nus, Sic�li� pr�tor, �mnibus modis ejus pudic�tiam frustra tent�sset, Agatha, superstiti�nis christi�n� n�mine compreh�nsa, primum c�laphis c�ditur, dein adm�tis cand�ntibus l�minis in equ�leo torqu�tur, tum ei mam�lla absc�nditur. Mox conj�cta in v�ncula, a be�to Petro Ap�stolo, noctu ei appar�nte, san�tur. Rursum evoc�ta a pr�t�re et in Christi confessi�ne persev�rans, in ac�tis t�stulis et cand�ntibus carb�nibus ei subj�ctis volut�tur. Sed ob ing�ntem terr�m�tum vehem�nter comm�ta civit�te, Quinti�nus, v�ritus p�puli tum�ltum, eam semim�rtuam clam red�ci �mperat in c�rcerem; ubi paulo post migr�vit in c�lum, Nonis Febru�rii.
+Agatha, in Sicília nobílibus paréntibus nata, in persecutióne Decii imperatóris, Cátanæ gloriósum martyrium fecit. Nam cum Quintianus, Sicíliæ prætor, ómnibus modis ejus pudicítiam frustra tentasset, Agatha, superstitiónis christianæ nómine comprehensa, primum cólaphis cæditur, dein admotis candéntibus láminis in equuleo torquétur, tum ei mamilla abscinditur. Mox conjecta in vincula, a beato Petro Apóstolo, noctu ei apparente, sanátur. Rursum evocáta a prætore et in Christi confessióne perseverans, in acutis téstulis et candéntibus carbónibus ei subjectis volutátur. Sed ob ingentem terræmotum veheménter commóta civitáte, Quintianus, véritus pópuli tumultum, eam semimortuam clam redúci imperat in carcerem; ubi paulo post migrávit in cælum, Nonis Februarii.
 &teDeum
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Léctio sancti Evangélii secúndum Matthǽum.
 !Matt 19:3-12
-In illo tempore: Accesserunt ad Jesum pharisaei tentantes eum, et dicentes: Si licet homini dimittere uxorem suam quacumque ex causa? Et reliqua.
+In illo témpore: Accessérunt ad Jesum pharisæi, tentántes eum et dicéntes: Si licet hómini dimíttere uxórem suam quacúmque ex causa? Et réliqua.
 _
-Homilia S. Joannis Chrysostomi.
-!Hom. 63. in Matth., sub med.
-Dominus noster, quia ad virginitatem hortari grave esse videbatur, a necessitate legis de non solvando matrimonio, eos ad cupiditatem illius trahere studet. Deinde ut eam esse possibilem ostendat, sic inquit: Sunt eunuchi qui ex ventre matris ita nati sunt, et sunt qui ab hominibus eunuchi facti sunt, et sunt qui seipsos castraverunt propter regnum caelorum. Quibus verbis latenter eos ad eligendam virginitatem inducit, dum eam virtutem esse possibilem astruit.
+Homilía S. Joánnis Chrysostomi.
+!Homilía 63 in Matth., sub med.
+Dóminus noster, quia ad virginitátem hortari grave esse videbátur, a necessitate legis de non solvéndo matrimonio, eos ad cupiditátem illíus trahere studet. Deinde, ut eam esse possibilem ostendat, sic inquit: Sunt eunuchi qui ex ventre matris ita nati sunt; et sunt qui ab homínibus eunuchi facti sunt, et sunt qui seipsos castravérunt propter regnum cælórum. Quibus verbis latenter eos ad eligéndam virginitátem inducit, dum eam virtútem esse possibilem astruit.
 
 [Responsory7]
-R. Beata Agatha ingressa carcerem, expandit manus suas ad Deum, et dixit: Domine qui me fecisti vincere tormenta carnificum,
-* Jube me ad tuam misericordiam pervenire.
-V. Domine qui me creasti, et tulisti a me amorem saeculi, qui corpus meum a pollutione separasti.
-R. Jube me ad tuam misericordiam pervenire.
+R. Beáta Agatha, ingressa carcerem, expándit manus suas ad Deum, et dixit: Dómine, qui me fecísti vincere torménta carníficum,
+* Jube me ad tuam misericórdiam perveníre.
+V. Dómine, qui me creásti, et tulísti a me amórem sæculi, qui corpus meum a pollutióne separásti.
+R. Jube me ad tuam misericórdiam perveníre.
 
 [Lectio8]
-Id autem hoc fere modo confirmat. Cogita tecum, si aut a natura talis esses, aut ab hominibus eam injuriam passus, quid faceres, cum et ejusmodi voluptate careres, et nullam carendo mercedem consequereris? Gratias igitur nunc Deo agas, quod cum mercede atque coronis idem sustines, quod illi sine coronis ac praemio tolerant. Immo vero non idem, sed multo levius; tum quia spe erigeris, et conscientia recte facti; tum quia non ita ingentibus concupiscentiae fluctibus jactaris.
+Id autem hoc fere modo confírmat: Cogita tecum, si aut a natúra talis esses, aut ab homínibus eam injúriam passus, quid fáceres, cum et ejusmodi voluptate caréres, et nullam, carendo, mercedem conséquereris? Gratias ígitur nunc Deo agas, quod cum mercede atque corónis idem sustines, quod illi sine corónis ac præmio tólerant. Immo vero non idem, sed multo levius; tum quia spe erigeris et consciéntia recte facti, tum quia non ita ingéntibus concupiscéntiæ fluctibus jactaris.
 
 [Responsory8]
-R. Medicinam carnalem corpori meo numquam exhibui, sed habeo Dominum Jesum Christum,
-* Qui solo sermone restaurat universa.
-V. Qui me dignatus est ab omni plaga curare, et mamillam meam meo pectori restituere, ipsum invoco Deum vivum.
-R. Qui solo sermone restaurat universa.
+R. Medicinam carnalem corpori meo numquam exhibui, sed habeo Dóminum Jesum Christum, 
+* Qui solo sermóne restaurat univérsa.
+V. Qui me dignátus est ab omni plaga curare, et mamillam meam meo péctori restitúere, ipsum ínvoco Deum vivum.
+R. Qui solo sermóne restaurat univérsa.
 &Gloria
-R. Qui solo sermone restaurat universa.
+R. Qui solo sermóne restaurat univérsa.
 
 [Lectio9]
-Cum ergo de illis eunuchis dixerit, qui nisi etiam ipsi mente se contineant, frustra et inutiliter tales sunt; ac de illis, qui ut regnum caelorum consequantur, se continent, subjunxit rursus, dicens: Qui potest capere, capiat: ut alacriores efficiat eo ipso, quod grave esse opus ostendit, et ineffabili benignitate sua noluit eam rem intra necessitatem legis concludere: idque dicendo, adhuc magis possibilem esse demonstrat, ut voluntatis studium plus augeatur.
+Cum ergo de illis eunuchis dixerit, qui, nisi etiam ipsi mente se contineant, frustra et inutíliter tales sunt, ac de illis, qui, ut regnum cælórum consequántur, se continent; subjunxit rursus, dicens: Qui potest cápere, capiat; ut alacriores effíciat eo ipso quod grave esse opus osténdit, et ineffábili benignitate sua nóluit eam rem intra necessitátem legis concludere. Idque dicendo, adhuc magis possibilem esse demonstrat, ut voluntátis studium plus augeátur.
 &teDeum
 
 [Ant Laudes]
 @:Ant Vespera
 
 [Capitulum Laudes]
-!Sir 51:1-3
-v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
-$Deo gratias
+@:Capitulum Vespera
 
 [Ant 2]
-Paganorum multitudo * fugiens ad sepulcrum virginis, tulerunt velum ejus contra ignem: ut comprobaret Dominus, quod a periculis incendii meritis beatae Agathae Martyris suae eos liberaret.
+Paganórum * multitúdo fúgiens ad sepúlcrum Vírginis, tulérunt velum ejus contra ignem: ut comprobáret Dóminus, quod a perículis incéndii meritis beátæ Agathæ Mártyris suæ eos liberáret.
 
 [Oratio]
-Deus, qui inter cetera potentiae tuae miracula etiam in sexu fragili victoriam martyrii contulisti: concede propitius; ut qui beatae Agathae Virginis et Martyris tuae natalitia colimus, per ejus ad te exempla gradiamur.
+Deus qui inter cétera poténtiæ tuæ mirácula etiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Agathæ Vírginis et Mártyris tuæ natalícia cólimus, per ejus ad te exémpla gradiámur.
 $Per Dominum
 
+[Lectio Prima]
+!Sir 51:8; 51:12
+v. Laudábit usque ad mortem ánima mea Dóminum, quóniam éruis sustinéntes te, et líberas eos de manu angústiæ, Dómine Deus noster.
+
 [Capitulum Tertia]
-!Sir 51:1-3
-v. Confitebor tibi, Domine, Rex, et collaudabo te Deum Salvatorem meum. Confitebor nomini tuo: quoniam adjutor et protector factus es mihi, et liberasti corpus meum a perditione.
-$Deo gratias
+@:Capitulum Vespera
 
 [Capitulum Sexta]
 !Sir 51:4-5
-v. Liberasti me secundum multitudinem misericordiae nominis tui a rugientibus, praeparatis ad escam, de manibus quaerentium animam meam, et de multis tribulationibus quae circumdederunt me.
+v. Liberásti me secúndum multitúdinem misericórdiæ nóminis tui a rugiéntibus, præparátis ad escam, de mánibus quæréntium ánimam meam, et de multis tribulatiónibus quæ circumdedérunt me.
 $Deo gratias
 
 [Capitulum Nona]
-!Sir 51:8; 51:12
-v. Laudabit usque ad mortem anima mea Dominum, quoniam eruis sustinentes te, et liberas eos de manu angustiae, Domine, Deus noster.
+@:Lectio Prima
 $Deo gratias
 
 [Ant 3]

@@ -5,13 +5,6 @@ ln Octavam Ss. Petri and Pauli.;;Duplex;;3;;vide C1
 vide C1;
 9 lectiones
 
-[Versum 1]
-V. Thou shalt make them princes over all the earth.
-R. They shall remember thy name, O Lord.
-
-[Ant 1]
-Apostle Peter * and Paul Doctor of Gentiles, they taught us to your Law, O Lord.
-
 [Oratio]
 O God, Who didst hallow this day by the Testifying of thine Holy Apostles Peter~
 and Paul, grant unto thy Church, whose foundations Thou wast pleased to lay by~
@@ -20,7 +13,7 @@ teaching.
 $Per Dominum
 
 [Lectio4]
-From the Sermons of St John Chrysostom, Patriarch of Constantinople.
+From the Sermons of St. John Chrysostom, Patriarch of Constantinople.
 !In the Metaphrastes.
 The blessed Apostles, who have toiled so much for us, what thanks shall we give~
 you When I remember thee, O Peter, I am lost in amazement Paul, when I think~
@@ -59,7 +52,7 @@ From the Holy Gospel according to Matthew
 At that time Jesus constrained His disciples to get into a ship, and to go~
 before Him unto the other side, while He sent the multitudes away. And so on.
 _
-Homily by St Jerome, Priest at Bethlehem.
+Homily by St. Jerome, Priest at Bethlehem.
 !Bk. ii. Comm. on Matth. xiv.
 The Lord commanded His disciples to cross over to the other side, and~
 constrained them to get into a ship. By these expressions we perceive that they~
@@ -89,18 +82,3 @@ into three. When therefore it is said that the Lord came unto them in the fourth
 watch, it appeareth that they had been in peril all night, and that it was at~
 the end of the night, as it will again be at the end of the world, that He came~
 to the rescue of His disciples.
-
-[Versum 2]
-V. Their sound hath gone forth into all the earth.
-R. And their words unto the ends of the world.
-
-[Ant 2]
-Glorious princes * of the Earth, as in this life you were honored together,~
-you are not separated by death.
-
-[Versum 3]
-V. Thou shalt make them princes over all the earth.
-R. They shall remember thy name, O Lord.
-
-[Ant 3]
-Apostle Peter * and Paul Doctor of Gentiles, they taught us to your Law, O Lord.

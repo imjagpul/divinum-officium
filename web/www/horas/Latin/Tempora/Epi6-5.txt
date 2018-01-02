@@ -5,30 +5,30 @@ Feria VI infra Hebdomadam VI post Epiphaniam;;Feria;;1
 Oratio Dominica
 
 [Lectio1]
-De epistola ad Hebraeos
+De epístola ad Hebrǽos
 !Heb 11:1-4
-1 Est autem fides sperandarum substantia rerum, argumentum non apparentium.
-2 In hac enim testimonium consecuti sunt senes.
-3 Fide intelligimus aptata esse saecula verbo Dei: ut ex invisibilibus visibilia fierent.
-4 Fide plurimam hostiam Abel, quam Cain, obtulit Deo, per quam testimonium consecutus est esse justus, testimonium perhibente muneribus ejus Deo, et per illam defunctus adhuc loquitur.
+1 Est autem fides sperandárum substántia rerum, arguméntum non apparéntium.
+2 In hac enim testimónium consecúti sunt senes.
+3 Fide intellígimus aptáta esse sǽcula verbo Dei: ut ex invisibílibus visibília fíerent.
+4 Fide plúrimam hóstiam Abel, quam Cain, óbtulit Deo, per quam testimónium consecútus est esse iustus, testimónium perhibénte munéribus eius Deo, et per illam defúnctus adhuc lóquitur.
 
 [Responsory1]
 @Tempora/Epi2-5:Responsory1
 
 [Lectio2]
 !Heb 11:5-7
-5 Fide Henoch translatus est ne videret mortem, et non inveniebatur, quia transtulit illum Deus: ante translationem enim testimonium habuit placuisse Deo.
-6 Sine fide autem impossibile est placere Deo. Credere enim oportet accedentem ad Deum quia est, et inquirentibus se remunerator sit.
-7 Fide No� responso accepto de iis quae adhuc non videbantur, metuens aptavit arcam in salutem domus suae, per quam damnavit mundum: et justitiae, quae per fidem est, haeres est institutus.
+5 Fide Henoch translátus est ne vidéret mortem, et non inveniebátur, quia tránstulit illum Deus: ante translatiónem enim testimónium hábuit placuísse Deo.
+6 Sine fide autem impossíbile est placére Deo. Crédere enim opórtet accedéntem ad Deum quia est, et inquiréntibus se remunerátor sit.
+7 Fide Noe respónso accépto de iis quæ adhuc non videbántur, métuens aptávit arcam in salútem domus suæ, per quam damnávit mundum: et iustítiæ, quæ per fidem est, hæres est institútus.
 
 [Responsory2]
 @Tempora/Epi2-5:Responsory2
 
 [Lectio3]
 !Heb 11:8-10
-8 Fide qui vocatur Abraham obedivit in locum exire, quem accepturus erat in haereditatem: et exiit, nesciens quo iret.
-9 Fide demoratus est in terra repromissionis, tamquam in aliena, in casulis habitando cum Isaac et Iacob, cohaeredibus repromissionis eiusdem.
-10 Exspectabat enim fundamenta habentem civitatem: cuius artifex et conditor Deus.
+8 Fide qui vocátur Abraham obedívit in locum exíre, quem acceptúrus erat in hæreditátem: et éxiit, nésciens quo iret.
+9 Fide demorátus est in terra repromissiónis, tamquam in aliéna, in cásulis habitándo cum Isaac et Iacob cohærédibus repromissiónis eiúsdem.
+10 Exspectábat enim fundaménta habéntem civitátem: cuius ártifex et cónditor Deus.
 
 [Responsory3]
 @Tempora/Epi2-5:Responsory3

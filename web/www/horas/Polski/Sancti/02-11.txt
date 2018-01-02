@@ -30,9 +30,6 @@ Ta jest * gołębica moja, doskonała moja, niepokalana moja.
 Boże, który przez Niepokalane Poczęcie Najśw. Panny godne mieszkanie Synowi swemu zgotowałeś; spraw, prosimy Cię, abyśmy, którzy tejże Dziewicy ukazanie się uroczyście obchodzimy, zbawienia duszy i ciała dostąpili.
 $Per eumdem
 
-[Invit]
-Niepokalane Poczęcie Panny Marji świętujmy: * jej Synowi Chrystusowi, Panu się kłaniajmy.
-
 [Hymnus Matutinum]
 v. Ciebie sławimy pieśnią,
 nienaruszona Matko Boga,
@@ -78,7 +75,7 @@ V. Wspomoże ją Bóg obliczem swoim.
 R. Bóg w pośrodku jej, nie będzie poruszona.
 Ręka Pańska * posiliła cię, i dlatego będziesz błogosławiona na wieki.;;95
 Noli metuere, * non enim pro te, sed pro omnibus haec lex constituta est.;;96
-Ubłogosławił cię Pan * w mocy swojej, iż przez cię wniwecz obrócił nieprzyjadoły nasze.;;97
+Ubłogosławił cię Pan * w mocy swojej, iż przez cię wniwecz obrócił nieprzyjacioły nasze.;;97
 V. Rozlała się wdzięczność po wargach twoich.
 R. Dlatego cię błogosławił Bóg na wieki.
 
@@ -175,9 +172,6 @@ Tyś sława Jeruzalem, * tyś wesele Izraelskie, tyś cześć ludu naszego.
 Błogosławionaś ty, * Panno Marjo, od Pana Boga wysokiego nade wszytkie niewiasty na ziemi.
 Dziś imię twoje * uwielbił Pan, że nie odejdzie chwała twoja z ust ludzi.
 
-[Capitulum Laudes]
-@:Capitulum Vespera
-
 [Hymnus Laudes]
 v. Zorzo, poprzedzająca słońce,
 szczęsna zwiastunko zbawienia,
@@ -211,22 +205,19 @@ po nieskończone wieki.
 Amen.
 
 [Ant 2]
-Praeclara salutis aurora * ex te, Virgo Maria, exivit sol iustitiae, qui visitavit nos oriens ex alto.
+Piękna zbawienia jutrzenko * z Ciebie, Dziewico Maryjo, wyszło słońce sprawiedliwości, które nawiedziło nas z wysokości.
 
 [Lectio Prima]
 !Syr 24:25-26
 v. We mnie wszelka łaska drogi i prawdy, we mnie wszytka nadzieja żywota i cnoty. Przejdźcie do mnie wszyscy, którzy mnie pragniecie, i najedzcie się owoców moich.
 
-[Capitulum Tertia]
-@:Capitulum Vespera
-
 [Responsory Tertia]
-R.br. Któraż to jest, która wstępuje z puszczy, * opływająca rozkoszami.
-R. Któraż to jest, która wstępuje z puszczy, * opływająca rozkoszami.
+R.br. Któraż to jest, która wstępuje z puszczy, * Opływająca rozkoszami.
+R. Któraż to jest, która wstępuje z puszczy, * Opływająca rozkoszami.
 V. Podparłszy się miłego swego.
 R. Opływająca rozkoszami.
 &Gloria
-R. Któraż to jest, która wstępuje z puszczy, * opływająca rozkoszami.
+R. Któraż to jest, która wstępuje z puszczy, * Opływająca rozkoszami.
 _
 V. Widziały ją córki Syjońskie.
 R. I za najszczęśliwszą wystawiały.
@@ -237,28 +228,23 @@ v. Przy mnie są bogactwa i sława, pyszne majętności i sprawiedliwość.  Lep
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Ja matka * pięknej miłości.
-R. Ja matka * pięknej miłości.
+R.br. Ja matka * Pięknej miłości.
+R. Ja matka * Pięknej miłości.
 V. I bogobojności, i uznania, i nadzieje świętej.
 R. Pięknej miłości.
 &Gloria
-R. Ja matka * pięknej miłości.
+R. Ja matka * Pięknej miłości.
 _
 V. We mnie wszelka łaska drogi i prawdy.
-R. We mnie wszytka nadzieja żywota i cnoty
-
-[Capitulum Nona]
-!Syr 24:25-26
-v. We mnie wszelka łaska drogi i prawdy, we mnie wszytka nadzieja żywota i cnoty.  Przejdźcie do mnie wszyscy, którzy mnie pragniecie, i najedzcie się owoców moich!
-$Deo gratias
+R. We mnie wszytka nadzieja żywota i cnoty.
 
 [Responsory Nona]
-R.br. Kto mię najdzie, * najdzie żywot.
-R. Kto mię najdzie, * najdzie żywot.
+R.br. Kto mię najdzie, * Najdzie żywot.
+R. Kto mię najdzie, * Najdzie żywot.
 V. I wyczerpnie zbawienie od Pana.
 R. Najdzie żywot.
 &Gloria
-R. Kto mię najdzie, * najdzie żywot.
+R. Kto mię najdzie, * Najdzie żywot.
 _
 V. Przejdźcie do mnie wszyscy, którzy mnie pragniecie.
 R. I najedzcie się owoców moich.

@@ -1,8 +1,8 @@
 [Rank]
-Dominica in Sexagesima;;Semiduplex;;5.6
+Niedziela Sześćdziesiątnicy;;Semiduplex;;5.6
 
 [Rank1960]
-Dominica in Sexagesima;;Semiduplex;;5
+Niedziela Sześćdziesiątnicy;;Semiduplex;;5
 
 [Rule]
 9 lectiones
@@ -15,10 +15,6 @@ $Deo gratias
 
 [Ant 1]
 Rzekł Pan * do Noego: Koniec wszelkiemu ciału przyszedł przedemną: uczyń sobie korab z drzewa heblowanego, i ocal wszystko nasienie w nim.
-
-[Versum 1]
-V. Niech modlitwa wieczorna wzniesie się do Ciebie, Panie.
-R. I niech zstąpi na nas miłosierdzie Twoje.
 
 [Oratio]
 Boże, Ty widzisz, że w żadnem z dzieł naszych nie pokładamy nadziei: spraw więc miłościwie, aby opieka Nauczyciela narodów: broniła nas przeciw wszelkim przeciwnościom.
@@ -99,29 +95,19 @@ R. Wyszedł siewca rozsiewać ziarna swoje.
 
 [Ant Laudes]
 Według wielkiego miłosierdzia * twego zmiłuj się nademną, Boże.
-Si mihi Dominus * salvator fuerit, non timebo, quid faciat mihi homo.
-In velamento * clamavi valde diluculo: Deus, Deus meus, ad te de luce vigilo.
+Jeśli Pan * będzie mi zbawicielem, nie będę się bał, coby mi uczynił człowiek.
+W zasłonie * będę wołał wczesnym rankiem: Boże, Boże mój, do ciebie czuję na świtaniu.
 Hymn zaśpiewajmy * Panu, Bogu naszemu.
 Na wysokości, * chwalcie Boga.
 
-[Capitulum Laudes]
-@:Capitulum Vespera
-
 [Ant 2]
 Gdy się wielka * rzesza schodziła do Jezusa, i z miast kwapili się do Niego, rzekł przez podobieństwo: Wyszedł, który sieje, siać nasienie swoje.
-
-[Versum 2]
-V. Panie, stałeś się nam ucieczką.
-R. Od rodzaju do rodzaju.
 
 [Ant Prima]
 Nasienie padło * na ziemię dobrą, i przyniosło owoc w cierpliwości.
 
 [Ant Tertia]
 Którzy słowo Boże * dokładnie w sercu zatrzymywają, owoc przynoszą w cierpliwości.
-
-[Capitulum Tertia]
-@:Capitulum Vespera
 
 [Ant Sexta]
 Nasienie padło * na ziemię dobrą, i przyniosło owoc, jedno setny, drugie sześćdziesiątny.
@@ -131,6 +117,9 @@ Nasienie padło * na ziemię dobrą, i przyniosło owoc, jedno setny, drugie sze
 v. Trzykroć byłem bit rózgami, razem był ukamionowan, trzykrociem się z okrętem rozbił, przez dzień i przez noc byłem w głębi morskiéj.
 $Deo gratias
 
+[Ant Nona]
+Jeśli naprawdę, bracia, * bogatymi być chcecie, prawdziwe bogactwa miłujcie.
+
 [Capitulum Nona]
 !2Kor 12:9
 v. Rad się tedy przechwalać będę w krewkościach moich, aby we mnie mieszkała moc Chrystusowa.
@@ -138,7 +127,3 @@ $Deo gratias
 
 [Ant 3]
 Wam dane jest * wiedzieć tajemnice królestwa Bożego, a innym przez podobieństwo, rzekł Jezus uczniom swoim.
-
-[Versum 3]
-V. Niech się wzniesie modlitwa moja.
-R. Jako woń kadzidła przed obliczem Twoim.

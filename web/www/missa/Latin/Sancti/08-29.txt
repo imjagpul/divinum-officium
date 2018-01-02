@@ -19,7 +19,7 @@ v. Loquébar de testimóniis tuis in conspéctu regum, et non confundébar: et~
 meditábar in mandátis tuis, quæ diléxi nimis
 
 [Oratio]
-Sancti Joánnis Baptístæ Præcursóris et Martyris tui, quaesumus, Dómine,~
+Sancti Joánnis Baptístæ Præcursóris et Martyris tui, quǽsumus, Dómine,~
 veneránda festívitas: salutáris auxílii nobis præstet efféctum:
 $Qui vivis
 
@@ -57,7 +57,7 @@ rex: propter jusjurándum et propter simul discumbéntes nóluit eam contristár
 sed misso spiculatóre, præcépit afférri caput ejus in disco. Et decollávit eum~
 in cárcere. Et áttulit caput ejus in disco: et dedit illud puéllæ, et puella~
 dedit matri suæ. Quo audíto, discípuli ejus venérunt et tulérunt corpus ejus: et~
-posueérunt illud in monuménto.
+posuérunt illud in monuménto.
 
 [Offertorium]
 !Ps 20:2-3
@@ -66,7 +66,7 @@ veheménter: desidérium ánimæ ejus tribuísti ei.
 
 [Secreta]
  Múnera, quæ tibi, Dómine, pro sancti Martyris tui Joánnis Baptístæ passióne~
-deférimus: quaesumus; ut ejus obténtu nobis profíciant ad salútem.
+deférimus: quǽsumus; ut ejus obténtu nobis profíciant ad salútem.
 $Per Dominum
 
 [Communio]
@@ -94,6 +94,6 @@ $Per Dominum
 
 [Commemoratio Postcommunio]
 !Pro S. Sabina Martyre
-Divíni muneris largitáte satiáti, quaesumus, Dómine, Deus noster: ut,~
+Divíni muneris largitáte satiáti, quǽsumus, Dómine, Deus noster: ut,~
 intercedénte beáta Sabína Mártyre tua, in ejus semper participatióne vivámus.
 $Per Dominum

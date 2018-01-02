@@ -1,5 +1,5 @@
 [Rank]
-Feria Tertia infra Hebdomadam IV post Octavam Paschae;;Feria;;1
+Feria Tertia infra Hebdomadam IV post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -7,52 +7,41 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De Epistola beati Jacobi Apostoli.
+De Epístola beáti Jacóbi Apostóli
 !Jas 2:1-4
-1 Fratres mei, nolite in personarum acceptione habere fidem Domini nostri Jesu Christi gloriae.
-2 Etenim si introierit in conventum vestrum vir aureum annulum habens in veste candida, introierit autem et pauper in sordido habitu,
-3 et intendatis in eum qui indutus est veste praeclara, et dixeritis ei: Tu sede hic bene: pauperi autem dicatis: Tu sta illic; aut sede sub scabello pedum meorum:
-4 nonne judicatis apud vosmetipsos, et facti estis judices cogitationum iniquarum?
+1 Fratres mei, nolíte in personárum acceptióne habére fidem Dómini nostri Iesu Christi glóriæ.
+2 Etenim si introíerit in convéntum vestrum vir áureum ánnulum habens in veste cándida, introíerit autem et pauper in sórdido hábitu,
+3 et intendátis in eum qui indútus est veste præclára, et dixéritis ei: Tu sede hic bene: páuperi autem dicátis: Tu sta illic; aut sede sub scabéllo pedum meórum:
+4 nonne iudicátis apud vosmetípsos, et facti estis iúdices cogitatiónum iniquárum?
 
 [Responsory1]
-R. In ecclesiis benedicite Deo, alleluia,
-* Domino de fontibus Isra�l, alleluia, alleluia.
-V. Psalmum dicite nomini ejus, date gloriam laudi ejus.
-R. Domino de fontibus Isra�l, alleluia, alleluia.
+@Tempora/Pasc4-0:Responsory4
 
 [Lectio2]
 !Jas 2:5-9
-5 Audite, fratres mei dilectissimi: nonne Deus elegit pauperes in hoc mundo, divites in fide, et heredes regni, quod repromisit Deus diligentibus se?
-6 Vos autem exhonorastis pauperem. Nonne divites per potentiam opprimunt vos, et ipsi trahunt vos ad judicia?
-7 Nonne ipsi blasphemant bonum nomen, quod invocatum est super vos?
-8 Si tamen legem perficitis regalem secundum Scripturas: Diliges proximum tuum sicut teipsum: bene facitis:
-9 si autem personas accipitis, peccatum operamini, redarguti a lege quasi transgressores.
+5 Audíte, fratres mei dilectíssimi: nonne Deus elégit páuperes in hoc mundo, dívites in fide, et hærédes regni, quod repromísit Deus diligéntibus se?
+6 vos autem exhonorástis páuperem. Nonne dívites per poténtiam ópprimunt vos, et ipsi trahunt vos ad iudícia?
+7 nonne ipsi blasphémant bonum nomen, quod invocátum est super vos?
+8 Si tamen legem perfícitis regálem secúndum Scriptúras: Díliges próximum tuum sicut teípsum: bene fácitis:
+9 si autem persónas accípitis, peccátum operámini, redargúti a lege quasi transgressóres.
 
 [Responsory2]
-R. In toto corde meo, alleluia, exquisivi te, alleluia:
-* Ne repellas me a mandatis tuis, alleluia, alleluia.
-V. Benedictus es tu Domine, doce me justificationes tuas.
-R. Ne repellas me a mandatis tuis, alleluia, alleluia.
+@Tempora/Pasc4-0:Responsory5
 &Gloria
-R. Ne repellas me a mandatis tuis, alleluia, alleluia.
+R. Ne repéllas me a mandátis tuis, allelúja, allelúja.
 
 [Lectio3]
 !Jas 2:10-13
-10 Quicumque autem totam legem servaverit, offendat autem in uno, factus est omnium reus.
-11 Qui enim dixit: Non m�chaberis, dixit et: Non occides. Quod si non m�chaberis, occides autem, factus es transgressor legis.
-12 Sic loquimini, et sic facite sicut per legem libertatis incipientes judicari.
-13 Judicium enim sine misericordia illi qui non fecit misericordiam: superexaltat autem misericordia judicium.
+10 Quicúmque autem totam legem serváverit, offéndat autem in uno, factus est ómnium reus.
+11 Qui enim dixit: Non mœcháberis, dixit et: Non occídes. Quod si non mœcháberis, occídes autem, factus es transgréssor legis.
+12 Sic loquímini, et sic fácite sicut per legem libertátis incipiéntes iudicári.
+13 Iudícium enim sine misericórdia illi qui non fecit misericórdiam: superexáltat autem misericórdia iudícium.
 
 [Responsory3]
-R. Hymnum cantate nobis, alleluia:
-* Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
-V. Illic interrogaverunt nos, qui captivos duxerunt nos, verba cantionum.
-R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
-&Gloria
-R. Quomodo cantabimus canticum Domini in terra aliena? alleluia, alleluia.
+@Tempora/Pasc4-0:Responsory6
 
 [Ant 2]
-Pax vobis, * ego sum, alleluia: nolite timere, alleluia.
+Pax vobis, * ego sum, allelúja: nolíte timére, allelúja.
 
 [Ant 3]
-Cum venerit * Paraclitus Spiritus veritatis, ille arguet mundum de peccato, et de justitia, et de judicio, alleluia.
+Cum vénerit * Paráclitus Spíritus veritátis, ille árguet mundum de peccáto, et de justítia, et de judício, allelúja.

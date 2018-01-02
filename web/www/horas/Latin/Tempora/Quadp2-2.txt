@@ -1,40 +1,40 @@
 [Rank]
-Feria III infra Hebdomadam Sexagesimae;;Feria;;1
+Feria III infra Hebdomadam Sexagesimæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
 
 [Lectio1]
-De libro Genesis
+De libro Génesis
 !Gen 8:1-4
-1 Recordatus autem Deus No�, cunctorumque animantium, et omnium jumentorum, quae erant cum eo in arca, adduxit spiritum super terram, et imminutae sunt aquae.
-2 Et clausi sunt fontes abyssi, et cataractae caeli: et prohibitae sunt pluviae de caelo.
-3 Reversaeque sunt aquae de terra euntes et redeuntes: et c�perunt minui post centum quinquaginta dies.
-4 Requievitque arca mense septimo, vigesimo septimo die mensis, super montes Armeniae.
+1 Recordátus autem Deus Noë, cunctorúmque animántium, et ómnium iumentórum, quæ erant cum eo in arca, addúxit spíritum super terram, et imminútæ sunt aquæ.
+2 Et clausi sunt fontes abýssi, et cataráctæ cæli: et prohíbitæ sunt plúviæ de cælo.
+3 Reversǽque sunt aquæ de terra eúntes et redeúntes: et cœpérunt mínui post centum quinquagínta dies.
+4 Requievítque arca mense séptimo, vigésimo séptimo die mensis, super montes Arméniæ.
 
 [Responsory1]
 @Tempora/Quadp2-0:Responsory4
 
 [Lectio2]
 !Gen 8:5-9
-5 At vero aquae ibant et decrescebant usque ad decimum mensem: decimo enim mense, primo die mensis, apparuerunt cacumina montium.
-6 Cumque transissent quadraginta dies, aperiens No� fenestram arcae, quam fecerat, dimisit corvum,
-7 qui egrediebatur, et non revertebatur, donec siccarentur aquae super terram.
-8 Emisit quoque columbam post eum, ut videret si jam cessassent aquae super faciem terrae.
-9 Quae cum non invenisset ubi requiesceret pes ejus, reversa est ad eum in arcam.
+5 At vero aquæ ibant et decrescébant usque ad décimum mensem: décimo enim mense, primo die mensis, apparuérunt cacúmina móntium.
+6 Cumque transíssent quadragínta dies, apériens Noë fenéstram arcæ, quam fécerat, dimísit corvum,
+7 qui egrediebátur, et non revertebátur, donec siccaréntur aquæ super terram.
+8 Emísit quoque colúmbam post eum, ut vidéret si iam cessássent aquæ super fáciem terræ.
+9 Quæ cum non invenísset ubi requiésceret pes eius, revérsa est ad eum in arcam.
 
 [Responsory2]
 @Tempora/Quadp2-0:Responsory5
 
 [Lectio3]
 !Gen 8:10-13
-10 Expectatis autem ultra septem diebus aliis, rursum dimisit columbam ex arca.
-11 At illa venit ad eum ad vesperam, portans ramum olivae virentibus foliis in ore suo: intellexit ergo No� quod cessassent aquae super terram.
-12 Expectavitque nihilominus septem alios dies: et emisit columbam, quae non est reversa ultra ad eum.
-13 Igitur sexcentesimo primo anno, primo mense, prima die mensis, imminutae sunt aquae super terram.
+10 Expectátis autem ultra septem diébus áliis, rursum dimísit colúmbam ex arca.
+11 At illa venit ad eum ad vésperam, portans ramum olívæ viréntibus fóliis in ore suo: intelléxit ergo Noë quod cessássent aquæ super terram.
+12 Expectavítque nihilóminus septem álios dies: et emísit colúmbam, quæ non est revérsa ultra ad eum.
+13 Igitur sexcentésimo primo anno, primo mense, prima die mensis, imminútæ sunt aquæ super terram.
 
 [Responsory3]
 @Tempora/Quadp2-0:Responsory6
 
 [Ant 3]
-Semen est * verbum Dei, sator autem Christus: omnis qui invenit eum, manebit in aeternum.
+Semen est * verbum Dei, sator autem Christus: omnis qui invénit eum, manébit in ætérnum.

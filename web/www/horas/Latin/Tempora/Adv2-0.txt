@@ -9,130 +9,130 @@ Dominica II Adventus;;Semiduplex;;6
 Antiphonas horas
 
 [Ant Vespera]
-Ecce in nubibus caeli * Dominus veniet cum potestate magna, alleluia.
-Urbs fortitudinis * nostrae Sion, Salvator ponetur in ea murus et antemurale: aperite portas, quia nobiscum Deus, alleluia.
-Ecce apparebit * Dominus, et non mentietur: si moram fecerit, exspecta eum, quia veniet, et non tardabit, alleluia.
-Montes et colles * cantabunt coram Deo laudem, et omnia ligna silvarum plaudent manibus: quoniam veniet Dominator Dominus in regnum aeternum, alleluia, alleluia.
-Ecce Dominus * noster cum virtute veniet, et illuminabit oculos servorum suorum, alleluia.
+Ecce in núbibus cæli * Dóminus véniet cum potestáte magna, allelúja.
+Urbs fortitúdinis * nostræ Sion, Salvátor ponétur in ea murus et ántemurale: aperíte portas, quia nobíscum Deus, allelúja.
+Ecce apparébit * Dóminus, et non mentiétur: si moram fécerit, exspécta eum, quia véniet, et non tardábit, allelúja.
+Montes et colles * cantábunt coram Deo laudem, et ómnia ligna silvárum plaudent mánibus: quóniam véniet Dominátor Dóminus in regnum ætérnum, allelúja, allelúja.
+Ecce Dóminus * noster cum virtúte véniet, et illuminábit óculos servórum suórum, allelúja.
 
 [Capitulum Vespera]
 !Rom 15:4
-v. Fratres: Quaecumque scripta sunt, ad nostram doctrinam scripta sunt: ut per patientiam, et consolationem Scripturarum spem habeamus.
+v. Fratres: Quæcúmque scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam, et consolatiónem Scripturárum spem habeámus.
 $Deo gratias
 
 [Ant 1]
-Veni, Domine, * visitare nos in pace, ut laetemur coram te corde perfecto.
+Veni, Dómine, * visitáre nos in pace, ut lætémur coram te corde perfécto.
 
 [Oratio]
-Excita, Domine, corda nostra ad praeparandas Unigeniti tui vias: ut per ejus adventum purificatis tibi mentibus servire mereamur:
+Excita, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut, per eius advéntum, purificátis tibi méntibus servíre mereámur:
 $Qui tecum
 
 [Lectio1]
-De Isaia Propheta
+De Isaía Prophéta
 !Isa 11:1-4
-1 Et egredietur virga de radice Jesse, et flos de radice ejus ascendet.
-2 Et requiescet super eum spiritus Domini: spiritus sapientiae et intellectus, spiritus consilii et fortitudinis, spiritus scientiae et pietatis;
-3 Et replebit eum spiritus timoris Domini. Non secundum visionem oculorum judicabit, neque secundum auditum aurium arguet;
-4 Sed judicabit in justitia pauperes, et arguet in aequitate pro mansuetis terrae;
+1 Et egrediétur virga de radíce Iesse, et flos de radíce eius ascéndet.
+2 Et requiéscet super eum Spíritus Dómini: spíritus sapiéntiæ et intelléctus, spíritus consílii et fortitúdinis, spíritus sciéntiæ et pietátis;
+3 Et replébit eum spíritus timoris Dómini: non secúndum visiónem oculórum iudicábit, neque secúndum audítum aurium árguet:
+4 Sed iudicábit in iustítia páuperes, et árguet in æquitáte pro mansuétis terræ:
 
 [Responsory1]
-R. Jerusalem, cito veniet salus tua: quare maerore consumeris? numquid consiliarius non est tibi, quia innovavit te dolor?
-* Salvabo te, et liberabo te, noli timere.
-V. Ego enim sum Dominus Deus tuus, Sanctus Israel, Redemptor tuus.
-R. Salvabo te, et liberabo te, noli timere.
+R. Jerúsalem, cito véniet salus tua: Quare mœróre consúmeris? numquid consiliárius non est tibi, quia innovávit te dolor? 
+* Salvábo te, et liberábo te, noli timére.
+V. Ego enim sum Dóminus, Deus tuus, Sanctus Israël, Redémptor tuus.
+R. Salvábo te, et liberábo te, noli timére.
 
 [Lectio2]
 !Isa 11:4-7
-4 Et percutiet terram virga oris sui, et spiritu labiorum suorum interficiet impium.
-5 Et erit justitia cingulum lumborum ejus, et fides cinctorium renum ejus.
-6 Habitabit lupus cum agno, et pardus cum haedo accubabit; vitulus, et leo, et ovis, simul morabuntur, et puer parvulus minabit eos.
-7 Vitulus et ursus pascentur, simul requiescent catuli eorum; et leo quasi bos comedet paleas.
+4 Et percutiet terram virga oris sui, et spíritu labiórum suórum interfíciet ímpium.
+5 Et erit justítia cingulum lumbórum ejus: et fides cinctórium renis ejus. 
+6 Habitábit lupus cum agno, et pardus cum hedo accubabit, vitulus et leo et ovis simul morabúntur, et puer párvulus minábit eos. 
+7 Vítulus et ursus pascéntur, simul requiéscent cátuli eórum, et leo quasi bos cómedet páleas.
 
 [Responsory2]
-R. Ecce Dominus veniet, et omnes Sancti ejus cum eo, et erit in die illa lux magna: et exibunt de Jerusalem sicut aqua munda: et regnabit Dominus in aeternum
+R. Ecce Dóminus véniet, et omnes Sancti ejus cum eo, et erit in die illa lux magna: et exíbunt de Jerúsalem sicut aqua munda: et regnábit Dóminus in ætérnum 
 * Super omnes gentes.
-V. Ecce Dominus cum virtute veniet: et regnum in manu ejus, et potestas, et imperium.
+V. Ecce Dóminus cum virtúte véniet: et regnum in manu ejus, et potéstas, et impérium.
 R. Super omnes gentes.
 
 [Lectio3]
 !Isa 11:8-10
-8 Et delectabitur infans ab ubere super foramine aspidis; et in caverna reguli qui ablactatus fuerit manum suam mittet.
-9 Non nocebunt, et non occident in universo monte sancto meo, quia repleta est terra scientia Domini, sicut aquae maris operientes.
-10 In die illa radix Jesse, qui stat in signum populorum, ipsum gentes deprecabuntur, et erit sepulcrum ejus gloriosum.
+8 Et delectábitur infans ab ubere super forámine áspidis, et in caverna reguli, qui ablactátus fúerit, manum suam mittet. 
+9 Non nocébunt, et non occídent in univérso monte sancto meo: quia repléta est terra sciéntia Dómini, sicut aquæ maris operiéntes. 
+10 In die illa radix Jesse, qui stat in signum populórum, ipsum gentes deprecabúntur, et erit sepúlcrum ejus gloriósum.
 
 [Responsory3]
-R. Civitas Jerusalem noli flere: quoniam doluit Dominus super te:
-* Et auferet a te omnem tribulationem.
-V. Ecce Dominus in fortitudine veniet: et brachium ejus dominabitur.
-R. Et auferet a te omnem tribulationem.
+R. Cívitas Jerúsalem, noli flere: quóniam doluit Dóminus super te: 
+* Et áuferet a te omnem tribulatiónem.
+V. Ecce Dóminus in fortitúdine véniet: et bráchium ejus dominábitur.
+R. Et áuferet a te omnem tribulatiónem.
 &Gloria
-R. Et auferet a te omnem tribulationem.
+R. Et áuferet a te omnem tribulatiónem.
 
 [Lectio4]
-De Expositione sancti Hieronymi Presbyteri in Isaiam Prophetam.
-!Lib. 4. in cap. 11. Isaiae.
-Et egredietur virga de radice Jesse. Usque ad principium visionis, vel ponderis Babylonis, quod vidit Isaias, filius Amos, omnis haec prophetia de Christo est: quam per partes volumus explanare, ne simul proposita atque disserta lectoris confundat memoriam. Virgam et florem de radice Jesse ipsum Dominum Judaei interpretantur: quod scilicet in virga regnantis potentia, in flore pulchritudo monstretur.
+De Expositióne sancti Hierónymi Presbýteri in Isaíam Prophétam
+!Liber 4. in cap. 11 Isaíæ.
+Et egrediétur virga de radíce Jesse. Usque ad principium visiónis, vel pónderis Babylónis, quod vidit Isaías, fílius Amos, omnis hæc prophetía de Christo est: quam per partes vólumus explanare, ne simul propósita atque disserta lectóris confundat memóriam. Virgam et flórem de radíce Jesse ipsum Dóminum Judæi interpretántur: quod scilicet in virga regnántis poténtia, in flore pulchritúdo monstrétur.
 
 [Responsory4]
-R. Ecce veniet Dominus, protector noster, Sanctus Isra�l,
-* Coronam regni habens in capite suo.
-V. Et dominabitur a mari usque ad mare, et a flumine usque ad terminos orbis terrarum.
-R. Coronam regni habens in capite suo.
+R. Ecce véniet Dóminus, protéctor noster, Sanctus Israël, 
+* Coronam regni habens in cápite suo.
+V. Et dominábitur a mari usque ad mare, et a flúmine usque ad términos orbis terrárum.
+R. Coronam regni habens in cápite suo.
 
 [Lectio5]
-Nos autem virgam de radice Jesse sanctam Mariam Virginem intelligamus, quae nullum habuit sibi fruticem cohaerentem, de qua et supra legimus: Ecce virgo concipiet et pariet filium. Et florem, Dominum Salvatorem, qui dicit in Cantico canticorum: Ego flos campi, et lilium convallium.
+Nos autem virgam de radíce Jesse sanctam Mariam Vírginem intélligamus, quæ nullum hábuit sibi frúticem cohæréntem, de qua et supra légimus: Ecce virgo concípiet et pariet fílium. Et flórem, Dóminum Salvatórem, qui dicit in Cántico canticórum: Ego flos campi, et lílium convallium.
 
 [Responsory5]
-R. Sicut mater consolatur filios suos, ita consolabor vos, dicit Dominus: et de Jerusalem civitate quam elegi, veniet vobis auxilium:
-* Et videbitis, et gaudebit cor vestrum.
-V. Dabo in Sion salutem, et in Jerusalem gloriam meam.
-R. Et videbitis, et gaudebit cor vestrum.
+R. Sicut mater consolátur fílios suos, ita consolabor vos, dicit Dóminus: et de Jerúsalem civitáte quam elégi, véniet vobis auxílium: 
+* Et videbitis et gaudébit cor vestrum.
+V. Dabo in Sion salútem, et in Jerúsalem glóriam meam.
+R. Et videbitis et gaudébit cor vestrum.
 
 [Lectio6]
-Super hunc igitur florem, qui de trunco et radice Jesse per Mariam Virginem repente consurget, requiescet Spiritus Domini: quia in ipso complacuit omnem plenitudinem divinitatis habitare corporaliter: nequaquam per partes, ut in ceteris Sanctis: sed juxta Evangelium eorum, quod Hebraeo sermone conscriptum legunt Nazaraei: Descendet super eum omnis fons Spiritus Sancti. Dominus autem Spiritus est; et ubi Spiritus Domini, ibi libertas.
+Super hunc ígitur flórem, qui de trunco et radíce Jesse per Mariam Vírginem repénte consúrget, requiéscet Spíritus Dómini: quia in ipso complácuit omnem plenitúdinem divinitátis habitáre corporáliter: nequaquam per partes, ut in ceteris Sanctis: sed juxta Evangélium eórum, quod Hebræo sermóne conscríptum legunt Nazaræi: Descéndet super eum omnis fons Spíritus Sancti. Dóminus autem Spíritus est: et ubi Spíritus Dómini, ibi libertas.
 
 [Responsory6]
-R. Jerusalem plantabis vineam in montibus tuis: exsultabis, quoniam dies Domini veniet: surge Sion, convertere ad Dominum Deum tuum: gaude et laetare Jacob:
-* Quia de medio Gentium Salvator tuus veniet.
-V. Exsulta satis filia Sion: jubila filia Jerusalem.
-R. Quia de medio Gentium Salvator tuus veniet.
+R. Jerúsalem, plantábis víneam in móntibus tuis: exsultábis, quóniam dies Dómini véniet: surge, Sion, convértere ad Dóminum Deum tuum: gaude et lætare, Jacob: 
+* Quia de médio Géntium Salvátor tuus véniet.
+V. Exsulta satis, fília Sion: jubila, fília Jerúsalem.
+R. Quia de médio Géntium Salvátor tuus véniet.
 &Gloria
-R. Quia de medio Gentium Salvator tuus veniet.
+R. Quia de médio Géntium Salvátor tuus véniet.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Matthaeum.
+Léctio sancti Evangélii secúndum Matthǽum
 !Matt 11:2-10
-In illo tempore: Cum audisset Joannes in vinculis opera Christi, mittens duos de discipulis suis, ait illi: Tu es qui venturus es, an alium exspectamus? Et reliqua.
+In illo témpore: Cum audísset Joánnes in vinculis ópera Christi, mittens duos de discípulis suis, ait illi: Tu es qui ventúrus es, an alium exspectámus? Et réliqua.
 _
-Homilia sancti Gregorii Papae.
-!Homilia 6. in Evang. post init.
-Visis tot signis tantisque virtutibus, non scandalizari quisque potuit, sed admirari. Sed infidelium mens grave in illo scandalum pertulit, cum eum post tot miracula morientem vidit. Unde et Paulus dicit: Nos autem praedicamus Christum crucifixum, Judaeis quidem scandalum, Gentibus autem stultitiam. Stultum quippe hominibus visum est, ut pro hominibus Auctor vitae moreretur: et inde contra eum homo scandalum sumpsit, unde ei amplius debitor fieri debuit. Nam tanto Deus ab hominibus dignius honorandus est, quanto pro hominibus et indigna suscepit.
+Homilía sancti Gregórii Papæ
+!Homilía 6 in Evangelia, post initium
+Visis tot signis tantísque virtútibus, non scandalizári quisque pótuit, sed admirari. Sed infidélium mens grave in illo scándalum pértulit, cum eum post tot mirácula moriéntem vidit. Unde et Paulus dicit: Nos autem prædicámus Christum crucifíxum, Judǽis quidem scándalum, Géntibus autem stultítiam. Stultum quippe homínibus visum est, ut pro homínibus Auctor vitæ morerétur: et inde contra eum homo scándalum sumpsit, unde ei ámplius débitor fíeri debuit. Nam tanto Deus ab homínibus dígnius honorándus est, quanto pro homínibus et indígna suscépit.
 
 [Responsory7]
-R. Egredietur Dominus de Samaria ad portam quae respicit ad Orientem: et veniet in Bethlehem, ambulans super aquas redemptionis Judae:
-* Tunc salvus erit omnis homo: quia ecce veniet.
-V. Et praeparabitur in misericordia solium ejus, et sedebit super illud in veritate.
-R. Tunc salvus erit omnis homo: quia ecce veniet.
+R. Egrediétur Dóminus de Samaría ad portam, quæ réspicit ad Oriéntem: et véniet in Bethlehem ámbulans super aquas redemptiónis Judæ: 
+* Tunc salvus erit omnis homo: quia ecce véniet.
+V. Et præparábitur in misericórdia solium ejus, et sedébit super illud in veritáte.
+R. Tunc salvus erit omnis homo: quia ecce véniet.
 
 [Lectio8]
-Quid est ergo dicere: Beatus qui non fuerit scandalizatus in me; nisi aperta voce abjectionem mortis suae humilitatemque signare? Ac si patenter dicat: Mira quidem facio, sed abjecta perpeti non dedignor. Quia ergo moriendo te subsequor, cavendum valde est hominibus, ne in me mortem despiciant, qui signa venerantur.
+Quid est ergo dicere: Beátus qui non fúerit scandalizátus in me; nisi apérta voce abjectiónem mortis suæ humilitátemque signare? Ac si patenter dicat: Mira quidem facio, sed abjecta pérpeti non dedignor. Quia ergo moriéndo te súbsequor, cavéndum valde est homínibus, ne in me mortem despíciant, qui signa venerántur.
 
 [Responsory8]
-R. Festina, ne tardaveris, Domine:
-* Et libera populum tuum.
-V. Veni, Domine, et noli tardare: relaxa facinora plebi tuae.
-R. Et libera populum tuum.
+R. Festina, ne tardáveris, Dómine: 
+* Et líbera pópulum tuum.
+V. Veni, Dómine, et noli tardare: relaxa facínora plebi tuæ.
+R. Et líbera pópulum tuum.
 
 [Lectio9]
-Sed dimissis Joannis discipulis, quid de eodem Joanne turbis dicat, audiamus. Quid existis in desertum videre? Arundinem vento agitatam? Quod videlicet non asserendo, sed negando intulit. Arundinem quippe mox ut aura contigerit, in partem alteram inflectit. Et quid per arundinem, nisi carnalis animus designatur? Qui mox ut favore vel detractione tangitur, statim in partem quamlibet inclinatur?
+Sed dimissis Joánnis discípulis, quid de eodem Joánne turbis dicat, audiámus: Quid exístis in desértum vidére? Arúndinem vento agitatam? Quod videlicet non asseréndo , sed negando intulit. Arúndinem quippe mox ut aura contígerit, in partem álteram inflectit. Et quid per arúndinem, nisi carnalis animus designátur? Qui mox ut favore vel detractióne tangitur, statim in partem quámlibet inclinátur?
 
 [Responsory9]
-R. Ecce Dominus veniet cum splendore descendens, et virtus ejus cum eo,
-* Visitare populum suum in pace, et constituere super eum vitam sempiternam.
-V. Ecce Dominus noster cum virtute veniet.
-R. Visitare populum suum in pace, et constituere super eum vitam sempiternam.
+R. Ecce Dóminus véniet cum splendore descendens, et virtus ejus cum eo, 
+* Visitáre pópulum suum in pace, et constitúere super eum vitam sempitérnam.
+V. Ecce Dóminus noster cum virtúte véniet.
+R. Visitáre pópulum suum in pace, et constitúere super eum vitam sempitérnam.
 &Gloria
-R. Visitare populum suum in pace, et constituere super eum vitam sempiternam.
+R. Visitáre pópulum suum in pace, et constitúere super eum vitam sempitérnam.
 
 [Ant Laudes]
 @:Ant Vespera
@@ -141,20 +141,20 @@ R. Visitare populum suum in pace, et constituere super eum vitam sempiternam.
 @:Capitulum Vespera
 
 [Ant 2]
-Joannes autem * cum audisset in vinculis opera Christi, mittens duos ex discipulis suis, ait illi: Tu es qui venturus es, an alium exspectamus?
+Joánnes autem * cum audísset in vinculis ópera Christi, mittens duos ex discípulis suis, ait illi: Tu es qui ventúrus es, an alium exspectámus?
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Capitulum Sexta]
 !Rom 15:5-6
-v. Deus autem patientiae et solatii det vobis idipsum sapere in alterutrum secundum Jesum Christum: ut unanimes uno ore honorificetis Deum, et Patrem Domini nostri Jesu Christi.
+v. Deus autem patiéntiæ, et solácii det vobis idípsum sápere in altérutrum secúndum Jesum Christum: ut unánimes uno ore honorificétis Deum, et Patrem Dómini nostri Jesu Christi.
 $Deo gratias
 
 [Capitulum Nona]
 !Rom 15:13
-v. Deus autem spei repleat vos omni gaudio et pace in credendo ut abundetis in spe et in virtute Spiritus Sancti.
+v. Deus autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe, et in virtúte Spíritus Sancti.
 $Deo gratias
 
 [Ant 3]
-Tu es qui venturus es, * an alium exspectamus? Dicite Joanni quae vidistis: Ad lumen redeunt caeci, mortui resurgunt, pauperes evangelizantur, alleluia.
+Tu es, qui ventúrus es, * an alium exspectámus? Dícite Joánni quæ vidístis: Ad lumen rédeunt cæci, mórtui resúrgunt, páuperes evangelizántur, allelúja.

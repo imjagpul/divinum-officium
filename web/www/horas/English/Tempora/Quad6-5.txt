@@ -17,19 +17,19 @@ Minores sine Antiphona
 Feria
 
 [Ant Matutinum]
-The kings of the earth set themselves, and the rulers take counsel together, against the Lord, and against His Anointed.;;2
-They part my garments among them, and cast lots upon my vesture.;;21
-False witnesses are risen up against me, and iniquity hath belied itself.;;26
+The kings of the earth set themselves, * and the rulers take counsel together, against the Lord, and against His Anointed.;;2
+They part my garments among them, * and cast lots upon my vesture.;;21
+False witnesses are risen up against me, * and iniquity hath belied itself.;;26
 V. They part my garments among them.
 R. And cast lots upon my vesture.
-They that sought after my life have used violence again me.;;37
-Let them be ashamed and confounded together that seek after my soul, to destroy it.;;39
-Strangers are risen up against me, and oppressors seek after my soul.;;53
+They that sought after my life * have used violence again me.;;37
+Let them be ashamed and confounded * together that seek after my soul, to destroy it.;;39
+Strangers are risen up against me, * and oppressors seek after my soul.;;53
 V. False witnesses are risen up against me.
 R. And iniquity hath belied itself.
-O Lord, defend me from them that rise up against me, for they lie in wait for my life.;;58
-Thou hast put away mine acquaintance far from me; I am shut up, and cannot come forth.;;87
-They gather themselves together against the soul of the righteous, and condemn the innocent blood.;;93
+O Lord, defend me from them that rise up against me, * for they lie in wait for my life.;;58
+Thou hast put away mine acquaintance far from me; * I am shut up, and cannot come forth.;;87
+They gather themselves together * against the soul of the righteous, and condemn the innocent blood.;;93
 V. They have spoken against me with a lying tongue.
 R. They compassed me about also with words of hatred, and fought against me without a cause.
 
@@ -104,7 +104,7 @@ V. When Jesus had cried with a loud voice, He said: Father, into thy hands I com
 R. And He bowed His Head, and gave up the Ghost.
 
 [Lectio6]
-They whetted their tongue like a sword. The Jews cannot say: We did not murder Christ, albeit they gave Him over to Pilate His judge, that they themselves might seem free of His death. For when Pilate said unto them, Take ye Him: and kill Him, they answered, It is not lawful for us to put any man to death. They could throw the blame of their sin upon a human judge: but did they deceive God, the Great Judge? In that which Pilate did, he was their accomplice, but in comparison with them, he had far the lesser sin. (John xix. 11.) Pilate strove as far as he could, to deliver Him out of their hands; for the which reason also he scourged Him, (John xix. 1,) and brought Him forth to them He scourged not the Lord for cruelty's sake, but in the hope that; he might so slake their wild thirst for blood: that, perchance, even they might be touched with compassion, and cease to lust for His death, when they saw What He was after the flagellation. Even this effort he made! But when Pilate saw that he could not prevail, but that rather a tumult was made, (Matth. xxvii. 24,) ye know how that he took water, and washed his hands before the multitude, saying: I am innocent of the blood of this Just Person. And yet he delivered Him to be crucified!  But if he were guilty who did it against his will, were they innocent; who goaded him on to it? No. Pilate gave sentence against Him. and commanded Him to be crucified. But ye, O ye Jews, ye also are His murderers! Wherewith? With your tongue, whetted like a sword. And when? But when ye cried, Crucify Him! Crucify Him! (Mark xv.13-14)
+They whetted their tongue like a sword. The Jews cannot say: We did not murder Christ, albeit they gave Him over to Pilate His judge, that they themselves might seem free of His death. For when Pilate said unto them, Take ye Him: and kill Him, they answered, It is not lawful for us to put any man to death. They could throw the blame of their sin upon a human judge: but did they deceive God, the Great Judge? In that which Pilate did, he was their accomplice, but in comparison with them, he had far the lesser sin. (John xix. 11.) Pilate strove as far as he could, to deliver Him out of their hands; for the which reason also he scourged Him, (John xix. 1,) and brought Him forth to them He scourged not the Lord for cruelty's sake, but in the hope that; he might so slake their wild thirst for blood: that, perchance, even they might be touched with compassion, and cease to lust for His death, when they saw What He was after the flagellation. Even this effort he made! But when Pilate saw that he could not prevail, but that rather a tumult was made, (Matth. xxvii. 24,) ye know how that he took water, and washed his hands before the multitude, saying: I am innocent of the blood of this Just Person. And yet he delivered Him to be crucified! But if he were guilty who did it against his will, were they innocent; who goaded him on to it? No. Pilate gave sentence against Him. and commanded Him to be crucified. But ye, O ye Jews, ye also are His murderers! Wherewith? With your tongue, whetted like a sword. And when? But when ye cried, Crucify Him! Crucify Him! (Mark xv.13-14)
 
 [Responsory6]
 R. I have given the dearly-beloved of My soul into the hand of her enemies and Mine heritage is become unto Me as a lion in the forest; the enemy crieth out against Me, saying: Assemble yourselves together, hasten to devour Him: they have made My portion a desolate wilderness, and the whole land mourneth unto Me:
@@ -124,7 +124,7 @@ From the letter of the blessed Apostle Paul to the Hebrews
 15 For we have not a high priest, who can not have compassion on our infirmities: but one tempted in all things like as we are, without sin.
 
 [Responsory7]
-R. They have turned me over into the hands of the wicked: they also have numbered me with the trangressors, neither have they spared my life: the mighty are gathered together against me;
+R. They have turned me over into the hands of the wicked: they also have numbered me with the transgressors, neither have they spared my life: the mighty are gathered together against me;
 * And stand up against me like giants.
 V. Strangers are risen up against me, and oppressors seek after my soul.
 R. And stand up against me like giants.
@@ -139,7 +139,7 @@ R. And stand up against me like giants.
 [Responsory8]
 R. That wicked one betrayed Jesus to the chief-priests and elders of the people
 * But Peter followed Him afar off, to see the end.
-V. And they led Him away to Caiphas the High Priest, where the Scribes and Pharisees were assembled.
+V. And they led Him away to Caiaphas the High Priest, where the Scribes and Pharisees were assembled.
 R. But Peter followed Him afar off, to see the end.
 
 [Lectio9]
@@ -177,17 +177,8 @@ They set up over his head his accusation written: * Jesus of Nazareth, King of t
 [Oratio]
 @Tempora/Quad6-4::s/unto death/unto death, even to the death of the cross/
 
-[Oratio Matutinum]
-@Tempora/Quad6-4
-
 [Prelude Vespera] (rubrica 1955 aut rubrica 1960)
 !Today, Vespers are not said by those who assist at the solemn afternoon liturgical action.
-
-[Ant Vespera]
-@Tempora/Quad6-4
-
-[Versum 3]
-@:Versum 2
 
 [Ant 3]
 When He had received the vinegar, * he said: It is finished! and he bowed his Head, and gave up the Ghost.

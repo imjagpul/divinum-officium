@@ -29,7 +29,7 @@ O praise the Lord, * all ye nations.;;116
 [Day1 Laudes2]
 Have mercy on me, * O God, according to thy great mercy.;;50
 Conduct me, * O Lord, in thy justice.;;5
-God will give power and strength to his people.;;28
+God will give * power and strength to his people.;;28
 Thy wrath is turned away * and thou hast comforted me.;;221
 Praise * the Lord, for his mercy is confirmed upon us.;;116
 
@@ -107,21 +107,21 @@ I will give glory * to thy name, for thy mercy, and for thy truth.;;137
 Exalt ye the Lord * our God, and worship him upon his holy mountain.;;98
 Deliver me from my enemies, * O Lord, to thee have I fled.;;142
 Lord, thou hast blessed thy land; * Thou hast forgiven the iniquity of thy people.;;84
-In the Lord * is the justice and the throne of the children of Israel.;;215
+In the Lord * shall all the seed of Israel be justified and praised.;;215
 Praise the Lord, * O Jerusalem.;;147
 
 [Day5 Laudes2]
 A contrite and a humbled heart, * O God, thou wilt not despise.;;50
 For thy name's sake, * O Lord, thou wilt quicken me in thy justice.;;142
 Thou wilt turn, O God, * Thou wilt quicken us and bring us to life.;;84
-When thou art angry, O Lord, thou wilt remember mercy.;;225
+When thou art angry, * O Lord, thou wilt remember mercy.;;225
 Praise thy God, * O Sion, who declareth his judgments to Israel.;;147
 
 [Day5 Vespera]
 Lord, * thou hast proved me, and known me.;;138(1-13)
 Wonderful are thy works * and my soul knoweth right well.;;138(14-24)
 Do not thou forsake me, * O Lord, the strength of my salvation.;;139
-I have cried to thee, O Lord, hear me.;;140
+I have cried to thee, * O Lord, hear me.;;140
 Bring my soul * out of prison, O Lord, that I may praise thy name.;;141
 
 [Day6 Laudes1]
@@ -364,8 +364,8 @@ Praise him with timbrel and choir: * praise him with strings and organs.;;148;14
 
 [Daym6 Laudes]
 In thy good will, O Lord, * deal favourably with Sion.;;50
-In thy truth, O Lord, * listen unto me.;;142(1-8)
-;;142(9-12)
+In thy truth, O Lord, * listen unto me.;;142(1-7)
+;;142(8-12)
 Ascribe greatness * to our God. (Alleluia);;226
 Praise God * upon the resounding cymbals.;;148;149;150
 
@@ -394,8 +394,8 @@ Sing ye to us * a hymn of the songs of Sion.;;136
 Before the Angels will * I sing praise unto thee, O my God.;;137
 
 [Daym4 Vespera]
-O Lord * thou hast proved me, and known me.;;138(1-9)
-;;138(10-24)
+O Lord * thou hast proved me, and known me.;;138(1-10)
+;;138(11-24)
 Deliver me, O Lord * from the evil man.;;139
 I have cried to the, * O Lord, hearken to my voice.;;140
 

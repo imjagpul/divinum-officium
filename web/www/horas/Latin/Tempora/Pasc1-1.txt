@@ -1,5 +1,5 @@
 [Rank]
-Feria Secunda infra Hebdomadam I post Octavam Paschae;;Feria;;1
+Feria Secunda infra Hebdomadam I post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -7,52 +7,52 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-Incipit liber Actuum Apostolorum.
+Incipit liber Actuum Apostolórum
 !Act. 1:1-8
-1 Primum quidem sermonem feci de omnibus, o Theophile, quae c�pit Jesus facere et docere
-2 usque in diem qua praecipiens Apostolis per Spiritum Sanctum, quos elegit, assumptus est:
-3 quibus et praebuit seipsum vivum post passionem suam in multis argumentis, per dies quadraginta apparens eis, et loquens de regno Dei.
-4 Et convescens, praecepit eis ab Jerosolymis ne discederent, sed exspectarent promissionem Patris, quam audistis (inquit) per os meum:
-5 quia Joannes quidem baptizavit aqua, vos autem baptizabimini Spiritu Sancto non post multos hos dies.
-6 Igitur qui convenerant, interrogabant eum, dicentes: Domine, si in tempore hoc restitues regnum Isra�l?
-7 Dixit autem eis: Non est vestrum nosse tempora vel momenta quae Pater posuit in sua potestate:
-8 sed accipietis virtutem supervenientis Spiritus Sancti in vos, et eritis mihi testes in Jerusalem, et in omni Judaea, et Samaria, et usque ad ultimum terrae.
+1 Primum quidem sermónem feci de ómnibus, o Theóphile, quæ cœpit Iesus fácere et docére
+2 usque in diem qua præcípiens Apóstolis per Spíritum Sanctum, quos elégit, assúmptus est:
+3 quibus et prǽbuit seípsum vivum post passiónem suam in multis arguméntis, per dies quadragínta appárens eis, et loquens de regno Dei.
+4 Et convéscens, præcépit eis ab Ierosólymis ne discéderent, sed exspectárent promissiónem Patris, quam audístis (inquit) per os meum:
+5 quia Ioánnes quidem baptizávit aqua, vos autem baptizabímini Spíritu Sancto non post multos hos dies.
+6 Igitur qui convénerant, interrogábant eum, dicéntes: Dómine, si in témpore hoc restítues regnum Israël?
+7 Dixit autem eis: Non est vestrum nosse témpora vel moménta quæ Pater pósuit in sua potestáte:
+8 sed accipiétis virtútem superveniéntis Spíritus Sancti in vos, et éritis mihi testes in Ierúsalem, et in omni Iudǽa, et Samaría, et usque ad últimum terræ.
 
 [Responsory1]
 @Tempora/Pasc0-2:Responsory1
 
 [Lectio2]
 !Act. 1:9-14
-9 Et cum haec dixisset, videntibus illis, elevatus est: et nubes suscepit eum ab oculis eorum.
-10 Cumque intuerentur in caelum euntem illum, ecce duo viri astiterunt juxta illos in vestibus albis,
-11 qui et dixerunt: Viri Galilaei, quid statis aspicientes in caelum? Hic Jesus, qui assumptus est a vobis in caelum, sic veniet quemadmodum vidistis eum euntem in caelum.
-12 Tunc reversi sunt Jerosolymam a monte qui vocatur Oliveti, qui est juxta Jerusalem, sabbati habens iter.
-13 Et cum introissent in c�naculum, ascenderunt ubi manebant Petrus, et Joannes, Jacobus, et Andreas, Philippus, et Thomas, Bartholomaeus, et Matthaeus, Jacobus Alphaei, et Simon Zelotes, et Judas Jacobi.
-14 Hi omnes erant perseverantes unanimiter in oratione cum mulieribus, et Maria matre Jesu, et fratribus ejus.
+9 Et cum hæc dixísset, vidéntibus illis, elevátus est: et nubes suscépit eum ab óculis eórum.
+10 Cumque intueréntur in cælum eúntem illum, ecce duo viri astitérunt iuxta illos in véstibus albis,
+11 qui et dixérunt: Viri Galilǽi, quid statis aspiciéntes in cælum? Hic Iesus, qui assúmptus est a vobis in cælum, sic véniet quemádmodum vidístis eum eúntem in cælum.
+12 Tunc revérsi sunt Ierosólymam a monte qui vocátur Olivéti, qui est iuxta Ierúsalem, sábbati habens iter.
+13 Et cum introíssent in cœnáculum, ascendérunt ubi manébant Petrus, et Ioánnes, Iacóbus, et Andréas, Philíppus, et Thomas, Bartholomǽus, et Matthǽus, Iacóbus Alphǽi, et Simon Zelótes, et Iudas Iacóbi.
+14 Hi omnes erant perseverántes unanímiter in oratióne cum muliéribus, et María matre Iesu, et frátribus eius.
 
 [Responsory2]
 @Tempora/Pasc0-2:Responsory2
 
 [Lectio3]
 !Act. 1:15-26
-15 In diebus illis, exsurgens Petrus in medio fratrum, dixit (erat autem turba hominum simul, fere centum viginti):
-16 Viri fratres, oportet impleri Scripturam quam praedixit Spiritus Sanctus per os David de Juda, qui fuit dux eorum qui comprehenderunt Jesum:
-17 qui connumeratus erat in nobis, et sortitus est sortem ministerii hujus.
-18 Et hic quidem possedit agrum de mercede iniquitatis, et suspensus crepuit medius: et diffusa sunt omnia viscera ejus.
-19 Et notum factum est omnibus habitantibus Jerusalem, ita ut appellaretur ager ille, lingua eorum, Haceldama, hoc est, ager sanguinis.
-20 Scriptum est enim in libro Psalmorum: Fiat commoratio eorum deserta, et non sit qui inhabitet in ea: et episcopatum ejus accipiat alter.
-21 Oportet ergo ex his viris qui nobiscum sunt congregati in omni tempore quo intravit et exivit inter nos Dominus Jesus,
-22 incipiens a baptismate Joannis usque in diem qua assumptus est a nobis, testem resurrectionis ejus nobiscum fieri unum ex istis.
-23 Et statuerunt duos, Joseph, qui vocabatur Barsabas, qui cognominatus est Justus, et Matthiam.
-24 Et orantes dixerunt: Tu, Domine, qui corda nosti omnium, ostende quem elegeris ex his duobus unum,
-25 accipere locum ministerii hujus et apostolatus, de quo praevaricatus est Judas ut abiret in locum suum.
-26 Et dederunt sortes eis, et cecidit sors super Matthiam: et annumeratus est cum undecim Apostolis.
+15 In diébus illis, exsúrgens Petrus in médio fratrum, dixit (erat autem turba hóminum simul, fere centum vigínti):
+16 Viri fratres, opórtet impléri Scriptúram quam prædíxit Spíritus Sanctus per os David de Iuda, qui fuit dux eórum qui comprehendérunt Iesum:
+17 qui connumerátus erat in nobis, et sortítus est sortem ministérii huius.
+18 Et hic quidem possédit agrum de mercéde iniquitátis, et suspénsus crépuit médius: et diffúsa sunt ómnia víscera eius.
+19 Et notum factum est ómnibus habitántibus Ierúsalem, ita ut appellarétur ager ille, lingua eórum, Hacéldama, hoc est, ager sánguinis.
+20 Scriptum est enim in libro Psalmórum: Fiat commorátio eórum desérta, et non sit qui inhábitet in ea: et episcopátum eius accípiat alter.
+21 Opórtet ergo ex his viris qui nobíscum sunt congregáti in omni témpore quo intrávit et exívit inter nos Dóminus Iesus,
+22 incípiens a baptísmate Ioánnis usque in diem qua assúmptus est a nobis, testem resurrectiónis eius nobíscum fíeri unum ex istis.
+23 Et statuérunt duos, Ioseph, qui vocabátur Bársabas, qui cognominátus est Iustus, et Matthíam.
+24 Et orántes dixérunt: Tu Dómine, qui corda nosti ómnium, osténde quem elégeris ex his duóbus unum,
+25 accípere locum ministérii huius et apostolátus, de quo prævaricátus est Iudas ut abíret in locum suum.
+26 Et dedérunt sortes eis, et cécidit sors super Matthíam: et annumerátus est cum úndecim Apóstolis.
 
 [Responsory3]
 @Tempora/Pasc0-3:Responsory1
 
 [Ant 2]
-Surgens Jesus * mane prima sabbati, apparuit primo Mariae Magdalenae, de qua ejecerat septem daemonia, alleluia.
+Surgens Jesus * mane prima sabbati, appáruit primo Maríæ Magdalenæ, de qua ejecerat septem dæmónia, allelúja.
 
 [Ant 3]
-Pax vobis, * ego sum, alleluja: nol�te timere, alleluja. 
+Pax vobis, * ego sum, allelúja: nolíte timere, allelúja. 

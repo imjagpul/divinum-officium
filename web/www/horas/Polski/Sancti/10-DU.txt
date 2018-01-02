@@ -124,7 +124,7 @@ Laska prawości, * laska królestwa twego: dlatego narodowie będąć wyznawać 
 V. Przynoście Panu, rodziny narodów.
 R. Przynoście Panu chwałę i panowanie.
 Będą w nim błogosławione * wszystkie pokolenia ziemskie: wszyscy narodowie wielbić go będą.;;71
-A go pierworodnym * uczynię wyższym nad króle ziemskie.;;88(1-30)
+A go pierworodnym * uczynię wyższym nad króle ziemskie.;;88(2-30)
 Stolica jego, * jako słońce przed oczyma memi, i jako pełny księżyc na wieki.;;88(31-53)
 V. Będą mu się kłaniać wszyscy królowie ziemi.
 R. Wszyscy narodowie będą mu służyć.
@@ -148,12 +148,12 @@ Z Listu Św. Pawła Apsotoła do Kolossan
 13 Który nas wyrwał z mocy ciemności i przeniósł w królestwo Syna umiłowania swego,
 14 W którym mamy odkupienie przez krew jego, odpuszczenie grzechów,
 15 Który jest obrazem Boga niewidzialnego, pierworodny wszego stworzenia.
-16 Albowiem w nim wszystkie rzeczy są, stworzone na niebie i na ziemi, widzialne i niewidzialne, choć trony, choć państwa, choć księztwa, choć zwierzchności, wszystko przezeń i w nim jest stworzono. [1]
+16 Albowiem w nim wszystkie rzeczy są, stworzone na niebie i na ziemi, widzialne i niewidzialne, choć trony, choć państwa, choć księztwa, choć zwierzchności, wszystko przezeń i w nim jest stworzono.
 17 A on jest przed wszystkimi, a wszystko w nim stoi.
 
 [Lectio3]
 !Kol 1:18-23
-18 I on jest głową ciała kościoła, który jest początkiem pierworodnym z umarłych, aby on był między wszystkimi, przodkowanie mając. [2]
+18 I on jest głową ciała kościoła, który jest początkiem pierworodnym z umarłych, aby on był między wszystkimi, przodkowanie mając.
 19 Bo w nim upodobało się, aby wszystka zupełność mieszkała,
 20 A żeby przezeń pojednało się wszystko, z nim uspokoiwszy przez krew krzyża jego, bądź co na ziemi, bądź co w niebiesiech jest.
 21 I was, którzyście niekiedy byli oddaleni i nieprzyjaciele umysłem w złośliwych uczynkach,
@@ -220,6 +220,13 @@ R. Bo jest Panem nad pany i Królem królów.
 &Gloria
 R. Bo jest Panem nad pany i Królem królów.
 
+[Ant Laudes]
+Ustanowi * Bóg nieba królestwo, które strzaska w kawałki i pochłonie wszystkie królestwa, samo zaś trwać będzie na wieki.
+Dał mu Pan * potęgę i chwałę i królestwo; i wszystkie ludy, pokolenia i języki jemu będą służyć.
+Wypłynie woda żywa * z Jeruzalem; i będzie Pan Królem nad całą ziemią.
+Wywyższon * będzie aż nad krańce ziemi, a będzie on pokojem.
+Naród i królestwo * które Tobie służyć nie będzie, przepadnie: a narody samotnie zmarnieją.
+
 [Capitulum Laudes]
 @:Capitulum Vespera
 
@@ -260,16 +267,27 @@ _
 V. Panowanie Jego rozszerzy się.
 R. A pokojowi nie będzie końca.
 
+[Ant 2]
+Uczynił nas Bogu * i Ojcu swemu królestwem: pierworodny spośród umarłych, i Książę królów ziemskich, alleluja.
+
+[Versum Prima]
+Który zwierzchność ma nad wszystkiem.
+
+[Lectio Prima]
+!Kol 1:19-20
+v. Bo w nim upodobało się, aby wszystka zupełność mieszkała, a żeby przezeń pojednało się wszystko, z nim uspokoiwszy przez krew krzyża jego, bądź co na ziemi, bądź co w niebiesiech jest, w Chrsytusie Jezusie Panu naszym.
+$Deo gratias
+
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Responsory Tertia]
-R.br. Dana mi jest * wszystka władza.
-R. Dana mi jest * wszystka władza.
+R.br. Dana mi jest * Wszystka władza.
+R. Dana mi jest * Wszystka władza.
 V. Na niebie i na ziemi
 R. Wszystka władza.
 &Gloria.
-R. Dana mi jest * wszystka władza.
+R. Dana mi jest * Wszystka władza.
 _
 V. Przynoście Panu, rodziny narodów.
 R. Przynoście Panu chwałę i panowanie.

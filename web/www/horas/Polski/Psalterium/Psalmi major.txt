@@ -20,7 +20,7 @@ Niechaj będzie imię Pańskie * błogosławione, na wieki.;;112
 Ano Bóg nasz na niebie: * wszystko, cokolwiek chciał, uczynił.;;113
 
 [Day1 Laudes1]
-Wykrzykajcie * Bogu głosem wesela..;;46
+Wykrzykajcie * Bogu głosem wesela.;;46
 Pilnie słuchaj * głosu modlitwy mojéj, królu mój i Boże mój.;;5
 Bóg majestatu * zagrzmiał: przynoście chwałę imieniowi jego.;;28
 Chwalimy imię twoje * sławne, Boże nasz.;;211
@@ -29,7 +29,7 @@ Chwalcie * Pana wszyscy poganie.;;116
 [Day1 Laudes2]
 Zmiłuj się * nademną, Boże, według wielkiego miłosierdzia twego.;;50
 Prowadź mię * w sprawiedliwości twojéj, Panie.;;5
-Pan doda mocy: * i błogosławić będzie ludowi swemu w pokoju..;;28
+Pan doda mocy: * i błogosławić będzie ludowi swemu w pokoju.;;28
 Odwróciła się zapalczywość twoja, * Panie, i pocieszyłeś mię.;;221
 Chwalcie * Pana, bo się umocniło nad nami miłosierdzie jego.;;116
 
@@ -107,7 +107,7 @@ Będęć, wyznawał * Imię Twoje Panie, dla miłosierdzia twego i dla prawdy tw
 Wywyższajcie * Pana, Boga naszego, i kłaniajcie się górze świętéj jego.;;98
 Wyrwij mię * od nieprzyjaciół moich, Panie, do ciebiem się uciekł.;;142
 Ubłogosławiłeś, * Panie, ziemię twoję: odpuściłeś nieprawość ludu twego.;;84
-W Panu będzie usprawiedliwione, * i przechwalać się będzie * wszystko nasienie Izraelowe.;;215
+W Panu będzie usprawiedliwione, * i przechwalać się będzie wszystko nasienie Izraelowe.;;215
 Chwal, * Jeruzalem, Pan.;;147
 
 [Day5 Laudes2]
@@ -204,7 +204,7 @@ Duchem przedniejszym * potwierdź serce moje Boże;;50
 W prawdzie twéj * wysłuchaj mię Panie;;142
 Niech rozświeci się Panie, * oblicze twe nad nami;;62;66
 Panie, słyszałem * słuch twój, i ulękłem się;;225
-Na bębnie * i na piszczałce: * na stronach i na organiech, chwalcie Pana;;148;149;150
+Na bębnie * i na piszczałce: na stronach i na organiech, chwalcie Pana;;148;149;150
 
 [Daya6 Laudes]
 Uczyń dobrze, Panie, * Syonowi w dobréj woli twojéj;;50
@@ -360,12 +360,12 @@ Duchem przedniejszym * potwierdź serce moje Boże;;50
 W Izraelu * wielkie imię jego;;75
 Dobrze jest * wyznawać Panu;;91
 Panie, słyszałem * słuch twój, i ulękłem się;;225
-Na bębnie * i na piszczałce: * na stronach i na organiech, chwalcie Pana;;148;149;150
+Na bębnie * i na piszczałce: na stronach i na organiech, chwalcie Pana;;148;149;150
 
 [Daym6 Laudes]
 Uczyń dobrze, Panie, * Syonowi w dobréj woli twojéj;;50
-W prawdzie twéj * wysłuchaj mię Panie;;142(1-8)
-;;142(9-12)
+W prawdzie twéj * wysłuchaj mię Panie;;142(1-7)
+;;142(8-12)
 Dajcie wielmożność * Bogu naszemu (Alleluja);;226
 Na cymbalech * głośnych: chwalcie Boga;;148;149;150
 
@@ -394,8 +394,8 @@ Bo na wieki * miłosierdzie jego;;135
 Przed oblicznością * Aniołów będęć śpiewał, Boże mój;;137
 
 [Daym4 Vespera]
-Panie, * doświadczyłeś mię, i doznałeś mię;;138(1-9)
-;;138(10-24)
+Panie, * doświadczyłeś mię, i doznałeś mię;;138(1-10)
+;;138(11-24)
 Od męża * złośliwego wybaw mię, Panie;;139
 Panie, * wołałem do ciebie, wysłuchaj mię;;140
 

@@ -1,8 +1,8 @@
 [Rank]
-In Nativitate Domini;;Duplex I Classis;;6.9
+Boże Narodzenie;;Duplex I Classis;;6.9
 
 [Rank1960]
-In Nativitate Domini;;Duplex I Classis;;7
+Boże Narodzenie;;Duplex I Classis;;7
 
 [Rule]
 9 lectiones
@@ -60,9 +60,6 @@ Wraz z Ojcem, z Duchem w jednej czci,
 Po wszystkie wieki, w każdy czas.
 Amen.
 
-[HymnusM Vespera]
-@SanctiM/12-25:HymnusM Vespera
-
 [Versum 1]
 V. Jutro zgładzona będzie nieprawość ziemi.
 R. I Zbawiciel świata będzie panował nad nami.
@@ -77,12 +74,6 @@ $Per eumdem
 [Invit]
 Chrystus nam się narodził: * Pojdźmy z pokłonem.
 
-[Hymnus Matutinum]
-@Sancti/12-25:Hymnus Vespera
-
-[HymnusM Matutinum]
-@:HymnusM Vespera
-
 [Ant Matutinum]
 Pan rzekł * do mnie: Tyś jest synem moim, Jam ciebie dziś zrodził.;;2
 Jako oblubieniec * Pan, wychodzący z łożnice swojéj,;;18
@@ -96,7 +87,7 @@ V. Piękniejszy urodą nad syny człowiecze.
 R. Rozlała się wdzięczność po wargach twoich.
 On mię będzie * wzywał, alleluja: Ojcem moim jesteś ty, alleluja.;;88
 Niech się weselą niebiosa, * a niech się raduje ziemia, przed Panem, bo przyszedł.;;95
-Objawił się * Pan, alleluja, zbawienie swoje, alleluja.;;97
+Objawił * Pan, alleluja, zbawienie swoje, alleluja.;;97
 V. On mię będzie wzywał, alleluja.
 R. Ojcem moim jesteś ty, alleluja.
 
@@ -155,7 +146,7 @@ R. Dzieciątko widzieliśmy, i chóry aniołów wysławiające Pana.
 [Lectio4]
 Kazanie św. Leona Papieża
 !Kazanie 1. na Boże Narodzenie
-Najmilsi, Zbawiciel nam się dziś narodził: weselmy się. Nie godzi się oddawać smutkowi wówczas, gdy narodziło się życie, które rozprasza obawy śmierci, a wlewa w nas radość z obiecanej wieczności. Niech nikt się aie odłącza od udziału w tem weselu, gdyż wspólny mamy powód do radości, gdyż Pan nasz, zwycięzca grzechu i śmierci.nie znalazłszy bez winy nikogo, przychodzi wyzwolić nas wszystkich. Niech się cieszy święty, gdyż bliskie już zwycięstwo; niech się weseli grzesznik, gdyż zaproszony jest na przebaczenie; niech się ożywi poganin, gdyż wezwany jest do życia. Syn Boży bowiem w pełności czasu, jak wyznaczyła niezgłębiona i niezmierzona Rada Boża, przyjął naturę ludzką, aby ją pojednać ze Stwórcą aby sprawcę śmierci, szatana, zwyciężyć w tem, w czem on nas pokonał.
+Najmilsi, Zbawiciel nam się dziś narodził: weselmy się. Nie godzi się oddawać smutkowi wówczas, gdy narodziło się życie, które rozprasza obawy śmierci, a wlewa w nas radość z obiecanej wieczności. Niech nikt się nie odłącza od udziału w tem weselu, gdyż wspólny mamy powód do radości, gdyż Pan nasz, zwycięzca grzechu i śmierci.nie znalazłszy bez winy nikogo, przychodzi wyzwolić nas wszystkich. Niech się cieszy święty, gdyż bliskie już zwycięstwo; niech się weseli grzesznik, gdyż zaproszony jest na przebaczenie; niech się ożywi poganin, gdyż wezwany jest do życia. Syn Boży bowiem w pełności czasu, jak wyznaczyła niezgłębiona i niezmierzona Rada Boża, przyjął naturę ludzką, aby ją pojednać ze Stwórcą aby sprawcę śmierci, szatana, zwyciężyć w tem, w czem on nas pokonał.
 
 [Responsory4]
 R. Jak wielka to tajemnica, przedziwne misterium, zwierzęta ujrzały narodzonego Pana, leżącego w żłobie:
@@ -164,7 +155,7 @@ V. Zdrowaś Maryjo, łaskiś pełna, Pan z Tobą.
 R. Błogosławiona Dziewica, której łono zasłużyło, by nosić Chrystusa Pana.
 
 [Lectio5]
-W walce tej za nas wydanej, walczył z wielką i przedziwną prawością, gdyż Bóg wszechmogący z tym najsroższym wrogiem potyka się nie majestatem swym przyodzian, lecz nędzą naszą, przeciwstawiając mu ten sam kształt i tę samą naturę śmiertelny lecz od grzechu zupełnie wolną. To bowiem, co się stosuje do wszystkich ludzi, nie odnosi się do tych narodzin, że nikt nie jest wolny od winy, ani nawet dziecię jednodniowe. A w tem cudownem narodzeniu niema ani śladu pożądliwości cielesnej, nic nie pozostało z zakonu grzechu. Dziewica, wybrana z rodu Dawidowego, nosząca w sobie Boga - Człowieka, pierwej Go duchem niż ciałem poczęła. Anioł pouczył Ją o tem, co w niej sprawi Duch św., aby się nie przelękła, nieświadoma będąc niezwykłych zamiarów Bożych, i jak bez naruszenia dziewictwa stanie się Matką Bożą.
+W walce tej za nas wydanej, walczył z wielką i przedziwną prawością, gdyż Bóg wszechmogący z tym najsroższym wrogiem potyka się nie majestatem swym przyodzian, lecz nędzą naszą, przeciwstawiając mu ten sam kształt i tę samą naturę śmiertelny lecz od grzechu zupełnie wolną. To bowiem, co się stosuje do wszystkich ludzi, nie odnosi się do tych narodzin, że nikt nie jest wolny od winy, ani nawet dziecię jednodniowe. A w tem cudownem narodzeniu niema ani śladu pożądliwości cielesnej, nic nie pozostało z zakonu grzechu. Dziewica, wybrana z rodu Dawidowego, nosząca w sobie Boga - Człowieka, pierwej Go duchem niż ciałem poczęła. Anioł pouczył Ją o tem, co w niej sprawi Duch Święty, aby się nie przelękła, nieświadoma będąc niezwykłych zamiarów Bożych, i jak bez naruszenia dziewictwa stanie się Matką Bożą.
 
 [Responsory5]
 R. Błogosławiona święta Boża Rodzicielka, Maryja, służebnica nieskalana:
@@ -287,7 +278,7 @@ po nieskończone wieki.
 Amen.
 
 [Versum 2]
-V. Objawił się Pan, alleluja.
+V. Objawił Pan, alleluja.
 R. Zbawienie swoje, alleluja.
 
 [Ant 2]
@@ -297,18 +288,13 @@ Chwała na wysokości Bogu, * a na ziemi pokój ludziom dobréj woléj, alleluja
 !Hbr 1:11-12
 v. One poginą, a ty trwać będziesz: a wszystkie jako szata zwiotszeją. A jako odzienie zmienisz je, i odmienią się; ale ty tenżeś jest, i lata twoje nie ustaną?
 
-[Capitulum Tertia]
-!Hbr 1:1-2
-v. Rozmaicie i wielą sposobów mówiwszy dawno Bóg ojcom przez Proroki: Na ostatek tych dni mówił do nas przez Syna, którego postanowił dziedzicem wszystkiego, przez którego uczynił i wieki.
-$Deo gratias
-
 [Responsory Tertia]
-R.br. A Słowo ciałem się stało, * alleluja, alleluja.
-R. A Słowo ciałem się stało, * alleluja, alleluja.
+R.br. A Słowo ciałem się stało, * Alleluja, alleluja.
+R. A Słowo ciałem się stało, * Alleluja, alleluja.
 V. I mieszkało między nami.
 R. Alleluja, alleluja.
 &Gloria
-R. A Słowo ciałem się stało, * alleluja, alleluja.
+R. A Słowo ciałem się stało, * Alleluja, alleluja.
 _
 V. On mię będzie wzywał, alleluja.
 R. Ojcem moim jesteś ty, alleluja.
@@ -319,28 +305,23 @@ v. I tyś, Panie! na początku ugruntował ziemię, a dzieła rąk twoich są ni
 $Deo gratias
 
 [Responsory Sexta]
-R.br. Objawił się Pan, * alleluja, alleluja.
-R. Objawił się Pan, * alleluja, alleluja.
+R.br. Objawił Pan, * Alleluja, alleluja.
+R. Objawił Pan, * Alleluja, alleluja.
 V. Zbawienie swoje.
 R. Alleluja, alleluja.
 &Gloria
-R. Objawił się Pan, * alleluja, alleluja.
+R. Objawił Pan, * Alleluja, alleluja.
 _
 V. Oglądały wszystkie kraje ziemie, alleluja.
 R. Zbawienie Boga naszego, alleluja.
 
-[Capitulum Nona]
-!Hbr 1:11-12
-v. One poginą, a ty trwać będziesz: a wszystkie jako szata zwiotszeją. A jako odzienie zmienisz je, i odmienią się; ale ty tenżeś jest, i lata twoje nie ustaną?
-$Deo gratias
-
 [Responsory Nona]
-R.br. Oglądały wszystkie kraje ziemie, * alleluja, alleluja.
-R. Oglądały wszystkie kraje ziemie, * alleluja, alleluja.
+R.br. Oglądały wszystkie kraje ziemie, * Alleluja, alleluja.
+R. Oglądały wszystkie kraje ziemie, * Alleluja, alleluja.
 V. Zbawienie Boga naszego.
 R. Alleluja, alleluja.
 &Gloria
-R. Oglądały wszystkie kraje ziemie, * alleluja, alleluja.
+R. Oglądały wszystkie kraje ziemie, * Alleluja, alleluja.
 _
 V. A Słowo ciałem się stało, alleluja.
 R. I mieszkało między nami, alleluja.
@@ -352,20 +333,11 @@ Weszła * w ciemnościach światłość prawym. Miłościwy, miłosierny i spraw
 U Pana * miłosierdzie i obfite u Niego odkupienie.;;129
 Z owocu * żywota Twego posadzę na stolicy Twojej.;;131
 
-[Capitulum Vespera 3]
-!Hbr 1:1-2
-v. Rozmaicie i wielą sposobów mówiwszy dawno Bóg ojcom przez Proroki: Na ostatek tych dni mówił do nas przez Syna, którego postanowił dziedzicem wszystkiego, przez którego uczynił i wieki.
-$Deo gratias
-
-[Versum 3]
-V. Objawił Pan, alleluja,
-R. Zbawienie swoje, alleluja.
-
 [Ant 3]
 Dziś * narodził się Chrystus: dziś ukazał się Zbawiciel: dziś na ziemi śpiewają Aniołowie, weselą się Archaniołowie: dziś radują się sprawiedliwi mówiąc: chwała na wysokości Bogu, alleluja.
 
 [Octava 3]
-!Commemoratio de Nativitate.
+!Wspominamy oktawę Bożego Narodzenia
 Ant. Dziś narodził się Chrystus: dziś ukazał się Zbawiciel: dziś na ziemi śpiewają Aniołowie, weselą się Archaniołowie: dziś radują się sprawiedliwi mówiąc: chwała na wysokości Bogu, alleluja.
 _
 V. Objawił Pan, alleluja,
@@ -376,7 +348,7 @@ Daj nam, prosimy Cię Wszechmogący Boże, aby nowe, według ciała, narodzenie 
 $Per eumdem
 
 [Octava 2]
-!Commemoratio de Nativitate.
+!Wspominamy oktawę Bożego Narodzenia
 Ant. Chwała na wysokości Bogu, * a na ziemi pokój ludziom dobréj woléj, alleluja, alleluja.
 _
 V. Objawił Pan, alleluja,

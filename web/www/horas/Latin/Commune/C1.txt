@@ -53,7 +53,7 @@ Amen.
 {:H-Exsultetorbisgaudiis:}v. Exsúltet cælum láudibus,
 resúltet terra gáudiis:
 Apostolórum glóriam
-sacra canunt sollémnia.
+sacra canunt solémnia.
 _
 Vos, sæcli iusti iúdices
 et vera mundi lúmina,
@@ -129,9 +129,9 @@ Dedísti hereditátem * timéntibus nomen tuum, Dómine.;;60
 Annuntiavérunt * ópera Dei, et facta ejus intellexérunt.;;63
 V. Constítues eos príncipes super omnem terram.
 R. Mémores erunt nóminis tui, Dómine.
-Exaltabúntur * córnua justi, allelúia.;;74
-Lux orta est * justo, allelúia, rectis corde lætítia, allelúia.;;96
-Custodiébant * testimónia ejus, et præcépta ejus, allelúia.;;98
+Exaltabúntur * córnua justi. Allelúia.;;74
+Lux orta est * justo, allelúia, rectis corde lætítia. Allelúia.;;96
+Custodiébant * testimónia ejus, et præcépta ejus. Allelúia.;;98
 V. Nimis honoráti sunt amíci tui Deus.
 R. Nimis confortátus est principátus eórum.
 
@@ -181,8 +181,8 @@ R. Dábitur enim vobis in illa hora, quid loquámini.
 R. Dábitur enim vobis in illa hora, quid loquámini.
 
 [Lectio4]
-Sermo sancti Gregórii Papæ.
-!Homilía 30. in Evangélia, post médium.
+Sermo sancti Gregórii Papæ
+!Homilía 30 in Evangélia, post médium
 Scriptum est: Spíritus Dómini ornávit cælos. Ornaménta enim cælórum sunt virtútes prædicántium. Quæ vidélicet ornaménta Paulus enúmerat, dicens: Álii datur per Spíritum sermo sapiéntiæ, álii sermo sciéntiæ secúndum eúmdem Spíritum, álteri fides in eódem Spíritu, álii grátia sanitátum in uno Spíritu, álii operátio virtútum, álii prophetía, álii discrétio spirítuum, álii génera linguárum, álii interpretátio sermónum. Hæc autem ómnia operátur unus atque idem Spíritus, dívidens síngulis prout vult.
 
 [Responsory4]
@@ -298,7 +298,7 @@ R. Super omnem terram.
 &Gloria
 R. Constítues eos príncipes * Super omnem terram.
 _
-V. Nimis honoráti sunt amíci tui Deus.
+V. Nimis honoráti sunt amíci tui, Deus.
 R. Nimis confortátus est principátus eórum.
 
 [Capitulum Nona]
@@ -306,12 +306,12 @@ R. Nimis confortátus est principátus eórum.
 $Deo gratias
 
 [Responsory Nona]
-R.br. Nimis honoráti sunt * Amíci tui Deus.
-R. Nimis honoráti sunt * Amíci tui Deus.
+R.br. Nimis honoráti sunt * Amíci tui, Deus.
+R. Nimis honoráti sunt * Amíci tui, Deus.
 V. Nimis confortátus est principátus eórum.
-R. Amíci tui Deus.
+R. Amíci tui, Deus.
 &Gloria
-R. Nimis honoráti sunt * Amíci tui Deus.
+R. Nimis honoráti sunt * Amíci tui, Deus.
 _
 V. Annuntiavérunt ópera Dei.
 R. Et facta ejus intellexérunt.
@@ -321,10 +321,10 @@ Jurávit Dóminus, * et non pœnitébit eum: Tu es sacérdos in ætérnum.;;109
 Cóllocet eum * Dóminus cum princípibus pópuli sui.;;112
 Dirupísti, Dómine, * víncula mea: tibi sacrificábo hóstiam laudis.;;115
 Eúntes ibant * et flebant, mitténtes sémina sua.;;125
-Confortátus est * principátus eórum, et honoráti sunt amíci tui Deus.;;138
+Confortátus est * principátus eórum, et honoráti sunt amíci tui, Deus.;;138
 
 [Versum 3]
 @:Versum 2
 
 [Ant 3]
-Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum, allelúia.
+Estóte fortes * in bello, et pugnáte cum antíquo serpénte: et accipiétis regnum ætérnum. Allelúia.

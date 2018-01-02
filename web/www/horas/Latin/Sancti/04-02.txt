@@ -9,41 +9,39 @@ vide C5;
 9 lectiones
 
 [Oratio]
-Deus humilium celsitudo, qui beatum Franciscum Confessorem sanctorum tuorum~
-gloria sublimasti: tribue quaesumus: ut ejus meritis et imitatione, promissa~
-humilibus praemia feliciter consequamur.
+Deus, humílium celsitúdo, qui beátum Francíscum Confessórem Sanctórum tuórum glória sublimásti: tríbue, quǽsumus; ut, eius méritis et imitatióne, promíssa humílibus præmia felíciter consequámur.
 $Per Dominum.
 
 [Lectio4]
-Franciscus Paulae, quod est in Calabriae oppidum, loco humili natus est; quem~
-parentes, cum diu prole caruissent, voto facto, beati Francisci precibus~
-susceperunt. Is adolescens divino ardore succensus in eremum secessit, ubi~
-annis sex, victu asperam, sed meditationibus caelestibus suavem vitam duxit. Sed~
-cum virtutum ejus fama longius manaret, multique ad eum pietatis studio~
-concurrerent, fraternae caritatis causa e solitudine egressus, ecclesiam prope~
-Paulam aedificavit, ibique prima sui ordinis fundamenta jecit.
+Francíscus Paulæ, quod est Calábriæ óppidum, loco húmili natus est; quem~
+paréntes, cum diu prole caruíssent, voto facto, beáti Francísci précibus~
+suscepérunt. Is adoléscens divíno ardóre succénsus in erémum secéssit, ubi~
+annis sex, victu ásperam, sed meditatiónibus cæléstibus suávem vitam duxit. Sed~
+cum virtútum ejus fama lóngius manáret, multíque ad eum pietátis stúdio~
+concúrrerent, fratérnæ caritátis causa e solitúdine egréssus, ecclésiam prope~
+Paulam ædificávit, ibique prima sui órdinis fundaménta jecit.
 
 [Lectio5]
-Erat in eo mirifica loquendi gratia: perpetuam virginitat era servavit:~
-humilitatem sic coluit, ut se omnium minimum diceret, suosque alumnos Minimos~
-appellari voluerit. Rudi amictu, nudis pedibus incedens, humi cubabat. Cibi~
-abstinentia fuit admirabili: semel in die post solis occasum reficiebatur, et ad~
-panem, et aquae potum, vix aliquid ejusmodi obsonii adhibebat, quo vesci in~
-Quadragesima licet: quam consuetudinem, ut fratres sui toto anni tempore~
-retinerent, quarto eos voto adstrinxit.
+Erat in eo mirífica loquéndi grátia: perpétuam virginitátem servávit:~
+humilitátem sic cóluit, ut se ómnium mínimum díceret, suósque alúmnos Mínimos~
+appellári volúerit. Rudi amíctu, nudis pédibus incédens, humi cubábat. Cibi~
+abstinéntia fuit admirábili: semel in die post solis occásum reficiebátur, et ad~
+panem, et aquæ potum, vix áliquid ejusmodi obsónii adhibébat, quo vesci in~
+Quadragésima licet: quam consuetúdinem, ut fratres sui toto anni témpore~
+retinérent, quarto eos voto adstrínxit.
 
 [Lectio6]
-Multis miraculis servi sui sanctitatem Deus testari voluit, quorum illud in~
-primis celebre, quod a nautis rejectus, Siciliae fretum strato super fluctibus~
-pallio cum socio transmisit. Multa etiam futura prophetico spiritu praedixit. A~
-Ludovico undecimo Francorum rege expetitus, magnoque in honore est habitus.~
-Denique annum primum et nonagesimum agens, Turonis migravit ad Dominum, anno~
-salutis millesimo quingentesimo septimo: cujus corpus dies undecim insepultum,~
-ita incorruptum permansit, ut suavem etiam odorem efflaret. Eum Leo Papa decimus~
-in sanctorum numerum retulit.
+Multis miráculis servi sui sanctitátem Deus testári vóluit, quorum illud in~
+primis célebre, quod a nautis rejéctus, Sicíliæ fretum strato super flúctibus~
+pállio cum sócio transmísit. Multa étiam futúra prophético spíritu prædíxit. A~
+Ludovíco undécimo Francórum rege expetítus, magnóque in honóre est hábitus.~
+Dénique annum primum et nonagésimum agens, Turónis migrávit ad Dominum, anno~
+salutis millésimo quingentésimo séptimo: cujus corpus dies úndecim insepúltum,~
+ita incorrúptum permánsit, ut suávem étiam odórem effláret. Eum Leo Papa décimus~
+in Sanctórum númerum rétulit.
 
 [Lectio94]
-Franc�scus Paul� in Cal�bria natus est. Adul�scens, div�no ard�re succ�nsus, in er�mum sec�ssit, ubi annis sex victu �speram sed meditati�nibus c�l�stibus su�vem vitam duxit. Cum autem virt�tum ejus fama l�nge man�ret, mult�que ad eum piet�tis st�dio conc�rrerent, carit�tis causa e solit�dine egr�ssus, eccl�siam prope Paulam �dific�vit, ib�que prima sui �rdinis fundam�nta jecit. Perp�tuam virginit�tem serv�vit : humilit�tem sic c�luit, ut se �mnium m�nimum d�ceret, su�sque al�mnos M�nimos appell�ri vol�erit.  Rudi am�ctu, nudis p�dibus inc�dens, humi cub�bat.  Carit�ti ita add�ctus fuit, ut sui Ordinis t�sseram esse j�sserit. Multis mir�culis servi sui sanctit�tem Deus comprob�vit, quorum illud in primis c�lebre, quod a nautis rej�ctus, Sic�li� fretum, strato super fl�ctibus p�llio, cum s�cio transm�sit.  Multa �tiam proph�tico sp�ritu pr�d�xit. Tur�nis migr�vit ad D�minum, anno sal�tis mill�simo quingent�simo s�ptimo, �t�tis anno nonag�simo primo.
+Francíscus Paulæ in Calábria natus est. Aduléscens, divíno ardóre succénsus, in erémum secéssit, ubi annis sex victu ásperam sed meditatiónibus cæléstibus suávem vitam duxit. Cum autem virtútum ejus fama lónge manáret, multíque ad eum pietátis stúdio concúrrerent, caritátis causa e solitúdine egréssus, ecclésiam prope Paulam ædificávit, ibíque prima sui órdinis fundaménta jecit. Perpétuam virginitátem servávit: humilitátem sic cóluit, ut se ómnium mínimum díceret, suósque alúmnos Mínimos appellári volúerit. Rudi amíctu, nudis pédibus incédens, humi cubábat. Caritáti ita addíctus fuit, ut sui Ordinis tésseram esse jússerit. Multis miráculis servi sui sanctitátem Deus comprobávit, quorum illud in primis célebre, quod a nautis rejéctus, Sicíliæ fretum, strato super flúctibus pállio, cum sócio transmísit. Multa étiam prophético spíritu prædíxit. Turónis migrávit ad Dóminum, anno salútis millésimo quingentésimo séptimo, ætátis anno nonagésimo primo.
 &teDeum
 
 [Lectio7]

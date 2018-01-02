@@ -11,65 +11,65 @@ Doxology=Asc
 Feria Te Deum
 
 [Lectio1]
-De Epistola secunda beati Petri Apostoli.
+De Epístola secúnda beáti Petri Apóstoli
 !2 Pet 3:1-7
-1 Hanc ecce vobis, carissimi, secundam scribo epistolam, in quibus vestram excito in commonitione sinceram mentem:
-2 ut memores sitis eorum, quae praedixi, verborum, a sanctis Prophetis et Apostolorum vestrorum, praeceptorum Domini et Salvatoris.
-3 Hoc primum scientes, quod venient in novissimis diebus in deceptione illusores, juxta proprias concupiscentias ambulantes,
-4 dicentes: Ubi est promissio, aut adventus ejus? Ex quo enim patres dormierunt, omnia sic perseverant ab initio creaturae.
-5 Latet enim eos hoc volentes, quod caeli erant prius, et terra de aqua, et per aquam consistens Dei verbo:
-6 per quae, ille tunc mundus aqua inundatus, periit.
-7 Caeli autem, qui nunc sunt, et terra eodem verbo repositi sunt, igni reservati in diem judicii, et perditionis impiorum hominum.
+1 Hanc ecce vobis, caríssimi, secúndam scribo epístolam, in quibus vestram éxcito in commonitióne sincéram mentem:
+2 ut mémores sitis eórum, quæ prædíxi, verbórum, a sanctis prophétis et apostolórum vestrórum, præceptórum Dómini et Salvatóris.
+3 Hoc primum sciéntes, quod vénient in novíssimis diébus in deceptióne illusóres, iuxta próprias concupiscéntias ambulántes,
+4 dicéntes: Ubi est promíssio, aut advéntus eius? ex quo enim patres dormiérunt, ómnia sic perséverant ab inítio creatúræ.
+5 Latet enim eos hoc voléntes, quod cæli erant prius, et terra de aqua, et per aquam consístens Dei verbo:
+6 per quæ, ille tunc mundus aqua inundátus, périit.
+7 Cæli autem, qui nunc sunt, et terra eódem verbo repósiti sunt, igni reserváti in diem iudícii, et perditiónis impiórum hóminum.
 
 [Responsory1]
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
 !2 Pet 3:8-13
-8 Unum vero hoc non lateat vos, carissimi, quia unus dies apud Dominum sicut mille anni, et mille anni sicut dies unus.
-9 Non tardat Dominus promissionem suam, sicut quidam existimant: sed patienter agit propter vos, nolens aliquos perire, sed omnes ad p�nitentiam reverti.
-10 Adveniet autem dies Domini ut fur: in quo caeli magno impetu transient, elementa vero calore solventur, terra autem et quae in ipsa sunt opera, exurentur.
-11 Cum igitur haec omnia dissolvenda sint, quales oportet vos esse in sanctis conversationibus, et pietatibus,
-12 exspectantes, et properantes in adventum diei Domini, per quem caeli ardentes solventur, et elementa ignis ardore tabescent?
-13 Novos vero caelos, et novam terram secundum promissa ipsius exspectamus, in quibus justitia habitat.
+8 Unum vero hoc non láteat vos, caríssimi, quia unus dies apud Dóminum sicut mille anni, et mille anni sicut dies unus.
+9 Non tardat Dóminus promissiónem suam, sicut quidam exístimant: sed patiénter agit propter vos, nolens áliquos períre, sed omnes ad pœniténtiam revérti.
+10 Advéniet autem dies Dómini ut fur: in quo cæli magno ímpetu tránsient, eleménta vero calóre solvéntur, terra autem et quæ in ipsa sunt ópera, exuréntur.
+11 Cum ígitur hæc ómnia dissolvénda sunt, quales opórtet vos esse in sanctis conversatiónibus, et pietátibus,
+12 exspectántes, et properántes in advéntum diéi Dómini, per quem cæli ardéntes solvéntur, et eleménta ignis ardóre tabéscent?
+13 Novos vero cælos, et novam terram secúndum promíssa ipsíus exspectámus, in quibus iustítia hábitat.
 
 [Responsory2]
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
 !2 Pet 3:14-18
-14 Propter quod, carissimi, haec exspectantes, satagite immaculati, et inviolati ei inveniri in pace:
-15 Et Domini nostri longanimitatem, salutem arbitremini: sicut et carissimus frater noster Paulus secundum datam sibi sapientiam scripsit vobis,
-16 sicut et in omnibus epistolis, loquens in eis de his in quibus sunt quaedam difficilia intellectu, quae indocti et instabiles depravant, sicut et ceteras Scripturas, ad suam ipsorum perditionem.
-17 Vos igitur fratres, praescientes custodite, ne insipientium errore traducti excidatis a propria firmitate:
-18 Crescite vero in gratia, et in cognitione Domini nostri, et Salvatoris Jesu Christi. Ipsi gloria et nunc, et in diem aeternitatis. Amen.
+14 Propter quod, caríssimi, hæc exspectántes, satágite immaculáti, et invioláti ei inveníri in pace:
+15 et Dómini nostri longanimitátem, salútem arbitrémini: sicut et caríssimus frater noster Paulus secúndum datam sibi sapiéntiam scripsit vobis,
+16 sicut et ómnibus epístolis, loquens in eis de his in quibus sunt quædam difficília intelléctu, quæ indócti et instábiles deprávant, sicut et céteras Scriptúras, ad suam ipsórum perditiónem.
+17 Vos ígitur fratres, præsciéntes custodíte, ne insipiéntium erróre tradúcti excidátis a própria firmitáte:
+18 créscite vero in grátia, et in cognitióne Dómini nostri, et Salvatóris Iesu Christi. Ipsi glória et nunc, et in diem æternitátis. Amen.
 
 [Responsory3]
 @Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
-De Sermone sancti Leonis Papae.
-!Ex Serm. 2. de Ascensione Domini.
-Quod itaque Redemptoris nostri conspicuum fuit, in sacramenta transivit: et ut fides excellentior esset ac firmior, visioni doctrina successit, cujus auctoritatem supernis illuminata radiis credentium corda sequerentur. Hanc fidem ascensione Domini auctam, et Spiritus Sancti munere roboratam, non vincula, non carceres, non exsilia, non fames, non ignis, non laniatus ferarum, nec exquisita persequentium crudelitatibus supplicia terruerunt. Pro hac fide per universum mundum non solum viri, sed etiam feminae: nec tantum impubes pueri, sed etiam tenerae virgines usque ad effusionem sui sanguinis decertarunt. Haec fides daemonia ejecit, aegritudines depulit, mortuos suscitavit.
+Sermo sancti Leónis Papæ
+!Sermo 2 de Ascensione Domini
+Quod itaque Redemptóris nostri conspicuum fuit, in sacraménta transívit: et ut fides excellentior esset ac firmior, visióni doctrina successit, cujus auctoritátem supernis illumináta radiis credéntium corda sequeréntur. Hanc fidem ascensióne Dómini auctam, et Spíritus Sancti munere roboratam, non vincula, non carceres, non exsília, non fames, non ignis, non laniátus ferárum, nec exquisita persequéntium crudelitátibus supplícia terruérunt. Pro hac fide per univérsum mundum non solum viri, sed etiam feminæ: nec tantum impubes púeri, sed etiam téneræ vírgines usque ad effúsiónem sui sánguinis decertarunt. Hæc fides dæmónia ejécit, ægritúdines dépulit, mórtuos suscitávit.
 
 [Lectio5]
-Unde et ipsi beati Apostoli, qui tot miraculis confirmati, tot sermonibus eruditi atrocitatem tamen Dominicae passionis expaverant, et veritatem resurrectionis ejus non sine haesitatione susceperant, tantum de ascensione Domini profecerunt, ut quidquid illis prius intulerat metum, verteretur in gaudium. Totam enim contemplationem animi in divinitatem ad Patris dexteram considentis erexerant: nec jam corporeae visionis tardabantur objectu, quo minus in id aciem mentis intenderent, quod nec a Patre descendendo abfuerat, nec a discipulis ascendendo discesserat. Tunc igitur, dilectissimi, filius hominis, Dei Filius excellentius sacratiusque innotuit, cum in Paternae majestatis gloriam se recepit: et ineffabili modo coepit esse divinitate praesentior, qui factus est humanitate longinquior.
+Unde et ipsi beáti Apóstoli, qui tot miraculis confírmati, tot sermónibus eruditi, atrocitátem tamen Dominicæ passiónis expáverant, et veritátem resurrectiónis ejus non sine hæsitatióne suscéperant; tantum de ascensióne Dómini profecérunt, ut quidquid illis prius intulerat metum, verterétur in gáudium. Totam enim contemplatiónem animi in divinitátem ad Patris déxteram considéntis erexerant: nec jam corporeæ visiónis tardabántur objectu, quo minus in id aciem mentis inténderent, quod nec a Patre descendéndo abfuerat, nec a discípulis ascendéndo discesserat. Tunc ígitur, dilectíssimi, Fílius hóminis, Dei Fílius excellentius sacratiusque innotuit, cum in paternæ majestátis glóriam se recepit: et ineffábili modo cœpit esse divinitate præsentior, qui factus est humanitate longinquior.
 
 [Lectio6]
-Tunc ad aequalem Patri Filium eruditior fides gressu mentis coepit accedere, et contrectatione in Christo corporeae substantiae, qua Patre minor est, non egere: quoniam glorificati corporis manente natura, eo fides credentium vocabatur, ubi non carnali manu, sed spiritali intellectu par Genitori Unigenitus tangeretur. Hinc illud est, quod post resurrectionem suam Dominus Mariae Magdalenae, personam Ecclesiae gerenti, cum ad contactum ipsius properaret accedere, dicit: Noli me tangere, nondum enim ascendi ad Patrem meum: hoc est, Nolo ut ad me corporaliter venias, nec ut me sensu carnis agnoscas: ad sublimiora te differo, majora tibi praeparo: cum ad Patrem ascendero, tunc me perfectius veriusque palpabis, apprehensura quod non tangis, et creditura quod non cernis.
+Tunc ad æqualem Patri Fílium erudítior fides gressu mentis cœpit accedere, et contrectatióne in Christo corporeæ substántiæ, qua Patre minor est, non egére: quóniam glorificáti corporis manénte natúra, eo fides credéntium vocabátur, ubi non carnali manu, sed spiritali intelléctu par Genitóri Unigénitus tangerétur. Hinc illud est, quod post resurrectiónem suam Dóminus Maríæ Magdalenæ personam Ecclésiæ gerenti, cum ad contactum ipsíus properaret accedere, dicit: Noli me tángere, nondum enim ascéndi ad Patrem meum: hoc est, Nolo ut ad me corporáliter venias, nec ut me sensu carnis agnoscas: ad sublimióra te differo, majora tibi præparo: cum ad Patrem ascendéro, tunc me perfectius veriusque palpábis, apprehensúra quod non tangis, et creditúra quod non cernis.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Marcum.
+Léctio sancti Evangélii secúndum Marcum
 !Marc 16:14-20
-In illo tempore: Recumbentibus undecim discipulis, apparuit illis Jesus: et exprobravit incredulitatem eorum, et duritiam cordis: quia iis, qui viderant eum resurrexisse, non crediderunt. Et reliqua.
+In illo témpore: Recumbéntibus undecim discípulis, appáruit illis Jesus: et exprobrávit incredulitátem eórum et durítiam cordis, quia iis, qui viderant eum resurrexísse, non credidérunt. Et réliqua.
 _
-De Homilia sancti Gregorii Papae.
-!Ex eadem Homilia 29.
-Signa autem eos qui credituri sunt, haec sequentur. In nomine meo daemonia ejicient, linguis loquentur novis, serpentes tollent: et si mortiferum quid biberint, non eis nocebit: super aegros manus imponent, et bene habebunt. Numquidnam, fratres mei, quia ista signa non facitis, minime creditis? Sed haec necessaria in exordio Ecclesiae fuerunt. Ut enim ad fidem cresceret multitudo credentium, miraculis fuerat nutrienda: quia et nos, cum arbusta plantamus, tamdiu eis aquam infundimus, quousque ea in terra jam coaluisse videamus: et si semel radicem fixerint, irrigatio cessabit. Hinc est enim, quod Paulus dicit: Linguae in signum sunt non fidelibus, sed infidelibus.
+Homilía sancti Gregórii Papæ
+!Ex eadem Homilía 29
+Signa autem eos qui creditúri sunt, hæc sequéntur: In nómine meo dæmónia eícient, linguis loquéntur novis, serpéntes tollent: et si mortiferum quid biberint, non eis nocébit: super ægros manus impónent, et bene habébunt. Numquidnam, fratres mei, quia ista signa non fácitis, minime creditis? Sed hæc necessaria in exordio Ecclésiæ fuérunt. Ut enim ad fidem crésceret multitúdo credéntium, miraculis fuerat nutriénda: quia et nos, cum arbústa plantamus, tamdiu eis aquam infundimus, quoúsque ea in terra jam coaluisse videámus: et si semel radícem fixerint, irrigátio cessabit. Hinc est enim quod Paulus dicit: Linguæ in signum sunt non fidelibus, sed infidelibus.
 
 [Lectio8]
-Habemus de his signis atque virtutibus, quae adhuc subtilius considerare debeamus. Sancta quippe Ecclesia quotidie spiritaliter facit, quod tunc per Apostolos corporaliter faciebat. Nam sacerdotes ejus cum per exorcismi gratiam manum credentibus imponunt, et habitare malignos spiritus in eorum mente contradicunt, quid aliud faciunt, nisi daemonia ejiciunt? Et fideles quique, qui jam vitae veteris saecularia verba derelinquunt, sancta autem mysteria insonant, Conditoris sui laudes et potentiam quantum praevalent, narrant: quid aliud faciunt, nisi novis linguis loquuntur? Qui dum bonis suis exhortationibus malitiam de alienis cordibus auferunt, serpentes tollunt.
+Habémus de his signis atque virtútibus, quæ adhuc subtílius consideráre debeamus. Sancta quippe Ecclésia quotídie spiritáliter facit, quod tunc per Apóstolos corporáliter faciebat. Nam sacerdótes ejus cum per exorcismi grátiam manum credéntibus imponunt, et habitáre malignos spíritus in eórum mente contradicunt, quid aliud faciunt, nisi dæmónia ejíciunt? Et fidéles quique, qui jam vitæ veteris sæcularia verba derelinquunt, sancta autem mysteria ínsonant, Conditoris sui laudes et poténtiam, quantum prævalent, narrant: quid aliud faciunt, nisi novis linguis loquúntur? Qui dum bonis suis exhortatiónibus malítiam de aliénis córdibus auférunt, serpéntes tollunt.
 
 [Lectio9]
-Et dum pestiferas suasiones audiunt, sed tamen ad operationem pravam minime pertrahuntur, mortiferum quidem est quod bibunt, sed non eis nocebit. Qui quoties proximos suos in bono opere infirmari conspiciunt, dum eis tota virtute concurrunt, et exemplo suae operationis illorum vitam roborant, qui in propria actione titubant: quid aliud faciunt, nisi super aegros manus imponunt, ut bene habeant? Quae nimirum miracula tanto majora sunt, quanto spiritalia: tanto majora sunt, quanto per haec non corpora, sed animae suscitantur.
+Et dum pestíferas suasiónes audíunt, sed tamen ad operatiónem pravam minime pertrahúntur, mortiferum quidem est quod bibunt, sed non eis nocébit. Qui quóties próximos suos in bono opere infirmari conspíciunt, dum eis tota virtúte concurrunt, et exemplo suæ operatiónis illórum vitam róborant, qui in propria actióne títubant: quid aliud faciunt, nisi super ægros manus imponunt, ut bene habeant? Quæ nimirum mirácula tanto majora sunt, quanto spiritália: tanto majóra sunt, quanto per hæc non corpora, sed ánimæ suscitántur.
 &teDeum

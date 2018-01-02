@@ -1,5 +1,5 @@
 [Rank]
-Feria Tertia infra Hebdomadam I post Octavam Paschae;;Feria;;1
+Feria Tertia infra Hebdomadam I post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -7,48 +7,48 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De Actibus Apostolorum.
+De Actibus Apostolórum
 !Act. 2:1-8
-1 Et cum complerentur dies Pentecostes, erant omnes pariter in eodem loco:
-2 et factus est repente de caelo sonus, tamquam advenientis spiritus vehementis, et replevit totam domum ubi erant sedentes.
-3 Et apparuerunt illis dispertitae linguae tamquam ignis, seditque supra singulos eorum:
-4 et repleti sunt omnes Spiritu Sancto, et c�perunt loqui variis linguis, prout Spiritus Sanctus dabat eloqui illis.
-5 Erant autem in Jerusalem habitantes Judaei, viri religiosi ex omni natione quae sub caelo est.
-6 Facta autem hac voce, convenit multitudo, et mente confusa est, quoniam audiebat unusquisque lingua sua illos loquentes.
-7 Stupebant autem omnes, et mirabantur, dicentes: Nonne ecce omnes isti qui loquuntur, Galilaei sunt?
-8 Et quomodo nos audivimus unusquisque linguam nostram in qua nati sumus?
+1 Et cum compleréntur dies Pentecóstes, erant omnes páriter in eódem loco:
+2 et factus est repénte de cælo sonus, tamquam adveniéntis spíritus veheméntis, et replévit totam domum ubi erant sedéntes.
+3 Et apparuérunt illis dispertítæ linguæ tamquam ignis, sedítque supra síngulos eórum:
+4 et repléti sunt omnes Spíritu Sancto, et cœpérunt loqui váriis linguis, prout Spíritus Sanctus dabat éloqui illis.
+5 Erant autem in Ierúsalem habitántes Iudǽi, viri religiósi ex omni natióne quæ sub cælo est.
+6 Facta autem hac voce, convénit multitúdo, et mente confúsa est, quóniam audiébat unusquísque lingua sua illos loquéntes.
+7 Stupébant autem omnes, et mirabántur, dicéntes: Nonne ecce omnes isti qui loquúntur, Galilǽi sunt?
+8 et quómodo nos audívimus unusquísque linguam nostram in qua nati sumus?
 
 [Responsory1]
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
 !Act. 2:14-21
-14 Stans autem Petrus cum undecim, levavit vocem suam, et locutus est eis: Viri Judaei, et qui habitatis Jerusalem universi, hoc vobis notum sit, et auribus percipite verba mea.
-15 Non enim, sicut vos aestimatis, hi ebrii sunt, cum sit hora diei tertia:
-16 sed hoc est quod dictum est per prophetam Jo�l:
-17 Et erit in novissimis diebus, dicit Dominus, effundam de Spiritu meo super omnem carnem: et prophetabunt filii vestri et filiae vestrae, et juvenes vestri visiones videbunt, et seniores vestri somnia somniabunt.
-18 Et quidem super servos meos, et super ancillas meas, in diebus illis effundam de Spiritu meo, et prophetabunt:
-19 et dabo prodigia in caelo sursum, et signa in terra deorsum, sanguinem, et ignem, et vaporem fumi:
-20 sol convertetur in tenebras, et luna in sanguinem, antequam veniat dies Domini magnus et manifestus.
-21 Et erit: omnis quicumque invocaverit nomen Domini, salvus erit.
+14 Stans autem Petrus cum úndecim, levávit vocem suam, et locútus est eis: Viri Iudǽi, et qui habitátis Ierúsalem univérsi, hoc vobis notum sit, et áuribus percípite verba mea.
+15 Non enim, sicut vos æstimátis, hi ébrii sunt, cum sit hora diéi tértia:
+16 sed hoc est quod dictum est per prophétam Ioel:
+17 Et erit in novíssimis diébus, dicit Dóminus, effúndam de Spíritu meo super omnem carnem: et prophetábunt fílii vestri et fíliæ vestræ, et iúvenes vestri visiónes vidébunt, et senióres vestri sómnia somniábunt.
+18 Et quidem super servos meos, et super ancíllas meas, in diébus illis effúndam de Spíritu meo, et prophetábunt:
+19 et dabo prodígia in cælo sursum, et signa in terra deórsum, sánguinem, et ignem, et vapórem fumi:
+20 sol convertétur in ténebras, et luna in sánguinem, ántequam véniat dies Dómini magnus et maniféstus.
+21 Et erit: omnis quicúmque invocáverit nomen Dómini, salvus erit.
 
 [Responsory2]
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
 !Act. 2:22-27
-22 Viri Isra�litae, audite verba haec: Jesum Nazarenum, virum approbatum a Deo in vobis, virtutibus, et prodigiis, et signis, quae fecit Deus per illum in medio vestri, sicut et vos scitis:
-23 hunc, definito consilio et praescientia Dei traditum, per manus iniquorum affligentes interemistis:
-24 quem Deus suscitavit, solutis doloribus inferni, juxta quod impossibile erat teneri illum ab eo.
-25 David enim dicit in eum: Providebam Dominum in conspectu meo semper: quoniam a dextris est mihi, ne commovear:
-26 Propter hoc laetatum est cor meum, et exsultavit lingua mea, insuper et caro mea requiescet in spe:
-27 Quoniam non derelinques animam meam in inferno, nec dabis Sanctum tuum videre corruptionem.
+22 Viri Israëlítæ, audíte verba hæc: Iesum Nazarénum, virum approbátum a Deo in vobis, virtútibus, et prodígiis, et signis, quæ fecit Deus per illum in médio vestri, sicut et vos scitis:
+23 hunc, definíto consílio et præsciéntia Dei tráditum, per manus iniquórum affligéntes interemístis:
+24 quem Deus suscitávit, solútis dolóribus inférni, iuxta quod impossíbile erat tenéri illum ab eo.
+25 David enim dicit in eum: Providébam Dóminum in conspéctu meo semper: quóniam a dextris est mihi, ne commóvear:
+26 propter hoc lætátum est cor meum, et exsultávit lingua mea, ínsuper et caro mea requiéscet in spe:
+27 quóniam non derelínques ánimam meam in inférno, nec dabis sanctum tuum vidére corruptiónem.
 
 [Responsory3]
 @Tempora/Pasc0-5:Responsory2
 
 [Ant 2]
-Praecedam vos * in Galilaeam, ibi me videbitis, sicut dixi vobis, alleluia, alleluia.
+Præcédam vos * in Galilǽam, ibi me vidébitis, sicut dixi vobis, allelúja, allelúja.
 
 [Ant 3]
-Mitte manum tuam, * et cognosce loca clavorum, alleluia: et noli esse incredulus, sed fidelis, alleluia.
+Mitte manum tuam, * et cognósce loca clavórum, allelúja: et noli esse incrédulus, sed fidélis, allelúja.

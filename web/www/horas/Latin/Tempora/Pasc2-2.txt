@@ -1,5 +1,5 @@
 [Rank]
-Feria Tertia infra Hebdomadam II post Octavam Paschae;;Feria;;1
+Feria Tertia infra Hebdomadam II post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -7,43 +7,43 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De Actibus Apostolorum.
+De Actibus Apostolórum.
 !Act. 17:22-27
-22 Stans autem Paulus in medio Areopagi, ait: Viri Athenienses, per omnia quasi superstitiosiores vos video.
-23 Praeteriens enim, et videns simulacra vestra, inveni et aram in qua scriptum erat: Ignoto Deo. Quod ergo ignorantes colitis, hoc ego annuntio vobis.
-24 Deus, qui fecit mundum, et omnia quae in eo sunt, hic caeli et terrae cum sit Dominus, non in manufactis templis habitat,
-25 nec manibus humanis colitur indigens aliquo, cum ipse det omnibus vitam, et inspirationem, et omnia:
-26 fecitque ex uno omne genus hominum inhabitare super universam faciem terrae, definiens statuta tempora, et terminos habitationis eorum,
-27 quaerere Deum si forte attrectent eum, aut inveniant, quamvis non longe sit ab unoquoque nostrum.
+22 Stans autem Paulus in médio Areópagi, ait: Viri Atheniénses, per ómnia quasi superstitiosióres vos vídeo.
+23 Prætériens enim, et videns simulácra vestra, invéni et aram in qua scriptum erat: Ignóto Deo. Quod ergo ignorántes cólitis, hoc ego annúntio vobis.
+24 Deus, qui fecit mundum, et ómnia quæ in eo sunt, hic cæli et terræ cum sit Dóminus, non in manufáctis templis hábitat,
+25 nec mánibus humánis cólitur índigens áliquo, cum ipse det ómnibus vitam, et inspiratiónem, et ómnia:
+26 fecítque ex uno omne genus hóminum inhabitáre super univérsam fáciem terræ, defíniens statúta témpora, et términos habitatiónis eórum,
+27 quǽrere Deum si forte attréctent eum, aut invéniant, quamvis non longe sit ab unoquóque nostrum.
 
 [Responsory1]
 @Tempora/Pasc0-3:Responsory2
 
 [Lectio2]
 !Act. 17:28-33
-28 In ipso enim vivimus, et movemur, et sumus: sicut et quidam vestrorum po�tarum dixerunt: Ipsius enim et genus sumus.
-29 Genus ergo cum simus Dei, non debemus aestimare auro, aut argento, aut lapidi, sculpturae artis, et cogitationis hominis, Divinum esse simile.
-30 Et tempora quidem hujus ignorantiae despiciens Deus, nunc annuntiat hominibus ut omnes ubique p�nitentiam agant,
-31 eo quod statuit diem in quo judicaturus est orbem in aequitate, in Viro in quo statuit, fidem praebens omnibus, suscitans eum a mortuis.
-32 Cum audissent autem resurrectionem mortuorum, quidam quidem irridebant, quidam vero dixerunt: Audiemus te de hoc iterum.
-33 Sic Paulus exivit de medio eorum.
+28 In ipso enim vívimus, et movémur, et sumus: sicut et quidam vestrórum poetárum dixérunt: Ipsíus enim et genus sumus.
+29 Genus ergo cum simus Dei, non debémus æstimáre auro, aut argénto, aut lápidi, sculptúræ artis, et cogitatiónis hóminis, divínum esse símile.
+30 Et témpora quidem huius ignorántiæ despíciens Deus, nunc annúntiat homínibus ut omnes ubíque pœniténtiam agant,
+31 eo quod státuit diem in quo iudicatúrus est orbem in æquitáte, in viro in quo státuit, fidem præbens ómnibus, súscitans eum a mórtuis.
+32 Cum audíssent autem resurrectiónem mortuórum, quidam quidem irridébant, quidam vero dixérunt: Audiémus te de hoc íterum.
+33 Sic Paulus exívit de médio eórum.
 
 [Responsory2]
 @Tempora/Pasc0-5:Responsory1
 
 [Lectio3]
 !Act. 17:34; 18:1-4
-34 Quidam vero viri adhaerentes ei, crediderunt: in quibus et Dionysius areopagita, et mulier nomine Damaris, et alii cum eis.
-1 Post haec egressus ab Athenis, venit Corinthum:
-2 et inveniens quemdam Judaeum nomine Aquilam, Ponticum genere, qui nuper venerat ab Italia, et Priscillam uxorem ejus (eo quod praecepisset Claudius discedere omnes Judaeos a Roma), accessit ad eos.
-3 Et quia ejusdem erat artis, manebat apud eos, et operabatur. (erant autem scenofactoriae artis.)
-4 Et disputabat in synagoga per omne sabbatum, interponens nomen Domini Jesu: suadebatque Judaeis et Graecis.
+34 Quidam vero viri adhæréntes ei, credidérunt: in quibus et Dionýsius Areopagíta, et múlier nómine Dámaris, et álii cum eis.
+1 Post hæc egréssus ab Athénis, venit Corínthum:
+2 et invéniens quemdam Iudǽum nómine Aquilam, Pónticum génere, qui nuper vénerat ab Itália, et Priscíllam uxórem eius (eo quod præcepísset Cláudius discédere omnes Iudǽos a Roma), accéssit ad eos.
+3 Et quia eiúsdem erat artis, manébat apud eos, et operabátur. (Erant autem scenofactóriæ artis.)
+4 Et disputábat in synagóga per omne sábbatum, interpónens nomen Dómini Iesu: suadebátque Iudǽis et Græcis.
 
 [Responsory3]
 @Tempora/Pasc0-5:Responsory2
 
 [Ant 2]
-Euntes in mundum, * docete omnes Gentes, baptizantes eos in nomine Patris, et Filii, et Spiritus Sancti, alleluia.
+Eúntes in mundum, * docéte omnes Gentes, baptizántes eos in nomine Patris, et Fílii, et Spíritus Sancti, allelúja.
 
 [Ant 3]
-Mercenarius autem, * cujus non sunt oves propriae, videt lupum venientem, et dimittit oves, et fugit, et lupus rapit, et dispergit oves, alleluia.
+Mercenárius autem, * cujus non sunt oves própriæ, videt lupum veniéntem, et dimíttit oves, et fugit, et lupus rapit, et dispérgit oves, allelúja.

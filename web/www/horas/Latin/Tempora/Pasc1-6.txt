@@ -1,5 +1,5 @@
 [Rank]
-Sabbato infra Hebdomadam I post Octavam Paschae;;Feria;;1
+Sabbato infra Hebdomadam I post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Oratio Dominica
@@ -7,53 +7,50 @@ Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De Actibus Apostolorum.
+De Actibus Apostolórum
 !Act. 10:1-8
-1 Vir autem quidam erat in Caesarea, nomine Cornelius, centurio cohortis quae dicitur Italica,
-2 religiosus, ac timens Deum cum omni domo sua, faciens eleemosynas multas plebi, et deprecans Deum semper.
-3 Is vidit in visu manifeste, quasi hora diei nona, Angelum Dei intro�untem ad se, et dicentem sibi: Corneli.
-4 At ille intuens eum, timore correptus, dixit: Quid est, Domine? Dixit autem illi: Orationes tuae et eleemosynae tuae ascenderunt in memoriam in conspectu Dei.
-5 Et nunc mitte viros in Joppen, et accersi Simonem quemdam, qui cognominatur Petrus:
-6 hic hospitatur apud Simonem quemdam coriarium, cujus est domus juxta mare: hic dicet tibi quid te oporteat facere.
-7 Et cum discessisset Angelus qui loquebatur illi, vocavit duos domesticos suos, et militem metuentem Dominum ex his qui illi parebant.
-8 Quibus cum narrasset omnia, misit illos in Joppen.
+1 Vir autem quidam erat in Cæsaréa, nómine Cornélius, centúrio cohórtis quæ dícitur Itálica,
+Ac 10 2 religiósus, ac timens Deum cum omni domo sua, fáciens eleemósynas multas plebi, et déprecans Deum semper.
+Ac 10 3 Is vidit in visu maniféste, quasi hora diéi nona, ángelum Dei introeúntem ad se, et dicéntem sibi: Cornéli.
+Ac 10 4 At ille íntuens eum, timóre corréptus, dixit: Quid est, dómine? Dixit autem illi: Oratiónes tuæ et eleemósynæ tuæ ascendérunt in memóriam in conspéctu Dei.
+Ac 10 5 Et nunc mitte viros in Ioppen, et accérsi Simónem quemdam, qui cognominátur Petrus:
+Ac 10 6 hic hospitátur apud Simónem quemdam coriárium, cuius est domus iuxta mare: hic dicet tibi quid te opórteat fácere.
+Ac 10 7 Et cum discessísset ángelus qui loquebátur illi, vocávit duos domésticos suos, et mílitem metuéntem Dóminum ex his qui illi parébant.
+Ac 10 8 Quibus cum narrásset ómnia, misit illos in Ioppen.
 
 [Responsory1]
 @Tempora/Pasc0-6:Responsory1
 
 [Lectio2]
 !Act. 10:9-17
-9 Postera autem die, iter illis facientibus, et appropinquantibus civitati, ascendit Petrus in superiora ut oraret circa horam sextam.
-10 Et cum esuriret, voluit gustare. Parantibus autem illis, cecidit super eum mentis excessus:
-11 et vidit caelum apertum, et descendens vas quoddam, velut linteum magnum, quatuor initiis summitti de caelo in terram,
-12 in quo erant omnia quadrupedia, et serpentia terrae, et volatilia caeli.
-13 Et facta est vox ad eum: Surge, Petre: occide, et manduca.
-14 Ait autem Petrus: Absit Domine, quia numquam manducavi omne commune et immundum.
-15 Et vox iterum secundo ad eum: Quod Deus purificavit, tu commune ne dixeris.
-16 Hoc autem factum est per ter: et statim receptum est vas in caelum.
-17 Et dum intra se haesitaret Petrus quidnam esset visio quam vidisset, ecce viri qui missi erant a Cornelio, inquirentes domum Simonis astiterunt ad januam.
+9 Póstera autem die, iter illis faciéntibus, et appropinquántibus civitáti, ascéndit Petrus in superióra ut oráret circa horam sextam.
+Ac 10 10 Et cum esuríret, vóluit gustáre. Parántibus autem illis, cécidit super eum mentis excéssus:
+Ac 10 11 et vidit cælum apértum, et descéndens vas quoddam, velut línteum magnum, quátuor inítiis submítti de cælo in terram,
+Ac 10 12 in quo erant ómnia quadrupédia, et serpéntia terræ, et volatília cæli.
+Ac 10 13 Et facta est vox ad eum: Surge, Petre: occíde, et mandúca.
+Ac 10 14 Ait autem Petrus: Absit Dómine, quia numquam manducávi omne commúne et immúndum.
+Ac 10 15 Et vox íterum secúndo ad eum: Quod Deus purificávit, tu commúne ne díxeris.
+Ac 10 16 Hoc autem factum est per ter: et statim recéptum est vas in cælum.
+Ac 10 17 Et dum intra se hæsitáret Petrus quidnam esset vísio quam vidísset, ecce viri qui missi erant a Cornélio, inquiréntes domum Simónis astitérunt ad iánuam.
 
 [Responsory2]
 @Tempora/Pasc0-1:Responsory2
 
 [Lectio3]
 !Act. 10:34-41
-34 Aperiens autem Petrus os suum, dixit: In veritate comperi quia non est personarum acceptor Deus;
-35 sed in omni gente qui timet eum, et operatur justitiam, acceptus est illi.
-36 Verbum misit Deus filiis Isra�l, annuntians pacem per Jesum Christum (hic est omnium Dominus).
-37 Vos scitis quod factum est verbum per universam Judaeam: incipiens enim a Galilaea post baptismum quod praedicavit Joannes,
-38 Jesum a Nazareth: quomodo unxit eum Deus Spiritu Sancto, et virtute, qui pertransiit benefaciendo, et sanando omnes oppressos a diabolo, quoniam Deus erat cum illo.
-39 Et nos testes sumus omnium quae fecit in regione Judaeorum, et Jerusalem, quem occiderunt suspendentes in ligno.
-40 Hunc Deus suscitavit tertia die, et dedit eum manifestum fieri,
-41 non omni populo, sed testibus praeordinatis a Deo: nobis, qui manducavimus et bibimus cum illo postquam resurrexit a mortuis.
+34 Apériens autem Petrus os suum, dixit: In veritáte cómperi quia non est personárum accéptor Deus;
+Ac 10 35 sed in omni gente qui timet eum, et operátur iustítiam, accéptus est illi.
+Ac 10 36 Verbum misit Deus fíliis Israël, annúntians pacem per Iesum Christum (hic est ómnium Dóminus).
+Ac 10 37 Vos scitis quod factum est verbum per univérsam Iudǽam: incípiens enim a Galilǽa post baptísmum quod prædicávit Ioánnes,
+Ac 10 38 Iesum a Názareth: quómodo unxit eum Deus Spíritu Sancto, et virtúte, qui pertránsiit benefaciéndo, et sanándo omnes oppréssos a diábolo, quóniam Deus erat cum illo.
+Ac 10 39 Et nos testes sumus ómnium quæ fecit in regióne Iudæórum, et Ierúsalem, quem occidérunt suspendéntes in ligno.
+Ac 10 40 Hunc Deus suscitávit tértia die, et dedit eum maniféstum fíeri,
+Ac 10 41 non omni pópulo, sed téstibus præordinátis a Deo: nobis, qui manducávimus et bíbimus cum illo postquam resurréxit a mórtuis.
 
 [Responsory3]
-R. Ecce vicit leo de tribu Juda, radix David, aperire librum, et solvere septem signacula ejus:
-* Alleluia, alleluia, alleluia.
-V. Dignus est Agnus, qui occisus est, accipere virtutem, et divinitatem, et sapientiam, et fortitudinem, et honorem, et gloriam, et benedictionem.
-R. Alleluia, alleluia, alleluia.
+@Tempora/Pasc0-3:Responsory1
 &Gloria
-R. Alleluia, alleluia, alleluia.
+R. Allelúja, allelúja, allelúja.
 
 [Ant 2]
-Illumine Domine * sedentes in tenebris et umbra mortis, et dirige pedes nostros in viam pacis
+Illúmine, Dómine * sedéntes in ténebris et umbra mórtis, et dírige pedes nostros in viam pacis.

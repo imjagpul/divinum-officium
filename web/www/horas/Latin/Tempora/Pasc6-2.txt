@@ -11,68 +11,68 @@ Doxology=Asc
 Feria Te Deum
 
 [Lectio1]
-De Epistola prima beati Joannis Apostoli.
+De Epístola prima beáti Joánnis Apóstoli
 !1 Joannes 4:1-6
-1 Carissimi, nolite omni spiritui credere, sed probate spiritus si ex Deo sint: quoniam multi pseudoprophetae exierunt in mundum.
-2 In hoc cognoscitur spiritus Dei: omnis spiritus qui confitetur Jesum Christum in carne venisse, ex Deo est:
-3 et omnis spiritus qui solvit Jesum, ex Deo non est, et hic est antichristus, de quo audistis quoniam venit, et nunc jam in mundo est.
-4 Vos ex Deo estis filioli, et vicistis eum, quoniam major est qui in vobis est, quam qui in mundo.
-5 Ipsi de mundo sunt: ideo de mundo loquuntur, et mundus eos audit.
-6 nos ex Deo sumus. Qui novit Deum, audit nos; qui non est ex Deo, non audit nos: in hoc cognoscimus spiritum veritatis, et spiritum erroris.
+1 Caríssimi, nolíte omni spirítui crédere, sed probáte spíritus si ex Deo sint: quóniam multi pseudoprophétæ exiérunt in mundum.
+2 In hoc cognóscitur Spíritus Dei: omnis spíritus qui confitétur Iesum Christum in carne venísse, ex Deo est:
+3 et omnis spíritus qui solvit Iesum, ex Deo non est, et hic est Antichrístus, de quo audístis quóniam venit, et nunc iam in mundo est.
+4 Vos ex Deo estis filíoli, et vicístis eum, quóniam maior est qui in vobis est, quam qui in mundo.
+5 Ipsi de mundo sunt: ídeo de mundo loquúntur, et mundus eos audit.
+6 Nos ex Deo sumus. Qui novit Deum, audit nos; qui non est ex Deo, non audit nos: in hoc cognóscimus Spíritum veritátis, et spíritum erróris.
 
 [Responsory1]
 @Tempora/Pasc5-4:Responsory1
 
 [Lectio2]
 !1 Joannes 4:7-14
-7 Carissimi, diligamus nos invicem: quia caritas ex Deo est: et omnis qui diligit, ex Deo natus est, et cognoscit Deum.
-8 Qui non diligit, non novit Deum: quoniam Deus caritas est.
-9 In hoc apparuit caritas Dei in nobis, quoniam Filium suum unigenitum misit Deus in mundum, ut vivamus per eum.
-10 In hoc est caritas: non quasi nos dilexerimus Deum, sed quoniam ipse prior dilexit nos, et misit Filium suum propitiationem pro peccatis nostris.
-11 Carissimi, si sic Deus dilexit nos: et nos debemus alterutrum diligere.
-12 Deum nemo vidit umquam. Si diligamus invicem, Deus in nobis manet, et caritas ejus in nobis perfecta est.
-13 In hoc cognoscimus quoniam in eo manemus, et ipse in nobis: quoniam de Spiritu suo dedit nobis.
-14 Et nos vidimus, et testificamur quoniam Pater misit Filium suum Salvatorem mundi.
+7 Caríssimi, diligámus nos ínvicem: quia cáritas ex Deo est. Et omnis qui díligit, ex Deo natus est, et cognóscit Deum.
+8 Qui non díligit, non novit Deum: quóniam Deus cáritas est.
+9 In hoc appáruit cáritas Dei in nobis, quóniam Fílium suum unigénitum misit Deus in mundum, ut vivámus per eum.
+10 In hoc est cáritas: non quasi nos dilexérimus Deum, sed quóniam ipse prior diléxit nos, et misit Fílium suum propitiatiónem pro peccátis nostris.
+11 Caríssimi, si sic Deus diléxit nos: et nos debémus altérutrum dilígere.
+12 Deum nemo vidit umquam. Si diligámus ínvicem, Deus in nobis manet, et cáritas eius in nobis perfécta est.
+13 In hoc cognóscimus quóniam in eo manémus, et ipse in nobis: quóniam de Spíritu suo dedit nobis.
+14 Et nos vídimus, et testificámur quóniam Pater misit Fílium suum Salvatórem mundi.
 
 [Responsory2]
 @Tempora/Pasc5-4:Responsory2
 
 [Lectio3]
 !1 Joannes 4:15-21
-15 Quisquis confessus fuerit quoniam Jesus est Filius Dei, Deus in eo manet, et ipse in Deo.
-16 Et nos cognovimus, et credidimus caritati, quam habet Deus in nobis. Deus caritas est: et qui manet in caritate, in Deo manet, et Deus in eo.
-17 In hoc perfecta est caritas Dei nobiscum, ut fiduciam habeamus in die judicii: quia sicut ille est, et nos sumus in hoc mundo.
-18 Timor non est in caritate: sed perfecta caritas foras mittit timorem, quoniam timor poenam habet: qui autem timet, non est perfectus in caritate.
-19 Nos ergo diligamus Deum, quoniam Deus prior dilexit nos.
-20 Si quis dixerit: Quoniam diligo Deum, et fratrem suum oderit, mendax est. Qui enim non diligit fratrem suum quem videt, Deum, quem non videt, quomodo potest diligere?
-21 Et hoc mandatum habemus a Deo: ut qui diligit Deum, diligat et fratrem suum.
+15 Quisquis conféssus fúerit quóniam Iesus est Fílius Dei, Deus in eo manet, et ipse in Deo.
+16 Et nos cognóvimus, et credídimus caritáti, quam habet Deus in nobis. Deus cáritas est: et qui manet in caritáte, in Deo manet, et Deus in eo.
+17 In hoc perfécta est cáritas Dei nobíscum, ut fidúciam habeámus in die iudícii: quia sicut ille est, et nos sumus in hoc mundo.
+18 Timor non est in caritáte: sed perfécta cáritas foras mittit timórem, quóniam timor pœnam habet: qui autem timet, non est perféctus in caritáte.
+19 Nos ergo diligámus Deum, quóniam Deus prior diléxit nos.
+20 Si quis díxerit: Quóniam díligo Deum, et fratrem suum óderit, mendax est. Qui enim non díligit fratrem suum quem vidit, Deum, quem non vidit, quómodo potest dilígere?
+21 Et hoc mandátum habémus a Deo: ut qui díligit Deum, díligat et fratrem suum.
 
 [Responsory3]
 @Tempora/Pasc5-4:Responsory3
 
 [Lectio4]
-Sermo sancti Maximi Episcopi.
-!Homilia 43, quae est 2. de Pentecoste, ante medium.
-Meminit sanctitas vestra, quod aquilae illi de Psalterio, cujus innovatam juventutem legimus, comparaverim Salvatorem. Est enim similitudo non parva. Sicut enim aquila humilia deserit, alta petit, caelorum vicina conscendit: ita et Salvator humilia inferni deseruit, paradisi altiora petiit, caelorum fastigia penetravit Et sicut aquila relictis terrenis sordibus, sublime volans, purioris a�ris salubritate perfruitur: ita et Dominus terrenorum faecem deserens peccatorum, in Sanctis suis volitans, purioris vitae simplicitate laetatur.
+Sermo sancti Maximi Epíscopi
+!Homilía 43, quæ est 2 de Pentecoste, ante medium
+Méminit sanctitas vestra, quod áquilæ illi de Psalterio, cujus innovatam juventútem légimus, comparaverim Salvatórem. Est enim similitúdo non parva. Sicut enim aquila humília deserit, alta petit, cælórum vicina conscéndit: ita et Salvátor humília inférni deseruit, paradisi altióra pétiit, cælórum fastigia penetrávit. Et sicut aquila relictis terrenis sordibus, sublime volans, purioris áëris salubritate perfruitur: ita et Dóminus, terrenórum fæcem déserens peccatórum, in Sanctis suis vólitans, purioris vitæ simplicitate lætátur.
 
 [Lectio5]
-Per omnia igitur aquilae comparatio convenit Salvatori. Sed quid facimus, quod aquila praedam frequenter diripit, tollit frequenter alienum? Nec in hoc tamen dissimilis est Salvator. Praedam enim quodammodo sustulit, cum hominem, quem suscepit, inferni raptum faucibus portavit ad caelum, et alienae dominationis id est, diabolicae potestatis servum de captivitate erutum, duxit ad altiora captivum, sicut scriptum est in propheta: Ascendens in altum, captivam duxit captivitatem, dedit dona hominibus.
+Per ómnia ígitur áquilæ comparátio cónvenit Salvatori. Sed quid facimus, quod aquila prædam frequenter díripit, tollit frequenter aliénum? Nec in hoc tamen díssímilis est Salvator. Prædam enim quodammodo sústulit, cum hóminem, quem suscépit, inférni raptum fáucibus portávit ad cælum, et alienæ dominatiónis, id est, diabolicæ potestátis servum de captivitáte érutum, duxit ad altióra captivum, sicut scriptum est in prophéta: Ascéndens in altum, captivam duxit captivitátem, dedit dona homínibus.
 
 [Lectio6]
-Ascendit, inquit, in altum, captivam duxit captivitatem. Quam bene triumphum Domini propheta describit! Solebat, sicut dicunt, regum triumphantium currus captivorum pompa praecedere. Ecce Dominum euntem ad caelos non praecedit, sed comitatur gloriosa captivitas, non ante vehiculum ducitur, sed ipsa evehit Salvatorem. Quodam enim mysterio, dum Filius Dei filium hominis sustulit ad caelum, ipsa captivitas portatur, et portat.
+Ascéndit, inquit, in altum, captivam duxit captivitátem. Quam bene triumphum Dómini prophéta describit! Solebat, sicut dicunt, regum triumphántium currus captivórum pompa præcedere. Ecce Dóminum euntem ad cælos non præcedit, sed comitátur gloriósa captívitas; non ante vehiculum ducitur, sed ipsa évehit Salvatórem. Quodam enim mysterio, dum Fílius Dei Fílium hóminis sústulit ad cælum, ipsa captívitas portátur, et portat.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Marcum.
+Léctio sancti Evangélii secúndum Marcum
 !Marc 16:14-20
-In illo tempore: Recumbentibus undecim discipulis apparuit illis Jesus: et exprobravit incredulitatem eorum, et duritiam cordis: quia iis, qui viderant eum resurrexisse, non crediderunt. Et reliqua.
+In illo témpore: Recumbéntibus undecim discípulis, appáruit illis Jesus: et exprobrávit incredulitátem eórum et durítiam cordis, quia iis, qui viderant eum resurrexísse, non credidérunt. Et réliqua.
 _
-De Homilia sancti Gregorii Papae.
-!Ex eadem Homilia 29.
-Considerandum nobis est, quid est quod Marcus ait: Sedet a dextris Dei: et Stephanus dicit: Video caelos apertos, et Filium hominis stantem a dextris Dei. Quid est quod hunc Marcus sedentem, Stephanus vero stantem se videre testatur? Sed scitis, fratres, quia sedere judicantis est, stare vero pugnantis, vel adjuvantis.
+Homilía sancti Gregórii Papæ
+!Ex eadem Homilía 29
+Considerándum nobis est, quid est quod Marcus ait: Sedet a dextris Dei: et Stephanus dicit: Video cælos apertos, et Fílium hóminis stántem a dextris Dei. Quid est quod hunc Marcus sedéntem, Stephanus vero stántem se vidére testátur? Sed scitis, fratres, quia sedere judicántis est, stare vero pugnántis, vel adjuvantis.
 
 [Lectio8]
-Quia ergo Redemptor noster assumptus in caelum, et nunc omnia judicat, et ad extremum judex omnium veniet; hunc post assumptionem Marcus sedere describit, quia post ascensionis suae gloriam judex in fine videbitur. Stephanus vero hunc in labore certaminis positus stantem vidit, quem adjutorem habuit: quia ut iste in terra persecutorum infidelitatem vinceret, pro illo de caelo illius gratia pugnavit.
+Quia ergo Redémptor noster assumptus in cælum et nunc ómnia júdicat, et ad extremum judex ómnium véniet, hunc post assumptiónem Marcus sedére describit, quia post ascensiónis suæ glóriam judex in fine vidébitur. Stephanus vero hunc in labóre certáminis positus stántem vidit, quem adjutórem hábuit: quia ut iste in terra persecutórum infidelitátem vinceret, pro illo de cælo illíus grátia pugnávit.
 
 [Lectio9]
-Sequitur: Illi autem profecti praedicaverunt ubique Domino cooperante, et sermonem confirmante sequentibus signis. Quid in his considerandum est, quid memoriae commendandum: nisi quod praeceptum obedientia, obedientiam vero signa secuta sunt? Sed quia auctore Deo breviter lectionem evangelicam exponendo transcurrimus: restat, ut aliquid de ipsa tantae consideratione solemnitatis dicamus.
+Sequitur: Illi autem profecti prædicavérunt ubíque, Dómino cooperante et sermónem confírmante sequéntibus signis. Quid in his considerándum est, quid memóriæ commendándum: nisi quod præcéptum obediéntia, obediéntiam vero signa secuta sunt? Sed quia auctore Deo breviter lectiónem evangelicam exponéndo transcurrimus: restat, ut aliquid de ipsa tantæ consíderatióne solemnitátis dicámus.
 &teDeum

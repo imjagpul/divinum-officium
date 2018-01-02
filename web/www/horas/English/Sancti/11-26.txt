@@ -15,13 +15,7 @@ $Per Dominum
 
 [Commemoratio]
 !Commemoration of St. Peter of Alexandria, Martyr
-@Commune/C2:Oratio proper
-$Oremus
-Mercifully consider our weakness, O Almighty God, and whereas by the burden of~
-our sins we are sore, let Peter your Martyr be mercifully pleased to deliver us~
-from all things which may hurt our bodies, and from all evil thoughts which may~
-defile our souls.
-$Per Dominum.
+@Commune/C2:Oratio:s/N\./Peter/
 
 [Lectio4]
 This Silvester was born of a noble family at Osimo, in Picenum, and in his~
@@ -62,15 +56,6 @@ toward her until the last breath of his life, the which breath he resigned to~
 God, famous for holiness and miracles, aged almost ninety years, upon the 26th~
 day of November, in the year of salvation 1267. The Supreme Pontiff Leo XIII~
 extended his Office and Mass to the whole Church.
-
-[Lectio7]
-@Commune/C1:Lectio7
-
-[Lectio8]
-@Commune/C1:Lectio8
-
-[Lectio9]
-@Commune/C1:Lectio9
 
 [Lectio93]
 !Commemoration of St. Peter of Alexandria, Martyr

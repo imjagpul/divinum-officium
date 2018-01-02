@@ -12,21 +12,27 @@ Laudes 2
 no Te Deum
 
 [Lectio1]
-@Commune/C11:Lectio7
+Léctio sancti Evangélii secúndum Lucam.
+!Luc 11:27-28
+In illo témpore: Loquénte Jesu ad turbas, extollens vocem quædam mulier de turba dixit illi: Beátus venter qui te portávit. Et réliqua.
+_
+Homilía sancti Joánnis Chrysostomi
+!In Joánn. c. 2 Homilía 20 circa finem
+Cum audíeris mulíerem illam dicéntem: Beátus venter qui te portávit, et ubera quæ tu suxísti; deinde Dóminum respondentem: Quinimmo beáti qui audiunt verbum Dei et custódiunt illud; ea senténtia dictum exístima, non quod Matrem neglígeret, sed nihil ei utilitátis matris nomen allatúrum osténderet, nisi bonitáte et fide præstaret. Quod si Maríæ nihil, sine virtúte, materna caritas erat profutura; longe minus nobis patris, fratris, matris, fílii bonitas, nisi aliquid nostrum afferamus.
 
 [Lectio2]
-@Commune/C11:Lectio8
+In nullo namque alio, nisi in solis sui ipsíus virtútibus, post divinam grátiam, de salúte cuípiam sperándum est. Nam, si id profuturum erat Christus secúndum carnem; profuísset civitáti, in qua natus est; profuísset frátribus. Atqui, dum fratres rerum suárum curam habuérunt, nihil eis propinquitátis nomen prófuit, sed cum réliquo mundo damnáti erant.
 
 [Lectio3]
-@Commune/C11:Lectio9
+Tunc autem admiratióni esse cœpérunt, quando propria claruérunt virtúte. Pátria vero nihil inde consecuta cécidit, et incendio absumpta est; concíves mísere interempti periére; consanguínei secúndum carnem nil ad salútem lucráti sunt, deficiénte virtútis patrocinio. Verum Apóstoli ante omnes claríssimi evasérunt, cum se ad veram et expeténdam ejus familiaritátem consuetudinémque per obediéntiam contulérunt. Hunc intellígimus, fide semper nobis opus esse, et vita quæ virtútibus luceat: hæc dumtaxat salvos nos fácere póterit.
 
 [Commemoratio]
 !Commemoratio S. Eusebii Confessoris
 @Commune/C4:Oratio proper
 $Oremus
-Deus, qui nos be�ti Eus�bii Confess�ris tui �nnua solemnit�te l�t�ficas: conc�de prop�tius; ut, cujus natal�tia c�limus, per ejus ad te ex�mpla gradi�mur.  
+Deus, qui nos beáti Eusébii Confessóris tui ánnua solemnitáte lætíficas: concéde propítius; ut, cujus natalícia cólimus, per ejus ad te exémpla gradiámur. 
 $Per Dominum.
 
 [Oratio]
-Deus, qui virginalem aulam beat� Mari�, in qua habitares, eligere dignatus es: da, quaesumus; ut, sua nos defensione munitos, iucundos facias suae interesse festivitati:
+Deus, qui virginalem aulam beátæ Maríæ, in qua habitáres, eligere dignátus es: da, quǽsumus; ut, sua nos defensióne munitos, jucundos fácias suæ interesse festivitáti:
 $Qui vivis

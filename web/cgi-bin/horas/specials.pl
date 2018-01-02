@@ -367,9 +367,7 @@ sub specials {
 
 	if ($item =~ /(benedictus|magnificat)/i) {	 
 	  $comment = ($winner =~ /sancti/i) ? 3 : 2; 
-	  $prefix = ($lang =~ /English/i) ? 'Antiphon' : 'Antiphona';	   
-	  $prefix = ($lang =~ /Magyar/i) ? 'Antifóna' : 'Antiphona';
-	  setcomment($label, 'Source', $comment, $lang, $prefix);
+	  setcomment($label, 'Source', $comment, $lang, translate('Antiphona', $lang));
 	  next;																 
 	}
 	
@@ -454,12 +452,13 @@ sub specials {
   
   #flag for Litaniae majores for St Marks day: for Easter Sunday (in 1960 also from Easter Monday) to Tuesday, 
   my $flag = 0;
-  if ($month == 4 && $day == 25 && ($dayname[0] !~ /Pasc0/ || $dayofweek > 1)) {$flag = 1;}
-  if ($month == 4 && $day == 27 && $dayname[0] =~ /Pasc0/ && $dayofweek == 2) {$flag = 1;}  #25 Sunday
-  if ($version !~ /1960/ && $month == 4 && $day == 25 && $dayname[0] =~ /Pasc0/ && $dayofweek == 1) {$flag = 1;}
-  if ($version =~ /1960/ && $month == 4 && $day == 26 && $dayname[0] =~ /Pasc0/ && $dayofweek == 2) {$flag = 1;}
-  if ($rule =~ /Laudes Litania/i && $winner =~ /Sancti/ && $day != 25) {$rule =~ s/Laudes Litania//ig;}
-
+  if (!$votive) {
+    if ($month == 4 && $day == 25 && ($dayname[0] !~ /Pasc0/ || $dayofweek > 1)) {$flag = 1;}
+    if ($month == 4 && $day == 27 && $dayname[0] =~ /Pasc0/ && $dayofweek == 2) {$flag = 1;}  #25 Sunday
+    if ($version !~ /1960/ && $month == 4 && $day == 25 && $dayname[0] =~ /Pasc0/ && $dayofweek == 1) {$flag = 1;}
+    if ($version =~ /1960/ && $month == 4 && $day == 26 && $dayname[0] =~ /Pasc0/ && $dayofweek == 2) {$flag = 1;}
+    if ($rule =~ /Laudes Litania/i && $winner =~ /Sancti/ && $day != 25) {$rule =~ s/Laudes Litania//ig;}
+  }
 
     # Insert the title.
     $label = translate_label($label, $lang);
@@ -475,6 +474,7 @@ sub specials {
 	  push(@s, $w{$lname});
 	  setbuild1($item, 'Litania omnium sanctorum');
 	  $skipflag = 1;
+	  $litaniaflag = 1;
   }
 
     # Special conclusions, e.g. on All Souls' day.
@@ -736,7 +736,7 @@ sub psalmi_minor {
     if ($version =~ /1960/ && $rank < 6) {$feastflag = 0;} 	
     if ($winner{Rank} =~ /Dominica/i && $dayname[0] !~ /Nat|Pasc6/i) {$feastflag = 0;}
     if ($feastflag) {
-      $prefix = ($lang =~ /English/i) ? "Psalms for Sunday, antiphons " : "Psalmi Dominica, antiphonae ";
+      $prefix = translate("Psalmi Dominica, antiphonae", $lang).' ';
       setbuild2('Psalmi dominica');
     }  
   }
@@ -787,8 +787,9 @@ sub psalmi_minor {
   
   #quicumque
   if (($version !~ /(1955|1960)/ || $dayname[0] =~ /Pent01/i) && $hora =~ /prima/i && 
-     $dayname[0] =~ /(Epi|Pent)/i && $dayofweek == 0 && 
-     ($dayname[0] =~ /Pent01/i || checksuffragium() )) {
+      (($dayname[0] =~ /(Epi|Pent)/i) || $version =~ /Trident/i) &&
+      $dayofweek == 0 &&
+      ($dayname[0] =~ /Pent01/i || checksuffragium() )) {
     push(@s, "\&psalm(234)");
     push(@s, "\n");
     setbuild2('Quicumque');
@@ -796,6 +797,7 @@ sub psalmi_minor {
 					 
   pop (@s);
   push (@s,'_');
+  $ant =~ s/\s*\*\s*/ /;
   push (@s, $ant);
   return;
 }
@@ -834,7 +836,7 @@ sub psalmi_major {
   else { @psalmi = split("\n", $psalmi{"Day$dayofweek $name"});}   
 	                              
   $comment = 0;                                      
-  $prefix = ($lang =~ /English/i) ? 'Psalms and antiphons' : 'Psalmi et antiphonae '; 
+  $prefix = translate("Psalmi et antiphonae", $lang).' ';
   setbuild("Psalterium/Psalmi major", "Day$dayofweek $name", 'Psalmi ord');	             
 
   if ($hora =~ /Laudes/	&& $month == 12 && ($day > 16 && $day < 24) && $dayofweek > 0) {
@@ -881,12 +883,12 @@ sub psalmi_major {
   elsif (($rule =~ /Psalmi Dominica/i || $commune{Rule} =~ /Psalmi Dominica/i  ||
      ($anterule && $anterule =~ /Psalmi Dominica/i))
      && ($antiphones[0] !~ /\;\;\s*[0-9]+/)) {  
-    $prefix = ($lang =~ /English/i) ? "Psalms, antiphons" : "Psalmi $1, antiphonae "; 
+    $prefix = translate("Psalmi, antiphonae", $lang).' ';
     my $h = ($hora =~ /laudes/i && $version !~ /monastic/i) ? "$hora" . '1' : "$hora";	   
     @p = split("\n", $psalmi{"Day0 $h"});
     if ($version =~ /monastic/i && $hora =~/laudes/i)    
       {@p = split("\n", $psalmi{"DaymF Laudes"});}
-    elsif ($version =~ /Trident/i && $hora =~ /laudes/i && $dayname[0] !~ /Quad[1-6]/i) 
+    elsif ($version =~ /Trident/i && $hora =~ /laudes/i)
       {@p = split("\n", $psalmi{"DayaC Laudes"});}	
 
     setbuild2('Psalmi dominica');
@@ -910,7 +912,7 @@ sub psalmi_major {
 	  ($antiphones[$i] =~ /(.*?);;/s) ? "$1;;$p" : "$antiphones[$i];;$p";;
   }}   
   
-  $prefix = '';
+  # $prefix = ''; # this line prevent display prefix set in line 883 commented out by @mbab 2017/02/09
   if (($dayname[0] =~ /(Adv|Quad)/i || emberday()) && $hora =~ /laudes/i && $version !~ /trident/i) 
      {$prefix = "Laudes:$laudes $prefix";}      
 
@@ -943,8 +945,8 @@ sub antetpsalm {
 
   if ($dayname[0]  =~ /Pasc/i  && $hora =~ /(laudes|vespera)/i && $version !~ /monastic/i && 
       !exists($winner{"Ant $hora"}) && $communetype !~ /ex/i) { 
-    if ($ind == 0) {$ant1 = ($duplex < 3 && $version !~ /1960/) ? 'Alleluia' : 'Alleluia, * alleluia, alleluia.'; $ant = ''}
-    elsif ($last) {$ant1 = ''; $ant = 'Alleluia, * alleluia, alleluia.';}
+    if ($ind == 0) {$ant1 = Alleluia_ant($lang, 0); $ant = ''}
+    elsif ($last) {$ant1 = ''; $ant = Alleluia_ant($lang, 1); }
     else {$ant1 = $ant = '';}	  
   }
 
@@ -967,6 +969,7 @@ sub antetpsalm {
   }
   if ($ant) {
     $ant =~ s/\;\;[0-9\;n]+//;
+    $ant =~ s/\s*\*\s*/ /;
     push (@s, '_');
     push (@s, "Ant. $ant");
   }
@@ -1003,7 +1006,7 @@ sub oratio
     # Before the Sunday formerly in the octave, the collect of the Epiphany is
     # said, as in the past; afterwards, the collect of the Sunday is said, in
     # which case we have to override it.
-    if ($dayname[0] =~ /Epi1/i && $rule =~ /Infra octavam Epiphaniae Domini/i &&
+    if ($dayname[0] =~ /Epi1/i && $rule =~ /Infra octavam Epiphaniæ Domini/i &&
       $version =~ /(monastic|1955|1960)/i)
     {
         $rule .= "Oratio Dominica\n";
@@ -1099,6 +1102,8 @@ sub oratio
       if ($w =~ /(.*?)(\n\$Qui [^\n\r]*?\s*)$/s) {$addconclusio = $2; $w = $1;}
     } else {$w =~ s/\$(Per|Qui) .*?\n//;}
     }
+
+    $w =~ s/^(?:v. )?/v. /;
 
     push (@s, $w);
     if ($rule =~ /omit .*? commemoratio/i) {return;}
@@ -1412,6 +1417,7 @@ sub getcommemoratio {
 
   our %prayers;
   my $w = "!" . &translate("Commemoratio",$lang);
+  $a =~ s/\s*\*\s*/ /;
   $w .= " $rank[0]\nAnt. $a\n_\n$v\n_\n$prayers{$lang}->{Oremus}\nv. $o\n";
   return $w;
 }
@@ -1441,6 +1447,7 @@ sub vigilia_commemoratio {
   my %p = %{setupstring($datafolder, $lang, 'Psalterium/Major Special.txt')};  
   my $a = $p{"Day$dayofweek Ant 2"};
   my $v = $p{"Day$dayofweek Versum 2"};
+  $a =~ s/\s*\*\s*/ /;
   $w = $c . "Ant. $a" . "_\n$v" . "_\n\$Oremus\n$w"; 
   return $w;
 }
@@ -1832,6 +1839,7 @@ sub getrefs {
       if (!$a) {$a  = "Day$dayofweek Ant $ind missing";}
       my $v = chompd($s{"Day$dayofweek Versum $ind"});
       if (!$v) {$a  = "Day$dayofweek Versus $ind missing";}
+      $a =~ s/\s*\*\s*/ /;
       $w = $before . "_\nAnt. $a" . "_\n$v" . "_\n$after";
       do_inclusion_substitutions($a, $substitutions);
       do_inclusion_substitutions($v, $substitutions);
@@ -1855,7 +1863,7 @@ sub getrefs {
 	  }	
 	  if ($flag) {
         do_inclusion_substitutions($a, $substitutions);
-        $a = "_\n$a" . "_\n";
+        $a = "$a" . "_\n";
       }
 	  else {$a = '';}
 	  $w = "$before$a$after";   
@@ -1869,29 +1877,37 @@ sub getrefs {
       if (!$v) {$a  = "$file Versus $ind missing\n";}
       my $o = '';	 
       if ($item !~ /proper/) {
-        $o = $s{$item};		  
+        my $i = $item; 
+        $i =~ s/\sgregem.*//i; 
+        $o = $s{$i};		  
 		    if (!$o) {$o = "$file:$item missing\n";}
-		    elsif ($o !~ /\!Oratio/i) {$o = "!Oratio\n$o";}
+		    elsif ($o !~ /\$Oremus/i) {$o = "\$Oremus\n$o";}
       }	
 	  
-
       # Special processing for Common of Supreme Pontiffs.
-      if ($version !~ /Trident/i && (my ($plural, $class, $name) = papal_commem_rule($rule))) {
-        if ($item =~ /Gregem/i)
-        {
-          $o = papal_prayer($lang, $plural, $class, $name);
-          if ($after =~ /(!Commem.*)/is) {$after = $1;} else {$after = '';}
-          $o = "\$Oremus\n" . $o;
+      my ($plural, $class, $name) = papal_commem_rule($rule);
+      if ($name) {
+        if ($version !~ /Trident/i) {
+          if ($item =~ /Gregem/i)
+          {
+            $o = papal_prayer($lang, $plural, $class, $name);
+            if ($after =~ /(!Commem.*)/is) {$after = $1;} else {$after = '';}
+            $o = "\$Oremus\n" . $o;
+          }
+          
+          # Confessor-Popes have a common Magnificat antiphon at second Vespers.
+          if ($popeclass && $popeclass =~ /C/ && $ind == 3) {$a = papal_antiphon_dum_esset($lang);}
         }
-        
-        # Confessor-Popes have a common Magnificat antiphon at second Vespers.
-        if ($popeclass && $popeclass =~ /C/ && $ind == 3) {$a = papal_antiphon_dum_esset($lang);}
+        else {
+          if ($o =~ /N\./) {$o = replaceNdot($o, $lang, $name);}
+        }
       }
 
       do_inclusion_substitutions($a, $substitutions);
       do_inclusion_substitutions($v, $substitutions);
       do_inclusion_substitutions($o, $substitutions);
-	  $w = $before . "_\nAnt. $a" . "_\n$v" . "_\n$o" . "_\n$after";  
+      $a =~ s/\s*\*\s*/ /;
+      $w = $before . "_\nAnt. $a" . "_\n$v" . "_\n$o" . "_\n$after";
       next;
     }
 		 
@@ -1956,19 +1972,18 @@ sub loadspecial
 
 #*** delconclusio($ostr)
 # deletes the conclusio from the string
-sub delconclusio  {
- my $ostr = shift;    
- my @ostr = split("\n", $ostr);
- $ostr = '';
- my $line;
- foreach $line (@ostr) {
-   if ($line =~ /^\$/ && $line !~ /\$Oremus/) {
-     $addconclusio = "$line\n";
-     next;
-   }
-   $ostr .= "$line\n";
- }    
- return $ostr;
+sub delconclusio
+{
+  my $ostr = shift;
+
+  # Stripped conclusion, perhaps to be added in again later.
+  our $addconclusio;
+
+  if ($ostr =~ s/^(\$(?!Oremus).*?(\n|$)((_|\s*)(\n|$))*)//m) {
+    $addconclusio = $1;
+  }
+
+  return $ostr;
 }
 
 #*** replaceNdot($s, $lang)

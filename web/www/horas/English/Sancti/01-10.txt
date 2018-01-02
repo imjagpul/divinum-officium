@@ -48,7 +48,7 @@ every tongue shall confess to God.
 you put not a stumblingblock or a scandal in your brother's way.
 
 [Lectio4]
-From the Sermons of St Maximus, Bishop (of Turin.)
+From the Sermons of St. Maximus, Bishop (of Turin.)
 !1st on the Epiphany.
 Dearly beloved brethren, we are instructed by the tradition of the Fathers,~
 that we have to keep holiday on this solemnity in honour of several joyful~
@@ -84,7 +84,7 @@ When Jesus therefore was born in Bethlehem of Juda, in the days of king Herod,~
 behold, there came wise men from the east to Jerusalem. Saying, Where is he that~
 is born king of the Jews? And so on.
 _
-Homily by St Jerome, Priest (at Bethlehem.)
+Homily by St. Jerome, Priest (at Bethlehem.)
 !Bk. i. Comm. on Matth. ii.
 We have seen His star in the East. In order that the Jews might be confounded by~
 hearing from the Gentiles of the birth of Christ, the star rose in the East.~
@@ -125,10 +125,4 @@ All they from Saba shall come, * they shall bring gold and frankincense, allelui
 
 [Commemoratio 3] (rubrica Divino aut rubrica Tridentina aut rubrica Monastica)
 !For St. Hyginus Pope and Martyr
-@Commune/C2:Oratio proper Gregem
-$Oremus
-Mercifully consider our weakness, O Almighty God, and whereas by the burden of~
-our sins we are sore, let Hyginus your Martyr be mercifully pleased to deliver us from~
-all things which may hurt our bodies, and from all evil thoughts which may~
-defile our souls.
-$Per Dominum
+@Commune/C2:Oratio Gregem

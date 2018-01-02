@@ -1,25 +1,26 @@
 [Rank]
-S. Marcelli Papae et Martyris;;Semiduplex;;2;;vide C2
+S. Marcelli Papæ et Martyris;;Semiduplex;;2;;vide C2
 
 [Rule]
 vide C2;
 9 lectiones
 
 [Oratio]
-Preces populi tui, quaesumus, Domine, clementer exaudi: ut beati Marcelli Martyris tui atque Pontificis meritis adjuvemur, cujus passione laetamur.
+Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut beáti Marcélli~
+Mártyris tui atque Pontíficis méritis adjuvémur, cujus passióne lætámur.
 $Per Dominum
 
 [Lectio4]
-Marcellus Romanus, a Constantio et Galerio usque ad Maxentium pontificatum gessit. Cujus hortatu Lucina matrona Romana, bonorum suorum Dei Ecclesiam fecit heredem. Aucto in Urbe fidelium numero, ad eorum utilitatem, ad baptismum poenitentiamque dandam eis, qui christianam religionem susciperent, et ad Martyrum sepulturam, novos Titulos instituit, et quasi alteras dioeceses distribuit. Quibus rebus ira incensus Maxentius, Marcello gravia supplicia minatur, nisi, deposito pontificatu, idolis immolaret.
+Marcellus Romanus, a Constantio et Galerio usque ad Maxéntium pontificátum gessit. Cujus hortatu Lucina matrona Romana, bonórum suórum Dei Ecclésiam fecit heredem. Aucto in Urbe fidelium numero, ad eórum utilitátem, ad baptismum pœnitentiámque dandam eis, qui christianam religiónem suscíperent, et ad Mártyrum sepultúram, novos Titulos instituit, et quasi álteras diœcéses distríbuit. Quibus rebus ira incénsus Maxentius, Marcello gravia supplícia minátur, nisi, depósito pontificatu, idolis immolaret.
 
 [Lectio5]
-Qui cum insanas hominis voces negligeret, misit eum in catabulum, ut bestiarum, quae publice alebantur, curam sustineret. Ubi Marcellus assiduis jejuniis et precibus novem menses vitam duxit, parochias, quas praesens non poterat, visitans per epistolas. Inde ereptus a clericis, hospitio recipitur a beata Lucina, in cujus sedibus ecclesiam dedicavit, quae hodie titulo sancti Marcelli nominatur: in qua et Christiani orabant, et ipse beatus Marcellus praedicabat.
+Qui cum insanas hóminis voces neglígeret, misit eum in catábulum, ut bestiárum, quæ publice alebántur, curam sustinéret: ubi Marcellus assiduis jejuniis et precibus novem menses vitam duxit, parochias, quas præsens non póterat, visitans per epistolas. Inde ereptus a clericis, hospítio recípitur a beáta Lucina, in cujus ædibus ecclésiam dedicávit, quæ hódie titulo sancti Marcelli nominátur: in qua et Christiáni orábant, et ipse beátus Marcellus prædicabat.
 
 [Lectio6]
-Quibus cognitis, Maxentius in eam ecclesiam catabuli bestias transferri, et a Marcello custodiri jubet: ubi loci foeditate, multisque aerumnis afflictus obdormivit in Domino. Cujus corpus in coemeterio Priscillae via Salaria a beata Lucina sepultum est decimo septimo Kalendas Februarii. Sedit annos quinque, mensem unum, dies viginti quinque. Scripsit epistolam ad episcopos Antiochenae provinciae de primatu Romanae Ecclesiae, quam caput ecclesiarum appellandam demonstrat. Ubi etiam illud scriptum est, nullum concilium jure celebrari, nisi ex auctoritate Romani Pontificis. Ordinavit mense Decembri Romae presbyteros viginti quinque, diaconos duos, episcopos per diversa loca viginti unum.
+Quibus cógnitis, Maxentius in eam ecclésiam catábuli bestias transférri, et a Marcello custodiri jubet: ubi loci fœditate, multisque ærumnis afflíctus obdormívit in Dómino. Cujus corpus in cœmeterio Priscillæ via Salaria a beáta Lucina sepúltum est décimo septimo Kalendas Februarii. Sedit annos quinque, mensem unum, dies viginti quinque. Scripsit epistolam ad episcopos Antiochenæ provinciæ de primatu Romanæ Ecclésiæ, quam caput ecclesiárum appellandam demonstrat; ubi etiam illud scriptum est, nullum concílium jure celebrari, nisi ex auctoritate Romani Pontificis. Ordinávit mense Decembri Romæ presbyteros viginti quinque, diaconos duos, episcopos per diversa loca viginti unum.
 
 [Lectio94]
-Marc�llus Rom�nus, a Const�ntio et Gal�rio usque ad Max�ntium pontific�tum gessit. Ejus hort�tu Luc�na, matr�na Rom�na, bon�rum su�rum Dei Eccl�siam fecit her�dem. Aucto in Urbe fid�lium n�mero, novos T�tulos inst�tuit, et quasi �lteras dioec�ses distr�buit. Quare ir�tus Max�ntius, gr�via suppl�cia min�tur, nisi, dep�sito pontific�tu, id�lis immol�ret. Acriter r�stitit p�ntifex, ide�que missus fuit in cat�bulum, ut besti�rum, qu� p�blice aleb�ntur, curam sustin�ret. Novem menses ibi trad�xit, par�chias, quas pr�sens non p�terat, v�sitans per ep�stolas. Inde er�ptus a cl�ricis, hosp�tio rec�pitur a be�ta Luc�na, in cujus �dibus eccl�siam dedic�vit, ubi fid�libus pr�dic�bat. Tunc Max�ntius in eam eccl�siam b�stias cat�buli transf�rri et a Marc�llo custod�ri jubet: qui, loci foedit�te et �r�mnis affl�ctus obdorm�vit in D�mino. Ejus corpus in coemet�rio Prisc�ll� via Sal�ria a be�ta Luc�na sep�ltum est die d�cima sexta Janu�rii.
+Marcéllus Románus, a Constántio et Galério usque ad Maxéntium pontificátum gessit. Ejus hortátu Lucína, matróna Romána, bonórum suórum Dei Ecclésiam fecit herédem. Aucto in Urbe fidélium número, novos Títulos instítuit, et quasi álteras diœcéses distríbuit. Quare irátus Maxéntius, grávia supplícia minátur, nisi, depósito pontificátu, idólis immoláret. Acriter réstitit póntifex, ideóque missus fuit in catábulum, ut bestiárum, quæ públice alebántur, curam sustinéret. Novem menses ibi tradúxit, paróchias, quas præsens non póterat, vísitans per epístolas. Inde eréptus a cléricis, hospítio recípitur a beáta Lucína, in cujus ædibus ecclésiam dedicávit, ubi fidélibus prædicábat. Tunc Maxéntius in eam ecclésiam béstias catábuli transférri et a Marcéllo custodíri jubet: qui, loci fœditáte et ærúmnis afflíctus obdormívit in Dómino. Ejus corpus in cœmetério Priscíllæ via Salária a beáta Lucína sepúltum est die décima sexta Januárii.
 &teDeum
 
 [Lectio7]
@@ -32,9 +33,9 @@ Marc�llus Rom�nus, a Const�ntio et Gal�rio usque ad Max�ntium pontific�tum gessi
 @Commune/C4:Lectio91
 
 [Responsory8]
-R. Domine, praevenisti eum in benedictionibus dulcedinis
-* Posuisti in capita eius coronam de lapide pretioso
-V. Vitam petiit a te, et tribuisti in longitudinem dierum in saeculum, saeculi
-R. Posuisti in capita eius coronam de lapide pretioso
+R. Dómine, prævenísti eum in benedictiónibus dulcédinis: 
+* Posuísti in cápite ejus corónam de lápide pretióso.
+V. Vitam pétiit a te, et tribuísti ei longitúdinem diérum in sæculum sæculi.
+R. Posuísti in cápite ejus corónam de lápide pretióso.
 &Gloria
-R. Posuisti in capita eius coronam de lapide pretioso
+R. Posuísti in cápite ejus corónam de lápide pretióso.

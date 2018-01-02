@@ -5,36 +5,36 @@ Sabbato infra Hebdomadam IV post Epiphaniam;;Feria;;1
 Oratio Dominica
 
 [Lectio1]
-Incipit epistola secunda ad Thessalonicenses
+Incipit epístola secúnda beáti Pauli Apóstoli ad Thessalonicénses
 !2 Thess 1:1-5
-1 Paulus, et Sylvanus, et Timotheus, ecclesiae Thessalonicensium in Deo Patre nostro, et Domino Jesu Christo.
-2 Gratia vobis, et pax a Deo Patre nostro, et Domino Jesu Christo.
-3 Gratias agere debemus semper Deo pro vobis, fratres, ita ut dignum est, quoniam supercrescit fides vestra, et abundat caritas uniuscujusque vestrum in invicem:
-4 ita ut et nos ipsi in vobis gloriemur in ecclesiis Dei, pro patientia vestra, et fide, et in omnibus persecutionibus vestris, et tribulationibus, quas sustinetis
-5 in exemplum justi judicii Dei, ut digni habeamini in regno Dei, pro quo et patimini.
+1 Paulus, et Sylvánus, et Timótheus, ecclésiæ Thessalonicénsium in Deo Patre nostro, et Dómino Iesu Christo.
+2 Grátia vobis, et pax a Deo Patre nostro, et Dómino Iesu Christo.
+3 Grátias ágere debémus semper Deo pro vobis, fratres, ita ut dignum est, quóniam supercréscit fides vestra, et abúndat cáritas uniuscuiúsque vestrum in ínvicem:
+4 ita ut et nos ipsi in vobis gloriémur in ecclésiis Dei, pro patiéntia vestra, et fide, et in ómnibus persecutiónibus vestris, et tribulatiónibus, quas sustinétis
+5 in exémplum iusti iudícii Dei, ut digni habeámini in regno Dei, pro quo et patímini.
 
 [Responsory1]
 @Tempora/Epi2-6:Responsory1
 
 [Lectio2]
 !2 Thess 1:6-12
-6 Si tamen justum est apud Deum retribuere tribulationem iis qui vos tribulant:
-7 et vobis, qui tribulamini, requiem nobiscum in revelatione Domini Jesu de caelo cum angelis virtutis ejus,
-8 in flamma ignis dantis vindictam iis qui non noverunt Deum, et qui non obediunt Evangelio Domini nostri Jesu Christi,
-9 qui p�nas dabunt in interitu aeternas a facie Domini, et a gloria virtutis ejus:
-10 cum venerit glorificari in sanctis suis, et admirabilis fieri in omnibus, qui crediderunt, quia creditum est testimonium nostrum super vos in die illo.
-11 In quo etiam oramus semper pro vobis: ut dignetur vos vocatione sua Deus noster, et impleat omnem voluntatem bonitatis, et opus fidei in virtute,
-12 ut clarificetur nomen Domini nostri Jesu Christi in vobis, et vos in illo secundum gratiam Dei nostri, et Domini Jesu Christi.
+6 Si tamen iustum est apud Deum retribúere tribulatiónem iis qui vos tríbulant:
+7 et vobis, qui tribulámini, réquiem nobíscum in revelatióne Dómini Iesu de cælo cum ángelis virtútis eius,
+8 in flamma ignis dantis vindíctam iis qui non novérunt Deum, et qui non obédiunt Evangélio Dómini nostri Iesu Christi,
+9 qui pœnas dabunt in intéritu ætérnas a fácie Dómini, et a glória virtútis eius:
+10 cum vénerit glorificári in sanctis suis, et admirábilis fíeri in ómnibus, qui credidérunt, quia créditum est testimónium nostrum super vos in die illo.
+11 In quo étiam orámus semper pro vobis: ut dignétur vos vocatióne sua Deus noster, et ímpleat omnem voluntátem bonitátis, et opus fídei in virtúte,
+12 ut clarificétur nomen Dómini nostri Iesu Christi in vobis, et vos in illo secúndum grátiam Dei nostri, et Dómini Iesu Christi.
 
 [Responsory2]
 @Tempora/Epi2-6:Responsory2
 
 [Lectio3]
 !2 Thess 2:1-4
-1 Rogamus autem vos, fratres, per adventum Domini nostri Jesu Christi, et nostrae congregationis in ipsum:
-2 ut non cito moveamini a vestro sensu, neque terreamini, neque per spiritum, neque per sermonem, neque per epistolam tamquam per nos missam, quasi instet dies Domini.
-3 Ne quis vos seducat ullo modo: quoniam nisi venerit discessio primum, et revelatus fuerit homo peccati filius perditionis,
-4 qui adversatur, et extollitur supra omne, quod dicitur Deus, aut quod colitur, ita ut in templo Dei sedeat ostendens se tamquam sit Deus.
+1 Rogámus autem vos, fratres, per advéntum Dómini nostri Iesu Christi, et nostræ congregatiónis in ipsum:
+2 ut non cito moveámini a vestro sensu, neque terreámini, neque per spíritum, neque per sermónem, neque per epístolam tamquam per nos missam, quasi instet dies Dómini.
+3 Ne quis vos sedúcat ullo modo: quóniam nisi vénerit discéssio primum, et revelátus fúerit homo peccáti fílius perditiónis,
+4 qui adversátur, et extóllitur supra omne, quod dícitur Deus, aut quod cólitur, ita ut in templo Dei sédeat osténdens se tamquam sit Deus.
 
 [Responsory3]
 @Tempora/Epi2-6:Responsory3

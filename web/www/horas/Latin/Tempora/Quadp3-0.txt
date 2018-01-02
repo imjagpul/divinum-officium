@@ -10,183 +10,181 @@ Invit2
 
 [Capitulum Vespera]
 !1 Cor 13:1
-v. Fratres: Si linguis hominum loquar, et Angelorum, caritatem autem non habeam, factus sum velut aes sonans, aut cymbalum tinniens.
+v. Fratres: Si linguis hóminum loquar, et Angelórum, caritátem autem non hábeam, factus sum velut æs sonans, aut cýmbalum tínniens.
 $Deo gratias
 
 [Ant 1]
-Pater fidei nostrae * Abraham summus, obtulit holocaustum super altare pro filio.
+Pater fídei nostræ * Abraham summus, óbtulit holocáustum super altáre pro fílio.
 
 [Versum 1]
-V. Vespertina oratio ascendat ad te, Domine.
-R. Et descendat super nos misericordia tua.
+@Tempora/Quadp1-0:Versum 1
 
 [Oratio]
-Preces nostras, quaesumus, Domine, clementer exaudi: atque a peccatorum vinculis absolutos, ab omni nos adversitate custodi.
+Preces nostras, quǽsumus, Dómine, cleménter exáudi: atque, a peccatórum vínculis absolútos, ab omni nos adversitáte custódi.
 $Per Dominum
 
 [Invit]
-Praeoccupemus faciem Domini: * Et in psalmis jubilemus ei.
+@Tempora/Quadp1-0:Invit
 
 [Lectio1]
-De libro Genesis
+De libro Génesis
 !Gen 12:1-6
-1 Dixit autem Dominus ad Abram: Egredere de terra tua, et de cognatione tua, et de domo patris tui, et veni in terram quam monstrabo tibi.
-2 Faciamque te in gentem magnam, et benedicam tibi, et magnificabo nomen tuum, erisque benedictus.
-3 Benedicam benedicentibus tibi, et maledicam maledicentibus tibi, atque in te benedicentur universae cognationes terrae.
-4 Egressus est itaque Abram sicut praeceperat ei Dominus, et ivit cum eo Lot: septuaginta quinque annorum erat Abram cum egrederetur de Haran.
-5 Tulitque Sarai uxorem suam, et Lot filium fratris sui, universamque substantiam quam possederant, et animas quas fecerant in Haran: et egressi sunt ut irent in terram Chanaan. Cumque venissent in eam,
-6 pertransivit Abram terram usque ad locum Sichem, usque ad convallem illustrem: Chananaeus autem tunc erat in terra.
+1 Dixit autem Dóminus ad Abram: Egrédere de terra tua, et de cognatióne tua, et de domo patris tui, et veni in terram quam monstrábo tibi.
+2 Faciámque te in gentem magnam, et benedícam tibi, et magnificábo nomen tuum, erísque benedíctus.
+3 Benedícam benedicéntibus tibi, et maledícam maledicéntibus tibi, atque in te benedicéntur univérsæ cognatiónes terræ.
+4 Egréssus est ítaque Abram sicut præcéperat ei Dóminus, et ivit cum eo Lot: septuagínta quinque annórum erat Abram cum egrederétur de Haran.
+5 Tulítque Sárai uxórem suam, et Lot fílium fratris sui, universámque substántiam quam posséderant, et ánimas quas fécerant in Haran: et egréssi sunt ut irent in terram Chánaan. Cumque veníssent in eam,
+6 pertransívit Abram terram usque ad locum Sichem, usque ad convállem illústrem: Chananǽus autem tunc erat in terra.
 
 [Responsory1]
-R. Locutus est Dominus ad Abram, dicens: Egredere de terra tua, et de cognatione tua, et veni in terram quam monstravero tibi:
-* Et faciam te in gentem magnam.
-V. Benedicens benedicam tibi, et magnificabo nomen tuum, erisque benedictus.
-R. Et faciam te in gentem magnam.
+R. Locútus est Dóminus ad Abram, dicens: Egrédere de terra tua, et de cognatióne tua, et veni in terram quam monstrávero tibi: 
+* Et fáciam te in gentem magnam.
+V. Benedicens benedícam tibi, et magnificábo nomen tuum, erisque benedíctus.
+R. Et fáciam te in gentem magnam.
 
 [Lectio2]
 !Gen 12:7-13
-7 Apparuit autem Dominus Abram, et dixit ei: Semini tuo dabo terram hanc. Qui aedificavit ibi altare Domino, qui apparuerat ei.
-8 Et inde transgrediens ad montem, qui erat contra orientem Bethel, tetendit ibi tabernaculum suum, ab occidente habens Bethel, et ab oriente Hai: aedificavit quoque ibi altare Domino, et invocavit nomen ejus.
-9 Perrexitque Abram vadens, et ultra progrediens ad meridiem.
-10 Facta est autem fames in terra: descenditque Abram in �gyptum, ut peregrinaretur ibi: praevaluerat enim fames in terra.
-11 Cumque prope esset ut ingrederetur �gyptum, dixit Sarai uxori suae: Novi quod pulchra sis mulier:
-12 et quod cum viderint te �gyptii, dicturi sunt: Uxor ipsius est: et interficient me, et te reservabunt.
-13 Dic ergo, obsecro te, quod soror mea sis: ut bene sit mihi propter te, et vivat anima mea ob gratiam tui.
+7 Appáruit autem Dóminus Abram, et dixit ei: Sémini tuo dabo terram hanc. Qui ædificávit ibi altáre Dómino, qui apparúerat ei.
+8 Et inde transgrédiens ad montem, qui erat contra oriéntem Bethel, teténdit ibi tabernáculum suum, ab occidénte habens Bethel, et ab oriénte Hai: ædificávit quoque ibi altáre Dómino, et invocávit nomen eius.
+9 Perrexítque Abram vadens, et ultra progrédiens ad merídiem.
+10 Facta est autem fames in terra: descendítque Abram in Ægýptum, ut peregrinarétur ibi: prævalúerat enim fames in terra.
+11 Cumque prope esset ut ingrederétur Ægýptum, dixit Sárai uxóri suæ: Novi quod pulchra sis múlier:
+12 et quod cum víderint te Ægýptii, dictúri sunt: Uxor ipsíus est: et interfícient me, et te reservábunt.
+13 Dic ergo, óbsecro te, quod soror mea sis: ut bene sit mihi propter te, et vivat ánima mea ob grátiam tui.
 
 [Responsory2]
-R. Dum staret Abraham ad ilicem Mambre, vidit tres viros ascendentes per viam:
-* Tres vidit, et unum adoravit.
-V. Ecce Sara uxor tua pariet tibi filium, et vocabis nomen ejus Isaac.
-R. Tres vidit, et unum adoravit.
+R. Dum staret Abraham ad ílicem Mambre, vidit tres viros ascendéntes per viam: 
+* Tres vidit, et unum adorávit.
+V. Ecce Sara uxor tua pariet tibi fílium, et vocábis nomen ejus Isaac.
+R. Tres vidit, et unum adorávit.
 
 [Lectio3]
 !Gen 12:14-19
-14 Cum itaque ingressus esset Abram �gyptum, viderunt �gyptii mulierem quod esset pulchra nimis.
-15 Et nuntiaverunt principes Pharaoni, et laudaverunt eam apud illum: et sublata est mulier in domum Pharaonis.
-16 Abram vero bene usi sunt propter illam: fueruntque ei oves et boves et asini, et servi et famulae, et asinae et cameli.
-17 Flagellavit autem Dominus Pharaonem plagis maximis, et domum ejus, propter Sarai uxorem Abram.
-18 Vocavitque Pharao Abram, et dixit ei: Quidnam est hoc quod fecisti mihi? quare non indicasti quod uxor tua esset?
-19 quam ob causam dixisti esse sororem tuam, ut tollerem eam mihi in uxorem? Nunc igitur ecce conjux tua, accipe eam, et vade.
+14 Cum ítaque ingréssus esset Abram Ægýptum, vidérunt Ægýptii mulíerem quod esset pulchra nimis.
+15 Et nuntiavérunt príncipes Pharaóni, et laudavérunt eam apud illum: et subláta est múlier in domum Pharaónis.
+16 Abram vero bene usi sunt propter illam: fuerúntque ei oves et boves et ásini, et servi et fámulæ, et ásinæ et caméli.
+17 Flagellávit autem Dóminus Pharaónem plagis máximis, et domum eius, propter Sárai uxórem Abram.
+18 Vocavítque Phárao Abram, et dixit ei: Quidnam est hoc quod fecísti mihi? quare non indicásti quod uxor tua esset?
+19 quam ob causam dixísti esse sorórem tuam, ut tóllerem eam mihi in uxórem? Nunc ígitur ecce coniux tua, áccipe eam, et vade.
 
 [Responsory3]
-R. Tentavit Dominus Abraham, et dixit ad eum:
-* Tolle filium tuum, quem diligis, Isaac, et offer illum ibi in holocaustum super unum montium, quem dixero tibi.
-V. Vocatus quoque a Domino, respondit, Adsum: et ait ei Dominus.
-R. Tolle filium tuum, quem diligis, Isaac, et offer illum ibi in holocaustum super unum montium, quem dixero tibi.
+R. Tentávit Dóminus Abraham, et dixit ad eum: 
+* Tolle fílium tuum, quem díligis, Isaac, et offer illum ibi in holocáustum super unum móntium, quem díxero tibi.
+V. Vocátus quoque a Dómino, respóndit, Adsum: et ait ei Dóminus.
+R. Tolle fílium tuum, quem díligis, Isaac, et offer illum ibi in holocáustum super unum móntium, quem díxero tibi.
 &Gloria
-R. Tolle filium tuum, quem diligis, Isaac, et offer illum ibi in holocaustum super unum montium, quem dixero tibi.
+R. Tolle fílium tuum, quem díligis, Isaac, et offer illum ibi in holocáustum super unum móntium, quem díxero tibi.
 
 [Lectio4]
-Ex libro sancti Ambrosii episcopi de Abraham Patriarcha
-!Liber 1 cap 2
-Magnus plane vir Abraham multarum virtutum clarus insignibus, quem votis suis philosophia non potuit aequare. Denique minus est quod illa finxit, quam quod iste gessit: majorque ambitioso eloquentiae mendacio simplex veritatis fides. Itaque cujusmodi fuerit in eo viro devotio, consideremus. Ea enim virtus ordine prima est, quae est fundamentum ceterarum: meritoque hanc ab eo primam exegit Deus, dicens: Exi de terra tua, et de cognatione tua, et de domo patris tui. Satis fuerat dixisse de terra tua. Ibi enim erat exire de cognatione, exire de paterna domo.
+Ex libro sancti Ambrósii Epíscopi de Abraham Pátriarcha
+!Liber 1, cap 2
+Magnus plane vir Abraham, et multárum virtútum clarus insígnibus, quem votis suis philosophía non pótuit æquare. Denique minus est quod illa finxit, quam quod iste gessit: majorque ambitióso eloquéntiæ mendácio simplex veritátis fides. Itaque cujusmodi fúerit in eo viro devotio, consideremus. Ea enim virtus ordine prima est, quæ est fundaméntum ceterárum: meritóque hanc ab eo primam exegit Deus, dicens: Exi de terra tua, et de cognatióne tua, et de domo patris tui. Satis fuerat dixisse: De terra tua. Ibi enim erat exíre de cognatióne, exíre de paterna domo.
 
 [Responsory4]
-R. Angelus Domini vocavit Abraham, dicens:
-* Ne extendas manum tuam super puerum, eo quod timeas Dominum.
-V. Cumque extendisset manum ut immolaret filium, ecce Angelus Domini de caelo clamavit, dicens.
-R. Ne extendas manum tuam super puerum, eo quod timeas Dominum.
+R. Angelus Dómini vocávit Abraham, dicens: 
+* Ne exténdas manum tuam super púerum, eo quod timeas Dóminum.
+V. Cumque extendísset manum ut immoláret fílium, ecce Angelus Dómini de cælo clamávit, dicens.
+R. Ne exténdas manum tuam super púerum, eo quod timeas Dóminum.
 
 [Lectio5]
-Sed ideo addidit singula, ut ejus affectum probaret: ne forte aut imprudenter coepisse videretur, aut fraus aliqua mandatis caelestibus pararetur. Sed sicut coacervanda fuerunt praecepta, ne quid lateret; ita etiam proponenda praemia, ne forte desperaret. Tentatur ut fortis, incitatur ut fidelis, provocatur ut justus: meritoque exivit, quemadmodum locutus est illi Dominus. Et exivit cum eo Lot. Hoc autem, quod pro magno inter septem sapientum dicta celebratur, Sequere Deum; perfecit Abraham, factoque sapientum dicta praevenit, et secutus Deum exivit de terra sua.
+Sed ideo áddidit síngula, ut ejus afféctum probaret: ne forte aut imprudenter cœpisse viderétur, aut fraus áliqua mandatis cæléstibus pararétur. Sed sicut coacervanda fuérunt præcepta, ne quid latéret: ita etiam proponenda præmia, ne forte desperáret. Tentátur ut fortis, incitátur ut fidélis, provocátur ut justus: meritoque exívit, quemádmodum locútus est illi Dóminus. Et exívit cum eo Lot. Hoc autem, quod pro magno inter septem sapiéntum dicta celebrátur: Séquere Deum; perfécit Abraham, factoque sapiéntum dicta prævenit, et secutus Deum exívit de terra sua.
 
 [Responsory5]
-R. Vocavit Angelus Domini Abraham de caelo, secundo, dicens: Benedicam tibi,
-* Et multiplicabo te sicut stellas caeli.
-V. Possidebit semen tuum portas inimicorum tuorum, et benedicentur in semine tuo omnes tribus terrae.
-R. Et multiplicabo te sicut stellas caeli.
+R. Vocávit Angelus Dómini Abraham de cælo, secundo, dicens: Benedícam tibi, 
+* Et multiplicábo te sicut stellas cæli.
+V. Possidébit semen tuum portas inimicórum tuórum, et benedicéntur in semine tuo omnes tribus terræ.
+R. Et multiplicábo te sicut stellas cæli.
 
 [Lectio6]
-Sed quia ante terra ei fuerat alia, hoc est, regio Chaldaeorum, de qua exivit Thare pater Abrahae, et in Charran demigravit: et quia secum eduxit nepotem suum, cui dictum fuerat, Exi de cognatione tua: consideremus, ne forte hoc sit exire de terra sua, de hujus terrae, hoc est, de corporis nostri quadam commoratione egredi, de qua exivit Paulus, qui dixit: Nostra autem conversatio in caelis est.
+Sed quia ante terra ei fuerat alia, hoc est, regio Chaldæórum, de qua exívit Thare pater Abrahæ, et in Charran demigrávit: et quia secum edúxit nepótem suum, cui dictum fúerat, Exi de cognatióne tua: consideremus, ne forte hoc sit exíre de terra sua, de hujus terræ, hoc est, de corporis nostri quadam commemoratióne égredi, de qua exívit Paulus, qui dixit: Nostra autem conversátio in cælis est.
 
 [Responsory6]
-R. Deus domini mei Abraham, dirige viam meam:
-* Ut cum salute revertar in domum domini mei.
-V. Obsecro, Domine, fac misericordiam cum servo tuo.
-R. Ut cum salute revertar in domum domini mei.
+R. Deus dómini mei Abraham, dírige viam meam: 
+* Ut cum salúte revértar in domum dómini mei.
+V. Obsecro, Dómine, fac misericórdiam cum servo tuo.
+R. Ut cum salúte revértar in domum dómini mei.
 &Gloria
-R. Ut cum salute revertar in domum domini mei.
+R. Ut cum salúte revértar in domum dómini mei.
 
 [Lectio7]
-Lectio sancti Evangelii secundum Lucam.
+Léctio sancti Evangélii secúndum Lucam
 !Luc 18:31-43
-In illo tempore: Assumpsit Jesus duodecim, et ait illis: Ecce ascendimus Jerosolymam, et consummabuntur omnia, quae scripta sunt per Prophetas de Filio hominis. Et reliqua.
+In illo témpore: Assúmpsit autem Jesus duódecim, et ait illis: Ecce ascéndimus Jerosólymam, et consummabúntur ómnia quæ scripta sunt per Prophétas de Fílio hóminis. Et réliqua.
 _
-Homilia sancti Gregorii Papae.
-!Homilia 2. in Evangelia.
-Redemptor noster, praevidens ex passione sua discipulorum animos perturbandos, eis longe ante et eiusdem passionis poenam et resurrectionis suae gloriam praedixit: ut cum eum morientem, sicut praedictum est, cernerent; etiam resurrecturum non dubitarent. Sed quia carnales adhuc discipuli nullo modo valebant capere verba mysterii, venitur ad miraculum. Ante eorum oculos caecus lumen recepit: ut qui caelestis mysterii verba non caperent, eos ad fidem caelestia facta solidarent.
+Homilía sancti Gregórii Papæ
+!Homilía 2 in Evangelia
+Redémptor noster, prævídens ex passióne sua discipulórum animos perturbándos, eis longe ante et ejusdem passiónis pœnam, et resurrectiónis suæ glóriam prædixit: ut cum eum moriéntem, sicut prædictum est, cernerent; etiam resurrecturum non dubitarent. Sed quia carnales adhuc discípuli nullo modo valébant cápere verba mysterii, venítur ad miraculum. Ante eórum óculos cæcus lumen recepit: ut qui cæléstis mystérii verba non cáperent, eos ad fidem cæléstia facta solidárent.
 
 [Responsory7]
-R. Veni hodie ad fontem aquae, et oravi Dominum, dicens:
-* Domine Deus Abraham, tu prosperum fecisti desiderium meum.
-V. Igitur puella, cui dixero, Da mihi aquam de hydria tua, ut bibam: et illa dixerit, Bibe domine, et camelis tuis potum tribuam: ipsa est, quam praeparavit Dominus filio domini mei.
-R. Domine Deus Abraham, tu prosperum fecisti desiderium meum.
+R. Veni hódie ad fontem aquæ, et orávi Dóminum, dicens: 
+* Dómine, Deus Abraham, tu prósperum fecísti desidérium meum.
+V. Igitur puella, cui dixero, Da mihi aquam de hydria tua, ut bibam: et illa dixerit, Bibe, dómine, et camelis tuis potum tríbuam: ipsa est, quam præparávit Dóminus fílio dómini mei.
+R. Dómine, Deus Abraham, tu prósperum fecísti desidérium meum.
 
 [Lectio8]
-Sed miracula Domini et Salvatoris nostri sic accipienda sunt, fratres carissimi, ut et in veritute credantur facta, et tamen per significationem nobis aliquid innuant. Opera quippe ejus et per potentiam aliud ostendunt, et per mysterium aliud loquuntur. Ecce enim, quis juxta historiam caecus iste fuerit, ignoramus: sed tamen quid per mysterium significet, novimus. Caecum quippe est genus humanum, quod in parente primo a paradisi gaudiis expulsum, claritatem supernae lucis ignorans, damnationis suae tenebras petitur. Sed tamen per Redemptoris sui praesentiam illuminatur: ut internae lucis gaudia jam per desiderium videat, atque in via vitae boni operis gressus ponat.
+Sed miracula Dómini et Salvatoris nostri sic accipiénda sunt, fratres caríssimi, ut et in veritáte credántur facta, et tamen per significatiónem nobis aliquid innuant. Opera quippe ejus et per poténtiam aliud ostendunt, et per mystérium aliud loquúntur. Ecce enim, quis juxta historiam cæcus iste fúerit, ignorámus: sed tamen quid per mystérium significet, nóvimus. Cæcum quippe est genus humanum, quod in parénte primo a paradisi gaudiis expulsum, claritátem supernæ lucis ignorans, damnatiónis suæ ténebras pátitur. Sed tamen per Redemptoris sui præséntiam illuminátur: ut internæ lucis gaudia jam per desidérium videat, atque in via vitæ boni operis gressus ponat.
 
 [Responsory8]
-R. Factus est sermo Domini ad Abram, dicens:
-* Noli timere Abram: ego protector tuus sum, et merces tua magna nimis.
-V. Ego enim sum Dominus Deus tuus, qui eduxi te de Ur Chaldaeorum.
-R. Noli timere Abram: ego protector tuus sum, et merces tua magna nimis.
+R. Factus est sermo Dómini ad Abram, dicens: 
+* Noli timére, Abram: ego protéctor tuus sum, et merces tua magna nimis.
+V. Ego enim sum Dóminus Deus tuus, qui edúxi te de Ur Chaldæórum.
+R. Noli timére, Abram: ego protéctor tuus sum, et merces tua magna nimis.
 
 [Lectio9]
-Notandum vero est, quod cum Jesus Jericho appropinquare dicitur, caecus illuminatur. Jericho quippe luna interpretatur: luna autem in sacro eloquio pro defectu carnis ponitur: quia dum menstruis momentis decrescit, defectum nostrae mortalitatis designat. Dum igitur Conditor noster appropinquat Jericho, caecus ad lumen redit: quia dum divinitas defectum nostrae carnis suscepit, humanum genus lumen, quod amiserat, recepit. Unde enim Deus humana patitur, inde homo ad divina sublevatur. Qui videlicet caecus recte et juxta viam sedere, et mendicans esse describitur. Ipsa enim Veritas dicit: Ego sum via.
+Notándum vero est, quod cum Jesus Jericho appropinquare dícitur, cæcus illuminátur. Jericho quippe luna interpretátur: luna autem in sacro eloquio pro defectu carnis pónitur: quia dum menstruis momentis decrescit, defectum nostræ mortalitátis designat. Dum ígitur Cónditor noster appropinquat Jéricho, cæcus ad lumen redit: quia dum divínitas deféctum nostræ carnis suscépit, humánum genus lumen, quod amíserat, recépit. Unde enim Deus humana pátitur, inde homo ad divina sublevátur. Qui vidélicet cæcus recte et juxta viam sedére, et mendícans esse descríbitur. Ipsa enim Véritas dicit: Ego sum via.
 
 [Responsory9]
-R. Caecus sedebat secus viam, transeunte Domino, et clamavit ad eum: et ait illi Dominus:
-* Quid vis ut faciam tibi? * Domine, ut videam lumen.
-V. Stans autem Jesus, jussit illum duci ad se, et cum appropinquasset, interrogavit eum, dicens.
-R. Quid vis ut faciam tibi?
+R. Cæcus sedébat secus viam, transeúnte Dómino, et clamávit ad eum: et ait illi Dóminus: 
+* Quid vis ut fáciam tibi? 
+* Dómine, ut vídeam lumen.
+V. Stans autem Jesus, jussit illum duci ad se, et cum appropinquasset, interrogávit eum, dicens.
+R. Quid vis ut fáciam tibi?
 &Gloria
-R. Domine, ut videam lumen.
+R. Dómine, ut vídeam lumen.
 
 [Ant Laudes]
-Secundum multitudinem * miserationum tuarum, Domine, dele iniquitatem meam.
-Deus meus es tu, * et confitebor tibi: Deus meus es tu, et exaltabo te.
-Ad te de luce * vigilo Deus, ut videam virtutem tuam.
-Hymnum dicite, * et superexaltate eum in saecula.
-Omnes Angeli * ejus laudate Dominum de caelis.
+Secúndum multitúdinem * miseratiónum tuárum, Dómine, dele iniquitátem meam.
+Deus meus es tu, * et confitébor tibi: Deus meus es tu, et exaltábo te.
+Ad te de luce * vígilo, Deus, ut vídeam virtútem tuam.
+Hymnum dícite, * et superexaltáte eum in sǽcula.
+Omnes Angeli * ejus laudáte Dóminum de cælis.
 
 [Capitulum Laudes]
 @:Capitulum Vespera
 
 [Ant 2]
-Ecce ascendimus * Jerosolymam, et consummabuntur omnia, quae scripta sunt de Filio hominis: tradetur enim Gentibus, et illudetur, et conspuetur: et postquam flagellaverint, occident eum, et tertia die resurget.
+Ecce ascéndimus * Ierosólymam, et consummabúntur ómnia quæ scripta sunt de Fílio hóminis: tradétur enim géntibus, et illudétur, et conspuétur: et postquam flagelláverint, occídent eum, et tértia die resúrget.
 
 [Versum 2]
-V. Domine, refugium factus es nobis.
-R. A generatione et progenie.
+@Tempora/Quadp1-0:Versum 2
 
 [Ant Prima]
-Iter faciente * Jesu, dum appropinquaret Jericho, caecus clamabat ad eum, ut lumen recipere mereretur.
+Iter faciénte * Jesu, dum appropinquáret Jericho, cæcus clamábat ad eum, ut lumen recípere mererétur.
 
 [Ant Tertia]
-Transeunte * Domino, clamabat c�cus ad eum: Miserere mei, Fili David.
+Transeúnte * Dómino, clamábat cæcus ad eum: Miserére mei, Fili David.
 
 [Capitulum Tertia]
 @:Capitulum Vespera
 
 [Ant Sexta]
-Et qui pr��bant, * increp�bant eum ut t�ceret: ipse vero multo magis clam�bat: Miser�re mei, Fili David.
+Et qui præíbant, * increpábant eum ut táceret: ipse vero multo magis clamábat: Miserére mei, Fili David.
 
 [Capitulum Sexta]
 !1 Cor 13:8-9
-v. Caritas numquam excidit: sive prophetiae evacuabuntur, sive linguae cessabunt, sive scientia destruetur: Ex parte enim cognoscimus, et ex parte prophetamus.
+v. Cáritas numquam éxcidit: sive prophetíæ evacuabúntur, sive linguæ cessábunt, sive sciéntia destruétur. Ex parte enim cognóscimus, et ex parte prophetámus.
 $Deo gratias
 
 [Ant Nona]
-C�cus magis * ac magis clam�bat, ut eum D�minus illumin�ret.
+Cæcus magis * ac magis clamábat, ut eum Dóminus illumináret.
 
 [Capitulum Nona]
 !1 Cor 13:13
-v. Nunc autem manent, fides, spes, caritas, tria haec: major autem horum est caritas.
+v. Nunc autem manent fides, spes, cáritas, tria hæc: maior autem horum est cáritas.
 $Deo gratias
 
 [Ant 3]
-Stans autem Jesus * jussit caecum adduci ad se, et ait illi: Quid vis ut faciam tibi? Domine, ut videam. Et Jesus ait illi: Respice, fides tua te salvum fecit. Et confestim vidit, et sequebatur illum, magnificans Deum.
+Stans autem Jesus, * jussit cæcum adduci ad se, et ait illi: Quid vis ut fáciam tibi? Dómine, ut vídeam. Et Jesus ait illi: Réspice, fides tua te salvum fecit. Et conféstim vidit, et sequebátur illum, magníficans Deum.
 
 [Versum 3]
-V. Dirigatur, Domine, oratio mea.
-R. Sicut incensum inconspectu tuo.
+@Tempora/Quadp1-0:Versum 3

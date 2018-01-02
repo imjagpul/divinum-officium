@@ -1,63 +1,51 @@
 [Rank]
-Sabbato infra Hebdomadam III post Octavam Paschae;;Feria;;1
+Sabbato infra Hebdomadam III post Octavam Paschæ;;Feria;;1
 
 [Rule]
 Una Antiphona
 Feria Te Deum
 
 [Lectio1]
-De libro Apocalypsis beati Joannis Apostoli.
+De libro Apocalýpsis beáti Joánnis Apóstoli
 !Apo 22:1-7
-1 Et ostendit mihi fluvium aquae vitae, splendidum tamquam crystallum, procedentem de sede Dei et Agni.
-2 In medio plateae ejus, et ex utraque parte fluminis, lignum vitae, afferens fructus duodecim per menses singulos, reddens fructum suum et folia ligni ad sanitatem Gentium.
-3 Et omne maledictum non erit amplius: sed sedes Dei et Agni in illa erunt, et servi ejus servient illi.
-4 Et videbunt faciem ejus: et nomen ejus in frontibus eorum.
-5 Et nox ultra non erit: et non egebunt lumine lucernae, neque lumine solis, quoniam Dominus Deus illuminabit illos, et regnabunt in saecula saeculorum.
-6 Et dixit mihi: Haec verba fidelissima sunt, et vera. Et Dominus Deus spirituum prophetarum misit Angelum suum ostendere servis suis quae oportet fieri cito.
-7 Et ecce venio velociter. Beatus, qui custodit verba prophetiae libri hujus.
+1 Et osténdit mihi flúvium aquæ vitæ, spléndidum tamquam crystállum, procedéntem de sede Dei et Agni.
+2 In médio platéæ eius, et ex utráque parte flúminis, lignum vitæ, áfferens fructus duódecim per menses síngulos, reddens fructum suum et fólia ligni ad sanitátem géntium.
+3 Et omne maledíctum non erit ámplius: sed sedes Dei et Agni in illa erunt, et servi eius sérvient illi.
+4 Et vidébunt fáciem eius: et nomen eius in fróntibus eórum.
+5 Et nox ultra non erit: et non egébunt lúmine lucérnæ, neque lúmine solis, quóniam Dóminus Deus illuminábit illos, et regnábunt in sǽcula sæculórum.
+6 Et dixit mihi: Hæc verba fidelíssima sunt, et vera. Et Dóminus Deus spirítuum prophetárum misit ángelum suum osténdere servis suis quæ opórtet fíeri cito.
+7 Et ecce vénio velóciter. Beátus, qui custódit verba prophetíæ libri huius.
 
 [Responsory1]
-R. Decantabat populus Isra�l, alleluia: et universa multitudo Jacob canebat legitime:
-* Et David cum cantoribus citharam percutiebat in domo Domini, et laudes Deo canebat, alleluia, alleluia.
-V. Sanctificati sunt ergo sacerdotes et levitae: et universus Isra�l deducebat arcam foederis Domini in jubilo.
-R. Et David cum cantoribus citharam percutiebat in domo Domini, et laudes Deo canebat, alleluia, alleluia.
+@Tempora/Pasc3-0:Responsory7
 
 [Lectio2]
 !Apo 22:8-12
-8 Et ego Joannes, qui audivi, et vidi haec. Et postquam audissem, et vidissem, cecidi ut adorarem ante pedes Angeli, qui mihi haec ostendebat:
-9 et dixit mihi: Vide ne feceris: conservus enim tuus sum, et fratrum tuorum prophetarum, et eorum qui servant verba prophetiae libri hujus: Deum adora.
-10 Et dicit mihi: Ne signaveris verba prophetiae libri hujus: tempus enim prope est.
-11 Qui nocet, noceat adhuc: et qui in sordibus est, sordescat adhuc: et qui justus est, justificetur adhuc: et sanctus, sanctificetur adhuc.
-12 Ecce venio cito, et merces mea mecum est, reddere unicuique secundum opera sua.
+8 Et ego Ioánnes, qui audívi, et vidi hæc. Et postquam audíssem, et vidíssem, cécidi ut adorárem ante pedes ángeli, qui mihi hæc ostendébat:
+9 et dixit mihi: Vide ne féceris: consérvus enim tuus sum, et fratrum tuórum prophetárum, et eórum qui servant verba prophetíæ libri huius: Deum adóra.
+10 Et dicit mihi: Ne signáveris verba prophetíæ libri huius: tempus enim prope est.
+11 Qui nocet, nóceat adhuc: et qui in sórdibus est, sordéscat adhuc: et qui iustus est, iustificétur adhuc: et sanctus, sanctificétur adhuc.
+12 Ecce vénio cito, et merces mea mecum est, réddere unicuíque secúndum ópera sua.
 
 [Responsory2]
-R. Ostendit mihi Angelus fontem aquae vivae, et dixit ad me, alleluia:
-* Hic Deum adora, alleluia, alleluia, alleluia.
-V. Postquam audissem et vidissem, cecidi ut adorarem ante pedes Angeli, qui mihi haec ostendebat, et dixit mihi.
-R. Hic Deum adora, alleluia, alleluia, alleluia.
-&Gloria
-R. Hic Deum adora, alleluia, alleluia, alleluia.
+@Tempora/Pasc3-1:Responsory2
 
 [Lectio3]
 !Apo 22:13-21
-13 Ego sum alpha et omega, primus et novissimus, principium et finis.
-14 Beati, qui lavant stolas suas in sanguine Agni: ut sit potestas eorum in ligno vitae, et per portas intrent in civitatem.
-15 Foris canes, et venefici, et impudici, et homicidae, et idolis servientes, et omnis qui amat et facit mendacium.
-16 Ego Jesus misi Angelum meum testificari vobis haec in ecclesiis. Ego sum radix, et genus David, stella splendida et matutina.
-17 Et spiritus, et sponsa dicunt: Veni. Et qui audit, dicat: Veni. Et qui sitit, veniat: et qui vult, accipiat aquam vitae, gratis.
-18 Contestor enim omni audienti verba prophetiae libri hujus: Si quis apposuerit ad haec, apponet Deus super illum plagas scriptas in libro isto.
-19 Et si quis diminuerit de verbis libri prophetiae hujus, auferet Deus partem ejus de libro vitae, et de civitate sancta, et de his quae scripta sunt in libro isto:
-20 Dicit qui testimonium perhibet istorum. Etiam venio cito: Amen. Veni, Domine Jesu.
-21 Gratia Domini nostri Jesu Christi cum omnibus vobis. Amen.
+13 Ego sum alpha et ómega, primus et novíssimus, princípium et finis.
+14 Beáti, qui lavant stolas suas in sánguine Agni: ut sit potéstas eórum in ligno vitæ, et per portas intrent in civitátem.
+15 Foris canes, et venéfici, et impudíci, et homicídæ, et idólis serviéntes, et omnis qui amat et facit mendácium.
+16 Ego Iesus misi ángelum meum testificári vobis hæc in ecclésiis. Ego sum radix, et genus David, stella spléndida et matutína.
+17 Et spíritus, et sponsa dicunt: Veni. Et qui audit, dicat: Veni. Et qui sitit, véniat: et qui vult, accípiat aquam vitæ, gratis.
+18 Contéstor enim omni audiénti verba prophetíæ libri huius: si quis apposúerit ad hæc, appónet Deus super illum plagas scriptas in libro isto.
+19 Et si quis diminúerit de verbis libri prophetíæ huius, áuferet Deus partem eius de libro vitæ, et de civitáte sancta, et de his quæ scripta sunt in libro isto:
+20 dicit qui testimónium pérhibet istórum. Etiam vénio cito: amen. Veni, Dómine Iesu.
+21 Grátia Dómini nostri Iesu Christi cum ómnibus vobis. Amen.
 
 [Responsory3]
-R. Vidi Jerusalem descendentem de caelo, ornatam auro mundo, et lapidibus pretiosis intextam:
-* Alleluia, alleluia.
-V. Et erat structura muri ejus ex lapide jaspide; ipsa vero aurum mundum, simile vitro mundo.
-R. Alleluia, alleluia.
+@Tempora/Pasc3-2:Responsory1
 &Gloria
-R. Alleluia, alleluia.
+R. Allelúja, allelúja.
 
 [Oratio 2]
-Deus, qui errantibus, ut in viam possint redire justitiae, veritatis tuae lumen ostendis: da cunctis qui christiana professione censentur, et illa respuere, quae huic inimica sunt nomini, et ea quae sunt apta, sectari.
-$Per Dominum
+@Tempora/Pasc3-0:Oratio

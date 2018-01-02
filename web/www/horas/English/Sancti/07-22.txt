@@ -33,10 +33,6 @@ As evermore hath been before,
 Be glory through eternity.
 Amen.
 
-[Versum 1]
-V. Grace is poured into thy lips.
-R. Therefore God hath blessed thee for ever.
-
 [Ant 1]
 A woman in the city * which was a sinner, when she knew that Jesus sat at meat~
 in the house of Simon the leper, brought an alabaster box of ointment, and stood~
@@ -80,14 +76,7 @@ him: and I will not let him go, till I bring him into my mother's house, and~
 into the chamber of her that bore me.
 
 [Responsory1]
-R. Mary Magdalen and the other Mary went very early to the sepulchre.
-* That Jesus Whom ye seek, is not here; for He is risen, as He said He goeth~
-before you into Galilee; there shall ye see Him.
-V. And very early in the morning, the first day of the week, they came unto~
-the sepulchre, at the rising of the sun; and, entering into the sepulchre, they~
-saw a young man sitting upon the right side, who saith unto them:
-R. That Jesus Whom ye seek, is not here; for He is risen, as He said He goeth~
-before you into Galilee; there shall ye see Him.
+@Tempora/Pasc0-1::s/[Aa]ll.*//g
 
 [Lectio2]
 !Song 8:1-4
@@ -107,16 +96,6 @@ appeared unto me
 V. When His disciples were gone away, I tarried still; and the fire of love in~
 my heart yearned after Him.
 R. And while as I was weeping at the Sepulchre, I saw the Lord.
-
-[Responsory2](rubrica 1960)
-R. They have taken away my Lord, and I know not where they have laid Him. The~
-Angels say unto her: Woman, why weepest thou? He is risen, as He said.
-* He goeth before you into Galilee; there shall ye see Him.
-V. And as she wept, she stooped down and looked into the Sepulchre, and saw two~
-Angels in white, sitting; and they say unto her:
-R. He goeth before you into Galilee; there shall ye see Him.
-&Gloria
-R. He goeth before you into Galilee; there shall ye see Him.
 
 [Lectio3]
 !Song 8:5-7
@@ -140,7 +119,7 @@ R. He goeth before you into Galilee; there shall ye see Him.
 R. He goeth before you into Galilee; there shall ye see Him.
 
 [Lectio4]
-From the Sermons of Pope St Gregory (the Great.)
+From the Sermons of Pope St. Gregory (the Great.)
 !25th on the Gospels.
 Mary Magdalen, a woman in the city, which was a sinner, through love of the~
 truth, washed away in her tears the defilement of her sins, and the words of the~
@@ -184,7 +163,7 @@ From the Holy Gospel according to Luke
 At that time One of the Pharisees desired Jesus that He would eat with him.~
 And He went into the Pharisee's house, and sat down to meat. And so on.
 _
-Homily by St Austin, Bishop (of Hippo.)
+Homily by St. Augustine, Bishop (of Hippo.)
 !Bk. 1. Hom. 23, tom. x.
 Ye have listened carefully to the Gospel while it was being read, so that the~
 thing told hath, as it were, passed before the eyes of your heart. Ye have seen~
@@ -261,14 +240,9 @@ R. He hath made her to dwell in His tabernacle.
 Mary anointed * the Feet of Jesus, and wiped Them with her hair; and the house~
 was filled with the odour of the ointment.
 
-[Versum 3](rubrica 1960)
-@Sancti/07-22:Versum 2
-
 [Ant 3](rubrica 1960)
 A woman * in the city, which was a sinner, brought an alabaster box of ointment, and stood at the Lord's feet, behind him, weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head.
 
 [Lectio94]
-From a Sermon by St. Gregory the Pope
-!Homily 25. in Evang.
-Mary Magdalene, a woman in the city, which was a sinner, through love of the truth, washed away in her tears the defilement of her sins, and the words of the Truth are fulfilled which he spoke: Her sins, which are many, are forgiven; for she loved much. She who had remained chilly in sin, became fiery through love. When even his disciples went away again unto their own home, Mary still stood without at the sepulchre of Christ, weeping. She sought him whom her soul loved, but she found him not. She searched for him with tears; she yearned with strong desire for him who, she believed, had been taken away. And thus it befell her, that being the only one who had remained to seek him, she was the only one that saw him. It is the truth that the backbone of a good work is perseverance.
+@:Lectio4
 &teDeum

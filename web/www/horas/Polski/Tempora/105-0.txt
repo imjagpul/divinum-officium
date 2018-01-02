@@ -1,3 +1,6 @@
+[Ant 1]
+Twoje jest potęga * Twoje królestwo Panie, Ty jesteś ponad narodami: daj pokój Panie w dniach naszych.
+
 [Lectio1]
 Z Drugiej Księgi Machabejskiej
 !2 Mch 6:18-22
@@ -6,9 +9,6 @@ Z Drugiej Księgi Machabejskiej
 20 A przeglądając jako przystało przystąpić, skromnie znosząc, umyślił nie dopuszczać się rzeczy nieprzystojnych dla miłości zdrowia.
 21 A ci, którzy przy nim stali, niedobrą litością wzruszeni dla starej przyjaźni z mężem, odwiódszy go osobno prosili, aby przyniesiono mięsa, którego mu się używać godziło, aby zmyślono, że jadł, jako król był rozkazał, z mięsa ofiarowanego:
 22 żeby to uczyniwszy uszedł śmierci, a dla starej z mężem przyjaźni z nim ludzkość czynili.
-
-[Responsory1]
-@Tempora/101-0:Responsory1
 
 [Lectio2]
 !2 Mch 6:23-28
@@ -19,9 +19,6 @@ Z Drugiej Księgi Machabejskiej
 27 A tak, statecznie z żywota schodząc, okażę się być starości godnym,
 28 a młodzieńcom mężny przykład zostawię, jeśli ochotnym sercem a mężnie za napoważniejsze i naświętsze prawa poczdwą śmierć podejmę. To gdy wymówił, zaraz go na mękę pociągniono.
 
-[Responsory2]
-@Tempora/101-0:Responsory2
-
 [Lectio3]
 !2 Mch 7:1-5
 1 A przydarzyło się, iż siedm braciej pospołu z matką ich poimanych, od króla przymuszano, aby przeciw Prawu świnie mięso jedli, bijąc je biczmi bykowemi.
@@ -29,21 +26,3 @@ Z Drugiej Księgi Machabejskiej
 3 Rozgniewawszy się tedy król, rozkazał panwie i kotły miedziane rozpalić: które gdy natychmiast rozpalono,
 4 kazał temu, który naprzód mówił, język urżnąć, a skórę z głowy zdarwszy, ręce i nogi jego obciąć, na co inni bracia jego i z matką patrzali.
 5 A gdy już na wszytkim niczemu się nie godził, kazał ogień przyłożyć i jeszcze dychającego smażyć w panwi; w której gdy go długo męczono, drudzy pospołu z matką napominali jeden drugiego, aby statecznie śmierć podjęli.
-
-[Responsory3]
-@Tempora/101-0:Responsory3
-
-[Responsory4]
-@Tempora/101-0:Responsory4
-
-[Responsory5]
-@Tempora/101-0:Responsory5
-
-[Responsory6]
-@Tempora/101-0:Responsory6
-
-[Responsory7]
-@Tempora/101-0:Responsory7
-
-[Responsory8]
-@Tempora/Pent01-0:Responsory8
