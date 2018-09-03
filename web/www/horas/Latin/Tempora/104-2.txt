@@ -1,7 +1,7 @@
 [Lectio1]
 De libro secúndo Machabæórum
 !2 Mac 3:1-4
-1 Igitur, cum sancta cívitas habitarétur in omni pace, leges etiam adhuc optime custodiréntur, propter Oníæ pontificis pietátem, et animos ódio habéntes mala, 
+1 Igitur, cum sancta cívitas habitarétur in omni pace, leges étiam adhuc optime custodiréntur, propter Oníæ pontificis pietátem, et animos ódio habéntes mala, 
 2 fiebat ut et ipsi reges et príncipes locum summo honóre dignum ducerent, et templum maximis munéribus illustrarent:
 3 ita ut Seléucus Asiæ rex de reddítibus suis præstaret omnes sumptus ad ministérium sacrificiórum pertinéntes. 
 4 Simon autem de tribu Benjamin, præpósitus templi constitútus, conténdebat, obsisténte sibi príncipe sacerdotum, iníquum aliquid in civitáte moliri.
@@ -22,7 +22,7 @@ De libro secúndo Machabæórum
 [Lectio3]
 !2 Mac 3:9-12
 9 Sed, cum venísset Jerosolymam, et benígne a summo sacerdote in civitáte esset exceptus, narrávit de dato indicio pecuniárum, et cujus rei grátia adesset, apéruit; interrogábat autem si vere hæc ita essent. 
-10 Tunc summus sacerdos osténdit depósita esse hæc, et victualia viduárum et pupillórum;
+10 Tunc summus sacérdos osténdit depósita esse hæc, et victualia viduárum et pupillórum;
 11 quædam vero esse Hircani Tobíæ viri valde eminentis, in his quæ detulerat ímpius Simon: univérsa autem argénti talénta esse quadragínta, et auri ducénta:
 12 décipi vero eos qui credidissent loco et templo, quod per univérsum mundum honorátur, pro sui veneratióne et sanctitáte, omnino impossibile esse.
 

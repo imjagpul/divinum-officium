@@ -60,7 +60,7 @@ Feria V =  Invocábimus * nomen tuum, Dómine: narrábimus mirabília tua.
 Feria VI = Misericórdia et véritas * præcédent fáciem tuam, Dómine.
 88(2-19), 88(20-38), 88(39-53)
 Sabbato = Ne tacúeris Deus, * quia sermónibus ódii circumdedérunt me.
-108(1-13), 108(14-21), 108(22-31)
+108(2-13), 108(14-21), 108(22-31)
 
 [Completorium]
 Dominica = Miserére * mihi, Dómine, et exáudi oratiónem meam.
@@ -150,15 +150,15 @@ Sabbato = Intret orátio mea * in conspéctu tuo, Dómine.
 
 [Quad]
 1 = Vivo ego * dicit Dóminus: nolo mortem peccatóris, sed ut magis convertátur et vivat.
-2 = Advenerunt nobis * dies pœniténtiæ ad redimenda peccáta, ad salvandas ánimas.
-3 = Commendémus nosmetipsos * in multa patiéntia, in jejúniis multis, per arma justítiæ.
+2 = Advenérunt nobis * dies pœniténtiæ ad rediménda peccáta, ad salvándas ánimas.
+3 = Commendémus nosmetípsos * in multa patiéntia, in jejúniis multis, per arma justítiæ.
 4 = 
-5 = Per arma justítiæ * virtútis Dei commendemus nosmetipsos in multa patiéntia.
+5 = Per arma justítiæ * virtútis Dei commendémus nosmetípsos in multa patiéntia.
 
 [Quad5]
 1 = Líbera me, Dómine, * et pone me juxta te: et cujúsvis manus pugnet contra me.
-2 = Judicasti, Dómine, * causam ánimæ meæ, defensor vitæ meæ, Dómine, Deus meus.
-3 = Pópule meus, * quid feci tibi? aut quid molestus fui? Respónde mihi.
+2 = Judicásti, Dómine, * causam ánimæ meæ, defensor vitæ meæ, Dómine, Deus meus.
+3 = Pópule meus, * quid feci tibi? aut quid moléstus fui? Respónde mihi.
 4 =
 5 = Numquid rédditur * pro bono malum, quia fodérunt fóveam ánimæ meæ.
 

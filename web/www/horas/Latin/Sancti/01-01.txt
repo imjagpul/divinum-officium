@@ -46,10 +46,10 @@ Speciósus forma * præ fíliis hóminum, diffúsa est grátia in lábiis tuis.;
 Homo natus est * in ea, et ipse fundávit eam Altíssimus.;;86
 Exsultábunt ómnia ligna * silvárum ante fáciem Dómini, quóniam venit.;;95
 V. Speciósus forma præ fíliis hóminum.
-R. Diffusa est grátia in lábiis tuis.
+R. Diffúsa est grátia in lábiis tuis.
 In principio, * et ante sǽcula Deus erat Verbum, et ipse natus est hódie Salvátor mundi.;;96
 Ante lucíferum génitus, * et ante sǽcula, Dóminus Salvátor noster hódie nasci dignátus est.;;97
-Nato Dómino, * Angelórum chorus canebat, dicens: Salus Deo nostro, sedénti super thronum, et Agno.;;98
+Nato Dómino, * Angelórum chorus canébat, dicens: Salus Deo nostro, sedénti super thronum, et Agno.;;98
 V. Notum fecit Dóminus, allelúja.
 R. Salutare suum, allelúja.
 
@@ -81,7 +81,7 @@ R. Cujus non sum dignus corrígiam calceaménti sólvere.
 [Responsory2]
 R. Dies sanctificátus illúxit nobis: veníte, gentes, et adoráte Dóminum: 
 * Quia hódie descéndit lux magna in terris.
-V. Hæc dies quam fecit Dóminus, exsultémus et lætemur in ea.
+V. Hæc dies quam fecit Dóminus, exsultémus et lætémur in ea.
 R. Quia hódie descéndit lux magna in terris.
 
 [Lectio3]
@@ -112,7 +112,7 @@ V. Beatam me dicent omnes generatiónes, quia ancíllam húmilem respéxit Deus.
 R. Quia, cum essem párvula, plácui Altíssimo, et de meis viscéribus génui Deum et hóminem.
 
 [Lectio5]
-Divína est enim auctoritas, cui crédimus: divína est doctrína, quam séquimur. Quóniam sive legis testificatióni, sive oráculis prophetárum, sive evangélicæ tubæ interiórem admoveámus audítum; verum est, quod Joánnes plenus Spíritu Sancto intónuit: In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Hoc erat in princípio apud Deum. Omnia per ipsum facta sunt, et sine ipso factum est nihil. Et simíliter verum est, quod idem prædicátor adjécit: Verbum caro factum est et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre.
+Divína est enim auctóritas, cui crédimus: divína est doctrína, quam séquimur. Quóniam sive legis testificatióni, sive oráculis prophetárum, sive evangélicæ tubæ interiórem admoveámus audítum; verum est, quod Joánnes plenus Spíritu Sancto intónuit: In princípio erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum. Hoc erat in princípio apud Deum. Omnia per ipsum facta sunt, et sine ipso factum est nihil. Et simíliter verum est, quod idem prædicátor adjécit: Verbum caro factum est et habitávit in nobis: et vídimus glóriam ejus, glóriam quasi Unigéniti a Patre.
 
 [Responsory5]
 R. Confirmátum est cor Vírginis, in quo divína mystéria, Angelo nuntiánte, concépit: tunc speciósum forma præ fíliis hóminum castis suscépit viscéribus: 
@@ -144,7 +144,7 @@ Circumcíditur itaque Puer. Quis est iste puer, nisi ille, de quo dictum est: Pu
 @Sancti/12-25:Responsory6
 
 [Lectio8]
-Sed quóniam prona quadam cupiditáte peccándi, humánæ carnis et mentis fragílitas inextricabílibus vítiis implicátur, eo per octávum circumcisiónis diem culpæ totius futúra purgátio, resurrectiónis præfigurabátur ætáte. Hoc est enim illud: Quia omne masculi3num adapériens vulvam, sanctum Dómino vocábitur. Verbis enim legis promittebátur Vírginis partus. Et vere sanctus, quia immaculátus. Dénique ipsum esse, qui lege signétur, in eumdem modum ab Angelo repetíta verba declárant: Quod nascétur, inquit, Sanctum, vocábitur Fílius Dei.
+Sed quóniam prona quadam cupiditáte peccándi, humánæ carnis et mentis fragílitas inextricabílibus vítiis implicátur, eo per octávum circumcisiónis diem culpæ totius futúra purgátio, resurrectiónis præfigurabátur ætáte. Hoc est enim illud: Quia omne masculínum adapériens vulvam, sanctum Dómino vocábitur. Verbis enim legis promittebátur Vírginis partus. Et vere sanctus, quia immaculátus. Dénique ipsum esse, qui lege signétur, in eumdem modum ab Angelo repetíta verba declárant: Quod nascétur, inquit, Sanctum, vocábitur Fílius Dei.
 
 [Responsory8]
 R. Nésciens Mater Virgo virum, péperit sine dolóre: 

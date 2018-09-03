@@ -10,7 +10,7 @@ De libro secúndo Machabæórum
 
 [Lectio2]
 !2 Mac 3:26-29
-26 Alii etiam apparuérunt duo júvenes virtúte decóri, optimi glória, speciosíque amictu: qui circumstetérunt eum, et ex utraque parte flagellábant, sine intermissióne multis plagis verberantes. 
+26 Alii étiam apparuérunt duo júvenes virtúte decóri, optimi glória, speciosíque amictu: qui circumstetérunt eum, et ex utraque parte flagellábant, sine intermissióne multis plagis verberantes. 
 27 Súbito autem Heliodórus cóncidit in terram, eumque multa calígine circumfusum rapuérunt, atque in sella gestatoria pósitum ejecérunt. 
 28 Et is, qui cum multis cursóribus et satellítibus prædictum ingréssus est ærárium, portabátur nullo sibi auxílium ferente, manifesta Dei cógnita virtúte. 
 29 Et ille quidem per divinam virtútem jacebat mutus, atque omni spe et salúte privatus.
@@ -20,8 +20,8 @@ De libro secúndo Machabæórum
 
 [Lectio3]
 !2 Mac 3:32-34
-32 Considerans autem summus sacerdos ne forte rex suspicarétur malítiam aliquam ex Judæis circa Heliodórum consummatam, obtulit pro salúte viri hóstiam salutárem. 
-33 Cumque summus sacerdos exoraret, iídem júvenes eisdem vestibus amicti astántes Heliodóro, dixérunt: Oníæ sacerdoti grátias age; nam propter eum Dóminus tibi vitam donávit. 
+32 Considerans autem summus sacérdos ne forte rex suspicarétur malítiam aliquam ex Judæis circa Heliodórum consummatam, obtulit pro salúte viri hóstiam salutárem. 
+33 Cumque summus sacérdos exoraret, iídem júvenes eisdem vestibus amicti astántes Heliodóro, dixérunt: Oníæ sacerdoti grátias age; nam propter eum Dóminus tibi vitam donávit. 
 34 Tu autem a Deo flagéllatus, núntia ómnibus magnália Dei, et potestátem. Et, his dictis, non comparuérunt.
 
 [Responsory3]

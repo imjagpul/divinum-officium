@@ -72,7 +72,7 @@ R. Et missus est Angelus Dómini sanctus Raphaël, ut curaret eos ambos, quorum 
 6 Tunc dixit eis occulte: Benedícite Deum cæli, et coram ómnibus vivéntibus confitémini ei, quia fecit vobíscum misericórdiam suam. 
 7 Etenim sacraméntum regis abscóndere bonum est, ópera autem Dei revelare et confitéri honorificum est. 
 8 Bona est orátio cum jejúnio, et eleemósyna magis quam thesáuros auri recóndere; 
-9 quóniam eleemósyna a morte liberat, et ipsa est quæ purgat peccáta, et facit inveníre misericórdiam et vitam æternam. 
+9 quóniam eleemósyna a morte liberat, et ipsa est quæ purgat peccáta, et facit inveníre misericórdiam et vitam ætérnam. 
 10 Qui autem faciunt peccátum et iniquitátem, hostes sunt ánimæ suæ. 
 11 Manifesto ergo vobis veritátem et non abscóndam a vobis occultum sermónem. 
 12 Quando orabas cum lácrimis, et sepeliébas mórtuos, et derelinquébas prandium tuum, et mórtuos abscondébas per diem in domo tua, et nocte sepeliébas eos, ego óbtuli oratiónem tuam Dómino. 
@@ -151,7 +151,7 @@ Léctio sancti Evangélii secúndum Joánnem
 In illo témpore: Erat dies festus Judæórum, et ascéndit Jesus Jerosolymam. Et réliqua.
 _
 Homilía sancti Joánnis Chrysóstomi
-!Homilía 36, alias 35, in Joánnem, num. 1
+!Homilia 36, alias 35, in Joánnem, num. 1
 Quis hic curatiónis modus? quale mystérium subindicátur? Neque enim sine causa hæc scripta sunt; sed futura nobis quasi in figura et imagine describit, ne, si res stupenda accideret inexspéctata, auditórum multórum fidem aliquátenus labefactáret. Quænam ígitur hæc descriptio? Futurum baptisma dandum erat, plenum virtúte et grátia maxima, baptisma, quod peccáta ómnia ablúeret, quod ex mórtuis vivos redderet. Hæc ergo ut in imagine depingúntur in piscina et in aliis multis. Et primo quidem aquam dedit, quæ córporum máculas ablúeret, sordesque non veras, sed tales existimátas, ex funere nempe, ex lepra, et similes; multaque vidére est eádem de causa in veteri lege per aquam mundata.
 
 [Responsory7]
@@ -172,7 +172,7 @@ R. Vos autem benedícite Dóminum, et narráte ómnia mirabília ejus.
 R. Vos autem benedícite Dóminum, et narráte ómnia mirabília ejus.
 
 [Lectio9]
-Circa hanc piscinam jacebat multitúdo magna infirmórum, cæcórum, claudórum, aridórum, aquæ motum exspectántium. Sed tunc infirmitas impediménto erat quóminus is qui vellet, sanarétur; nunc autem unusquísque potestátem accedéndi habet. Non enim Angelus est qui aquam movet, sed Angelórum Dóminus ómnia éfficit. Nec dicere póssumus: Dum ego accedo, alius ante me descéndit. Sed, si totus orbis venerit, grátia non consúmitur, neque vis vel operátio déficit, sed semper éadem manet. Ac, quemádmodum solares radii quotídie illúminant, nec absumúntur, neque, quod multis subministréntur, lucis quídpiam amittunt; sic, immo multo minus, Spíritus operátio minúitur a multitúdine accipiéntium. Hoc autem factum est ut qui díscerent in aqua curándos esse corporis morbos, et hac in re diu exercitáti essent, facílius crederent etiam morbos animi posse curari.
+Circa hanc piscinam jacebat multitúdo magna infirmórum, cæcórum, claudórum, aridórum, aquæ motum exspectántium. Sed tunc infirmitas impediménto erat quóminus is qui vellet, sanarétur; nunc autem unusquísque potestátem accedéndi habet. Non enim Angelus est qui aquam movet, sed Angelórum Dóminus ómnia éfficit. Nec dicere póssumus: Dum ego accedo, alius ante me descéndit. Sed, si totus orbis venerit, grátia non consúmitur, neque vis vel operátio déficit, sed semper éadem manet. Ac, quemádmodum solares radii quotídie illúminant, nec absumúntur, neque, quod multis subministréntur, lucis quídpiam amittunt; sic, immo multo minus, Spíritus operátio minúitur a multitúdine accipiéntium. Hoc autem factum est ut qui díscerent in aqua curándos esse corporis morbos, et hac in re diu exercitáti essent, facílius crederent étiam morbos animi posse curari.
 &teDeum
 
 [Ant Laudes]

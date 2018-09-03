@@ -1,4 +1,6 @@
-[Rank]
+@Tempora/Pasc5-4
+
+[Rank1960]
 Feria V infra Hebdomadam post Ascensionem;;Feria;;1
 
 [Rule]

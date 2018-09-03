@@ -1,7 +1,7 @@
 [Lectio1]
 De libro primo Machabæórum
 !1 Mac 2:1-6
-1 In diébus illis surréxit Mathathías fílius Joánnis, fílii Simeónis, sacerdos ex fíliis Jóarib, ab Jerúsalem, et consedit in monte Modin.
+1 In diébus illis surréxit Mathathías fílius Joánnis, fílii Simeónis, sacérdos ex fíliis Jóarib, ab Jerúsalem, et consedit in monte Modin.
 2 Et habebat fílios quinque, Joánnem, qui cognominabátur Gaddis,
 3 et Simónem, qui cognominabátur Thasi,
 4 et Judam, qui vocabátur Machabæus,
@@ -35,8 +35,8 @@ R. Consérva domum istam immaculátam in ætérnum, Dómine.
 
 [Responsory3]
 R. Aperi óculos tuos, Dómine, et vide afflictiónem nostram: circumdedérunt nos Gentes ad puniéndum nos: 
-* Sed tu, Dómine, exténde bráchium tuum, et líbera ánimas nostras.
+* Sed tu, Dómine, exténde brácchium tuum, et líbera ánimas nostras.
 V. Afflige oppriméntes nos et contuméliam faciéntes in supérbiam; et custódi partem tuam.
-R. Sed tu, Dómine, exténde bráchium tuum, et líbera ánimas nostras.
+R. Sed tu, Dómine, exténde brácchium tuum, et líbera ánimas nostras.
 &Gloria
-R. Sed tu, Dómine, exténde bráchium tuum, et líbera ánimas nostras.
+R. Sed tu, Dómine, exténde brácchium tuum, et líbera ánimas nostras.
