@@ -5,7 +5,7 @@ Feria III infra Hebdomadam III post Epiphaniam;;Feria;;1
 Oratio Dominica
 
 [Lectio1]
-De epístola ad Galátas
+De Epístola ad Galátas
 !Gal 5:1-5
 1 State, et nolíte íterum jugo servitútis continéri.
 2 Ecce ego Paulus dico vobis: quóniam si circumcidámini, Christus vobis nihil próderit.
@@ -22,7 +22,7 @@ De epístola ad Galátas
 7 Currebátis bene: quis vos impedívit veritáti non obedíre?
 8 persuásio hæc non est ex eo, qui vocat vos.
 9 Módicum ferméntum totam massam corrúmpit.
-10 Ego confído in vobis in Dómino, quod nihil aliud sapiétis: qui autem contúrbat vos, portábit judícium, quicúmque est ille.
+10 Ego confído in vobis in Dómino, quod nihil áliud sapiétis: qui autem contúrbat vos, portábit judícium, quicúmque est ille.
 
 [Responsory2]
 @Tempora/Epi2-2:Responsory2

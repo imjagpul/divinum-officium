@@ -1,5 +1,5 @@
 [Rank]
-S. Caroli Epíscopi et Confessóris;;Duplex;;3;;vide C4
+S. Caroli Episcopi et Confessoris;;Duplex;;3;;vide C4
 
 [Rule]
 vide C4;
@@ -24,7 +24,7 @@ Vitalis et Agricola ejus dominus, in persecutióne Diocletiáni et Maximiáni, B
 &teDeum
 
 [Lectio94]
-Cárolus, Medioláni nóbili Borromæórum família natus, cum vigésimum tértium ætátis annum ágeret, a Pio quarto ejus avúnculo in sacrum cardinálium collégium cooptátus est. Mox ab eódem Mediolanénsis archiepíscopus creátus, in eo plúrimam óperam adhíbuit, ut juxta sacrosánctum Tridentínum Concílium, quod ejus potíssimum sollicitúdine jam tum fúerat absolútum, ecclésiam sibi commíssam compóneret. Peste Medioláni grassánte, domésticam supelléctilem in egénos aléndos cóntulit; eóque morbo laborántes sédulo invísens, mirum in modum solabátur, Ecclésiæ sacraménta própriis ipse mánibus adminístrans. Ecclesiásticæ libertátis acérrimus fuit propugnátor, plúraque scripsit ad episcopórum præsértim instructiónem utilíssima; cujus étiam ópera parochórum catechísmus pródiit. Medioláni óbiit ætátis suæ anno quadragésimo séptimo, tértio Nonas Novémbris. Quem, miráculis clarum, Paulus quintus in Sanctórum númerum rétulit.
+Cárolus, Medioláni nóbili Borromæórum família natus, cum vigésimum tértium ætátis annum ágeret, a Pio quarto ejus avúnculo in sacrum cardinálium collégium cooptátus est. Mox ab eódem Mediolanénsis archiepíscopus creátus, in eo plúrimam óperam adhíbuit, ut juxta sacrosánctum Tridentínum Concílium, quod ejus potíssimum sollicitúdine jam tum fúerat absolútum, ecclésiam sibi commíssam compóneret. Peste Medioláni grassánte, domésticam supelléctilem in egénos aléndos cóntulit; eóque morbo laborántes sédulo invísens, mirum in modum solabátur, Ecclésiæ sacraménta própriis ipse mánibus adminístrans. Ecclesiásticæ libertátis acérrimus fuit propugnátor, plúraque scripsit ad episcopórum præsértim instructiónem utilíssima; cujus étiam ópera parochórum catechísmus pródiit. Medioláni óbiit ætátis suæ anno quadragésimo séptimo, tértio nonas novémbris. Quem, miráculis clarum, Paulus quintus in Sanctórum númerum rétulit.
 &teDeum
 
 [Commemoratio 2]
@@ -35,17 +35,17 @@ V. Exsultábunt Sancti in glória.
 R. Lætabúntur in cubílibus suis. 
 _
 $Oremus 
-Omnipotens sempiterne Deus, qui nos omnium Sanctorum tuorum merita sub una tribuisti celebritate venerari: quǽsumus: ut desideratam nobis tuæ propitiationis abundantiam, multiplicatis intercessoribus largiaris.
+v. Omnipotens sempiterne Deus, qui nos omnium Sanctorum tuorum merita sub una tribuisti celebritate venerari: quǽsumus: ut desideratam nobis tuæ propitiationis abundantiam, multiplicatis intercessoribus largiaris.
 _
 !Commemoratio Ss. Mart. Vitalis et Agricolæ.
 @Commune/C3:Oratio proper
 $Oremus
-Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Vitális et Agrícolæ solémnia cólimus, eórum apud te intercessiónibus adjuvémur.
+v. Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Vitális et Agrícolæ solémnia cólimus, eórum apud te intercessiónibus adjuvémur.
 $Per Dominum
 
 [Commemoratio 1]
-!Commemoratio Ss. Mart. Vitalis et Agricolæ.
+!Commemoratio Ss. Mart. Vitalis et Agricolæ
 @Commune/C3:Oratio proper
 $Oremus
-Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Vitális et Agrícolæ solémnia cólimus, eórum apud te intercessiónibus adjuvémur.
+v. Præsta, quǽsumus, omnípotens Deus: ut, qui sanctórum Mártyrum tuórum Vitális et Agrícolæ solémnia cólimus, eórum apud te intercessiónibus adjuvémur.
 $Per Dominum

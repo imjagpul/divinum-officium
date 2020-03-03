@@ -12,7 +12,7 @@ Divinum auxilium
 [Ant Vespera]
 Domum tuam, Dómine, * decet sanctitúdo in longitúdinem diérum.;;109
 Domus mea, * domus oratiónis vocábitur.;;110
-Hæc est domus Dómini * firmiter ædificata, bene fundáta est supra firmam petram.;;111
+Hæc est domus Dómini * firmiter ædificáta, bene fundáta est supra firmam petram.;;111
 Bene fundáta est * domus Dómini supra firmam petram.;;112
 Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur.;;147
 
@@ -20,6 +20,78 @@ Lápides pretiósi * omnes muri tui, et turres Jerúsalem gemmis ædificabúntur
 !Apo 21:2
 v. Vidi civitátem sanctam, Jerúsalem novam, descendéntem de cælo a Deo, parátam sicut spónsam ornátam viro suo.
 $Deo gratias
+
+[Hymnus Laudes](rubrica 1570)
+v. Anguláris fundaméntum
+Lapis Christus missus est,
+Qui pariétum compáge
+In utróque néctitur,
+Quem Sion sancta suscépit,
+In quo credens pérmanet.
+_
+Omnis illa Deo sacra
+Et dilécta cívitas,
+Plena módulis, in laude,
+Et canóre júbilo,
+Trinum Deum unicúmque
+Cum fervóre prǽdicat.
+_
+Hoc in templo, summe Deus,
+Exorátus ádveni,
+Et cleménti bonitáte
+Precum vota súscipe:
+Largam benedictiónem
+Hic infunde júgiter.
+_
+Hic promereántur omnes
+Petíta acquírere,
+Et adépta possidére:
+Cum Sanctis perénniter
+Paradísum introíre,
+Transláti in réquiem.
+_
+Glória et honor Deo
+Usquequáqu[e] altíssimo,
+Una Patri, Filióque,
+Inclyto Paráclito,
+Cui laus est et potéstas
+Per ætérna sǽcula. Amen.
+
+[Hymnus Vespera](rubrica 1570)
+v. Urbs beáta Jerúsalem,
+Dicta pacis vísio,
+Quæ constrúitur in cælis
+Vivis ex lapídibus,
+Et Angelis coronáta
+Ut sponsáta cómite.
+_
+Nova véniens e cælo,
+Nuptiáli thálamo
+Præparáta, ut sponsáta
+Copulétur Dómino:
+Platéæ et muri ejus
+Ex auro puríssimo.
+_
+Portæ nitent margarítis
+Adytis paténtibus,
+Et virtúte meritórum
+Illuc introdúcitur
+Omnis qui ob Christi nomen
+Hic in mundo prémitur.
+_
+Tunsiónibus, pressúris
+Expolíti lápides,
+Suis coaptántur locis
+Per manus artíficis,
+Disponúntur permansúri
+Sacris ædifíciis.
+_
+Glória et honor Deo
+Usquequáqu[e] altíssimo,
+Una Patri, Filióque,
+Inclyto Paráclito,
+Cui laus est et potéstas
+Per ætérna sǽcula. Amen.
 
 [Hymnus Vespera]
 {:H-Caelestisurbs:}v. Cæléstis urbs Jerúsalem,
@@ -96,7 +168,7 @@ per ætérna sæcula.
 Amen.
 
 [Versum 1]
-V. Hæc est domus Dómini firmiter ædificata. 
+V. Hæc est domus Dómini fírmiter ædificáta. 
 R. Bene fundáta est supra firmam petram.
 
 [Ant 1]
@@ -122,15 +194,15 @@ Erit mihi Dóminus * in Deum, et lapis iste vocábitur domus Dei.;;45
 Ædificávit * Móyses altáre Dómino Deo.;;47
 V. Domum tuam, Dómine, decet sanctitúdo.
 R. In longitúdinem diérum.
-Non est hic aliud, * nisi domus Dei, et porta cæli.;;83
-Vidit Jacob scalam, * summitas ejus, cælos tangebat, et descendéntes Angelos, et dixit: Vere locus iste sanctus est.;;86
-Eréxit Jacob * lápidem in titulum, fundens óleum désuper.;;87
+Non est hic áliud, * nisi domus Dei, et porta cæli.;;83
+Vidit Jacob scalam, * súmmitas ejus cælos tangébat, et descendéntes Angelos, et dixit: Vere locus iste sanctus est.;;86
+Eréxit Jacob * lápidem in títulum, fundens óleum désuper.;;87
 V. Domus mea.
 R. Domus oratiónis vocábitur.
 Qui hábitat * in adjutório Altíssimi, in protectióne Dei cæli commorábitur.;;90
-Templum Dómini * sanctum est, Dei structura est, Dei ædificátio est.;;95
+Templum Dómini * sanctum est, Dei structúra est, Dei ædificátio est.;;95
 Benedícta * glória Dómini, de loco sáncto suo, allelúja.;;98
-V. Hæc est domus Dómini firmiter ædifícata.
+V. Hæc est domus Dómini fírmiter ædificáta.
 R. Bene fundáta est supra firmam petram.
 
 [Lectio1]
@@ -145,7 +217,7 @@ De libro secundo Paralipómenon
 [Responsory1]
 R. In dedicatióne templi decantábat pópulus laudem: 
 * Et in ore eórum dulcis resonábat sonus.
-V. Fundáta est domus Dómini supra vérticem móntium, et vénient ad eam omnes Gentes.
+V. Fundáta est domus Dómini supra vérticem móntium, et vénient ad eam omnes gentes.
 R. Et in ore eórum dulcis resonábat sonus.
 
 [Lectio2]
@@ -157,9 +229,9 @@ R. Et in ore eórum dulcis resonábat sonus.
 
 [Responsory2]
 R. Fundáta est domus Dómini supra vérticem móntium, et exaltáta est super omnes colles:
-* Et vénient ad eam omnes Gentes, et dicent: Glória tibi, Dómine.
+* Et vénient ad eam omnes gentes, et dicent: Glória tibi, Dómine.
 V. Veniéntes autem vénient cum exsultatióne, portántes manípulos suos.
-R. Et vénient ad eam omnes Gentes, et dicent: Glória tibi, Dómine.
+R. Et vénient ad eam omnes gentes, et dicent: Glória tibi, Dómine.
 
 [Lectio3]
 !2 Chr 7:11-16
@@ -212,11 +284,11 @@ R. Vere locus iste sanctus est, et ego nesciébam.
 [Lectio7]
 Léctio sancti Evangélii secúndum Lucam
 !Luc 19:1-10
-In illo témpore: Ingréssus Jesus perambulábat Jericho. Et ecce vir nómine Zachǽus: et hic princeps erat publicanórum, et ipse dives. Et réliqua.
+In illo témpore: Ingréssus Jesus perambulábat Jéricho. Et ecce vir nómine Zachǽus: et hic princeps erat publicanórum, et ipse dives. Et réliqua.
 _
 Homilía sancti Ambrósii Epíscopi
 !Lib. 8 in Luc., prope finem
-Zachǽus, statúra pusíllus, hoc est, nulla nobilitátis ingénitæ dignitáte sublímis, éxiguus méritis sicut pópulus natiónum, audíto Dómini Salvatóris advéntu, quem sui non recéperant, vidére cupiébat. Sed nemo fácile Jesum videt; nemo potest Jesum vidére consitútus in terra. Et, quia non prophétas, non legem habébat, tamquam formæ grátiam naturális, ascéndit in sycómorum, vanitátem scílicet Judæórum vestígio suo próterens, erráta quoque córrigens superióris ætátis. Et ídeo Jesum in interióris domus recépit hospítio.
+Zachǽus, statúra pusíllus, hoc est, nulla nobilitátis ingénitæ dignitáte sublímis, éxiguus méritis sicut pópulus natiónum, audíto Dómini Salvatóris advéntu, quem sui non recéperant, vidére cupiébat. Sed nemo fácile Jesum videt; nemo potest Jesum vidére constitútus in terra. Et, quia non prophétas, non legem habébat, tamquam formæ grátiam naturális, ascéndit in sycómorum, vanitátem scílicet Judæórum vestígio suo próterens, erráta quoque córrigens superióris ætátis. Et ídeo Jesum in interióris domus recépit hospítio.
 
 [Responsory7]
 R. Domus mea, domus oratiónis vocábitur, dicit Dóminus: in ea omnis qui petit, áccipit; et qui quærit, ínvenit; 
@@ -225,7 +297,7 @@ V. Pétite, et accipiétis; quǽrite, et inveniétis.
 R. Et pulsánti aperiétur.
 
 [Lectio8]
-Et bene ascéndit in árborem, ut arbor bona bonos fructus fáceret, ac, naturáli excísus oleástro et contra natúram insértus in bonam olívam, fructum posset legis afférre. Radix enim sancta, etsi rami inútiles. Quorum infructuósam glóriam plebs Géntium, fide resurrectiónis, quasi quadam córporis elevatióne, transcéndit. Zachǽus ergo in sycómoro, cæcus in via: quorum álterum Dóminus miseratúrus exspéctat, álterum mansiónis suæ claritáte nobílitat; álterum sanatúrus intérrogat, apud álterum se, non invitátus, invítat. Sciébat enim úberem hospítii sui esse mercédem. Sed tamen, etsi nondum vocem invitántis audíerat, jam víderat afféctum.
+Et bene ascéndit in árborem, ut arbor bona bonos fructus fáceret, ac, naturáli excísus oleástro et contra natúram insértus in bonam olívam, fructum posset legis afférre. Radix enim sancta, etsi rami inútiles. Quorum infructuósam glóriam plebs géntium, fide resurrectiónis, quasi quadam córporis elevatióne, transcéndit. Zachǽus ergo in sycómoro, cæcus in via: quorum álterum Dóminus miseratúrus exspéctat, álterum mansiónis suæ claritáte nobílitat; álterum sanatúrus intérrogat, apud álterum se, non invitátus, invítat. Sciébat enim úberem hospítii sui esse mercédem. Sed tamen, etsi nondum vocem invitántis audíerat, jam víderat afféctum.
 
 [Responsory8]
 R. Lápides pretiósi omnes muri tui, 
@@ -327,7 +399,7 @@ Amen.
 @:Versum 1
 
 [Ant 2]
-Zachǽe, * festínans descénde, quia hódie in domo tua opórtet me manére. At ille festínans descéndit, et suscépit illum gaudens in domum suam. Hódie huic domui salus a Deo facta est, allelúja.
+Zachǽe, * festínans descénde, quia hódie in domo tua opórtet me manére. At ille festínans descéndit, et suscépit illum gaudens in domum suam. Hódie huic dómui salus a Deo facta est, allelúja.
 
 [Lectio Prima]
 !Apo 21:4-5
@@ -356,11 +428,11 @@ $Deo gratias
 R.br. Locus iste sanctus est, * In quo orat sacérdos.
 R. Locus iste sanctus est, * In quo orat sacérdos.
 V. Pro delíctis et peccátis pópuli.
-R. In quo orat sacerdos.
+R. In quo orat sacérdos.
 &Gloria
 R. Locus iste sanctus est, * In quo orat sacérdos.
 _
-V. Hæc est domus Dómini firmiter ædificata.
+V. Hæc est domus Dómini fírmiter ædificáta.
 R. Bene fundáta est supra firmam petram.
 
 [Capitulum Nona]
@@ -369,12 +441,12 @@ v. Et abstérget Deus omnem lácrimam ab óculis eórum: et mors ultra non erit,
 $Deo gratias
 
 [Responsory Nona]
-R.br. Hæc est domus Dómini * Firmiter ædifícata.
-R. Hæc est domus Dómini * Firmiter ædifícata.
+R.br. Hæc est domus Dómini * Fírmiter ædificáta.
+R. Hæc est domus Dómini * Fírmiter ædificáta.
 V. Bene fundáta est supra firmam petram.
-R. Firmiter ædificata.
+R. Fírmiter ædificáta.
 &Gloria
-R. Hæc est domus Dómini * Firmiter ædifícata.
+R. Hæc est domus Dómini * Fírmiter ædificáta.
 _
 V. Bene fundáta est domus Dómini.
 R. Supra firmam petram.
@@ -384,4 +456,4 @@ V. Domum tuam, Dómine, decet sanctitúdo.
 R. In longitúdinem diérum.
 
 [Ant 3]
-O quam metuéndus est * locus iste: vere non est hic aliud, nisi domus Dei, et porta cæli.
+O quam metuéndus est * locus iste: vere non est hic áliud, nisi domus Dei, et porta cæli.

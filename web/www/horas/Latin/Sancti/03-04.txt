@@ -1,11 +1,11 @@
 [Rank]
-S. Casimiri Confessóris;;Semiduplex;;2.1;;vide C5
+S. Casimiri Confessoris;;Semiduplex;;2.1;;vide C5
 
 [Rank1960]
-S. Casimiri Confessóris;;Duplex;;3;;vide C5
+S. Casimiri Confessoris;;Duplex;;3;;vide C5
 
 [RankNewcal]
-S. Casimiri Confessóris;;Semiduplex;;2.1;;vide C5
+S. Casimiri Confessoris;;Semiduplex;;2.1;;vide C5
 
 [Rule]
 vide C5;
@@ -14,7 +14,7 @@ CPapaM=Lúcium;
 Lectio1 Quad
 
 [Oratio]
-Deus, qui inter regáles delicias et mundi illécebras sanctum Casimírum virtúte constántiæ roborásti: quǽsumus; ut ejus intercessióne fidéles tui terréna despíciant, et ad cæléstia semper aspírent.
+Deus, qui inter regáles delícias et mundi illécebras sanctum Casimírum virtúte constántiæ roborásti: quǽsumus; ut ejus intercessióne fidéles tui terréna despíciant, et ad cæléstia semper aspírent.
 $Per Dominum
 
 [Commemoratio]
@@ -22,18 +22,18 @@ $Per Dominum
 @Commune/C2:Oratio proper Gregem
 _
 $Oremus
-Deus qui nos beati Lucii Martyris tui atque Pontificis annua~
-solemnitate lætificas: concede propitius; ut cujus natalitia colimus,~
-de eiusdem étiam protectione gaudeamus.
+v. Deus qui nos beáti Lucii Martyris tui atque Pontíficis annua~
+solemnitáte lætíficas: concede propítius; ut cujus natalícia cólimus,~
+de ejúsdem étiam protectione gaudeámus.
 $Per Dominum.
 
-[Lectio1]
+[Lectio1](sed non rubrica 1960)
 @Commune/C5:Lectio11
 
-[Lectio2]
+[Lectio2](sed non rubrica 1960)
 @Commune/C5:Lectio21
 
-[Lectio3]
+[Lectio3](sed non rubrica 1960)
 @Commune/C5:Lectio31
 
 [Lectio4]
@@ -65,5 +65,5 @@ insignem tribuit victoriam. Quibus permotus Leo decimus eumdem Sanctorum~
 catalogo adscripsit.
 
 [Lectio94]
-Casimírus, Polóniæ régis fílius, a puerítia pietáte et bonis ártibus instrúctus, juveniles artus áspero domábat cilício, et assíduis extenuábat jeiúniis. In Christi contemplánda passióne assíduus, oratiónis spiritum non relaxábat. Cathólicam fidem promovére, et Ruthenórum schisma abolére summópere stúduit. Erga páuperes et calamitátibus oppréssos benéficus et miséricors, patris et defensóris egenórum nomen obtínuit. Virginitátem usque ad extrémum vitæ términum constánter servávit illæsam. Consummátus in brevi, virtútibus et méritis plenus, prænuntiáto mortis die, spíritum Deo réddidit, anno ætátis vigésimo quinto. Eum, miráculis clarum, Leo décimus in Sanctórum númerum réttulit.
+Casimírus, Polóniæ régis fílius, a puerítia pietáte et bonis ártibus instrúctus, juveníles artus áspero domábat cilício, et assíduis extenuábat jeiúniis. In Christi contemplánda passióne assíduus, oratiónis spiritum non relaxábat. Cathólicam fidem promovére, et Ruthenórum schisma abolére summópere stúduit. Erga páuperes et calamitátibus oppréssos benéficus et miséricors, patris et defensóris egenórum nomen obtínuit. Virginitátem usque ad extrémum vitæ términum constánter servávit illǽsam. Consummátus in brevi, virtútibus et méritis plenus, prænuntiáto mortis die, spíritum Deo réddidit, anno ætátis vigésimo quinto. Eum, miráculis clarum, Leo décimus in Sanctórum númerum réttulit.
 &teDeum

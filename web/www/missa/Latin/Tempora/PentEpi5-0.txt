@@ -1,22 +1,22 @@
 @Tempora/Epi5-0
 
 [Rank]
-Dominica V quae superfuit Post Epiphaniam;;Semiduplex;;5
+Dominica V quæ superfuit Post Epiphaniam;;Semiduplex;;5
 
 [Rule]
 Gloria
 Credo
 Prefatio=Trinitate
-Suffr=Sanctorum;Maria3,Ecclesiae,Papa;;
+Suffr=Sanctorum;Maria3,Ecclesiæ,Papa;;
 
 [Introitus]
-@Tempora/Pent23-0
+@Tempora/Pent23-0:Introitus
 
 [Graduale]
-@Tempora/Pent23-0
+@Tempora/Pent23-0:Graduale
 
 [Offertorium]
-@Tempora/Pent23-0
+@Tempora/Pent23-0:Offertorium
 
 [Communio]
-@Tempora/Pent23-0
+@Tempora/Pent23-0:Communio

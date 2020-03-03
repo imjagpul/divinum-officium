@@ -50,7 +50,7 @@ Semper collætémur.
 _
 Sit laus Deo Patri,
 Summo Christo decus,
-Spiritui Sancto,
+Spirítui Sancto,
 Tribus honor unus.
 Amen.
 
@@ -65,7 +65,7 @@ Concéde nos fámulos tuos, quǽsumus, Dómine Deus, perpétua mentis et córpor
 $Per Dominum
 
 [Ant 11]
-@Sancti/01-01:Ant 3
+Magnum * hereditátis mystérium: templum Dei factus est úterus nesciéntis virum: non est pollútus ex ea carnem assúmens; omnes gentes vénient dicéntes: Glória tibi, Dómine.
 
 [Ant 13]
 Regína cæli,* lætáre, allelúja; quia quem meruísti portáre, allelúja; resurréxit, sicut dixit, allelúja: ora pro nobis Deum, allelúja.
@@ -86,6 +86,27 @@ Per Vírginem matrem concédat nobis Dóminus salútem et pacem. Amen.
 [Capitulum Laudes]
 @:Capitulum Vespera
 
+[Hymnus Laudes](rubrica 1570)
+v. O gloriósa Dómina,
+Excélsa super sídera:
+Qui te creávit, próvide
+Lactásti sacro úbere.
+_
+Quod Heva tristis ábstulit,
+Tu reddis almo gérmine:
+Intrent ut astra flébiles,
+Cæli fenéstra facta es.
+_
+Tu Regis alti jánua,
+Et porta lucis fúlgida:
+Vitam datam per Vírginem,
+Gentes redémptæ, pláudite.
+_
+Glória tibi Dómine,
+Qui natus es de Vírgine,
+Cum Patr[e] et Sancto Spíritu,
+In sempitérna sǽcula. Amen.
+
 [Hymnus Laudes]
 {:Ogloriosavirginum:}v. O gloriósa vírginum,
 Sublímis inter sídera,
@@ -104,7 +125,7 @@ Gentes redémptæ, pláudite.
 _
 * Jesu tibi sit glória,
 Qui natus es de Vírgine,
-Cum Patre, et almo Spiritu,
+Cum Patre, et almo Spíritu,
 In sempitérna sǽcula.
 Amen.
 
@@ -119,7 +140,7 @@ Beáta Dei Génetrix, María, * Virgo perpétua, templum Dómini, sacrárium Sp�
 @Sancti/01-01:Ant 2
 
 [Oratio 21]
-Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fœcúnda, humáno géneri præmia præstitísti: tríbue, quæsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
+Deus, qui salútis ætérnæ, beátæ Maríæ virginitáte fecúnda, humáno géneri prǽmia præstitísti: tríbue, quǽsumus; ut ipsam pro nobis intercédere sentiámus, per quam merúimus auctórem vitæ suscípere, Dóminum nostrum Jesum Christum Fílium tuum:
 $Qui tecum
 
 [Ant 23]
@@ -176,31 +197,31 @@ R. Proptérea benedíxit te Deus in ætérnum.
 
 [Lectio M01]
 Ex Epístola sancti Ambrósii Epíscopi ad Sirícium Papam
-!Epist. 81, al. 7, post initium.
-De via perversitátis prodúntur dicere: Virgo concépit, sed non virgo generávit. Potuit ergo virgo concipere, non potuit virgo generare, cum semper concéptus præcedat, partus sequátur? Sed, si doctrinis non creditur sacerdotum, credátur oraculis Christi; credátur monitis Angelórum dicéntium: Quia non est impossibile Deo omne verbum; credátur Symbolo Apostolórum, quod Ecclésia Romana intemerátum semper custódit et servant. Audívit Maria vocem Angeli, et, quæ ante dixerat: Quómodo fiet istud; non de fide generatiónis interrogans, respóndit póstea: Ecce ancílla Dómini, contingat mihi secúndum verbum tuum.
+!Epist. 81, alias 7, post initium
+De via perversitátis prodúntur dícere: Virgo concépit, sed non virgo generávit. Pótuit ergo virgo concípere, non pótuit virgo generáre, cum semper concéptus præcédat, partus sequátur? Sed, si doctrínis non créditur sacerdótum, credátur oráculis Christi; credátur mónitis Angelórum dicéntium: Quia non est impossíbile Deo omne verbum; credátur Sýmbolo Apostolórum, quod Ecclésia Romána intemerátum semper custódit et servant. Audívit María vocem Angeli, et, quæ ante díxerat: Quómodo fiet istud; non de fide generatiónis intérrogans, respóndit póstea: Ecce ancílla Dómini, contíngat mihi secúndum verbum tuum.
 &teDeum
 
 [Lectio M02]
 Ex libro sancti Hierónymi Presbýteri advérsus Joviniánum
-!Apologia ad Pammachium pro lib. advérsus Jovinianum, in fine
-Christus virgo, Mater vírginis nostri virgo perpétua, mater et virgo. Jesus enim clausis ingréssus est óstiis; et in sepúlcro ejus, quod novum et in petra duríssima fúerat excísum, nec ántea quis nec póstea positus est. Hortus conclúsus, fons signátus. De quo fonte ille flúvius manat, juxta Joël, qui írrigat torréntem vel fúnium vel spinárum: fúnium, peccatórum, quibus ante alligabámur; spinárum, quæ suffócant seméntem patrisfamílias. Hæc est porta orientális, ut ait Ezéchiel, semper clausa et lúcida, opériens in se vel ex se próferens Sancta sanctórum; per quam Sol justítiæ et Póntifex noster secúndum órdinem Melchísedech ingréditur et egréditur.
+!Apologia ad Pammachium pro lib. adversus Jovinianum, in fine
+Christus virgo, Mater vírginis nostri virgo perpétua, mater et virgo. Jesus enim clausis ingréssus est óstiis; et in sepúlcro ejus, quod novum et in petra duríssima fúerat excísum, nec ántea quis nec póstea pósitus est. Hortus conclúsus, fons signátus. De quo fonte ille flúvius manat, juxta Joël, qui írrigat torréntem vel fúnium vel spinárum: fúnium, peccatórum, quibus ante alligabámur; spinárum, quæ suffócant seméntem patrisfamílias. Hæc est porta orientális, ut ait Ezéchiel, semper clausa et lúcida, opériens in se vel ex se próferens Sancta sanctórum; per quam Sol justítiæ et Póntifex noster secúndum órdinem Melchísedech ingréditur et egréditur.
 &teDeum
 
 [Lectio M03]
 Ex libro sancti Irenǽi Epíscopi et Mártyris advérsus hǽreses
-!Lib. 5. c. 19.
+!Lib. 5, c. 19
 In sua própria veniénte Dómino et sua própria eum bajulánte conditióne, quæ bajulátur ab ipso, et recapitulatiónem ejus quæ in ligno fuit inobediéntiæ, per eam quæ in ligno est obediéntiam, faciénte, et seductióne illa solúta, qua sedúcta est male illa, quæ jam viro destináta erat, virgo Heva; per veritátem evangelizáta est bene ab Angelo jam sub viro Virgo María. Quemádmodum enim illa per Angélicum sermónem sedúcta est, ut effúgeret Deum, prævaricáta verbum ejus: ita et hæc per Angélicum sermónem evangelizáta est, ut portáret Deum, obédiens ejus verbo. Et sicut illa sedúcta est, ut effúgeret Deum; sic hæc suása est obedíre Deo, ut vírginis Hevæ Virgo María fíeret advocáta. Et quemádmodum adstríctum est morte genus humánum per vírginem, solvátur per Vírginem: æqua lance dispósita virginális inobediéntia per Virginitátem obediéntiam.
 &teDeum
 
 [Lectio M04]
 De Expositióne sancti Hierónymi Presbýteri in Ezechiélem Prophétam
-!Lib. 13. in cap. 44.
-Porta hæc clausa erit, et non aperiétur. Pulchre quidam portam clausam, per quam solus Dóminus Deus Israël ingréditur, et dux cui porta clausa est, Maríam Vírginem intélligunt, quæ et ante partum et post partum virgo permánsit. Etenim témpore, quo Angelus loquebátur: Spíritus Sanctus véniet super te, et virtus Altíssimi obumbrábit te: quod autem nascétur ex te Sanctum, vocábitur Fílius Dei; et quando natus est, virgo permánsit ætérna; ad confundéndos eos, qui arbitrántur eam post nativitátem Salvatóris habuísse de Joseph fílios, ex occasióne fratrum ejus, qui vocántur in Evangélio.
+!Lib. 13 in cap. 44
+Porta hæc clausa erit, et non aperiétur. Pulchre quidam portam clausam, per quam solus Dóminus Deus Israël ingréditur, et dux cui porta clausa est, Maríam Vírginem intéllegunt, quæ et ante partum et post partum virgo permánsit. Etenim témpore, quo Angelus loquebátur: Spíritus Sanctus véniet super te, et virtus Altíssimi obumbrábit te: quod autem nascétur ex te Sanctum, vocábitur Fílius Dei; et quando natus est, virgo permánsit ætérna; ad confundéndos eos, qui arbitrántur eam post nativitátem Salvatóris habuísse de Joseph fílios, ex occasióne fratrum ejus, qui vocántur in Evangélio.
 &teDeum
 
 [Lectio M05]
 Ex Tractátu S. Augustini Epíscopi de Sýmbolo ad Catechúmenos
-!Lib. 3. cap. 4. in fine
+!Lib. 3 cap. 4 in fine
 Per féminam mors, per féminam vita: per Hevam intéritus, per Mariam salus. Illa, corrúpta, secúta est seductórem: hæc, íntegra, péperit Salvatórem. Illa póculum a serpénte propinátum libénter accépit et viro trádidit, ex quo simul mereréntur occídi: hæc, grátia cælésti désuper infúsa, vitam prótulit, per quam caro mortua possit resuscitári. Quis est qui hæc operátus est, nisi Vírginis Fílius et vírginum Sponsus, qui áttulit Matri fecunditátem, sed non ábstulit integritátem?
 &teDeum
 
@@ -213,7 +234,7 @@ Veheménter quidem nobis, dilectíssimi, vir unus et múlier una nocuére; sed, 
 [Lectio M07]
 Ex Epístola sancti Ambrósii Epíscopi ad Sirícium Papam
 !Epist. 81, alias 7, circa medium
-Non excédit fidem, quod homo exívit de vírgine, quando petra fontem prófluum scaturívit, ferrum super aquas natávit, ambulávit homo super aquas. Ergo si hóminem unda portávit, non potuit hóminem virgo generáre, atque hóminem, de quo légimus: Et mittet illis Dóminus hóminem, qui salvos fáciet eos et notus erit Dóminus Ægýptiis? In véteri itaque Testaménto virgo Hebræórum per mare duxit exércitum: in novo Testaménto Virgo, géneris aula cæléstis, elécta est ad salútem.
+Non excédit fidem, quod homo exívit de vírgine, quando petra fontem prófluum scaturívit, ferrum super aquas natávit, ambulávit homo super aquas. Ergo si hóminem unda portávit, non pótuit hóminem virgo generáre, atque hóminem, de quo légimus: Et mittet illis Dóminus hóminem, qui salvos fáciet eos et notus erit Dóminus Ægýptiis? In véteri itaque Testaménto virgo Hebræórum per mare duxit exércitum: in novo Testaménto Virgo, géneris aula cæléstis, elécta est ad salútem.
 &teDeum
 
 [Lectio M08]
@@ -225,7 +246,7 @@ Fuit vir unus de Ramáthaim Sophim, de monte Ephraim. Potest, hujus montis nómi
 [Lectio M09]
 Ex Epístola sancti Leónis Papæ ad Pulchériam Augústam
 !Epist. 13, ante medium
-Sacraméntum reconcilatiónis nostræ, ante témpora æterna dispósitum, nullæ implébant figúræ; quia nondum supervénerat Spíritus Sanctus in Vírginem nec virtus Altíssimi obumbráverat ei, ut, et intra intemeráta víscera, ædificánte sibi Sapiéntia domum, Verbum caro fíeret, et, forma Dei ac forma servi in unam conveniénte persónam, Creátor témporum nascerétur in témpore, et, per quem facta sunt ómnia, ipse inter ómnia gignerétur. Nisi enim novus homo, factus in similitúdinem carnis peccáti, nostram susciperet vetustátem, et, consubstantiális Patri, consubstantiális esse dignarétur et matri, naturámque sibi nostram solus a peccáto liber uníret; sub jugo diáboli generáliter tenerétur humána captívas.
+Sacraméntum reconcilatiónis nostræ, ante témpora ætérna dispósitum, nullæ implébant figúræ; quia nondum supervénerat Spíritus Sanctus in Vírginem nec virtus Altíssimi obumbráverat ei, ut, et intra intemeráta víscera, ædificánte sibi Sapiéntia domum, Verbum caro fíeret, et, forma Dei ac forma servi in unam conveniénte persónam, Creátor témporum nascerétur in témpore, et, per quem facta sunt ómnia, ipse inter ómnia gignerétur. Nisi enim novus homo, factus in similitúdinem carnis peccáti, nostram suscíperet vetustátem, et, consubstantiális Patri, consubstantiális esse dignarétur et matri, naturámque sibi nostram solus a peccáto liber uníret; sub jugo diáboli generáliter tenerétur humána captívas.
 &teDeum
 
 [Lectio M10]

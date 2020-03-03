@@ -50,6 +50,7 @@ R. Et líbera nos propter nomen tuum.
 
 #Preces Dominicales et Feriales
 v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
+!« Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: »
 &pater_noster
 $Credo
 V. Et ego ad te, Dómine, clamávi.
@@ -118,7 +119,7 @@ $Per Dominum
 
 V. Pretiósa in conspéctu Dómini.
 R. Mors Sanctórum ejus.
-v. Sancta María et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui vivit et regnat in sǽcula sæculórum.~
+v. Sancta María et omnes Sancti intercédant pro nobis ad Dóminum, ut nos mereámur ab eo adjuvári et salvári, qui vivit et regnat in sǽcula sæculórum.
 R. Amen.
 _
 V. Deus in adjutórium meum inténde.

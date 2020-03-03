@@ -1,8 +1,8 @@
 [Pater noster]
-v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.
+v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra. Panem nostrum cotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris: et ne nos indúcas in tentatiónem: sed líbera nos a malo. Amen.
 
 [Pater_noster1]
-v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra.  Panem nostrum quotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris:
+v. Pater noster, qui es in cælis, sanctificétur nomen tuum: advéniat regnum tuum: fiat volúntas tua, sicut in cælo et in terra.  Panem nostrum cotidiánum da nobis hódie: et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris:
 V. Et ne nos indúcas in tentatiónem:
 R. Sed líbera nos a malo.
 
@@ -26,7 +26,7 @@ V. Réquiem ætérnam * dona eis, Dómine.
 R. Et lux perpétua * lúceat eis.
 
 [Alleluia]
-v. Allelúia.
+v. Allelúja.
 v. Laus tibi, Dómine, Rex ætérnæ glóriæ.
 
 [Dominus]
@@ -37,7 +37,7 @@ R. Et clamor meus ad te véniat.
 /:secunda 'Domine, exaudi' omittitur:/
 
 [Confiteor]
-v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, et ómnibus Sanctis,  quia peccávi nimis, cogitatióne, verbo et ópere: /:percutit sibi pectus:/ mea culpa, mea culpa, mea máxima culpa. Ideo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.
+v. Confíteor Deo omnipoténti, beátæ Maríæ semper Vírgini, beáto Michaéli Archángelo, beáto Joánni Baptístæ, sanctis Apóstolis Petro et Paulo, et ómnibus Sanctis,  quia peccávi nimis, cogitatióne, verbo et ópere: /:percutit sibi pectus:/ mea culpa, mea culpa, mea máxima culpa. Ídeo precor beátam Maríam semper Vírginem, beátum Michaélem Archángelum, beátum Joánnem Baptístam, sanctos Apóstolos Petrum et Paulum, et omnes Sanctos, oráre pro me ad Dóminum Deum nostrum.
 
 [Misereatur]
 v. Misereátur nostri omnípotens Deus, et dimíssis peccátis nostris, perdúcat nos ad vitam ætérnam. Amen.
@@ -62,8 +62,8 @@ V. Benedicámus Dómino.
 R. Deo grátias.
 
 [Benedicamus Domino1]
-V. Benedicámus Dómino, allelúia, allelúia.
-R. Deo grátias, allelúia, allelúia.
+V. Benedicámus Dómino, allelúja, allelúja.
+R. Deo grátias, allelúja, allelúja.
 
 [Deo gratias]
 R. Deo grátias.
@@ -120,7 +120,7 @@ Tu Rex glóriæ, * Christe.
 Tu Patris * sempitérnus es Fílius.
 _
 !Fit reverentia
-Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis uterum.
+Tu, ad liberándum susceptúrus hóminem: * non horruísti Vírginis úterum.
 _
 Tu, devícto mortis acúleo, * aperuísti credéntibus regna cælórum.
 Tu ad déxteram Dei sedes, * in glória Patris.
@@ -185,7 +185,7 @@ v. Kýrie eléison. Christe, eléison. Kýrie, eléison.
 &pater_noster
 
 [Alleluia Simplex]
-, allelúia.
+, allelúja.
 
 [Alleluia Duplex]
-Allelúia, allelúia.
+Allelúja, allelúja.

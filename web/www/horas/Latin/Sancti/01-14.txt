@@ -1,8 +1,5 @@
 [Rank]
-S. Hilarii Epíscopi Confessóris Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
-
-[RankNewcal]
-S. Hilarii Epíscopi Confessóris Ecclesiæ Doctoris;;Duplex optional;;2;;vide C4a
+S. Hilarii Episcopi Confessoris Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
 
 [Name]
 Hilári
@@ -15,10 +12,10 @@ vide C4a;mtv
 @Commune/C4:Oratio2:s/N\./Hilárium/
 
 [Commemoratio]
-!Commemoratio S. Felicis Presbýteri et Mart.
+!Commemoratio S. Felicis Presbyteri et Martyris
 @Commune/C2:Oratio proper
 $Oremus
-Concede, quǽsumus, omnípotens Deus: ut ad meliórem vitam Sanctórum tuórum exémpla nos próvocent; quátenus, quorum solémnia ágimus, étiam actus imitémur.
+v. Concede, quǽsumus, omnípotens Deus: ut ad meliórem vitam Sanctórum tuórum exémpla nos próvocent; quátenus, quorum solémnia ágimus, étiam actus imitémur.
 $Per Dominum
 
 [Responsory1](sed non rubrica 1960)
@@ -31,7 +28,7 @@ $Per Dominum
 @Tempora/Epi2-0:Responsory3
 
 [Lectio4]
-Hilarius, in Aquitania nobili genere natus, doctrina et eloquéntia excelluit. Qui primum in matrimonio quasi mónachi vitam egit: deinde propter singulares virtútes Pictavórum epíscopus creátur: quod munus episcopale sic gessit, ut a fidelibus summam laudem conséquerétur. Quo témpore, cum terróribus, bonórum spóliatióne, exsílio, et omni crudelitate Constantius imperátor Catholicos vexáret, nisi ad Arianas partes transírent; Hilarius tamquam firmíssimum murum se Ariánis opponens, illórum furórem in se concitávit. Itaque multis petítus insídiis, tandem dolo Saturnini Arelaténsis epíscopi, de synodo Biterrénsi in Phrygiam relegátus est: ubi et mortuum suscitávit, et libros duódecim scripsit de Trinitáte contra Ariános.
+Hilarius, in Aquitania nobili genere natus, doctrina et eloquéntia excelluit. Qui primum in matrimonio quasi mónachi vitam egit: deinde propter singulares virtútes Pictavórum epíscopus creátur: quod munus episcopale sic gessit, ut a fidelibus summam laudem consequerétur. Quo témpore, cum terróribus, bonórum spoliatióne, exsílio, et omni crudelitate Constantius imperátor Catholicos vexáret, nisi ad Arianas partes transírent; Hilarius tamquam firmíssimum murum se Ariánis opponens, illórum furórem in se concitávit. Itaque multis petítus insídiis, tandem dolo Saturnini Arelaténsis epíscopi, de synodo Biterrénsi in Phrygiam relegátus est: ubi et mortuum suscitávit, et libros duódecim scripsit de Trinitáte contra Ariános.
 
 [Lectio5]
 Quadriennio post coacto concílio ad Seleucíam, Isauriæ urbem, Hilarius adesse compulsus est: ac deinde Constantinopolim profectus, ubi extremum fidei periculum animadvértit, tribus libellis publice datis, audiéntiam imperatóris poposcit, ut de fide cum adversariis coram disputaret. Verum cum Ursacius et Valens Ariáni epíscopi, quos Hilarius scriptis confutarat, præsentis eruditiónem pertimescerent, Constantio persuasérunt, ut spécie honoris eum in suum episcopátum restitúeret. Tunc Hilárium e prælio hæreticórum revertentem, ut inquit sanctus Hieronymus, Galliárum ecclésia complexa est: quem ad episcopátum secutus est Martinus, qui postea Turonénsi præfuit ecclésiæ; tantumque illo doctore profecit, quantum ejus postea sanctitas declarávit.
@@ -47,7 +44,7 @@ Eum a multis Pátribus et conciliis insignem Ecclésiæ Doctórem nuncupátum, a
 @Sancti/01-14:Lectio6recentaddition
 
 [Lectio94]
-Hilárius, in Aquitánia nóbili génere natus, doctrína et eloquéntia excélluit. Pictavórum epíscopus creátus, tale munus sic gessit, ut a fidélibus summam laudem consequerétur. Ob cathólicam fidem, quam strénue propugnávit, quadriénnio apud Phrygiam relegátus, inter ália mirácula, mórtuum suscitávit. Duódecim libros scripsit de Trinitáte contra Ariános, et Gálliam univérsam addúxit, ut Arianórum impietátem condemnáret. Multos libros scripsit mira eruditióne; quos omnes sanctus Hierónymus ad Lætam sine ulla erróris suspicióne legi posse testátur illis verbis: Hilárii libros inoffénso decúrrat pede. Migrávit in cælum Idibus Januárii, anno trecentésimo sexagésimo nono. Eum Pius nonus Póntifex máximus, instánte synodo Burdigalénsi, Doctórem universális Ecclésiæ declarávit et confirmávit.
+Hilárius, in Aquitánia nóbili génere natus, doctrína et eloquéntia excélluit. Pictavórum epíscopus creátus, tale munus sic gessit, ut a fidélibus summam laudem consequerétur. Ob cathólicam fidem, quam strénue propugnávit, quadriénnio apud Phrýgiam relegátus, inter ália mirácula, mórtuum suscitávit. Duódecim libros scripsit de Trinitáte contra Ariános, et Gálliam univérsam addúxit, ut Arianórum impietátem condemnáret. Multos libros scripsit mira eruditióne; quos omnes sanctus Hierónymus ad Lætam sine ulla erróris suspicióne legi posse testátur illis verbis: Hilárii libros inoffénso decúrrat pede. Migrávit in cælum idibus januárii, anno trecentésimo sexagésimo nono. Eum Pius nonus Póntifex máximus, instánte synodo Burdigalénsi, Doctórem universális Ecclésiæ declarávit et confirmávit.
 &teDeum
 
 [Lectio93]

@@ -27,7 +27,7 @@ _
 * Deo Patri sit glória,
 Ejúsque soli Fílio,
 Cum Spíritu Paráclito,
-Nunc et per omne sǽculum.
+Et nunc et in perpétuum.
 Amen.
 
 #Psalmi
@@ -40,6 +40,7 @@ R. Et líbera nos propter nomen tuum.
 
 !!Preces
 v. Kýrie, eléison. Christe, eléison. Kýrie, eléison.
+!« Pater Noster » dicitur secreto usque ad « Et ne nos indúcas in tentatiónem: »
 &pater_noster
 $Credo
 V. Adjutórium nóstrum + in nómine Dómini.

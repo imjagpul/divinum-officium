@@ -11,7 +11,7 @@ Doxology=Nat
 Festum Domini
 
 [Capitulum Vespera]
-!Mal 3.1
+!Mal 3:1
 v. Behold I send my angel, and he shall prepare the way before my face. And~
 presently the Lord, whom you seek, and the angel of the testament, whom you~
 desire, shall come to his temple.
@@ -109,7 +109,7 @@ R. As it is written in the law of the Lord
 
 [Lectio4]
 From the Sermons of St. Augustine, Bishop (of Hippo.)
-!13th on the Season.
+!13th on the Season
 In old time it was written: And of Zion shall it not be said This and that man~
 was born in her, and the Highest Himself shall establish her? Blessed be the~
 omnipotence of Him That was born! Blessed the glory of Him That came from heaven~
@@ -174,7 +174,7 @@ were accomplished, they carried him to Jerusalem to present him to the Lord, as~
 it is written in the law of the Lord. And so on.
 _
 Homily on this passage by St. Ambrose, Bishop (of Milan.)
-!Bk. 2, Comm. on Luke ii.
+!Bk. 2, Comm. on Luke II
 And, behold, there was a man in Jerusalem, whose name was Simeon, and the same~
 man was just and devout, waiting for the consolation of Israel. The birth of the~
 Lord is attested not only by Angels and Prophets, and shepherds, but also by~

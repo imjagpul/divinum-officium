@@ -1,8 +1,8 @@
 [Rank]
-S. Pauli Primi Eremitæ et Confessóris;;Duplex;;3;;vide C5
+S. Pauli Primi Eremitæ et Confessoris;;Duplex;;3;;vide C5
 
 [Rank1570]
-S. Pauli Primi Eremitæ et Confessóris;;Semiduplex;;2;;vide C5
+S. Pauli Primi Eremitæ et Confessoris;;Semiduplex;;2;;vide C5
 
 [Rule]
 vide C5;mtv
@@ -13,25 +13,25 @@ Deus, qui nos beáti Pauli Confessóris tui ánnua solemnitáte lætíficas: con
 $Per Dominum
 
 [Commemoratio 1]
-!Commemoratio S. Mauri Abbatis.
+!Commemoratio S. Mauri Abbatis
 @Commune/C4:Oratio proper
 $Oremus
-Intercéssio nos, quǽsumus, Dómine, beáti Mauri Abbátis comméndet: ut, quod nostris méritis non valémus, eius patrocínio assequámur.
+v. Intercéssio nos, quǽsumus, Dómine, beáti Mauri Abbátis comméndet: ut, quod nostris méritis non valémus, eius patrocínio assequámur.
 $Per Dominum
 
 [Commemoratio 2]
-!Commemoratio S. Mauri Abbatis.
+!Commemoratio S. Mauri Abbatis
 Ant. Similábo eum * viro sapiénti, qui ædificávit domum suam supra petram.
 _
 V. Amávit eum Dóminus, et ornávit eum.
 R. Stolam glóriæ induit eum.
 _
 $Oremus 
-Intercéssio nos, quǽsumus, Dómine, beáti Mauri Abbátis comméndet: ut, quod nostris méritis non valémus, eius patrocínio assequámur.
+v. Intercéssio nos, quǽsumus, Dómine, beáti Mauri Abbátis comméndet: ut, quod nostris méritis non valémus, eius patrocínio assequámur.
 $Per Dominum
 
 [Lectio4]
-Paulus, eremitárum auctor et magister, apud inferiórem Thebáidem natus, cum quindecim esset annórum, orbátus paréntibus est. Qui postea declinandæ causa persecutiónis Decii et Valeriáni, et Deo liberius insérviéndi, in eremi spelúncam se cóntulit: ubi, palma ei victum et vestítum præbente, vixit ad centésimum et décimum tertium annum, quo témpore ab Antonio nonagenario Dei admónitu invísitur. Quibus inter se, cum ántea non nossent, proprio nómine consalutántibus, et multa de regno Dei colloquéntibus, corvus, qui ántea semper Paulo dimidiátum panem attulerat, integrum détulit.
+Paulus, eremitárum auctor et magister, apud inferiórem Thebáidem natus, cum quindecim esset annórum, orbátus paréntibus est. Qui postea declinandæ causa persecutiónis Decii et Valeriáni, et Deo liberius inserviéndi, in eremi spelúncam se cóntulit: ubi, palma ei victum et vestítum præbente, vixit ad centésimum et décimum tertium annum, quo témpore ab Antonio nonagenario Dei admónitu invísitur. Quibus inter se, cum ántea non nossent, proprio nómine consalutántibus, et multa de regno Dei colloquéntibus, corvus, qui ántea semper Paulo dimidiátum panem attulerat, integrum détulit.
 
 [Lectio5]
 Post corvi discessum, Eja, inquit Paulus, Dóminus nobis prandium misit, vere pius, vere miséricors. Sexagínta jam anni sunt, cum accipio quotídie dimidii panis fragméntum, nunc ad advéntum tuum milítibus suis Christus duplicávit annonam. Quare cum gratiárum actióne ad fontem capiéntes cibum, ubi tantisper recreáti sunt, íterum gratiis de more Deo actis, noctem in divinis laudibus consumpsérunt. Dilúculo Paulus de morte, quæ sibi instaret, ádmonens Antónium, hortátur, ut pallium, quod ab Athanasio acceperat, ad involvéndum suum corpus afferret. Quo ex itinere rédiens ille, vidit inter Angelórum choros, inter Prophetárum et Apostolórum cœtus Pauli ánimam in cælum ascendere.

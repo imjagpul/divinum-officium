@@ -1,14 +1,11 @@
 [Rank]
-S. Cyrilli Episc. Alexandrini Confessóris et Ecclesiæ Doctoris;;Duplex;;3.1;;vide C4a
+S. Cyrilli Episc. Alexandrini Confessoris et Ecclesiæ Doctoris;;Duplex;;3.1;;vide C4a
 
-[Rank](rubrica 1960)
-S. Cyrilli Episc. Alexandrini Confessóris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
+[Rank1960]
+S. Cyrilli Episc. Alexandrini Confessoris et Ecclesiæ Doctoris;;Duplex;;3;;vide C4a
 
 [Name]
 Cyrílle
-
-[RankNewcal]
-S. Cyrilli Episc. Alexandrini Confessóris et Ecclesiæ Doctoris;;Duplex optional;;2;;vide C4a
 
 [Rule]
 vide C4a;mtv
@@ -22,7 +19,7 @@ $Per eumdem
 !Commemoratio S. Apolloniæ Virginis et Martyris
 @Commune/C6:Oratio proper
 $Oremus
-Deus qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Apollóniæ Vírginis et Mártyris tuæ natalícia cólimus, per ejus ad te exémpla gradiámur.
+v. Deus, qui inter cétera poténtiæ tuæ mirácula étiam in sexu frágili victóriam martýrii contulísti: concéde propítius; ut, qui beátæ Apollóniæ Vírginis et Mártyris tuæ natalícia cólimus, per ejus ad te exémpla gradiámur.
 $Per Dominum
 
 [Lectio4]

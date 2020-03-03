@@ -7,77 +7,60 @@ Gloria
 
 [Introitus]
 !Ps 118:95-96
-v. Me exspectavérunt peccatores, ut pérderent me: testimónia tua, Dómine,~
-intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis.
+v. Me exspectavÃ©runt peccatÃ³res, ut pÃ©rderent me: testimÃ³nia tua, DÃ³mine,~
+intellÃ©xi: omnis consummatiÃ³nis vidi finem: latum mandÃ¡tum tuum nimis.
 !Ps 118:1
-Beáti immaculáti in via: qui ámbulant in lege Dómini.
+BeÃ¡ti immaculÃ¡ti in via: qui Ã¡mbulant in lege DÃ³mini.
 &Gloria
-v. Me exspectavérunt peccatores, ut pérderent me: testimónia tua, Dómine,~
-intelléxi: omnis consummatiónis vidi finem: latum mandátum tuum nimis.
+v. Me exspectavÃ©runt peccatÃ³res, ut pÃ©rderent me: testimÃ³nia tua, DÃ³mine,~
+intellÃ©xi: omnis consummatiÃ³nis vidi finem: latum mandÃ¡tum tuum nimis.
 
 [Oratio]
-Omnipotens sempitérne Deus, qui infírma mundi éligis, ut fórtia quæque~
-confúndas: concéde propítius; ut, qui beátæ Agnétis Vírginis et Mártyris tuæ~
-sollémnia cólimus, ejus apud te patrocínia sentiámus.
+OmnÃ­potens sempitÃ©rne Deus, qui infÃ­rma mundi Ã©ligis, ut fÃ³rtia quÃ¦que~
+confÃºndas: concÃ©de propÃ­tius; ut, qui beÃ¡tÃ¦ AgnÃ©tis VÃ­rginis et MÃ¡rtyris tuÃ¦~
+sollÃ©mnia cÃ³limus, ejus apud te patrocÃ­nia sentiÃ¡mus.
 $Per Dominum
 
 [Lectio]
-Léctio libri Sapiéntiæ.
-!Eccli 51:1-8; 51:12
-Confitébor tibi, Dómine, Rex, et collaudábo te Deum, Salvatórem meum. Confitébor nómini tuo: quóniam adjútor et protéctor factus es mihi, et liberásti corpus meum a perditióne, a láqueo linguæ iníquæ et a lábiis operántium mendácium, et in conspéctu astántium factus es mihi adjútor. Et liberásti me secúndum multitúdinem misericórdiæ nóminis tui a rugiéntibus, præparátis ad escam, de mánibus quæréntium ánimam meam, et de portis tribulatiónum, quæ circumdedérunt me: a pressúra flammæ, quæ circúmdedit me, et in médio ignis non sum æstuáta: de altitúdine ventris inferi, et a lingua coinquináta, et a verbo mendácii, a rege iníquo, et a lingua injústa: laudábit usque ad mortem ánima mea Dóminum: quóniam éruis sustinéntes te, et líberas eos de mánibus géntium, Dómine, Deus noster.
+@Commune/C6:Lectio
 
 [Graduale]
 !Ps 44:3
-Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum,
+DiffÃºsa est grÃ¡tia in lÃ¡biis tuis: proptÃ©rea benedÃ­xit te Deus in Ã¦tÃ©rnum,
 !Ps 44:5
-Propter veritátem et mansuetúdinem et justítiam: et dedúcet te mirabíliter~
-déxtera tua. Allelúja, allelúja
+Propter veritÃ¡tem et mansuetÃºdinem et justÃ­tiam: et dedÃºcet te mirabÃ­liter~
+dÃ©xtera tua. AllelÃºja, allelÃºja.
 !Matt 25:4 25:6
-Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média~
-autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino.~
-Allelúja.
+Quinque prudÃ©ntes vÃ­rgines accepÃ©runt Ã³leum in vasis suis cum lampÃ¡dibus: mÃ©dia~
+autem nocte clamor factus est: Ecce, sponsus venit: exÃ­te Ã³bviam Christo DÃ³mino.~
+AllelÃºja.
 
 [Tractus]
-Veni, Sponsa Christi, áccipe corónam, quam tibi Dóminus præparávit in ætérnum: pro cujus amóre sánguinem tuum fudísti
+Veni, Sponsa Christi, Ã¡ccipe corÃ³nam, quam tibi DÃ³minus prÃ¦parÃ¡vit in Ã¦tÃ©rnum: pro cujus amÃ³re sÃ¡nguinem tuum fudÃ­sti.
 !Ps 44:8
-Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis.
+DilexÃ­sti justÃ­tiam, et odÃ­sti iniquitÃ¡tem: proptÃ©rea unxit te Deus, Deus tuus, Ã³leo lÃ¦tÃ­tiÃ¦ prÃ¦ consÃ³rtibus tuis.
 !P2 44:5
-Spécie tua et pulchritúdine tua inténde, próspere procéde et regna.
+SpÃ©cie tua et pulchritÃºdine tua intÃ©nde, prÃ³spere procÃ©de et regna.
 
 [Evangelium]
-Sequéntia ++ sancti Evangélii secúndum MatthÇ½um.
-!Matt 25:1-13
-In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Símile erit regnum~
-coelórum decem virginibus: quæ, accipiéntes lámpades suas, exiérunt óbviam~
-sponso et sponsæ. Quinque autem ex eis erant fátuæ, et quinque prudéntes: sed~
-quinque fátuæ, accéptis lampádibus, non sumpsérunt oleum secum: prudéntes vero~
-accepérunt óleum in vasis suis cum lampádibus. Moram autem faciénte sponso,~
-dormitavérunt omnes et dormiérunt. Média autem nocte clamor factus est: Ecce,~
-sponsus venit, exíte óbviam ei. Tunc surrexérunt omnes vírgines illæ, et~
-ornavérunt lámpades suas. Fátuæ autem sapiéntibus dixérunt: Date nobis de óleo~
-vestro: quia lámpades nostræ exstinguúntur. Respondérunt prudéntes, dicéntes: Ne~
-forte non suffíciat nobis et vobis, ite pótius ad vendéntes, et émite vobis. Dum~
-autem irent émere, venit sponsus: et quæ parátæ erant, intravérunt cum eo ad~
-núptias, et clausa est jánua. Novíssime vero véniunt et réliquæ vírgines,~
-dicéntes: Dómine, Dómine, aperi nobis. At ille respóndens, ait: Amen, dico vobis,~
-néscio vos. Vigiláte ítaque, quia nescítis diem neque horam.
+@Commune/C6:Evangelium
 
 [Offertorium]
 !Ps 44:15; 44:16
-Afferéntur Regi Vírgines post eam: próximæ ejus afferéntur tibi in lætítia et~
-exsultatióne: adducántur in templum regi Dómino.
+AfferÃ©ntur Regi VÃ­rgines post eam: prÃ³ximÃ¦ ejus afferÃ©ntur tibi in lÃ¦tÃ­tia et~
+exsultatiÃ³ne: adducÃ¡ntur in templum regi DÃ³mino.
 
 [Secreta]
-Hóstias, Dómine, quas tibi offérimus, propítius súscipe: et, intercedénte beáta~
-Agnéte Vírgine et Mártyre tua, víncula peccatórum nostrórum absólve.
+HÃ³stias, DÃ³mine, quas tibi offÃ©rimus, propÃ­tius sÃºscipe: et, intercedÃ©nte beÃ¡ta~
+AgnÃ©te VÃ­rgine et MÃ¡rtyre tua, vÃ­ncula peccatÃ³rum nostrÃ³rum absÃ³lve.
 $Per Dominum
 
 [Communio]
 !Matt 25:4; 25:6
-Quinque prudéntes vírgines accepérunt óleum in vasis suis cum lampádibus: média~
-autem nocte clamor factus est: Ecce, sponsus venit: exíte óbviam Christo Dómino.
+Quinque prudÃ©ntes vÃ­rgines accepÃ©runt Ã³leum in vasis suis cum lampÃ¡dibus: mÃ©dia~
+autem nocte clamor factus est: Ecce, sponsus venit: exÃ­te Ã³bviam Christo DÃ³mino.
 
 [Postcommunio]
- Refécti cibo potúque coelésti. Deus noster, te súpplices exorámus: ut, in cujus~
-hæc commemoratióne percépimus, ejus muniámur et précibus.
+RefÃ©cti cibo potÃºque cÅ“lÃ©sti. Deus noster, te sÃºpplices exorÃ¡mus: ut, in cujus~
+hÃ¦c commemoratiÃ³ne percÃ©pimus, ejus muniÃ¡mur et prÃ©cibus.
 $Per Dominum
