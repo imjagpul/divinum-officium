@@ -14,7 +14,7 @@ Credo
 Glória
 
 [Gloria omittitur]
-Glória omittitur
+Gloria omittitur
 
 [gloria]
 Glória
@@ -132,3 +132,7 @@ Matt|Marc|Luc|Joannes
 
 [Antiphona finalis BMV]
 Antiphona finalis B.M.V.
+
+[Divinum auxilium]
+Divínum auxílium + máneat semper nobíscum.
+Et cum frátribus nostris abséntibus. Amen.

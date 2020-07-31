@@ -26,7 +26,7 @@ sub invitatorium {
     : '';
 
   if (
-    $version =~ /Trid/
+    $version =~ /Trid|Monastic/i
     && (!$name
       || $dayname[0] =~ /Quadp/i
       || ($dayname[0] =~ /Quad/i && $dayofweek != 0))
@@ -111,6 +111,7 @@ sub hymnus {    #matutinum
   $name = ($name) ? "Hymnus $name" : "Day$dayofweek Hymnus";
   $comment = ($name) ? 1 : 5;
   if ($name =~ /^Day0 Hymnus$/i && ($month < 4 || ($monthday && $monthday =~ /^1[0-9][0-9]\-/))) { $name .= '1'; }
+  if ($version =~ /(Monastic|1570)/i) { $name =~ s/Hymnus1?/$&M/; }
   my $hymn = $hymn{$name};
   setbuild("Psalterium/Matutinum Special", $name, 'Hymnus ord');
   my $hmn =
@@ -453,7 +454,7 @@ sub votivenocturn {
       push(@s, "\n");
     }
   } else {
-    %mariae = %{setupstring($datafolder, $lang, "$temporaname/C10.txt")};
+    %mariae = %{setupstring($datafolder, $lang, "$communename/C10.txt")};
     @a = split("\n", $mariae{Benedictio});
     setbuild2('Special benedictio');
     push(@s, "Absolutio. $a[0]");
@@ -482,7 +483,7 @@ sub lectiones {
   # cannot use translate('Evangelist', 'English') as it is anavailable
   $evan_regexp .= '|Matt|Marc|Luc|Joannes' if ($lang !~ /Latin/);
   $evan_regexp .= '|Matt|Mark|Luke|John' if ($lang !~ /English/);
-  $evan_regexp = '!(?:' . $evan_regexp . ')\s+\d+:\d';
+  $evan_regexp = '!(?:' . $evan_regexp . ')\s+\d+';
   $evan_regexp = qr/$evan_regexp/;
   push(@s, "\n");
 
@@ -522,7 +523,7 @@ sub lectiones {
   }
 
   if ($rule =~ /Special Benedictio/) {
-    %mariae = %{setupstring($datafolder, $lang, "$temporaname/C10.txt")};
+    %mariae = %{setupstring($datafolder, $lang, "$communename/C10.txt")};
     @a = split("\n", $mariae{Benedictio});
     setbuild2('Special benedictio');
   }
@@ -574,35 +575,21 @@ sub lectiones {
   }
   if ($version =~ /1960/ && $lang =~ /Latin/i) { $a[1] = 'Jube, Dómine, benedícere.'; }
 
-  if ($num > 0) {
-    $num = ($num - 1) * 3 + 1;
-  } else {
-    $num = 1;
-  }
   push(@s, "_");
 
-  if ($rule !~ /Limit.*?Benedictio/i) {
-    push(@s, "V. $a[1]");
-    push(@s, "Benedictio. $a[2]");
-  }
-  push(@s, "\&lectio($num)");
-  push(@s, "\n");
-  $num++;
+  my $read_per_noct = ($rule =~ /12 lectio/) ? 4 : 3;
 
-  if ($rule !~ /Limit.*?Benedictio/i) {
-    push(@s, "V. $a[1]");
-    push(@s, "Benedictio. $a[3]");
-  }
-  push(@s, "\&lectio($num)");
-  push(@s, "\n");
-  $num++;
+  $num = 1 if ($num < 1);
 
-  if ($rule !~ /Limit.*?Benedictio/i) {
-    push(@s, "V. $a[1]");
-    push(@s, "Benedictio. $a[4]");
+  for my $i (1..$read_per_noct) {
+    my $l = ($num - 1) * $read_per_noct + $i;
+    if ($rule !~ /Limit.*?Benedictio/i) {
+      push(@s, "V. $a[1]");
+      push(@s, "Benedictio. $a[$i+1]");
+    }
+    push(@s, "\&lectio($l)");
+    push(@s, "\n");
   }
-  push(@s, "\&lectio($num)");
-  push(@s, "\n");
 }
 
 sub matins_lectio_responsory_alleluia(\$$) {
@@ -784,8 +771,8 @@ sub lectio : ScriptFunc {
   }
 
   if ($commune{Rule} =~ /Special Lectio $num/) {
-    %mariae = %{setupstring($datafolder, $lang, "$temporaname/C10.txt")};
-    if ($version =~ /Trident/i) { %mariae = %{setupstring($datafolder, $lang, "$temporaname/C10t.txt")}; }
+    %mariae = %{setupstring($datafolder, $lang, "$communename/C10.txt")};
+    if ($version =~ /Trident/i) { %mariae = %{setupstring($datafolder, $lang, "$communename/C10t.txt")}; }
     $w = $mariae{sprintf("Lectio M%02i", $month)};
     if ($version !~ /1960/ && $month == 9 && $day > 8 && $day < 15) { $w = $mariae{"Lectio M101"}; }
     setbuild2("Lectio $num Mariae M$month");
@@ -1163,7 +1150,7 @@ use constant {
 sub gettype1960 {
   my $type = LT1960_DEFAULT;
 
-  if ($version =~ /1960/ && $votive !~ /(C9|Defunctorum)/i) {
+  if ($version =~ /1960|Newcal/ && $votive !~ /(C9|Defunctorum)/i) {
     if ($dayname[1] =~ /post Nativitatem/i) {
       $type = LT1960_OCTAVEII;
     } elsif ($rank < 2 || $dayname[1] =~ /(feria|vigilia|die)/i) {
@@ -1198,14 +1185,13 @@ sub responsory_gloria {
     delete($winner{Responsory9});
     delete($winner2{Responsory9});
   }
-  if ($num == 8 && exists($winner{Responsory9})) { return $w; }
+  if ($num == 8 && exists($winner{Responsory9}) && ($rule !~ /12 lectio/)) { return $w; }
   if ($version =~ /Monastic/i && $num == 2 && $month == 1 && $day < 14) { return $prev; }
   my $flag = 0;
 
+  my $read_per_noct = ($rule =~ /12 lectio/) ? 4 : 3;
   if (
-       $num == 3
-    || $num == 6
-    || $num == 9
+       ($num % $read_per_noct == 0)
     || ($rule =~ /9 lectiones/i && ($winner !~ /tempora/i || $dayname[0] !~ /(Adv|Quad)/i) && $num == 8)
     || ( $version =~ /1960/
       && $rule =~ /9 lectiones/i

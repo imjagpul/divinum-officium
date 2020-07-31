@@ -152,7 +152,7 @@ Par le même
 Vous qui étant
 
 [Qui tecum]
-Qui avec Vous 
+Qui avec Vous
 
 [Sacrosancta]
 A la Très Sainte
@@ -201,3 +201,7 @@ Matt|Marc|Luc|Jean
 
 [Antiphona finalis BMV]
 Antienne finale à la très Sainte Vierge Marie
+
+[Divinum auxilium]
+Que le secours divin + demeure toujours avec nous.
+Ainsi soit-il.
