@@ -5,6 +5,9 @@
 _
 @Commune/C4:Responsory Sexta:1-6
 
+[HymnusM Vespera]
+@Commune/C4::s/Hódie.*/Hac die lætus méruit suprémos/ s/Scándere.*/Laudis honóres./
+
 [Ant Matutinum]
 Beátus vir, * qui in lege Dómini meditátur: volúntas ejus pérmanet die ac nocte, et ómnia quæcúmque fáciet, semper prosperabúntur.;;1
 Beátus iste Sanctus, * qui confísus est in Dómino, prædicávit præcéptum Dómini, constitútus est in monte sancto ejus.;;2
@@ -25,6 +28,23 @@ R. Ad sacrificándum ei hóstiam laudis.
 Sint lumbi vestri * praecincti et lucernae ardentes in manibus vestris;;256;257;258
 V. Tu es sacérdos in ætérnum.
 R. Secúndum órdinem Melchísedech.
+
+[HymnusM Matutinum]
+@Commune/C4:Hymnus1M Vespera
+
+[Lectio1]
+@Commune/C4:Lectio1:s/-7/-4/ s/5 .*//s
+
+[Lectio2]
+@Commune/C4:Lectio1:s/.*5 /!1 Tim 3:5-9\n5 /s
+8 Diáconos simíliter pudícos, non bilíngues, non multo vino déditos, non turpe lucrum sectántes:
+9 habéntes mystérium fídei in consciéntia pura.
+
+[Lectio3]
+@Commune/C4:Lectio2
+
+[Lectio4]
+@Commune/C4:Lectio3
 
 [Capitulum Laudes]
 @Commune/C4

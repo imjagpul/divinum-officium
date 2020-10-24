@@ -21,7 +21,7 @@ $Deo gratias
 
 [HymnusM Vespera]
 v. Iste Conféssor Dómini sacrátus,
-Festa plebs cujus célebrat per orbem,
+Festa plebs cujus celébrat per orbem,
 Hódie lætus méruit secréta
 Scándere cæli.
 _
@@ -69,7 +69,7 @@ Omne per ævum.
 _
 Sit salus illi, decus atque virtus,
 Qui, super cæli sólio corúscans,
-Totíus mundi sériem gubérnat,
+Tótius mundi sériem gubérnat,
 Trinus et unus.  
 Amen.
 
@@ -92,8 +92,14 @@ Regem Confessórum Dóminum, * Veníte, adorémus.
 [Hymnus Matutinum]
 @Commune/C4:Hymnus Vespera
 
+[HymnusM Matutinum]
+@Commune/C4:HymnusM Vespera
+
 [Hymnus1 Matutinum]
 @Commune/C4:Hymnus1 Vespera
+
+[Hymnus1M Matutinum]
+@Commune/C4:Hymnus1M Vespera
 
 [Ant Matutinum]
 Beátus vir, * qui in lege Dómini meditátur: volúntas ejus pérmanet die ac nocte, et ómnia quæcúmque fáciet, semper prosperabúntur.;;1
@@ -242,7 +248,7 @@ Indúlgeas precántibus.
 _
 Tui sacri qua nóminis
 Conféssor almus cláruit:
-Hujus célebrat ánnua
+Hujus celébrat ánnua
 Devóta plebs solémnia.
 _
 Qui rite mundi gáudia

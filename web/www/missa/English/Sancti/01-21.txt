@@ -24,7 +24,7 @@ $Per Dominum
 
 [Lectio]
 Lesson from the book of Ecclesiasticus
-!Ecclus 51:1-8, 12.
+!Ecclus 51:1-8, 12
 I will give You thanks, O Lord, O King; I will praise You, O God my Saviour! I will make known Your name; for You have been my helper and protector, and have preserved my body from destruction, from the scourge of a slanderous tongue, and from lips that went over to falsehood; and in the sight of those who stood by, You have been my helper. And You have delivered me, according to the multitude of the mercy of Your name, from those who did roar, prepared to devour; from the power of those who sought my life, and from the gates of afflictions which compassed me about; from the oppression of the flames which hemmed me in on every side, and in the midst of the fire I was not burnt; from the deep belly of the nether world, and from an unclean tongue, and from lying words, from an unjust king, and from dishonest tongues. My soul shall praise the Lord even to death; because You, O Lord, our God, save those who take refuge in You, and rescue them out of the hands of the nations.
 
 [Graduale]
@@ -46,7 +46,8 @@ of heaven be like ten virgins who took their lamps and went forth to meet the~
 bridegroom and the bride. Five of them were foolish and five wise. But the five~
 foolish, when they took their lamps, took no oil with them, while the wise did~
 take oil in their vessels with the lamps. Then as the bridegroom was long in~
-coming, they all became drowsy and slept. And at midnight a cry arose and~
+coming, they all became drowsy and slept. And at midnight a cry arose,~
+`Behold, the bridegroom is coming, go forth to meet him!’ Then all those virgins arose and~
 trimmed their lamps. And the foolish said to the wise, ‘Give us some of your oil,~
 for our lamps are going out.’ The wise answered, saying, ‘Lest there may not be~
 enough for us and for you, go rather to those who sell it, and buy some for~
@@ -67,7 +68,7 @@ intercession of blessed Agnes, Your Virgin and Martyr, loose our sins.
 $Per Dominum
 
 [Communio]
-!Matt 25:4, 6.
+!Matt 25:4, 6
 The five wise virgins took oil in their vessels with the lamps; and at midnight a~
 cry arose, Behold the bridegroom is coming, go forth to meet Christ our Lord.
 

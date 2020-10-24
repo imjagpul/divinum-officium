@@ -111,8 +111,7 @@ sub hymnus {    #matutinum
   $name = ($name) ? "Hymnus $name" : "Day$dayofweek Hymnus";
   $comment = ($name) ? 1 : 5;
   if ($name =~ /^Day0 Hymnus$/i && ($month < 4 || ($monthday && $monthday =~ /^1[0-9][0-9]\-/))) { $name .= '1'; }
-  if ($version =~ /(Monastic|1570)/i) { $name =~ s/Hymnus1?/$&M/; }
-  my $hymn = $hymn{$name};
+  my $hymn = tryoldhymn(\%hymn, $name);
   setbuild("Psalterium/Matutinum Special", $name, 'Hymnus ord');
   my $hmn =
     (    !exists($winner{'Hymnus Matutinum'})
@@ -494,10 +493,9 @@ sub lectiones {
   }
   my %benedictio = %{setupstring($datafolder, $lang, 'Psalterium/Benedictions.txt')};
   my $i = $num;
-  $j1 = ($num == 0) ? 1 : 7;
-  $j2 = ($num == 0) ? 2 : 8;
-  $j3 = ($num == 0) ? 3 : 9;
+  
   my $j0 = 0;
+  my $j1 = 1 + (($num == 0) ? 0 : 2 * ($rule =~ /12 lectio/ ? 4 : 3));
 
   #if ($dayname[0] =~ /Pasc0/i) {$i = 3;}
   if ($num == 0) {
@@ -551,6 +549,8 @@ sub lectiones {
 
   #benedictiones for nocturn III
   if ($i == 3 && $rule !~ /ex C1[02]/ && $rule !~ /Special Evangelii Benedictio/i) {
+    ($a[3], $a[4], $a[5]) = ($a[5], $a[3], $a[4]) if ($version =~ /Monastic/i);
+
     my $w = lectio($j1, $lang);
 
     if ($w =~ $evan_regexp) {
@@ -568,10 +568,10 @@ sub lectiones {
     }
     if ($rule =~ /Ipsa Virgo Virginum/i && !$divaux) { $a[3] = $a[10]; }
     if ($rule =~ /Quorum Festum/i && !$divaux) { $a[3] = $a[7]; }
-    setbuild2("B$j2. : " . beginwith($a[3]));
-    $w = lectio($j3, $lang);
+    setbuild2("B" . ($j1+1) . ". : " . beginwith($a[3]));
+    $w = lectio($j1+2, $lang);
     if ($w =~ $evan_regexp) { $a[4] = $benedictio{Evangelica9}; }
-    setbuild2("B$j3. : " . beginwith($a[4]));
+    setbuild2("B" . ($j1+2) . ". : " . beginwith($a[4]));
   }
   if ($version =~ /1960/ && $lang =~ /Latin/i) { $a[1] = 'Jube, Dómine, benedícere.'; }
 
@@ -604,6 +604,14 @@ sub matins_lectio_responsory_alleluia(\$$) {
     ensure_single_alleluia($resp[-1], $lang);
     $$r = join("\n", @resp);
   }
+}
+#
+#*** getC10readingname
+sub getC10readingname {
+  return "Lectio M101" if ($version !~ /1960|Monastic/i && $month == 9 && $day > 8 && $day < 15);
+  my $satnum = floor(($day - 1) / 7 + 1) % 5;
+  $satnum = 4 if ($satnum == 5);
+  return sprintf("Lectio M%02i%s", $month, ($version =~ /Monastic/i) ? $satnum : '');
 }
 
 #*** lectio($num, $lang)
@@ -773,9 +781,9 @@ sub lectio : ScriptFunc {
   if ($commune{Rule} =~ /Special Lectio $num/) {
     %mariae = %{setupstring($datafolder, $lang, "$communename/C10.txt")};
     if ($version =~ /Trident/i) { %mariae = %{setupstring($datafolder, $lang, "$communename/C10t.txt")}; }
-    $w = $mariae{sprintf("Lectio M%02i", $month)};
-    if ($version !~ /1960/ && $month == 9 && $day > 8 && $day < 15) { $w = $mariae{"Lectio M101"}; }
-    setbuild2("Lectio $num Mariae M$month");
+    my $name = getC10readingname();
+    $w = $mariae{$name};
+    setbuild2("Mariae $name");
   }
 
   # Combine lessons 8 and 9 if there's a commemoration to be read in place of
@@ -794,7 +802,7 @@ sub lectio : ScriptFunc {
 
   #look for commemoratio 9
   #if ($rule =~ /9 lectio/i && $rank < 2) {$rule =~ s/9 lectio//i;}
-  if ( $version !~ /1960/
+  if ( $version !~ /1960|Monastic/i
     && $commune !~ /C10/
     && $rule !~ /no93/i
     && $winner{Rank} !~ /Octav.*(Epi|Corp)/i
@@ -910,7 +918,7 @@ sub lectio : ScriptFunc {
     if ($version =~ /1960/ && $winner =~ /tempora/i && $dayofweek == 0 && $dayname[0] =~ /(Adv|Quad)/i && $na == 3) {
       $na = 9;
     }
-    if (contract_scripture($num)) { $na = 3; }
+    if (contract_scripture($num) && $version !~ /Monastic/i) { $na = 3; }
 
     if ($version =~ /1955|1960/ && exists($w{"Responsory$na 1960"})) {
       $s = $w{"Responsory$na 1960"};
@@ -1014,7 +1022,6 @@ sub lectio : ScriptFunc {
   if ($lang !~ /Latin/i) {
     $w =~ s/\((.*?[.,].*?)\)/parenthesised_text($1)/eg;
   }
-  $w =~ s/\&Gloria/\&Gloria1/g;
   $w = replaceNdot($w, $lang);
   return $w;
 }
@@ -1104,7 +1111,7 @@ sub lect1960 {
   if ($w =~ $evan_regexp) {
     $a[2] = $benedictio{Evangelica};
   } else {
-    if (exists($a[5])) { $a[2] = $a[5]; }
+    if (exists($a[6])) { $a[2] = $a[5]; }
     if ($winner{Rank} =~ /dominica/i) { $a[4] = $benedictio{Evangelica9}; }
   }
   setbuild2("B3 : " . beginwith($a[4]));
@@ -1150,12 +1157,12 @@ use constant {
 sub gettype1960 {
   my $type = LT1960_DEFAULT;
 
-  if ($version =~ /1960|Newcal/ && $votive !~ /(C9|Defunctorum)/i) {
+  if ($version =~ /1960|Monastic|Newcal/i && $votive !~ /(C9|Defunctorum)/i) {
     if ($dayname[1] =~ /post Nativitatem/i) {
       $type = LT1960_OCTAVEII;
     } elsif ($rank < 2 || $dayname[1] =~ /(feria|vigilia|die)/i) {
       $type = LT1960_FERIAL;
-    } elsif ($dayname[1] =~ /dominica.*?semiduplex/i || $winner =~ /Pasc1\-0/i) {
+    } elsif ($version !~ /Monastic/i && ($dayname[1] =~ /dominica.*?semiduplex/i || $winner =~ /Pasc1\-0/i)) {
       $type = LT1960_SUNDAY;
     } elsif ($rank < 5) {
       $type = LT1960_SANCTORAL;
@@ -1168,9 +1175,11 @@ sub gettype1960 {
 #*** responsory_gloria($lectio_text, $num)
 # adds or removes \&gloria to lection
 # return the modified lectio text
+#
 sub responsory_gloria {
   my $w = shift;
   my $num = shift;
+  $w =~ s/\&Gloria1?/\&Gloria1/g;
   $prev = $w;
   if ($w =~ /(.*?)\&Gloria/is) { $prev = $1; }
   $prev =~ s/\s*$//gm;
@@ -1186,7 +1195,7 @@ sub responsory_gloria {
     delete($winner2{Responsory9});
   }
   if ($num == 8 && exists($winner{Responsory9}) && ($rule !~ /12 lectio/)) { return $w; }
-  if ($version =~ /Monastic/i && $num == 2 && $month == 1 && $day < 14) { return $prev; }
+  if ($version =~ /Monastic/i && $num == 2) { return $prev; }
   my $flag = 0;
 
   my $read_per_noct = ($rule =~ /12 lectio/) ? 4 : 3;
@@ -1207,7 +1216,7 @@ sub responsory_gloria {
     if ($w !~ /\&Gloria/i) {
       $w =~ s/[\s_]*$//gs;
       $line = ($w =~ /(R\..*?$)/) ? $1 : '';
-      $w .= "\n\&Gloria\n$line";
+      $w .= "\n\&Gloria1\n$line";
     }
     return $w;
   }
@@ -1524,7 +1533,7 @@ sub prevdayl1 {
 sub contract_scripture {
   my $num = shift;
   if ($num != 2 || $votive =~ /(C9|Defunctorum)/i) { return 0; }
-  if ($version !~ /1960/) { return 0; }
+  if ($version !~ /1960|Monastic/i) { return 0; }
   if ($commune =~ /C10/i) { return 1; }
 
   if ( ($ltype1960 == LT1960_SANCTORAL || $ltype1960 == LT1960_SUNDAY)

@@ -19,6 +19,9 @@
 [#Capitulum Hymnus Versus]
 #Kapitulum Hymn Wers
 
+[#Capitulum Versus]
+#Kapitulum Wers
+
 [#Capitulum Responsorium Hymnus Versus]
 #Kapitulum Responsorium Hymn Wers
 
@@ -226,3 +229,6 @@ Reguła
 [Divinum auxilium]
 Pomoc Boża + niech będzie zawsze z nami.
 I z nieobecnymi braćmi naszymi. Amen.
+
+[Gloria tibi Domine]
+Chwała Tobie, Panie.

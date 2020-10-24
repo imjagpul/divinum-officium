@@ -50,7 +50,8 @@ Personémus vócibus,
 Glóriam Christu canámus,
 Glóriam Paráclito,
 Qui trinus et unus Deus
-Exstat ante sǽcula. Amen.
+Exstat ante sǽcula.
+Amen.
 
 [Hymnus Vespera]
 v. Te, splendor et virtus Patris,
@@ -96,12 +97,15 @@ Regem Archangelórum Dóminum, * Veníte, adorémus.
 [Hymnus Matutinum]
 @Sancti/05-08:Hymnus Vespera
 
+[HymnusM Matutinum]
+@Sancti/05-08:HymnusM Vespera
+
 [Ant Matutinum]
 Concússum est mare, * et contrémuit terra, ubi Archángelus Míchaël descendébat de cælo, allelúja.;;8
 ;;10
 ;;14
 V. Stetit Angelus juxta aram templi, allelúja.
-R. Habens thuríbulum aureum in manu sua, allelúja.
+R. Habens thuríbulum áureum in manu sua, allelúja.
 Míchaël Archángele, * veni in adjutórium pópulo Dei, allelúja.;;18
 ;;23
 ;;33
@@ -117,7 +121,7 @@ R. Adorábo ad templum sanctum tuum, et confitébor nómini tuo, allelúja.
 De Daniéle Prophéta
 !Dan 7:9-11
 9 Aspiciébam donec throni pósiti sunt, et antíquus diérum sedit. Vestiméntum ejus cándidum quasi nix, et capílli cápitis ejus quasi lana munda, thronus ejus flammæ ignis, rotæ ejus ignis accénsus. 
-10 Flúvius ígneus rapidúsque egrediebátur a fácie ejus; míllia míllium ministrábant ei, et décies miílies centéna míllia assistébant ei. Judícium sedit, et libri apérti sunt. 
+10 Flúvius ígneus rapidúsque egrediebátur a fácie ejus; míllia míllium ministrábant ei, et décies míllies centéna míllia assistébant ei. Judícium sedit, et libri apérti sunt. 
 11 Aspiciébam propter vocem sermónum grándium, quos cornu illud loquebátur; et vidi quóniam interfécta esset béstia, et perísset corpus ejus, et tráditum esset ad comburéndum igni.
 
 [Responsory1]
@@ -135,7 +139,7 @@ R. Audíta est vox míllia míllium dicéntium: Salus, honor et virtus omnipoté
 8 Ego autem, relíctus solus, vidi visiónem grandem hanc, et non remánsit in me fortitúdo, sed et spécies mea immutáta est in me, et emárcui nec hábui quidquam vírium.
 
 [Responsory2]
-R. Stetit Angelus juxta aram templi, habens thuríbulum aureum in manu sua, et data sunt ei incénsa multa: 
+R. Stetit Angelus juxta aram templi, habens thuríbulum áureum in manu sua, et data sunt ei incénsa multa: 
 * Et ascéndit fumus arómatum de manu Angeli in conspéctu Dómini. (Allelúja.)
 V. In conspéctu Angelórum psallam tibi: adorábo ad templum sanctum tuum, et confitébor nómini tuo, Dómine.
 R. Et ascéndit fumus arómatum de manu Angeli in conspéctu Dómini. (Allelúja.)
@@ -158,7 +162,7 @@ R. Et confitébor nómini tuo, Dómine. (Allelúja.)
 R. Et confitébor nómini tuo, Dómine. (Allelúja.)
 
 [Lectio4]
-Beátum Michaélem Archángelum sæpius homínibus apparuísse, et sacrórum Librórum auctoritáte et véteri Sanctórum traditióne comprobátur. Quam ob rem multis in locis facti memória celebrátur. Eum, ut olim synagóga Judæórum, sic nunc custódem et patrónum Dei venerátur Ecclésia. Gelásio autem primo, Pontífice máximo, in Apúlia in vértice Gargáni montis, ad cujus radíces íncolunt Sipontíni, Archángeli Michaélis fuit illústris apparítio. 
+Beátum Michaélem Archángelum sǽpius homínibus apparuísse, et sacrórum Librórum auctoritáte et véteri Sanctórum traditióne comprobátur. Quam ob rem multis in locis facti memória celebrátur. Eum, ut olim synagóga Judæórum, sic nunc custódem et patrónum Dei venerátur Ecclésia. Gelásio autem primo, Pontífice máximo, in Apúlia in vértice Gargáni montis, ad cujus radíces íncolunt Sipontíni, Archángeli Michaélis fuit illústris apparítio. 
 
 [Responsory4]
 R. Hic est Míchaël Archángelus, princeps milítiæ Angelórum, 
@@ -172,7 +176,7 @@ R. Cujus honor præstat benefícia populórum, et orátio perdúcit ad regna cæ
 &teDeum
 
 [Lectio5]
-Factum est enim, ut ex grégibus armentórum Gargáni cujusdam taurus longe discéderet; quem diu conquisítum, in áditu spelúncæ hæréntem invenérunt. Cum vero quidam ex illis, ut taurum confígeret, sagíttam emisísset retórta sagítta in ipsum récidit sagittárium. Quæ res cum præséntes ac deinceps céteros tanto timóre affecísset, ut ad eam spelúncam propius accédere nemo audéret, Sipontini episcopum cónsulunt; qui, indicto trium diérum jejúnio et oratióne, rem a Deo respóndit quæri oportére.
+Factum est enim, ut ex grégibus armentórum Gargáni cujúsdam taurus longe discéderet; quem diu conquisítum, in áditu spelúncæ hæréntem invenérunt. Cum vero quidam ex illis, ut taurum confígeret, sagíttam emisísset retórta sagítta in ipsum récidit sagittárium. Quæ res cum præséntes ac deínceps céteros tanto timóre affecísset, ut ad eam spelúncam própius accédere nemo audéret, Sipontíni epíscopum cónsulunt; qui, indícto trium diérum jejúnio et oratióne, rem a Deo respóndit quæri oportére.
 
 [Responsory5]
 R. Venit Míchaël Archángelus cum multitúdine Angelórum, cui trádidit Deus ánimas Sanctórum, 
@@ -181,7 +185,7 @@ V. Emítte, Dómine, Spíritum sanctum tuum de cælis, spíritum sapiéntiæ et 
 R. Ut perdúcat eas in paradísum exsultatiónis. (Allelúja.)
 
 [Lectio6]
-Post triduum Michaël Archangelus episcopum monet in sua tutéla esse eum locum, eóque indicio demonstrasse, velle ibi cultum Deo in sui et Angelórum memóriam adhibéri. Quare epíscopus una cum civibus ad eam spelúncam ire pergit. Quam cum in templi cujusdam similitúdinem conformatam vidissent, locum illum divinis officiis celebrare cœpérunt:: qui multis póstea miraculis illustrátus est.~
+Post tríduum Míchaël Archángelus epíscopum monet in sua tutéla esse eum locum, eóque indício demonstrásse, velle ibi cultum Deo in sui et Angelórum memóriam adhibéri. Quare epíscopus una cum cívibus ad eam spelúncam ire pergit. Quam cum in templi cujúsdam similitúdinem conformátam vidíssent, locum illum divínis offíciis celebráre cœpérunt:: qui multis póstea miráculis illustrátus est.~
 Nec ita multo post Bonifátius Papa, Romæ in summo circo, sancti Michaélis ecclésiam dedicávit tértio Kaléndas Octóbris; quo die étiam ómnium Angelórum memóriam Ecclésia célebrat. Hodiérnus autem dies Archángeli Michaélis apparitióne consecrátus est.
 
 [Responsory6]
@@ -199,16 +203,16 @@ In illo témpore: Accessérunt discípuli ad Jesum, dicéntes: Quis, putas, majo
 _
 Homilía sancti Hilárii Epíscopi
 !Comment in Matth. can. 18
-Nonnisi reversos in natúram puerórum introíre regnum cælórum Dóminus docet: id est, per simplicitátem puerílem vítia córporum nostrórum animæque revocanda. Pueros autem, credéntes omnes per audiéntiæ fidem nuncupávit. Hi enim patrem sequúntur, matrem amant, próximo velle malum nesciunt, curam opum negligunt; non insolescunt, non odérunt, non mentiúntur, dictis credunt, et quod audiunt, verum habent. Reverténdum ígitur est ad simplicitátem infántium; quia, in ea collocati, spéciem humilitátis Dominicæ circumferemus.
+Nónnisi revérsos in natúram puerórum introíre regnum cælórum Dóminus docet: id est, per simplicitátem puerílem vítia córporum nostrórum animǽque revocánda. Púeros autem, credéntes omnes per audiéntiæ fidem nuncupávit. Hi enim patrem sequúntur, matrem amant, próximo velle malum nésciunt, curam opum négligunt; non insoléscunt, non odérunt, non mentiúntur, dictis credunt, et quod áudiunt, verum habent. Reverténdum ígitur est ad simplicitátem infántium; quia, in ea collocáti, spéciem humilitátis Domínicæ circumferémus.
 
 [Responsory7]
-R. In conspéctu géntium nolíte timere; vos enim in córdibus vestris adoráte et timéte Dóminum; 
+R. In conspéctu géntium nolíte timére; vos enim in córdibus vestris adoráte et timéte Dóminum; 
 * Angelus enim ejus vobíscum est. (Allelúja.)
 V. Stetit Angelus juxta aram templi, habens thuríbulum áureum in manu sua.
 R. Angelus enim ejus vobíscum est. (Allelúja.)
 
 [Lectio8]
-Væ huic mundo ab scandalis. Humilitas passiónis scándalum mundo est. In hoc enim maxime ignorántia detinétur humana, quod sub deformitate crucis, ætérnæ glóriæ Dóminum nóluit accípere. Et quid mundo tam periculosum, quam non recepisse Christum? Ideo vero necesse esse ait veníre scandala; quia, ad sacraméntum reddendæ nobis æternitátis, omnis in eo passiónis humilitas esset explenda.
+Væ huic mundo ab scándalis. Humílitas passiónis scándalum mundo est. In hoc enim máxime ignorántia detinétur humána, quod sub deformitáte crucis, ætérnæ glóriæ Dóminum nóluit accípere. Et quid mundo tam periculósum, quam non recepísse Christum? Ideo vero necésse esse ait veníre scándala; quia, ad sacraméntum reddéndæ nobis æternitátis, omnis in eo passiónis humílitas esset explénda.
 
 [Responsory8]
 R. Míchaël Archángelus venit in adjutórium pópulo Dei, 
@@ -219,7 +223,7 @@ R. Stetit in auxílium pro animábus justis. (Allelúja.)
 R. Stetit in auxílium pro animábus justis. (Allelúja.)
 
 [Lectio9]
-Vidéte ne contemnátis unum de pusillis istis, qui credunt in me. Aptíssimum vinculum mútui amoris impósuit, ad eos præcipue qui vere in Dómino credidissent. Pusillórum enim Angeli quotídie Deum vident: quia Fílius hóminis venit salvare quæ pérdita sunt. Ergo et Fílius hóminis salvat, et Deum Angeli vident, et Angeli pusillórum præsunt fidelium oratiónibus. Præesse Angelos absoluta auctoritas est. Salvatórum ígitur per Christum oratiónes Angeli quotídie Deo ófferunt. Ergo periculose ille contémnitur, cujus desidéria ac postulatiónes ad ætérnum et invisibilem Deum, ambitióso Angelórum famulatu ac ministerio, pervehúntur.
+Vidéte ne contemnátis unum de pusíllis istis, qui credunt in me. Aptíssimum vínculum mútui amóris impósuit, ad eos præcípue qui vere in Dómino credidíssent. Pusillórum enim Angeli quotídie Deum vident: quia Fílius hóminis venit salváre quæ pérdita sunt. Ergo et Fílius hóminis salvat, et Deum Angeli vident, et Angeli pusillórum præsunt fidélium oratiónibus. Præésse Angelos absolúta auctóritas est. Salvatórum ígitur per Christum oratiónes Angeli quotídie Deo ófferunt. Ergo periculóse ille contémnitur, cujus desidéria ac postulatiónes ad ætérnum et invisíbilem Deum, ambitióso Angelórum famulátu ac ministério, pervehúntur.
 &teDeum
 
 [Ant Laudes]
@@ -261,7 +265,7 @@ Glória mundo. Amen.
 
 [Hymnus Laudes]
 v. Christe, sanctórum decus Angelórum,
-Gentis humanæ Sator et Redemptor,
+Gentis humánæ Sator et Redémptor,
 Cǽlitum nobis tríbuas beátas
 Scándere sedes.
 _

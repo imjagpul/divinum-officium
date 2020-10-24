@@ -1,5 +1,7 @@
 #Incipit
 $Domine labia
+$Domine labia
+$Domine labia
 _
 &psalm(3)
 
@@ -9,12 +11,13 @@ _
 
 #Psalmi cum lectionibus
 
+$MLitany2
+
 #Oratio
 
 !Skip the rest, unless praying %Lauds% separately.
 
 #Conclusio
 &Dominus_vobiscum
-&Benedicamus_Domino 
+&Benedicamus_Domino
 $Fidelium animae
-$Pater noster
