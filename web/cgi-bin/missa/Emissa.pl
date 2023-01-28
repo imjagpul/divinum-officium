@@ -157,6 +157,8 @@ $setupsave =~ s/\r*\n*//g;
 $setupsave =~ s/\"/\~24/g;
 precedence();    #fills our hashes et variables
 
+htmlHead($title, 2); # output the XHTML header, HTML title and CSS link
+
 # prepare title
 $daycolor = liturgical_color($dayname[1], $commune);
 build_comment_line();
@@ -183,8 +185,15 @@ sub headline {
     $headline =~ s{!(.*)}{<FONT SIZE=1>$1</FONT>}s;
   my $daten = prevnext($date1, 1);
   my $datep = prevnext($date1, -1);
+
+  #convert $daycolor to $daycolorclass
+  my $daycolorclass=""; #rely on default being black font color
+  if($daycolor eq "blue") {$daycolorclass="rb";}
+  elsif($daycolor eq "gray") {$daycolorclass="rb";}
+  elsif($daycolor eq "red") {$daycolorclass="rd";}
+
     print << "PrintTag";
-<P ALIGN=CENTER><a href="$datep-9-Missa.html">&darr;</a>
+<p class="cen"><a href="$datep-9-Missa.html">&darr;</a>
 $date1
 <a href="$daten-9-Missa.html">&uarr;</a>
 <br />
@@ -204,8 +213,8 @@ $date1
 &nbsp;&nbsp;
 <a href="$date1-8-Completorium.html">Completorium</a>
 <br />
-<FONT COLOR=$daycolor>$headline<BR></FONT>
-$comment<BR>
+<span class="$daycolorclass">$headline<br /></span>
+$comment<br />
 <a href="$date1-9-Missa.html"><FONT COLOR=MAROON SIZE=+1><B><I>$head</I></B></FONT></a>
 </P>
 PrintTag

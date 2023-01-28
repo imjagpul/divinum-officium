@@ -229,10 +229,6 @@ for ($i = 1; $i <= $completed; $i++) {$hcolor[$i] = 'maroon';}
 #*** print pages (setup, hora=pray, mainpage)
   #generate HTML
   htmlHead($title, 2);
-  #note the whole content is wrapped in a <div> for XHTML standard compatibilty
-    print << "PrintTag";
-<body><div>
-PrintTag
 
 if ($command =~ /setup/i) {
   $pmode = 'setup';

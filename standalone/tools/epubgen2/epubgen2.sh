@@ -169,7 +169,7 @@ done
 MONTHNAMES=(Ianuarius Februarius Martius Aprilis Maius Iunius Iulius Augustus September October November December)
 if [[ $MISSA ]]; then
 	if [[ $MISSA_ONLY ]]; then
-		HORA_INDEX_LAST=1
+		HORA_INDEX_LAST=0
 		HORAS_FILENAMES=(Missa)
 		HORAS_NAMES=(Missa)
 		HORAS_NAMES_SHORT=(☧)
@@ -337,7 +337,7 @@ foreachHourInRange() {
 
 generateHour() {
 	echo -ne "Generating $FILENAME                \r" # with spaces to clean the line
-	if [[ ${H} -eq 8 && $MISSA ]]; then
+	if [[ ${HORAS_NAMES[${H}]} =~ "Missa" ]]; then
 		$EMISSACMD "date=$DATE_SCRIPT&command=&version=$RUBRICS&lang2=$BLANG&nofancychars=$NOFANCYCHARS" > $WDIR/$FILENAME
 	else
 		$EOFFICCIUMCMD "date1=$DATE_SCRIPT&command=pray${HORAS_NAMES[${H}]}&version=$RUBRICS&testmode=regular&lang2=$BLANG&votive=$VOTIVE$PRIEST&linkmissa=$MISSA&nofancychars=$NOFANCYCHARS" > $WDIR/$FILENAME
