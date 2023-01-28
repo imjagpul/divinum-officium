@@ -63,6 +63,7 @@ our $duplex; #1=simplex-feria, 2=semiduplex-feria privilegiata, 3=duplex
 
 #*** collect standard items
 require "$Bin/Ewebdia.pl";
+require "$Bin/headline.pl";
 
 #allow the script to be started directly from the "standalone/tools/epubgen2" subdirectory
 if( ! -e "$Bin/do_io.pl") {
@@ -226,87 +227,23 @@ if ($date1 eq gettoday() && $command =~ /pray/i && $completed < 8 &&
 }
 for ($i = 1; $i <= $completed; $i++) {$hcolor[$i] = 'maroon';}
 
-#*** print pages (setup, hora=pray, mainpage)
-  #generate HTML
-  htmlHead($title, 2);
+#*** print pages (hora=pray)
+#generate HTML
+htmlHead($title, 2);
 
-if ($command =~ /setup/i) {
-  $pmode = 'setup';
-  $command = $';
-  setuptable($command);
+$pmode = 'hora';
+$command =~ s/(pray)//ig;
+$title = $command;
+$hora = $command;
+if (substr($title,-1) =~ /a/i) {$title .= 'm';}
 
-} elsif ($command =~ /pray/) {
-  $pmode = 'hora';
-  $command =~ s/(pray|change|setup)//ig;
-  $title = $command;
-  $hora = $command;
-  if (substr($title,-1) =~ /a/i) {$title .= 'm';}
+$head = ($title =~ /(Ante|Post)/i) ? "$title divinum officium" : "Ad $title";
+$head =~ s/Ad Vesperam/Ad Vesperas/i;
 
-  $head = ($title =~ /(Ante|Post)/i) ? "$title divinum officium" : "Ad $title";
-  $head =~ s/Ad Vesperam/Ad Vesperas/i;
+$headline = setheadline();
+headline($head);
 
-  $headline = setheadline();
-  headline($head);
-
-  horas($command);
-
-  print << "PrintTag";
-PrintTag
-
-} else {	#mainpage
-  $pmode = 'main';
-  $command = "";
-  $height = floor($screenheight * 4 / 12);
-  $height2 = floor($height / 2);
-
-  $headline = setheadline();
-  headline($title);
-}
-
-#common widgets for main and hora
-if ($pmode =~ /(main|hora)/i) {
-  if ($votive ne 'C9') {
-print << "PrintTag";
-<p class="cen">
-<a href="$date1-1-Matutinum.html">Matutinum</a>
-&nbsp;&nbsp;
-<a href="$date1-2-Laudes.html">Laudes</a>
-&nbsp;&nbsp;
-<a href="$date1-3-Prima.html">Prima</a>
-&nbsp;&nbsp;
-<a href="$date1-4-Tertia.html">Tertia</a>
-<br />
-<a href="$date1-5-Sexta.html">Sexta</a>
-&nbsp;&nbsp;
-<a href="$date1-6-Nona.html">Nona</a>
-&nbsp;&nbsp;
-<a href="$date1-7-Vespera.html">Vespera</a>
-&nbsp;&nbsp;
-<a href="$date1-8-Completorium.html">Completorium</a>
-PrintTag
-} else {
-print << "PrintTag";
-<p class="cen">
-<a href="$date1-1-Matutinum.html">Matutinum</a>
-&nbsp;&nbsp;
-<a href="$date1-2-Laudes.html">Laudes</a>
-&nbsp;&nbsp;
-<a href="$date1-7-Vespera.html">Vespera</a>
-&nbsp;&nbsp;
-
-PrintTag
-}
-
-if ($linkmissa) {
-print << "PrintTag";
-<br />
-<a href="$date1-9-Missa.html">Missa</a>
-PrintTag
-}
-print << "PrintTag";
-</p>
-PrintTag
-}
+horas($command);
 
 #common end for programs
   if ($error) {print "<p class=\"cen rd\">$error</p>\n";}
@@ -320,7 +257,7 @@ PrintTag
 
 
 
-#*** hedline($head) prints headlibe for main and pray
+#*** hedline($head) prints headline
 sub headline {
   my $head = shift;
   if ($headline =~ /\!/) {$headline = $` . "<FONT SIZE=\"1\">" . $' . "</FONT>";}
@@ -334,38 +271,13 @@ sub headline {
   elsif($daycolor eq "gray") {$daycolorclass="rb";}
   elsif($daycolor eq "red") {$daycolorclass="rd";}
 
-  print << "PrintTag";
-<p class="cen"><span class="$daycolorclass">$headline<br /></span>
-$comment<br /><br />
-<span class="c">$h</span>&nbsp;&nbsp;&nbsp;
-<a href="$datep-1-Matutinum.html">&darr;</a>
-$date1
-<a href="$daten-1-Matutinum.html">&uarr;</a>
-</p>
-<p class="cen">
-<a href="$date1-1-Matutinum.html">Matutinum</a>
-&nbsp;&nbsp;
-<a href="$date1-2-Laudes.html">Laudes</a>
-&nbsp;&nbsp;
-<a href="$date1-3-Prima.html">Prima</a>
-&nbsp;&nbsp;
-<a href="$date1-4-Tertia.html">Tertia</a>
-<br />
-<a href="$date1-5-Sexta.html">Sexta</a>
-&nbsp;&nbsp;
-<a href="$date1-6-Nona.html">Nona</a>
-&nbsp;&nbsp;
-<a href="$date1-7-Vespera.html">Vespera</a>
-&nbsp;&nbsp;
-<a href="$date1-8-Completorium.html">Completorium</a>
+    print << "PrintTag";
+<p class="cen"><a href="$datep-1-Matutinum.html">&darr;</a> $date1 <a href="$daten-1-Matutinum.html">&uarr;</a><br />
+<span class="$daycolorclass">$headline<br /></span> 
+$comment<br />
 PrintTag
 
-if ($linkmissa) {
-print << "PrintTag";
-<br />
-<a href="$date1-9-Missa.html">Missa</a>
-PrintTag
-}
+headlineXhtml();
 
 print << "PrintTag";
 </p>

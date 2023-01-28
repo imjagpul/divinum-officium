@@ -70,6 +70,7 @@ require "$Bin/../horas/horascommon.pl";
 require "$Bin/../horas/dialogcommon.pl";
 require "$Bin/../horas/webdia.pl";
 require "$Bin/../../../standalone/tools/epubgen2/Ewebdia.pl";
+require "$Bin/../../../standalone/tools/epubgen2/headline.pl";
 require "$Bin/ordo.pl";
 require "$Bin/propers.pl";
 
@@ -193,32 +194,19 @@ sub headline {
   elsif($daycolor eq "red") {$daycolorclass="rd";}
 
     print << "PrintTag";
-<p class="cen"><a href="$datep-9-Missa.html">&darr;</a>
-$date1
-<a href="$daten-9-Missa.html">&uarr;</a>
-<br />
-<a href="$date1-1-Matutinum.html">Matutinum</a>
-&nbsp;&nbsp;
-<a href="$date1-2-Laudes.html">Laudes</a>
-&nbsp;&nbsp;
-<a href="$date1-3-Prima.html">Prima</a>
-&nbsp;&nbsp;
-<a href="$date1-4-Tertia.html">Tertia</a>
-<br />
-<a href="$date1-5-Sexta.html">Sexta</a>
-&nbsp;&nbsp;
-<a href="$date1-6-Nona.html">Nona</a>
-&nbsp;&nbsp;
-<a href="$date1-7-Vespera.html">Vespera</a>
-&nbsp;&nbsp;
-<a href="$date1-8-Completorium.html">Completorium</a>
-<br />
-<span class="$daycolorclass">$headline<br /></span>
+<p class="cen"><a href="$datep-9-Missa.html">&darr;</a> $date1 <a href="$daten-9-Missa.html">&uarr;</a><br />
+<span class="$daycolorclass">$headline<br /></span> 
 $comment<br />
-<a href="$date1-9-Missa.html"><FONT COLOR=MAROON SIZE=+1><B><I>$head</I></B></FONT></a>
-</P>
+PrintTag
+
+headlineXhtml();
+
+print << "PrintTag";
+</p>
 PrintTag
 }
+
+
 
 sub prevnext {
   my $date1 = shift;

@@ -170,11 +170,13 @@ MONTHNAMES=(Ianuarius Februarius Martius Aprilis Maius Iunius Iulius Augustus Se
 if [[ $MISSA ]]; then
 	if [[ $MISSA_ONLY ]]; then
 		HORA_INDEX_LAST=0
+		HORA_INDEX_OF_MISSA=HORA_INDEX_LAST
 		HORAS_FILENAMES=(Missa)
 		HORAS_NAMES=(Missa)
 		HORAS_NAMES_SHORT=(☧)
 	else
 		HORA_INDEX_LAST=8
+		HORA_INDEX_OF_MISSA=HORA_INDEX_LAST
 		HORAS_FILENAMES=(1-Matutinum 2-Laudes 3-Prima 4-Tertia 5-Sexta 6-Nona 7-Vespera 8-Completorium 9-Missa)
 		HORAS_NAMES=(Matutinum Laudes Prima Tertia Sexta Nona Vespera Completorium Missa)
 		HORAS_NAMES_SHORT=(M L P T S N V C ☧)
@@ -185,6 +187,10 @@ else
 	HORAS_NAMES=(Matutinum Laudes Prima Tertia Sexta Nona Vespera Completorium)
 	HORAS_NAMES_SHORT=(M L P T S N V C)
 fi
+#added as params for both EOFFICCIUMCMD and EMISSACMD to allow for correct navigation menu (replacing spaces with underscores)
+HORAS_NAMES_STRING=$(IFS=, ; echo "${HORAS_NAMES[*]}")
+HORAS_FILENAMES_STRING=$(IFS=, ; echo "${HORAS_FILENAMES[*]}")
+HORASPARAM="&horasnames=$HORAS_NAMES_STRING&horasfilenames=$HORAS_FILENAMES_STRING&horasindexlast=$HORA_INDEX_LAST"
 
 #other paths and file names, not specified by parameters
 WDIR=$(mktemp -d) #temporary working directory
@@ -337,10 +343,10 @@ foreachHourInRange() {
 
 generateHour() {
 	echo -ne "Generating $FILENAME                \r" # with spaces to clean the line
-	if [[ ${HORAS_NAMES[${H}]} =~ "Missa" ]]; then
-		$EMISSACMD "date=$DATE_SCRIPT&command=&version=$RUBRICS&lang2=$BLANG&nofancychars=$NOFANCYCHARS" > $WDIR/$FILENAME
+	if [[ $MISSA && ${H} -eq $HORA_INDEX_OF_MISSA ]]; then
+		$EMISSACMD "date=$DATE_SCRIPT&version=$RUBRICS&lang2=$BLANG&nofancychars=$NOFANCYCHARS$HORASPARAM" > $WDIR/$FILENAME
 	else
-		$EOFFICCIUMCMD "date1=$DATE_SCRIPT&command=pray${HORAS_NAMES[${H}]}&version=$RUBRICS&testmode=regular&lang2=$BLANG&votive=$VOTIVE$PRIEST&linkmissa=$MISSA&nofancychars=$NOFANCYCHARS" > $WDIR/$FILENAME
+		$EOFFICCIUMCMD "date1=$DATE_SCRIPT&command=pray${HORAS_NAMES[${H}]}&version=$RUBRICS&testmode=regular&lang2=$BLANG&votive=$VOTIVE$PRIEST&nofancychars=$NOFANCYCHARS$HORASPARAM" > $WDIR/$FILENAME
 	fi
 }
 
