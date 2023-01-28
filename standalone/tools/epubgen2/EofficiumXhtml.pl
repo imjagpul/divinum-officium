@@ -99,7 +99,11 @@ sub build_comment_line_xhtml()
 }
 
 
-#get parameters
+#Handle parameters given to the script.
+#date1   - the date to generate a text for
+#command - one of prayMatutinum, prayLaudes, prayTertia, praySexta, prayNona, prayVespera, prayCompletorium
+#version - 
+ 
 getini('horas'); #files, colors
 
 $setupsave = strictparam('setup');
@@ -113,15 +117,19 @@ our %translate; #translation of the skeleton label for 2nd language
 if (!$setupsave) {%setup = %{setupstring('.', '', 'Ehoras.setup')};}
 else {%setup = split(';;;', $setupsave);}
 
-#if (!$setupsave && !getcookies('horasp', 'parameters')) {setcookies('horasp', 'parameters');}
-#if (!$setupsave && !getcookies('horasgp', 'general')) {setcookies('horasgp', 'general');}
-
 our $command = strictparam('command');
 our $hora = $command; #Matutinum, Laudes, Prima, Tertia, Sexta, Nona, Vespera, Completorium
+my $h = $hora;
+if ($h =~ /(Ante|Matutinum|Laudes|Prima|Tertia|Sexta|Nona|Vespera|Completorium|Post)/i) { 
+  $h = " $1"; # parse out the second word of the command ('prayMatutinum' => ' Matutinum')
+} else {
+  die "Unrecognized value for parameter 'command' specified: '$hora'. Expected one of prayMatutinum, prayLaudes, prayTertia, praySexta, prayNona, prayVespera, prayCompletorium, prayAnte, prayPost";
+}
+
 our $date1 = strictparam('date1');
-if (!$date1) {$date1 = gettoday();}
-if ($command =~ /next/i) {$date1 = prevnext($date1, 1); $command = '';}
-if ($command =~ /prev/i) {$date1 = prevnext($date1, -1); $command = '';}
+if (!$date1) {
+	die "No date specified. Specify parameter 'date1' with a value in MM-DD-YYYY format (e.g. 09-28-2023).";
+}
 
 our $browsertime = strictparam('browsertime');
 our $buildscript = ''; #build script
@@ -140,12 +148,6 @@ our $nofancychars = strictparam('nofancychars');
 
 #*** handle different actions
 #after setup
-if ($command =~ /change/i ) {
- $command = $';
- getsetupvalue($command);
- #if ($command =~ /parameters/) {setcookies('horasp', 'parameters');}
-}
-
 eval($setup{'parameters'}); #$priest, $lang1, colors, sizes
 eval($setup{'general'});  #$expand, $version, $lang2
 
@@ -213,10 +215,6 @@ $daycolor =   ($commune =~ /(C1[0-9])/) ? "blue" :
 build_comment_line_xhtml();
 
 #prepare main pages
-my $h = $hora;
-if ($h =~ /(Ante|Matutinum|Laudes|Prima|Tertia|Sexta|Nona|Vespera|Completorium|Post|Setup)/i)
-  {$h = " $1";}
-else {$h = '';}
 $title = "Divinum Officium$h - $date1";
 @horas=getdialog('horas','~',0);
 for ($i = 0; $i < 10; $i++) {$hcolor[$i] = 'black';}
@@ -316,7 +314,7 @@ PrintTag
 
 #common end for programs
   if ($error) {print "<p class=\"cen rd\">$error</p>\n";}
-  if ($debug) {print "<P ALIGN=\"cen rd\">$debug</p>\n";}
+  if ($debug) {print "<P class=\"cen rd\">$debug</p>\n";}
 
   $command =~ s/(pray|setup)//ig;
 
