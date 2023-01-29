@@ -3,35 +3,26 @@
 
 #
 # Outpus the entire navigation menu on the top of the files.
-# (Includes links to hours, link to previous and next day, title of the hour)
+# (Includes links to hours, link to previous and next day, title of the day and comment)
 #
-sub headlineXhtml {
-  #htmlHead($title, 2); # output the XHTML header, HTML title and CSS link
-  navigationMenu();
-}
-
-#------------ WIP ----------------------------
-
-#*** headline($head) prints headline
 sub headline {
   my $head = shift;
   # if ($headline =~ /\!/) {$headline = $` . "<FONT SIZE=\"1\">" . $' . "</FONT>";}
+  build_comment_line_xhtml();
+  outputHeadlineCommentAndDate();
+  navigationMenu();
+}
+
+sub outputHeadlineCommentAndDate {
+  my $daycolorclass = calculateDaycolor();
 
   my $daten = prevnext($date1, 1);
   my $datep = prevnext($date1, -1);
 
     print << "PrintTag";
-<p class="cen"><a href="$datep-1-Matutinum.html">&darr;</a> $date1 <a href="$daten-1-Matutinum.html">&uarr;</a><br />
-<span class="$daycolorclass">$headline<br /></span> 
-$comment<br />
+<p class="cen $daycolorclass">$headline<br />$comment</p>
+<p class="cen"><a href="$datep-1-Matutinum.html">&darr;</a> $date1 <a href="$daten-1-Matutinum.html">&uarr;</a><br /></p>
 PrintTag
-
-headlineXhtml();
-
-print << "PrintTag";
-</p>
-PrintTag
-
 }
 
 # Outputs the clickable navigation menu (Matutinum, Laudes, ..., Missa).
@@ -59,9 +50,9 @@ sub navigationMenu {
 }
 
 
-# sets
+# Calculates $daycolorclass
 sub calculateDaycolor() {
-  $daycolor =   ($commune =~ /(C1[0-9])/) ? "blue" :
+  my $daycolor =   ($commune =~ /(C1[0-9])/) ? "blue" :
     ($dayname[1] =~ /(Quattuor|Feria|Vigilia)/i) ? "black" :
     ($dayname[1] =~ /duplex/i) ? "red" :
       "grey";
@@ -71,6 +62,7 @@ sub calculateDaycolor() {
   if($daycolor eq "blue") {$daycolorclass="rb";}
   elsif($daycolor eq "gray") {$daycolorclass="rb";}
   elsif($daycolor eq "red") {$daycolorclass="rd";}
+  return $daycolorclass;
 }
 
 #  Replacement for build_comment_line() from horascommon.pl
