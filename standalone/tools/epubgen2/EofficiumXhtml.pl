@@ -197,7 +197,6 @@ $title = "Divinum Officium$h - $date1";
 
 #*** print pages (hora=pray)
 #generate HTML
-htmlHead($title, 2);
 
 $pmode = 'hora';
 $command =~ s/(pray)//ig;
@@ -209,7 +208,7 @@ $head = ($title =~ /(Ante|Post)/i) ? "$title divinum officium" : "Ad $title";
 $head =~ s/Ad Vesperam/Ad Vesperas/i;
 
 $headline = setheadline();
-headline($head);
+headline();
 
 horas($command);
 
