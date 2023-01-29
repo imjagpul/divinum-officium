@@ -85,21 +85,6 @@ binmode(STDOUT,':encoding(utf-8)');
 
 $q = new CGI;
 
-#replaced methods
-#*** build_comment_line_xhtml()
-#  Replacement for build_comment_line() from horascommon.pl
-#
-#  Sets $comment to the HTML for the comment line.
-sub build_comment_line_xhtml()
-{
-  our @dayname;
-  our ($comment, $marian_commem);
-
-  my $commentcolor = ($dayname[2] =~ /(Feria)/i) ? '' : ($marian_commem && $dayname[2] =~ /^Commem/) ? ' rb' : ' m';
-  $comment = ($dayname[2]) ? "<span class=\"s$commentcolor\">$dayname[2]</span>" : "";
-}
-
-
 #Handle parameters given to the script.
 #date1   - the date to generate a text for
 #command - one of prayMatutinum, prayLaudes, prayTertia, praySexta, prayNona, prayVespera, prayCompletorium
@@ -206,26 +191,9 @@ precedence($date1); #fills our hashes et variables
 our $psalmnum1 = 0;
 our $psalmnum2 = 0;
 
-# prepare title
-$daycolor =   ($commune =~ /(C1[0-9])/) ? "blue" :
-   ($dayname[1] =~ /(Quattuor|Feria|Vigilia)/i) ? "black" :
-   ($dayname[1] =~ /duplex/i) ? "red" :
-    "grey";
-
-
-build_comment_line_xhtml();
-
 #prepare main pages
 $title = "Divinum Officium$h - $date1";
 @horas=getdialog('horas','~',0);
-for ($i = 0; $i < 10; $i++) {$hcolor[$i] = 'black';}
-#$completed = getcookie1('completed');
-if ($date1 eq gettoday() && $command =~ /pray/i && $completed < 8 &&
-    $command =~ substr($horas[$completed+1], 0, 4)) {
-  $completed++;
-  #setcookie1('completed', $completed);
-}
-for ($i = 1; $i <= $completed; $i++) {$hcolor[$i] = 'maroon';}
 
 #*** print pages (hora=pray)
 #generate HTML
@@ -254,49 +222,3 @@ horas($command);
   print << "PrintTag";
 </div></body></html>
 PrintTag
-
-
-
-#*** hedline($head) prints headline
-sub headline {
-  my $head = shift;
-  if ($headline =~ /\!/) {$headline = $` . "<FONT SIZE=\"1\">" . $' . "</FONT>";}
-  my $h = ($hora =~ /(Matutinum|Laudes|Prima|Tertia|Sexta|Nona|Vespera|Completorium)/i) ? $hora : '';
-  my $daten = prevnext($date1, 1);
-  my $datep = prevnext($date1, -1);
-
-  #convert $daycolor to $daycolorclass
-  my $daycolorclass=""; #rely on default being black font color
-  if($daycolor eq "blue") {$daycolorclass="rb";}
-  elsif($daycolor eq "gray") {$daycolorclass="rb";}
-  elsif($daycolor eq "red") {$daycolorclass="rd";}
-
-    print << "PrintTag";
-<p class="cen"><a href="$datep-1-Matutinum.html">&darr;</a> $date1 <a href="$daten-1-Matutinum.html">&uarr;</a><br />
-<span class="$daycolorclass">$headline<br /></span> 
-$comment<br />
-PrintTag
-
-headlineXhtml();
-
-print << "PrintTag";
-</p>
-PrintTag
-
-}
-
-sub prevnext {
-  my $date1 = shift;
-  my $inc = shift;
-
-  $date1 =~ s/\//\-/g;
-  my ($month,$day,$year) = split('-',$date1);
-
-  my $d= date_to_days($day,$month-1,$year);
-
-  my @d = days_to_date($d + $inc);
-  $month = $d[4]+1;
-  $day = $d[3];
-  $year = $d[5]+1900;
-  return sprintf("%02i-%02i-%04i", $month, $day, $year);
-}

@@ -1,13 +1,43 @@
 # override for headline - xhtml version
-#
-# creates the navigation menu on the top of the files
 
+
+#
+# Outpus the entire navigation menu on the top of the files.
+# (Includes links to hours, link to previous and next day, title of the hour)
+#
 sub headlineXhtml {
   #htmlHead($title, 2); # output the XHTML header, HTML title and CSS link
   navigationMenu();
 }
 
-sub navigationMenu {    
+#------------ WIP ----------------------------
+
+#*** headline($head) prints headline
+sub headline {
+  my $head = shift;
+  # if ($headline =~ /\!/) {$headline = $` . "<FONT SIZE=\"1\">" . $' . "</FONT>";}
+
+  my $daten = prevnext($date1, 1);
+  my $datep = prevnext($date1, -1);
+
+    print << "PrintTag";
+<p class="cen"><a href="$datep-1-Matutinum.html">&darr;</a> $date1 <a href="$daten-1-Matutinum.html">&uarr;</a><br />
+<span class="$daycolorclass">$headline<br /></span> 
+$comment<br />
+PrintTag
+
+headlineXhtml();
+
+print << "PrintTag";
+</p>
+PrintTag
+
+}
+
+# Outputs the clickable navigation menu (Matutinum, Laudes, ..., Missa).
+#
+# Depends on parameters in the URL (horasnames, horasfilenames, horasindexlast).
+sub navigationMenu {
      my @horasnames = split(',', strictparam('horasnames'));
      my @horasfilenames = split(',', strictparam('horasfilenames'));
      my $horasindexlast = strictparam('horasindexlast');
@@ -26,6 +56,50 @@ sub navigationMenu {
         }
      }
      print '</p>';
+}
+
+
+# sets
+sub calculateDaycolor() {
+  $daycolor =   ($commune =~ /(C1[0-9])/) ? "blue" :
+    ($dayname[1] =~ /(Quattuor|Feria|Vigilia)/i) ? "black" :
+    ($dayname[1] =~ /duplex/i) ? "red" :
+      "grey";
+
+  #convert $daycolor to $daycolorclass
+  my $daycolorclass=""; #rely on default being black font color
+  if($daycolor eq "blue") {$daycolorclass="rb";}
+  elsif($daycolor eq "gray") {$daycolorclass="rb";}
+  elsif($daycolor eq "red") {$daycolorclass="rd";}
+}
+
+#  Replacement for build_comment_line() from horascommon.pl
+#
+#  Sets $comment to the HTML for the comment line.
+sub build_comment_line_xhtml()
+{
+  our @dayname;
+  our ($comment, $marian_commem);
+
+  my $commentcolor = ($dayname[2] =~ /(Feria)/i) ? '' : ($marian_commem && $dayname[2] =~ /^Commem/) ? ' rb' : ' m';
+  $comment = ($dayname[2]) ? "<span class=\"s$commentcolor\">$dayname[2]</span>" : "";
+}
+
+# Calculate following / previous date.
+sub prevnext {
+  my $date1 = shift;
+  my $inc = shift;
+
+  $date1 =~ s/\//\-/g;
+  my ($month,$day,$year) = split('-',$date1);
+
+  my $d= date_to_days($day,$month-1,$year);
+
+  my @d = days_to_date($d + $inc);
+  $month = $d[4]+1;
+  $day = $d[3];
+  $year = $d[5]+1900;
+  return sprintf("%02i-%02i-%04i", $month, $day, $year);
 }
 
 1;

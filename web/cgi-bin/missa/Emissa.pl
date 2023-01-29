@@ -180,50 +180,6 @@ ordo();
 if ($error) { print "<P ALIGN=CENTER><FONT COLOR=red>$error</FONT></P>\n"; }
 if ($debug) { print "<P ALIGN=center><FONT COLOR=blue>$debug</FONT></P>\n"; }
 
-#*** hedline($head) prints headlibe for main and pray
-sub headline {
-    my $head = shift;
-    $headline =~ s{!(.*)}{<FONT SIZE=1>$1</FONT>}s;
-  my $daten = prevnext($date1, 1);
-  my $datep = prevnext($date1, -1);
-
-  #convert $daycolor to $daycolorclass
-  my $daycolorclass=""; #rely on default being black font color
-  if($daycolor eq "blue") {$daycolorclass="rb";}
-  elsif($daycolor eq "gray") {$daycolorclass="rb";}
-  elsif($daycolor eq "red") {$daycolorclass="rd";}
-
-    print << "PrintTag";
-<p class="cen"><a href="$datep-9-Missa.html">&darr;</a> $date1 <a href="$daten-9-Missa.html">&uarr;</a><br />
-<span class="$daycolorclass">$headline<br /></span> 
-$comment<br />
-PrintTag
-
-headlineXhtml();
-
-print << "PrintTag";
-</p>
-PrintTag
-}
-
-
-
-sub prevnext {
-  my $date1 = shift;
-  my $inc = shift;
-
-  $date1 =~ s/\//\-/g;
-  my ($month,$day,$year) = split('-',$date1);
-
-  my $d= date_to_days($day,$month-1,$year);
-
-  my @d = days_to_date($d + $inc);
-  $month = $d[4]+1;
-  $day = $d[3];
-  $year = $d[5]+1900;
-  return sprintf("%02i-%02i-%04i", $month, $day, $year);
-}
-
 # the sub is called from htmlhead
 sub horasjs {
 }
