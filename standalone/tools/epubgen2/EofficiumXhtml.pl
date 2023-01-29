@@ -210,7 +210,7 @@ $head =~ s/Ad Vesperam/Ad Vesperas/i;
 $headline = setheadline();
 headline();
 
-horas($command);
+horas($command, true);
 
 #common end for programs
   if ($error) {print "<p class=\"cen rd\">$error</p>\n";}
