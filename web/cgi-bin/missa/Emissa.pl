@@ -158,27 +158,23 @@ $setupsave =~ s/\r*\n*//g;
 $setupsave =~ s/\"/\~24/g;
 precedence();    #fills our hashes et variables
 
-htmlHead($title, 2); # output the XHTML header, HTML title and CSS link
-
-# prepare title
-$daycolor = liturgical_color($dayname[1], $commune);
-build_comment_line();
-
 #prepare main pages
 $title = "Sancta Missa";
+$head     = $title;
 
 $command =~ s/(pray|change|setup)//ig;
-$title    = "Sancta Missa";
-$head     = $title;
 $headline = setheadline();
-headline($head);
+
+headline();
 
 $only = 1; # single-column
 ordo();
 
 #common end for programs
-if ($error) { print "<P ALIGN=CENTER><FONT COLOR=red>$error</FONT></P>\n"; }
-if ($debug) { print "<P ALIGN=center><FONT COLOR=blue>$debug</FONT></P>\n"; }
+if ($error) {print "<p class=\"cen rd\">$error</p>\n";}
+if ($debug) {print "<p class=\"cen rd\">$debug</p>\n";}
+
+print "</div></body></html>";
 
 # the sub is called from htmlhead
 sub horasjs {

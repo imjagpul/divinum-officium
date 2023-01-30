@@ -213,11 +213,7 @@ headline();
 horas($command, true);
 
 #common end for programs
-  if ($error) {print "<p class=\"cen rd\">$error</p>\n";}
-  if ($debug) {print "<P class=\"cen rd\">$debug</p>\n";}
+if ($error) {print "<p class=\"cen rd\">$error</p>\n";}
+if ($debug) {print "<p class=\"cen rd\">$debug</p>\n";}
 
-  $command =~ s/(pray|setup)//ig;
-
-  print << "PrintTag";
-</div></body></html>
-PrintTag
+print "</div></body></html>";
